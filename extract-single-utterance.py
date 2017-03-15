@@ -8,7 +8,7 @@ import unicodedata
 from unicodedata import normalize
 
 def readChaFiles():
-	# print os.getcwd()
+	global totalMotherLines, totalSingleUtteranceMotherLines, totalDataLength
 	for dataFileName in glob.glob("*.cha"):
 		print (os.getcwd() + '/' + dataFileName)
 		with open(dataFileName, 'r') as currFile:
@@ -17,7 +17,15 @@ def readChaFiles():
 					continue
 				currLine = currLine.rstrip().lower()
 				currLineTokens = currLine.split()
-				print currLine + " ::: " + str(len(currLineTokens))
+
+				totalDataLength += 1
+				# Only printing the mother data
+				if (currLineTokens[0] == "*mot:"):
+					totalMotherLines += 1
+					# Need to remove punctuation from end of lines
+					if (len(currLineTokens) == 3):
+						totalSingleUtteranceMotherLines += 1
+					print currLine + " ::: " + str(len(currLineTokens))
 
 
 def iterateSubDir(directoryName):
@@ -42,6 +50,13 @@ if __name__=="__main__":
 		exit(0)
 
 	directoryName = sys.argv[1]
+	totalMotherLines = 0
+	totalSingleUtteranceMotherLines = 0
+	totalDataLength = 0
 
 	searchDirectory = os.getcwd() + '/' + directoryName
 	iterateSubDir(searchDirectory)
+
+	print 'totalDataLength: ' + str(totalDataLength)
+	print 'totalMotherLines: ' + str(totalMotherLines)
+	print 'totalSingleUtteranceMotherLines: ' + str(totalSingleUtteranceMotherLines)
