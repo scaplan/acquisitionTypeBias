@@ -8,11 +8,18 @@ import unicodedata
 from unicodedata import normalize
 
 punctuationSet = ['.', '?', '!', ':', '(.)', '+...', '+"/.', '+/.']
-inputSet = ['*mot:', '*gra:', '*fat:', '*ann:', '*ant:']
+inputSet = ['*mot:', '*gra:', '*fat:', '*ann:', '*ant:', '*nan:', '*wom:']
 childSet = ['*chi:', '*eli:', '*gre:', '*mar:']
 morphCue = '%mor:'
 inputNounTypeDict = {}
 inputVerbTypeDict = {}
+
+outputNounTokenCount = 0
+outputVerbTokenCount = 0
+outputNounTypeDict = {}
+outputVerbTypeDict ={}
+
+missingSpeechLines = 0
 
 def readChaFiles():
 	for dataFileName in glob.glob("*.cha"):
@@ -38,8 +45,8 @@ def readChaFiles():
 
 
 def evalSpeechGroup(speechGroup):
-	global punctuationSet, totalDataLength, totalMotherLines
-	global morphCue, cumulativeMotherLinesLength
+	global punctuationSet, totalDataLength, totalMotherLines, missingSpeechLines
+	global morphCue, cumulativeMotherLinesLength, totalChildLines, cumulativeChildLinesLength
 	speechLine = speechGroup[0]
 	tagTokens = []
 	for entry in speechGroup:
@@ -51,18 +58,18 @@ def evalSpeechGroup(speechGroup):
 	currLineTokens = speechLine.split()
 	currLineTokensNoPunc = [x for x in currLineTokens if x not in punctuationSet]
 
-	childLines = 0
-
 	if (len(currLineTokensNoPunc) > 1):
 		totalDataLength += 1
-		# Only printing the mother data
 		if (currLineTokensNoPunc[0] in inputSet):
 			totalMotherLines += 1
 			cumulativeMotherLinesLength += (len(currLineTokensNoPunc) - 1)
 			evalInputData(currLineTokensNoPunc, tagTokens)
 		elif (currLineTokensNoPunc[0] in childSet):
-			childLines += 1
-
+			totalChildLines += 1
+			cumulativeChildLinesLength += (len(currLineTokensNoPunc) - 1)
+			evalOutputData(currLineTokensNoPunc, tagTokens)
+		else:
+			missingSpeechLines += 1
 
 def evalInputData(inputString, inputTags):
 	global totalSingleUtteranceMotherLines, inputNounTypeDict, inputVerbTypeDict, singleWordNouns, singleWordVerbs
@@ -85,8 +92,11 @@ def evalInputData(inputString, inputTags):
 				else:
 					inputVerbTypeDict[inputString[1]] = 1
 				singleWordVerbs += 1
-			#print speechLine + " ::: " + wordTagInfo[0]
 			print " ".join(inputString) + " ::: " + wordTagInfo[0]
+
+def evalOutputData(inputString, inputTags):
+	global outputNounTokenCount, outputVerbTokenCount, outputNounTypeDict, outputVerbTypeDict
+	# fill in this function to compute child output statistics
 
 
 def iterateSubDir(directoryName):
@@ -115,6 +125,9 @@ if __name__=="__main__":
 	totalSingleUtteranceMotherLines = 0
 	totalDataLength = 0
 
+	totalChildLines = 0
+	cumulativeChildLinesLength = 0
+
 	singleWordNouns = 0
 	singleWordVerbs = 0
 
@@ -122,6 +135,7 @@ if __name__=="__main__":
 	iterateSubDir(searchDirectory)
 
 	motherMLU = cumulativeMotherLinesLength / (totalMotherLines * 1.0)
+	childMLU = cumulativeChildLinesLength / (totalChildLines * 1.0)
 
 	print 'totalDataLength: ' + str(totalDataLength)
 	print 'totalMotherLines: ' + str(totalMotherLines)
@@ -132,3 +146,8 @@ if __name__=="__main__":
 	print 'singleWordNounTypes: ' + str(len(inputNounTypeDict))
 	print 'singleWordVerbTokens: ' + str(singleWordVerbs)
 	print 'singleWordVerbTypes: ' + str(len(inputVerbTypeDict))
+
+	print 'totalChildLines: ' + str(totalChildLines)
+	print 'child MLU: ' + str(childMLU)
+
+	print 'missingSpeechLines: ' + str(missingSpeechLines)
