@@ -8,6 +8,8 @@ import unicodedata
 from unicodedata import normalize
 
 punctuationSet = ['.', '?', '!', ':', '(.)', '+...', '+"/.', '+/.']
+inputSet = ['*mot:', '*gra:', '*fat:', '*ann:', '*ant:']
+childSet = ['*chi:', '*eli:', '*gre:', '*mar:']
 morphCue = '%mor:'
 inputNounTypeDict = {}
 inputVerbTypeDict = {}
@@ -54,11 +56,11 @@ def evalSpeechGroup(speechGroup):
 	if (len(currLineTokensNoPunc) > 1):
 		totalDataLength += 1
 		# Only printing the mother data
-		if (currLineTokensNoPunc[0] == "*mot:"):
+		if (currLineTokensNoPunc[0] in inputSet):
 			totalMotherLines += 1
 			cumulativeMotherLinesLength += (len(currLineTokensNoPunc) - 1)
 			evalInputData(currLineTokensNoPunc, tagTokens)
-		elif (currLineTokensNoPunc[0] == "*chi:"):
+		elif (currLineTokensNoPunc[0] in childSet):
 			childLines += 1
 
 
