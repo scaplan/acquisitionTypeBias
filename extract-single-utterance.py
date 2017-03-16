@@ -9,6 +9,8 @@ from unicodedata import normalize
 
 punctuationSet = ['.', '?', '!', ':', '(.)', '+...', '+"/.', '+/.']
 morphCue = '%mor:'
+inputNounTypeDict = {}
+inputVerbTypeDict = {}
 
 def readChaFiles():
 	for dataFileName in glob.glob("*.cha"):
@@ -34,8 +36,8 @@ def readChaFiles():
 
 
 def evalSpeechGroup(speechGroup):
-	global punctuationSet, totalDataLength, totalMotherLines, totalSingleUtteranceMotherLines
-	global singleWordNouns, singleWordVerbs, morphCue
+	global punctuationSet, totalDataLength, totalMotherLines
+	global morphCue, cumulativeMotherLinesLength
 	speechLine = speechGroup[0]
 	tagTokens = []
 	for entry in speechGroup:
@@ -47,27 +49,43 @@ def evalSpeechGroup(speechGroup):
 	currLineTokens = speechLine.split()
 	currLineTokensNoPunc = [x for x in currLineTokens if x not in punctuationSet]
 
+	childLines = 0
+
 	if (len(currLineTokensNoPunc) > 1):
 		totalDataLength += 1
 		# Only printing the mother data
 		if (currLineTokensNoPunc[0] == "*mot:"):
 			totalMotherLines += 1
-			# Need to remove punctuation from end of lines
-			if (len(currLineTokensNoPunc) == 2):
-				totalSingleUtteranceMotherLines += 1
-				if (len(tagTokens) > 0):
-					wordTag = tagTokens[1]
-					wordTagInfo = wordTag.split("|")
-					if (wordTagInfo[0] == 'n'):
-						singleWordNouns += 1
-					elif (wordTagInfo[0] == 'v'):
-						singleWordVerbs += 1
-					print speechLine + " ::: " + wordTagInfo[0]
-
-				
+			cumulativeMotherLinesLength += (len(currLineTokensNoPunc) - 1)
+			evalInputData(currLineTokensNoPunc, tagTokens)
+		elif (currLineTokensNoPunc[0] == "*chi:"):
+			childLines += 1
 
 
-				
+def evalInputData(inputString, inputTags):
+	global totalSingleUtteranceMotherLines, inputNounTypeDict, inputVerbTypeDict, singleWordNouns, singleWordVerbs
+	if (len(inputString) == 2):
+		totalSingleUtteranceMotherLines += 1
+		if (len(inputTags) > 0):
+			wordTag = inputTags[1]
+			wordTagInfo = wordTag.split("|")
+			if (wordTagInfo[0] == 'n'):
+				if (inputString[1] in inputNounTypeDict):
+					newCount = 1 + inputNounTypeDict.get(inputString[1])
+					inputNounTypeDict[inputString[1]] = newCount
+				else:
+					inputNounTypeDict[inputString[1]] = 1
+				singleWordNouns += 1
+			elif (wordTagInfo[0] == 'v'):
+				if (inputString[1] in inputVerbTypeDict):
+					newCount = 1 + inputVerbTypeDict.get(inputString[1])
+					inputVerbTypeDict[inputString[1]] = newCount
+				else:
+					inputVerbTypeDict[inputString[1]] = 1
+				singleWordVerbs += 1
+			#print speechLine + " ::: " + wordTagInfo[0]
+			print " ".join(inputString) + " ::: " + wordTagInfo[0]
+
 
 def iterateSubDir(directoryName):
 	print 'running iterateSubDir()'
@@ -81,7 +99,6 @@ def iterateSubDir(directoryName):
 		readChaFiles()
 
 
-
 ##
 ## Main method block
 ##
@@ -92,6 +109,7 @@ if __name__=="__main__":
 
 	directoryName = sys.argv[1]
 	totalMotherLines = 0
+	cumulativeMotherLinesLength = 0
 	totalSingleUtteranceMotherLines = 0
 	totalDataLength = 0
 
@@ -101,8 +119,14 @@ if __name__=="__main__":
 	searchDirectory = os.getcwd() + '/' + directoryName
 	iterateSubDir(searchDirectory)
 
+	motherMLU = cumulativeMotherLinesLength / (totalMotherLines * 1.0)
+
 	print 'totalDataLength: ' + str(totalDataLength)
 	print 'totalMotherLines: ' + str(totalMotherLines)
+	print 'mother MLU: ' + str(motherMLU)
+
 	print 'totalSingleUtteranceMotherLines: ' + str(totalSingleUtteranceMotherLines)
-	print 'singleWordNouns: ' + str(singleWordNouns)
-	print 'singleWordVerbs: ' + str(singleWordVerbs)
+	print 'singleWordNounTokens: ' + str(singleWordNouns)
+	print 'singleWordNounTypes: ' + str(len(inputNounTypeDict))
+	print 'singleWordVerbTokens: ' + str(singleWordVerbs)
+	print 'singleWordVerbTypes: ' + str(len(inputVerbTypeDict))
