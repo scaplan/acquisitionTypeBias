@@ -49,10 +49,12 @@ def evalSpeechGroup(speechGroup):
 	global morphCue, cumulativeMotherLinesLength, totalChildLines, cumulativeChildLinesLength
 	speechLine = speechGroup[0]
 	tagTokens = []
+	tagTokensNoPunc = []
 	for entry in speechGroup:
 		entryTokens = entry.split()
 		if (entryTokens[0] == morphCue):
 			tagTokens = entryTokens
+			tagTokensNoPunc = [x for x in tagTokens if x not in punctuationSet]
 
 	# remove puntuation
 	currLineTokens = speechLine.split()
@@ -63,11 +65,11 @@ def evalSpeechGroup(speechGroup):
 		if (currLineTokensNoPunc[0] in inputSet):
 			totalMotherLines += 1
 			cumulativeMotherLinesLength += (len(currLineTokensNoPunc) - 1)
-			evalInputData(currLineTokensNoPunc, tagTokens)
+			evalInputData(currLineTokensNoPunc, tagTokensNoPunc)
 		elif (currLineTokensNoPunc[0] in childSet):
 			totalChildLines += 1
 			cumulativeChildLinesLength += (len(currLineTokensNoPunc) - 1)
-			evalOutputData(currLineTokensNoPunc, tagTokens)
+			evalOutputData(currLineTokensNoPunc, tagTokensNoPunc)
 		else:
 			missingSpeechLines += 1
 
@@ -92,15 +94,25 @@ def evalInputData(inputString, inputTags):
 				else:
 					inputVerbTypeDict[inputString[1]] = 1
 				singleWordVerbs += 1
-			print " ".join(inputString) + " ::: " + wordTagInfo[0]
+		#	print " ".join(inputString) + " ::: " + wordTagInfo[0]
 
-def evalOutputData(inputString, inputTags):
+def evalOutputData(outputString, outputTags):
 	global outputNounTokenCount, outputVerbTokenCount, outputNounTypeDict, outputVerbTypeDict
-	# fill in this function to compute child output statistics
+
+#	if (len(outputString) != len(outputTags)):
+#		print outputString
+#		print outputTags
+#		print ''
+	for currTag in outputTags:
+		# Need to figure out how to align this with original type
+		if ('n|' in currTag):
+			outputNounTokenCount += 1
+		elif ('v|' in currTag):
+			outputVerbTokenCount += 1
+
 
 
 def iterateSubDir(directoryName):
-	print 'running iterateSubDir()'
 	# call function to iterate over any ".cha" files in this directory
 	readChaFiles()
 
@@ -149,5 +161,7 @@ if __name__=="__main__":
 
 	print 'totalChildLines: ' + str(totalChildLines)
 	print 'child MLU: ' + str(childMLU)
+	print 'childNounTokens: ' + str(outputNounTokenCount)
+	print 'childVerbTokens: ' + str(outputVerbTokenCount)
 
 	print 'missingSpeechLines: ' + str(missingSpeechLines)
