@@ -1,0 +1,832 @@
+@UTF8
+@PID:	11312/c-00030295-1
+@Begin
+@Languages:	ita
+@Participants:	GRE Gregorio Child , MOT Mother
+@ID:	ita|Tonelli|GRE|1;8.22|male|||Child|||
+@ID:	ita|Tonelli|MOT|||||Mother|||
+@Birth of GRE:	17-JAN-1992
+@Date:	08-OCT-1993
+@Situation:	the child is playing with his mother
+*GRE:	www .
+%com:	si sentono voci nel sottofondo
+*MOT:	ci sono gli animaletti qua ?
+%mor:	pro:clit|ci&1P v|esse-3P&PRES=be art|il&m&pl
+	n|animale-DIM-m&pl=animal adv|qua ?
+*GRE:	tutti (ani)ma(l)etti .
+%mor:	det|tutto-m&pl=all n|animale-DIM-m&pl=animal .
+*MOT:	chi è questo qua ?
+%mor:	pro:int|chi=who v|esse-3S&PRES=be pro:det|questo-m&sg=this adv|qua
+	?
+*MOT:	il +...
+%mor:	art|il&m&sg +...
+*MOT:	no (.) aspetta che li tiriamo giù di là .
+%mor:	adv|no vimp|aspetta-2S&IMP=wait pro:rel|che=that pro:clit|li&3P&m
+	v|tira-1P&PRES&SUB=pull adv|giù prep|di=of adv|là .
+*MOT:	spetta [: aspetta] (.) vedi .
+%mor:	v|aspetta-3S&PRES=wait co|vedi .
+%com:	rumori
+*MOT:	questo è il +...
+%mor:	pro:det|questo-m&sg=this v|esse-3S&PRES=be art|il&m&sg +...
+*GRE:	ma(ial)ino .
+%mor:	n|maiale-DIM-m&sg=pig .
+*GRE:	ohh@i !
+%mor:	int|ohh !
+*MOT:	vuoi andare giù ?
+%mor:	v|vole-2S&PRES=want vinf|anda-INF=go adv|giù ?
+*GRE:	Lororo giù .
+%mor:	n:prop|Lororo adv|giù .
+*MOT:	<xxx> [<] .
+*GRE:	ma(ial)ino g(r)osso .
+%mor:	n|maiale-DIM-m&sg=pig adj|grosso-m&sg .
+*MOT:	allora qua mettilo qua .
+%mor:	co|allora adv|qua vimp|mette-2S&IMP~pro:clit|3S&m adv|qua .
+%com:	rumore di oggetti che cadono
+*MOT:	mi fanno male .
+%mor:	pro:clit|mi&1S v|face-3P&PRES=do adv|male .
+*GRE:	metto via .
+%mor:	v|mette-1S&PRES=put adv|via .
+*MOT:	metti via .
+%mor:	v|mette-2S&PRES=put adv|via .
+*GRE:	metto giù .
+%mor:	v|mette-1S&PRES=put adv|giù .
+*MOT:	ecco (.) tutto quanto a posto .
+%mor:	adv:dem|ecco adv|tutto adv|quanto prep|a=to n|posto-m&sg .
+*GRE:	ca(val)lino .
+%mor:	n|cavallo-DIM-m&sg=horse .
+*MOT:	cavallino .
+%mor:	n|cavallo-DIM-m&sg=horse .
+*MOT:	e il maialino dov' è ?
+%mor:	conj|e art|il&m&sg n|maiale-DIM-m&sg=pig adv|dove v|esse-3S&PRES=be
+	?
+*MOT:	come fa il maialino (.) eh ?
+%mor:	adv|come v|face-3S&PRES=do art|il&m&sg n|maiale-DIM-m&sg=pig co|eh
+	?
+*GRE:	0 &=starnutisce .
+*MOT:	ma qui mi butti giù tutto Gregorio .
+%mor:	conj|ma adv|qui pro:clit|mi&1S v|butta-2S&PRES=throw adv|giù
+	adv|tutto n:prop|Gregorio .
+*MOT:	questo cos' è ?
+%mor:	pro:det|questo-m&sg=this pro:int|cosa=what v|esse-3S&PRES=be ?
+*GRE:	la bebé@c .
+%mor:	art|il&f&sg chi|bebé .
+*MOT:	xxx (.) è la &peco +...
+%mor:	v|esse-3S&PRES=be art|il&f&sg +...
+*GRE:	++ &rina .
+*MOT:	e questo qui chi è Gregorio ?
+%mor:	conj|e pro:det|questo-m&sg=this adv|qui pro:int|chi=who
+	v|esse-3S&PRES=be n:prop|Gregorio ?
+*MOT:	metti giù .
+%mor:	vimp|mette-2S&IMP=put adv|giù .
+*MOT:	non mettere in bocca lo stecchino .
+%mor:	adv|non vinf|mette-INF=put prep|in=in n|bocca-f&sg art|il&m&sg
+	n|stecchino-m&sg=toothpick .
+*GRE:	tutti via .
+%mor:	pro:det|tutto-m&pl=all adv|via .
+*MOT:	questo è un maialino .
+%mor:	pro:det|questo-m&sg=this v|esse-3S&PRES=be art|uno&m&sg
+	n|maiale-DIM-m&sg=pig .
+*MOT:	c' era una volta il maialino (.) vero ?
+%mor:	pro:clit|ci&1P v|esse-3S&PAST=be art|uno&f&sg n|volta-f&sg
+	art|il&m&sg n|maiale-DIM-m&sg=pig adj|vero-m&sg ?
+*MOT:	con il suo bambino .
+%mor:	prep|con=with art|il&m&sg pro:poss|suo-3S&m&sg=his
+	n|bambino-m&sg=child .
+*GRE:	eto [: questo] (maia)lino .
+%mor:	det|questo-m&sg=this n|maiale-DIM-m&sg=pig .
+*GRE:	dov' [: dove] è [: sono] bimbi ?
+%mor:	adv|dove v|esse-3P&PRES=be n|bimbo-m&pl ?
+%com:	instead of <dove sono i bimbi> ?
+*MOT:	e come faceva la mamma del maialino al suo bambino (.) cosa <gli diceva> [>] ?
+%mor:	conj|e adv|come v|face-3S&PAST=do art|il&f&sg n|mamma-f&sg
+	prepart|de-m&sg n|maiale-DIM-m&sg=pig prepart|a-m&sg
+	pro:poss|suo-3S&m&sg=his n|bambino-m&sg=child pro:int|cosa=what
+	pro:clit|gli&3S&m v|dice-3S&PAST=say ?
+*GRE:	<xxx> [<] .
+*MOT:	fai il bravo sennò ti faccio +...
+%mor:	v|face-2S&PRES=do art|il&m&sg adj|bravo-m&sg adv|sennò
+	pro:clit|ti&2S v|face-1S&PRES=do +...
+*GRE:	totò@c .
+%mor:	chi|totò .
+*MOT:	totò@c .
+%mor:	chi|totò .
+*MOT:	poi arriva il cavallino (.) (.) che mangia la pappa@c .
+%mor:	adv|poi v|arriva-3S&PRES=arrive art|il&m&sg
+	n|cavallo-DIM-m&sg=horse pro:rel|che=that v|mangia-3S&PRES=eat
+	art|il&f&sg chi|pappa .
+*GRE:	mangia tutto .
+%mor:	v|mangia-3S&PRES=eat det|tutto-m&sg=all .
+*MOT:	e come si chiamano i cavallini ?
+%mor:	conj|e adv|come pro:clit|si&3SP v|chiama-3P&PRES=call art|il&m&pl
+	n|cavallo-DIM-m&pl=horse ?
+*GRE:	zio Mauri .
+%mor:	n|zio-m&sg=uncle n:prop|Mauri .
+*MOT:	i cavallini dello zio Mauri come si chiamano ?
+%mor:	art|il&m&pl n|cavallo-DIM-m&pl=horse prepart|de-m&sg
+	n|zio-m&sg=uncle n:prop|Mauri adv|come pro:clit|si&3SP
+	v|chiama-3P&PRES=call ?
+*MOT:	Pegaso (.) l' altro ?
+%mor:	n:prop|Pegaso art|il&sg pro:det|altro-m&sg=another_one ?
+*GRE:	la momomilla [: camomilla] .
+%mor:	art|il&f&sg n|camomilla-f&sg=camomille .
+*MOT:	la bobomilla@c ?
+%mor:	art|il&f&sg chi|bobomilla ?
+*MOT:	la camomilla non la bobomilla@c (.) dillo bene .
+%mor:	art|il&f&sg n|camomilla-f&sg=camomille adv|non art|il&f&sg
+	chi|bobomilla vimp|dice-2S&IMP~pro:clit|3S&m adv|bene .
+*GRE:	xxx milla [: camomilla] .
+%mor:	n|camomilla-f&sg=camomille .
+*MOT:	dillo bene .
+%mor:	vimp|dice-2S&IMP~pro:clit|3S&m adv|bene .
+*GRE:	bobomilla [: camomilla] .
+%mor:	n|camomilla-f&sg=camomille .
+*MOT:	dillo bene &=ride .
+%mor:	vimp|dice-2S&IMP~pro:clit|3S&m adv|bene .
+*GRE:	bobomilla [: camomilla] !
+%mor:	n|camomilla-f&sg=camomille !
+*MOT:	e questa qua chi è ?
+%mor:	conj|e pro:det|questo-f&sg=this adv|qua pro:int|chi=who
+	v|esse-3S&PRES=be ?
+*GRE:	gi(r)affa .
+%mor:	n|giraffa-f&sg .
+*MOT:	la giraffa .
+%mor:	art|il&f&sg n|giraffa-f&sg .
+*GRE:	bella .
+%mor:	adj|bello-f&sg .
+*MOT:	è bella ?
+%mor:	v|esse-3S&PRES=be adj|bello-f&sg ?
+*GRE:	no .
+%mor:	adv|no .
+*MOT:	è brutta ?
+%mor:	v|esse-3S&PRES=be n|brutto-f&sg ?
+*GRE:	uh@i .
+%mor:	int|uh .
+*MOT:	e questo qua è il +...
+%mor:	conj|e pro:det|questo-m&sg=this adv|qua v|esse-3S&PRES=be
+	art|il&m&sg +...
+*MOT:	adesso arriva (.) sta a vedere .
+%mor:	adv|adesso v|arriva-3S&PRES=arrive v|sta-3S&PRES=stay prep|a=to
+	vinf|vede-INF=see .
+*MOT:	mentre mangiano il leone arriva giù dalla montagna (.) e cosa fa ?
+%mor:	conj|mentre v|mangia-3P&PRES=eat art|il&m&sg n|leone-m&sg
+	v|arriva-3S&PRES=arrive adv|giù prepart|da-f&sg n|montagna-f&sg
+	conj|e pro:int|cosa=what v|face-3S&PRES=do ?
+*GRE:	xxx fa totò@wp .
+%mor:	vimp|face-2S&IMP=do wplay|totò .
+*MOT:	fa totò@c ?
+%mor:	vimp|face-2S&IMP=do chi|totò ?
+*GRE:	ai bimbi .
+%mor:	prepart|a-m&pl n|bimbo-m&pl .
+*MOT:	ai bimbi .
+%mor:	prepart|a-m&pl n|bimbo-m&pl .
+*MOT:	guarda eh .
+%mor:	co|guarda co|eh .
+%com:	la mamma fa il verso del leone
+*MOT:	mangia tutti gli animaletti .
+%mor:	v|mangia-3S&PRES=eat det|tutto-m&pl=all art|il&m&pl
+	n|animale-DIM-m&pl=animal .
+*GRE:	anche te ?
+%mor:	conj|anche pro:pers|te&2S&OBJ=you ?
+*MOT:	e Teddy poverino (.) dov' è Teddy ?
+%mor:	conj|e n:prop|Teddy n|povero-DIM-m&sg adv|dove v|esse-3S&PRES=be
+	n:prop|Teddy ?
+*MOT:	eccolo qui !
+%mor:	adv:dem|ecco~pro:clit|3S&m adv|qui !
+*MOT:	vediamo !
+%mor:	v|vede-1P&PRES&SUB=see !
+*MOT:	c' era una volta +...
+%mor:	pro:clit|ci&1P v|esse-3S&PAST=be art|uno&f&sg n|volta-f&sg +...
+*GRE:	Teddy .
+%mor:	n:prop|Teddy .
+*MOT:	Teddy (.) che faceva la +...
+%mor:	n:prop|Teddy pro:rel|che=that v|face-3S&PAST=do art|il&f&sg +...
+*GRE:	++ nanna xxx .
+%mor:	n|nanna-f&sg .
+*MOT:	la nanna con il +...
+%mor:	art|il&f&sg n|nanna-f&sg prep|con=with art|il&m&sg +...
+*GRE:	mimmo [: bimbo] .
+%mor:	n|bimbo-m&sg .
+*MOT:	bimbo .
+%mor:	n|bimbo-m&sg .
+*MOT:	poi la mamma lo sveglia e lo +...
+%mor:	conj|poi art|il&f&sg n|mamma-f&sg pro:clit|lo&3S&m
+	v|sveglia-3S&PRES=awaken conj|e art|il&m&sg +...
+*GRE:	totò@wp .
+%mor:	wplay|totò .
+*MOT:	e no totò@c (.) lo veste (.) lo lava (.) ci fa il bagnetto .
+%mor:	conj|e adv|no chi|totò pro:clit|lo&3S&m v|vesti-3S&PRES=dress
+	pro:clit|lo&3S&m v|lava-3S&PRES=wash pro:clit|ci&1P
+	v|face-3S&PRES=do art|il&m&sg n|bagno-DIM-m&sg .
+*MOT:	come fa Gregorio quando fa il bagnetto (.) eh ?
+%mor:	adv|come v|face-3S&PRES=do n:prop|Gregorio adv|quando
+	v|face-3S&PRES=do art|il&m&sg n|bagno-DIM-m&sg co|eh ?
+*GRE:	gioca .
+%mor:	vimp|gioca-2S&IMP=play .
+*MOT:	e poi mangia (.) la +...
+%mor:	conj|e adv|poi v|mangia-3S&PRES=eat art|il&f&sg +...
+*GRE:	la to(r)ta .
+%mor:	art|il&f&sg n|torta-f&sg .
+*MOT:	e Teddy cosa mangia ?
+%mor:	conj|e n:prop|Teddy pro:int|cosa=what v|mangia-3S&PRES=eat ?
+*GRE:	la pap(p)a .
+%mor:	art|il&f&sg n|pappa-f&sg=baby_food .
+*MOT:	la pappa mangia Teddy (.) vero ?
+%mor:	art|il&f&sg n|pappa-f&sg=baby_food v|mangia-3S&PRES=eat
+	n:prop|Teddy adj|vero-m&sg ?
+*MOT:	mangia la pappa insieme al suo +...
+%mor:	v|mangia-3S&PRES=eat art|il&f&sg n|pappa-f&sg=baby_food adv|insieme
+	prepart|a-m&sg pro:poss|suo-3S&m&sg=his +...
+*GRE:	Teddy anco(r)a pappa .
+%mor:	n:prop|Teddy v|ancora-3S&PRES=anchor n|pappa-f&sg=baby_food .
+*MOT:	eccolo che gioca nell' altalena !
+%mor:	adv:dem|ecco~pro:clit|3S&m pro:rel|che=that v|gioca-3S&PRES=play
+	prepart|ne-m&sg n|altalena-f&sg=swing !
+*MOT:	vero ?
+%mor:	adj|vero-m&sg ?
+*GRE:	a Teddy giù .
+%mor:	prep|a=to n:prop|Teddy adv|giù .
+*MOT:	e qui invece giocano .
+%mor:	conj|e adv|qui adv|invece v|gioca-3P&PRES=play .
+*GRE:	bibilli [: birilli] .
+%mor:	n|birillo-m&pl .
+*MOT:	i birilli sì (.) ecco tanti birilli .
+%mor:	art|il&m&pl n|birillo-m&pl adv|sì adv:dem|ecco
+	det|tanto-m&pl=so_much n|birillo-m&pl .
+*GRE:	0 &=starnutisce .
+*MOT:	eh (.) ma questo bimbo quanto raffreddore !
+%mor:	co|eh conj|ma det|questo-m&sg=this n|bimbo-m&sg
+	det|quanto-m&sg=how_much n|raffreddore-m&sg !
+%com:	suona il campanello
+*GRE:	papà .
+%mor:	n|papà&m .
+*MOT:	chi è ?
+%mor:	pro:int|chi=who v|esse-3S&PRES=be ?
+@New Episode
+*GRE:	<que(s)to è Lololo (.) eto [: questo] è Lololo> [//] qu(es)to è Lololo questo è +/.
+%mor:	pro:det|questo-m&sg=this v|esse-3S&PRES=be n:prop|Lololo
+	pro:det|questo-m&sg=this v|esse-3S&PRES=be +/.
+*MOT:	di chi sono quelle scarpe ?
+%mor:	prep|di=of pro:int|chi=who v|esse-3P&PRES=be det|quello-f&pl=that
+	n|scarpa-f&pl=shoe ?
+*GRE:	Lololo !
+%mor:	n:prop|Lololo !
+*MOT:	vieni (.) allora .
+%mor:	v|veni-2S&PRES=come adv|allora .
+*MOT:	xxx la tavola .
+%mor:	art|il&f&sg n|tavola-f&sg=table .
+*MOT:	vieni qua con la mamma .
+%mor:	vimp|veni-2S&IMP=come adv|qua prep|con=with art|il&f&sg
+	n|mamma-f&sg .
+*MOT:	qui (.) ecco !
+%mor:	adv|qui adv:dem|ecco !
+*MOT:	allora (.) questo è il (.) topolino .
+%mor:	co|allora pro:det|questo-m&sg=this v|esse-3S&PRES=be art|il&m&sg
+	n|topo-DIM-m&sg=mouse .
+*MOT:	come si chiama (.) il topo di campagna e il topo di città (..) vero ?
+%mor:	adv|come pro:clit|si&3SP v|chiama-3S&PRES=call art|il&m&sg
+	n|topo-m&sg=mouse prep|di=of n|campagna-f&sg conj|e art|il&m&sg
+	n|topo-m&sg=mouse prep|di=of n|città&f adj|vero-m&sg ?
+*MOT:	xxx lì c' è topolino !
+%mor:	adv|lì pro:clit|ci&1P v|esse-3S&PRES=be n|topo-DIM-m&sg=mouse !
+*MOT:	+" xxx topolino (.) sono venuto a trovarti .
+%mor:	n|topo-DIM-m&sg=mouse v|esse-3P&PRES=be v|veni-PPART&sg&m=come
+	prep|a=to vinf|trova-INF~pro:clit|2S .
+*GRE:	sì (.) (to)polino b(r)utto .
+%mor:	adv|sì n|topo-DIM-m&sg=mouse adj|brutto-m&sg .
+*MOT:	come dice ?
+%mor:	adv|come v|dice-3S&PRES=say ?
+*GRE:	xxx Teddy .
+%mor:	n:prop|Teddy .
+*MOT:	vuoi Teddy ?
+%mor:	v|vole-2S&PRES=want n:prop|Teddy ?
+*GRE:	sì que(s)to .
+%mor:	adv|sì pro:det|questo-m&sg=this .
+*MOT:	qua (.) dai allora raccontamela te che non me la ricordo più quella di Teddy (.) via .
+%mor:	adv|qua co|dai adv|allora
+	vimp|racconta-2S&IMP~pro:clit|1S~pro:clit|3S&f pro:clit|ti&2S
+	pro:rel|che=that adv|non pro:clit|mi&1S pro:clit|la&3S&f
+	v|ricorda-1S&PRES=remind adv|più pro:det|quello-f&sg=that prep|di=of
+	n:prop|Teddy adv|via .
+*MOT:	come dice ?
+%mor:	adv|come v|dice-3S&PRES=say ?
+*GRE:	(to)polini apu@c .
+%mor:	n|topo-DIM-m&pl=mouse chi|apu .
+*MOT:	non ci sono più i topolini .
+%mor:	adv|non pro:clit|ci&1P v|esse-3P&PRES=be adj|più=more art|il&m&pl
+	n|topo-DIM-m&pl=mouse .
+*MOT:	ma com' è la storia di Teddy ?
+%mor:	conj|ma adv|come v|esse-3S&PRES=be art|il&f&sg n|storia-f&sg
+	prep|di=of n:prop|Teddy ?
+*GRE:	0 .
+*MOT:	come dice ?
+%mor:	adv|come v|dice-3S&PRES=say ?
+*GRE:	il pes(c)e .
+%mor:	art|il&m&sg n|pesce-m&sg .
+*MOT:	il pesce .
+%mor:	art|il&m&sg n|pesce-m&sg .
+*GRE:	eto [: questo] balone [: pallone] .
+%mor:	det|questo-m&sg=this n|pallone-m&sg .
+*MOT:	questo è il pallone .
+%mor:	pro:det|questo-m&sg=this v|esse-3S&PRES=be art|il&m&sg
+	n|pallone-m&sg .
+*MOT:	questo è Teddy .
+%mor:	pro:det|questo-m&sg=this v|esse-3S&PRES=be n:prop|Teddy .
+*MOT:	com' è Teddy (.) piccino ?
+%mor:	adv|come v|esse-3S&PRES=be n:prop|Teddy n|piccino-m&sg=child ?
+*GRE:	la mamma .
+%mor:	art|il&f&sg n|mamma-f&sg .
+*MOT:	e la mamma com' è ?
+%mor:	conj|e art|il&f&sg n|mamma-f&sg adv|come v|esse-3S&PRES=be ?
+*GRE:	è b(r)utta (.) è +/.
+%mor:	v|esse-3S&PRES=be n|brutto-f&sg v|esse-3S&PRES=be +/.
+*MOT:	e brutta ?
+%mor:	conj|e n|brutto-f&sg ?
+*GRE:	è bella .
+%mor:	v|esse-3S&PRES=be adj|bello-f&sg .
+*MOT:	è bella (.) oppure è &pi +...
+%mor:	v|esse-3S&PRES=be adj|bello-f&sg conj|oppure v|esse-3S&PRES=be +...
+*GRE:	bella quella mamma [>] !
+%mor:	adj|bello-f&sg det|quello-f&sg=that n|mamma-f&sg !
+*MOT:	come[<] ti ha detto il papà di dire della mamma (.) è &pi +...
+%mor:	adv|come pro:clit|ti&2S v|ave-3S&PRES=have
+	vpart|dici-PPART&sg&m=say art|il&m&sg n|papà&m prep|di=of
+	vinf|dice-INF=say prepart|de-f&sg n|mamma-f&sg v|esse-3S&PRES=be
+	+...
+*MOT:	piccina .
+%mor:	n|piccina-f&sg=child .
+*MOT:	come dici della mamma ?
+%mor:	adv|come v|dice-2S&PRES=say prepart|de-f&sg n|mamma-f&sg ?
+*GRE:	a@f enta@n .
+%mor:	fam|a neo|enta .
+*MOT:	è una polenta .
+%mor:	v|esse-3S&PRES=be art|uno&f&sg n|polenta-f&sg=maize_mush .
+*GRE:	quella .
+%mor:	pro:det|quello-f&sg=that .
+*MOT:	che bella .
+%mor:	det|che=which adj|bello-f&sg .
+*MOT:	dai (.) allora raccontami di Teddy .
+%mor:	co|dai adv|allora vimp|racconta-2S&IMP~pro:clit|1S prep|di=of
+	n:prop|Teddy .
+*MOT:	cosa fa qua Teddy ?
+%mor:	pro:int|cosa=what v|face-3S&PRES=do adv|qua n:prop|Teddy ?
+*GRE:	adda [: guarda] .
+%mor:	co|guarda .
+*MOT:	guarda ?
+%mor:	co|guarda ?
+*GRE:	pupa@n .
+%mor:	neo|pupa .
+*MOT:	la +...
+%mor:	art|il&f&sg +...
+*GRE:	bocotto [//] bicotto [: biscotto] .
+%mor:	v|biscotta-1S&PRES .
+*MOT:	il biscotto .
+%mor:	art|il&m&sg n|biscotto-m&sg .
+*MOT:	com' è il biscotto ?
+%mor:	adv|come v|esse-3S&PRES=be art|il&m&sg n|biscotto-m&sg ?
+*GRE:	è b(u)ono !
+%mor:	v|esse-3S&PRES=be adj|buono-m&sg=good !
+*MOT:	è buono !
+%mor:	v|esse-3S&PRES=be adj|buono-m&sg=good !
+*MOT:	quel cagnolino cosa fa (.) guarda Teddy ?
+%mor:	det|quello-m&sg=that n|cagno-DIM-m&sg=dog pro:int|cosa=what
+	v|face-3S&PRES=do co|guarda n:prop|Teddy ?
+*GRE:	è Niki .
+%mor:	v|esse-3S&PRES=be n:prop|Niki .
+*MOT:	è Niki (.) si chiama (.) vero ?
+%mor:	v|esse-3S&PRES=be n:prop|Niki pro:clit|si&3SP v|chiama-3S&PRES=call
+	adj|vero-m&sg ?
+*MOT:	come il tuo cane (.) si chiama ?
+%mor:	adv|come art|il&m&sg pro:poss|tuo-2S&m&sg=your n|cane-m&sg=dog
+	pro:clit|si&3SP v|chiama-3S&PRES=call ?
+*GRE:	è Niki .
+%mor:	v|esse-3S&PRES=be n:prop|Niki .
+*MOT:	come dici “Niki a” +...
+%mor:	adv|come v|dice-2S&PRES=say bq|bq n:prop|Niki prep|a=to eq|eq +...
+*GRE:	cuccia .
+%mor:	n|cuccia-f&sg=dog_bed .
+*GRE:	Niki nanna .
+%mor:	n:prop|Niki n|nanna-f&sg .
+*MOT:	cuccia (.) Niki !
+%mor:	n|cuccia-f&sg=dog_bed n:prop|Niki !
+*GRE:	0 &=esclama .
+*MOT:	ecco qui (.) vedi ?
+%mor:	adv:dem|ecco adv|qui v|vede-2S&PRES=see ?
+*GRE:	damme [//] dammela .
+%mor:	vimp|da-2S&IMP~pro:clit|1S~pro:clit|3S&f .
+%com:	comincia a cantare
+*GRE:	Teddy altalena .
+%mor:	n:prop|Teddy n|altalena-f&sg=swing .
+*MOT:	piove (.) inizia a piovere tra un po' .
+%mor:	v|piove-3S&PRES=rain v|inizia-3S&PRES=initiate prep|a=to
+	vinf|piove-INF=rain prep|tra=between art|uno&m&sg
+	pro:det|poco-m&sg=few .
+*GRE:	0 .
+*MOT:	qui giocano ancora con la sabbia (.) vero ?
+%mor:	adv|qui v|gioca-3P&PRES=play adv|ancora prep|con=with art|il&f&sg
+	n|sabbia-f&sg adj|vero-m&sg ?
+*MOT:	dove giocavi te con la sabbia ?
+%mor:	adv|dove vimp|gioca-2S&IMP~pro:clit|v2P pro:clit|ti&2S
+	prep|con=with art|il&f&sg n|sabbia-f&sg ?
+*GRE:	mare .
+%mor:	n|mare-m&sg .
+*MOT:	al mare (.) e poi cosa succede qua ?
+%mor:	prepart|a-m&sg n|mare-m&sg conj|e adv|poi pro:int|cosa=what
+	v|succede-3S&PRES=occur adv|qua ?
+*GRE:	p(i)ove .
+%mor:	v|piove-3S&PRES=rain .
+*MOT:	uuh@i come fanno i bimbi ?
+%mor:	int|uuh adv|come v|face-3P&PRES=do art|il&m&pl n|bimbo-m&pl ?
+*GRE:	tutti via .
+%mor:	pro:det|tutto-m&pl=all adv|via .
+*MOT:	aiuto@q (.) scappano vero ?
+%mor:	meta|aiuto v|scappa-3P&PRES=run_away adj|vero-m&sg ?
+*GRE:	p(i)ove (.) bimbi (.) eto [: questo] Teddy .
+%mor:	v|piove-3S&PRES=rain n|bimbo-m&pl det|questo-m&sg=this n:prop|Teddy
+	.
+*MOT:	e lasciano là Teddy sotto la pioggia poverino (.) è vero ?
+%mor:	conj|e v|lascia-3P&PRES=leave adv|là n:prop|Teddy adv|sotto
+	art|il&f&sg n|pioggia-f&sg=rain adj|povero-DIM-m&sg
+	v|esse-3S&PRES=be adj|vero-m&sg ?
+*GRE:	vieni !
+%mor:	vimp|veni-2S&IMP=come !
+*MOT:	Teddy ?
+%mor:	n:prop|Teddy ?
+*MOT:	+" ciao (.) Teddy !
+%mor:	co|ciao n:prop|Teddy !
+*MOT:	e intanto Teddy è la fuori poverino (.) come ci [//] come fa ?
+%mor:	conj|e adv|intanto n:prop|Teddy v|esse-3S&PRES=be art|il&f&sg
+	adv|fuori n|povero-DIM-m&sg adv|come adv|come v|face-3S&PRES=do ?
+*MOT:	piove +...
+%mor:	v|piove-3S&PRES=rain +...
+*GRE:	poverino .
+%mor:	n|povero-DIM-m&sg .
+*MOT:	poverino (.) vero ?
+%mor:	n|povero-DIM-m&sg adj|vero-m&sg ?
+*GRE:	p(i)ange .
+%mor:	v|piange-3S&PRES=cry .
+*MOT:	e questo cos' è (.) il tre +...
+%mor:	conj|e pro:det|questo-m&sg=this pro:int|cosa=what v|esse-3S&PRES=be
+	art|il&m&sg num|tre +...
+*GRE:	il t(r)eno .
+%mor:	art|il&m&sg n|treno-m&sg .
+*MOT:	come fai te quando passa ?
+%mor:	adv|come v|face-2S&PRES=do pro:clit|ti&2S adv|quando
+	v|passa-3S&PRES=spend ?
+*GRE:	ciu@o ciu@o !
+%mor:	on|ciu on|ciu !
+*MOT:	tu@o tu@o !
+%mor:	on|tu on|tu !
+*MOT:	ma come fai te (.) come lo saluti ?
+%mor:	conj|ma adv|come v|face-2S&PRES=do pro:clit|ti&2S adv|come
+	pro:clit|lo&3S&m v|saluta-2S&PRES=greet ?
+*MOT:	chi ci va sul treno ?
+%mor:	pro:int|chi=who pro:clit|ci&1P v|anda-3S&PRES=go prepart|su-m&sg
+	n|treno-m&sg ?
+*GRE:	Mauri .
+%mor:	n:prop|Mauri .
+*MOT:	lo zio Mauri .
+%mor:	art|il&m&sg n|zio-m&sg=uncle n:prop|Mauri .
+*MOT:	e questo ?
+%mor:	conj|e pro:det|questo-m&sg=this ?
+*GRE:	0 &=bisbiglia .
+*GRE:	po(r)ta tutti .
+%mor:	v|porta-3S&PRES=carry pro:det|tutto-m&pl=all .
+*MOT:	a casa dalla mamma vero ?
+%mor:	prep|a=to n|casa-f&sg prepart|da-f&sg n|mamma-f&sg adj|vero-m&sg ?
+*GRE:	xxx guadda [: guarda] .
+%mor:	co|guarda .
+*MOT:	no (.) cosa facciamo ?
+%mor:	adv|no pro:int|cosa=what v|face-1P&PRES&SUB=do ?
+*MOT:	a cosa vuoi giocare (.) con gli animaletti ?
+%mor:	prep|a=to pro:int|cosa=what v|vole-2S&PRES=want vinf|gioca-INF=play
+	prep|con=with art|il&m&pl n|animale-DIM-m&pl=animal ?
+*GRE:	no (.) pappe@f Lololo .
+%mor:	adv|no fam|pappe n:prop|Lololo .
+*MOT:	a cosa vuoi giocare ?
+%mor:	prep|a=to pro:int|cosa=what v|vole-2S&PRES=want vinf|gioca-INF=play
+	?
+*MOT:	lascia stare le scarpe .
+%mor:	v|lascia-3S&PRES=leave vinf|sta-INF=stay art|il&f&pl
+	n|scarpa-f&pl=shoe .
+*GRE:	eto [: questo] .
+%mor:	pro:det|questo-m&sg=this .
+*GRE:	eh (.) Teddy (.) xxx Teddy .
+%mor:	co|eh n:prop|Teddy n:prop|Teddy .
+*MOT:	mh@i (.) dammi !
+%mor:	int|mh vimp|da-2S&IMP~pro:clit|1S !
+*GRE:	0 &=sospira .
+*GRE:	Mauri [?] (.) p(i)ove !
+%mor:	n:prop|Mauri v|piove-3S&PRES=rain !
+*MOT:	piove !
+%mor:	v|piove-3S&PRES=rain !
+*GRE:	0 &=farfuglia .
+*GRE:	xxx mamma .
+%mor:	n|mamma-f&sg .
+*GRE:	guadda [: guarda] !
+%mor:	co|guarda !
+*MOT:	guarda la mamma che veste +...
+%mor:	vimp|guarda-2S&IMP=look art|il&f&sg n|mamma-f&sg pro:rel|che=that
+	v|vesti-3S&PRES=dress +...
+*GRE:	Lololo .
+%mor:	n:prop|Lololo .
+*MOT:	Lololo .
+%mor:	n:prop|Lololo .
+*MOT:	te come ti chiami ?
+%mor:	pro:pers|te&2S&OBJ=you pro:int|come=how pro:clit|ti&2S
+	v|chiama-2S&PRES=call ?
+*GRE:	Lololo .
+%mor:	n:prop|Lololo .
+*MOT:	Lololo (.) e di cognome ?
+%mor:	n:prop|Lololo conj|e prep|di=of n|cognome-m&sg ?
+*GRE:	Lololo .
+%mor:	n:prop|Lololo .
+*MOT:	no (.) di cognome ?
+%mor:	adv|no prep|di=of n|cognome-m&sg ?
+*GRE:	xxx .
+*MOT:	xxx .
+*MOT:	e dove abiti tu (.) a +...
+%mor:	conj|e adv|dove v|abita-2S&PRES=live pro:pers|tu&2S&SUBJ=you
+	prep|a=to +...
+*GRE:	Temoli [: Pontremoli] .
+%mor:	n:prop|Pontremoli .
+*MOT:	a Pontremoli .
+%mor:	prep|a=to n:prop|Pontremoli .
+*MOT:	e la nonna dove abita ?
+%mor:	conj|e art|il&f&sg n|nonna-f&sg adv|dove v|abita-3S&PRES=live ?
+*GRE:	qui .
+%mor:	adv|qui .
+*MOT:	ad Aulla .
+%mor:	prep|ad=to n:prop|Aulla .
+*GRE:	a (A)ulla .
+%mor:	prep|a=to n:prop|Aulla .
+*MOT:	e la mamma ?
+%mor:	conj|e art|il&f&sg n|mamma-f&sg ?
+*GRE:	Temoli [: Pontremoli] .
+%mor:	n:prop|Pontremoli .
+*MOT:	Pontremoli .
+%mor:	n:prop|Pontremoli .
+*MOT:	chi è il tuo papà (.) come si chiama ?
+%mor:	pro:int|chi=who v|esse-3S&PRES=be art|il&m&sg
+	pro:poss|tuo-2S&m&sg=your n|papà&m adv|come pro:clit|si&3SP
+	v|chiama-3S&PRES=call ?
+*GRE:	Erri !
+%mor:	n:prop|Erri !
+*MOT:	Erri !
+%mor:	n:prop|Erri !
+*GRE:	e Rita .
+%mor:	conj|e n:prop|Rita .
+*MOT:	e la mamma Rita ?
+%mor:	conj|e art|il&f&sg n|mamma-f&sg n:prop|Rita ?
+*MOT:	com' è la Rita ?
+%mor:	adv|come v|esse-3S&PRES=be art|il&f&sg n:prop|Rita ?
+*GRE:	è bella .
+%mor:	v|esse-3S&PRES=be adj|bello-f&sg .
+*MOT:	è bella (.) e poi ?
+%mor:	v|esse-3S&PRES=be adj|bello-f&sg conj|e adv|poi ?
+*GRE:	cane !
+%mor:	n|cane-m&sg=dog !
+*MOT:	il cane (.) è nascosto sotto il tappeto (.) vero ?
+%mor:	art|il&m&sg n|cane-m&sg=dog v|esse-3S&PRES=be
+	v|nasconde-PPART&sg&m=hide adv|sotto art|il&m&sg n|tappeto-m&sg
+	adj|vero-m&sg ?
+*GRE:	cane via .
+%mor:	n|cane-m&sg=dog adv|via .
+*MOT:	come fa il cane ?
+%mor:	adv|come v|face-3S&PRES=do art|il&m&sg n|cane-m&sg=dog ?
+*GRE:	e bu@o bu@o bu@o &=imita .
+%mor:	conj|e on|bu on|bu on|bu .
+*MOT:	bau@o bau@o bau@o bau@o &=imita .
+%mor:	on|bau on|bau on|bau on|bau .
+*MOT:	e questa qua che cos' è (.) +...
+%mor:	conj|e pro:det|questo-f&sg=this adv|qua pro:int|che=what
+	pro:int|cosa=what v|esse-3S&PRES=be +...
+*GRE:	0 .
+*MOT:	questo cos' è (.) amore ?
+%mor:	pro:det|questo-m&sg=this pro:int|cosa=what v|esse-3S&PRES=be
+	n|amore-m&sg=love ?
+*GRE:	que(s)to è Pegaso .
+%mor:	pro:det|questo-m&sg=this v|esse-3S&PRES=be n:prop|Pegaso .
+*MOT:	questo è Pegaso (.) vero ?
+%mor:	pro:det|questo-m&sg=this v|esse-3S&PRES=be n:prop|Pegaso
+	adj|vero-m&sg ?
+%com:	si sente la radio nel sottofondo
+*MOT:	quello lì è l' uccellino (.) vero ?
+%mor:	pro:det|quello-m&sg=that adv|lì v|esse-3S&PRES=be art|il&sg
+	n|uccello-DIM-m&sg adj|vero-m&sg ?
+*GRE:	no (.) è Giusy .
+%mor:	adv|no v|esse-3S&PRES=be n:prop|Giusy .
+*MOT:	dov' è la mamma Giusy ?
+%mor:	adv|dove v|esse-3S&PRES=be art|il&f&sg n|mamma-f&sg n:prop|Giusy ?
+*GRE:	Giusi let(t)o .
+%mor:	n:prop|Giusi n|letto-m&sg .
+*GRE:	tolli [: togli] .
+%mor:	vimp|toglie-2S&IMP=remove .
+*MOT:	toh@i (.) su .
+%mor:	int|toh adv|su .
+*MOT:	questo è il +...
+%mor:	pro:det|questo-m&sg=this v|esse-3S&PRES=be art|il&m&sg +...
+*GRE:	gupo [: gufo] .
+%mor:	n|gufo-m&sg=owl .
+*MOT:	gufo .
+%mor:	n|gufo-m&sg=owl .
+*MOT:	questo cos' è ?
+%mor:	pro:det|questo-m&sg=this pro:int|cosa=what v|esse-3S&PRES=be ?
+*GRE:	mai(ali)no .
+%mor:	n|maiale-DIM-m&sg=pig .
+*MOT:	maialino .
+%mor:	n|maiale-DIM-m&sg=pig .
+*MOT:	e questo è il +...
+%mor:	conj|e pro:det|questo-m&sg=this v|esse-3S&PRES=be art|il&m&sg +...
+*MOT:	questo ?
+%mor:	pro:det|questo-m&sg=this ?
+*GRE:	cane .
+%mor:	n|cane-m&sg=dog .
+*MOT:	questo ?
+%mor:	pro:det|questo-m&sg=this ?
+%com:	imita il verso di un animale
+*MOT:	come fa la rana ?
+%mor:	adv|come v|face-3S&PRES=do art|il&f&sg n|rana-f&sg ?
+*GRE:	a@f rana .
+%mor:	fam|a n|rana-f&sg .
+%com:	cerca di imitare il verso
+*MOT:	sì il verso .
+%mor:	adv|sì art|il&m&sg n|verso-m&sg .
+*MOT:	Cosa fa la rana .
+%mor:	n:prop|Cosa v|face-3S&PRES=do art|il&f&sg n|rana-f&sg .
+*GRE:	salti .
+%mor:	n|salto-m&pl .
+*MOT:	fa i salti bravo !
+%mor:	vimp|face-2S&IMP=do art|il&m&pl n|salto-m&pl adj|bravo-m&sg !
+%com:	Gregorio sta giocando con alcuni oggetti
+*MOT:	cosa stai facendo la cacca ?
+%mor:	pro:int|cosa=what v|sta-2S&PRES=stay v:ger|face-PROG=do art|il&f&sg
+	n|cacca-f&sg=shit ?
+*GRE:	rana cacca .
+%mor:	n|rana-f&sg n|cacca-f&sg=shit .
+*MOT:	dove la fai tu la cacca ?
+%mor:	adv|dove pro:clit|la&3S&f v|face-2S&PRES=do pro:pers|tu&2S&SUBJ=you
+	art|il&f&sg n|cacca-f&sg=shit ?
+*MOT:	nel vasino (.) (.) vero ?
+%mor:	prepart|ne-m&sg n|vaso-DIM-m&sg adj|vero-m&sg ?
+%com:	continua a giocare
+*MOT:	quello là cos' è ?
+%mor:	pro:det|quello-m&sg=that adv|là pro:int|cosa=what v|esse-3S&PRES=be
+	?
+*MOT:	sono i suoi &ani +...
+%mor:	v|esse-3P&PRES=be art|il&m&pl pro:poss|suo-3S&m&pl=his +...
+*GRE:	maetti [: animaletti] .
+%mor:	n|animale-DIM-m&pl=animal .
+*MOT:	dai (.) fai un xxx .
+%mor:	co|dai vimp|face-2S&IMP=do art|uno&m&sg .
+*MOT:	+" ciao animaletti !
+%mor:	co|ciao n|animale-DIM-m&pl=animal !
+*MOT:	come si +/.
+%mor:	adv|come pro:clit|si&3SP +/.
+*GRE:	ciao@q !
+%mor:	meta|ciao !
+*GRE:	xxx [>] .
+*MOT:	fatto la nanna (.) dai [<] .
+%mor:	vpart|face-PPART&sg&m=do art|il&f&sg n|nanna-f&sg co|dai .
+*GRE:	nanna [>] .
+%mor:	n|nanna-f&sg .
+*MOT:	xxx via fare la ninnananna [<] .
+%mor:	adv|via vinf|face-INF=do art|il&f&sg n|ninnananna-f&sg=lullaby .
+*MOT:	come fai quando gli fai la ninnananna ?
+%mor:	adv|come v|face-2S&PRES=do adv|quando pro:clit|gli&3S&m
+	v|face-2S&PRES=do art|il&f&sg n|ninnananna-f&sg=lullaby ?
+*GRE:	ninnananna +...
+%mor:	n|ninnananna-f&sg=lullaby +...
+%com:	canta
+*MOT:	è così ?
+%mor:	v|esse-3S&PRES=be adv|così ?
+*GRE:	eh xxx xxx è rotto (.) è rotto .
+%mor:	co|eh v|esse-3S&PRES=be v|rompe-PPART&sg&m=break v|esse-3S&PRES=be
+	v|rompe-PPART&sg&m=break .
+*MOT:	no (.) non è rotto .
+%mor:	adv|no adv|non v|esse-3S&PRES=be v|rompe-PPART&sg&m=break .
+*MOT:	lo aggiustiamo .
+%mor:	pro:clit|lo&3S&m v|aggiusta-1P&PRES&SUB=adjust .
+*GRE:	collo@wp .
+%mor:	wplay|collo .
+*GRE:	pistola (.) pistola !
+%mor:	n|pistola-f&sg=pistol n|pistola-f&sg=pistol !
+%com:	si sente il suono di un giocattolo elettronico
+*MOT:	la pistola .
+%mor:	art|il&f&sg n|pistola-f&sg=pistol .
+*MOT:	cosa fai con la pistola ?
+%mor:	pro:int|cosa=what v|face-2S&PRES=do prep|con=with art|il&f&sg
+	n|pistola-f&sg=pistol ?
+*GRE:	0 .
+*MOT:	cosa fai con la pistola ?
+%mor:	pro:int|cosa=what v|face-2S&PRES=do prep|con=with art|il&f&sg
+	n|pistola-f&sg=pistol ?
+*GRE:	0 .
+*MOT:	canta un po' quella canzoncina che xxx cantare .
+%mor:	v|canta-3S&PRES=sing art|uno&m&sg pro:det|poco-m&sg=few
+	det|quello-f&sg=that n|canzone-DIM-f&sg=song pro:rel|che=that
+	vinf|canta-INF=sing .
+*GRE:	Marina !
+%mor:	n:prop|Marina !
+*MOT:	Marina (.) Marina &=canta .
+%mor:	n:prop|Marina n:prop|Marina .
+*GRE:	no (.) xxx una .
+%mor:	adv|no art|uno&f&sg .
+*MOT:	dai (.) canta .
+%mor:	co|dai vimp|canta-2S&IMP=sing .
+*MOT:	come si fa in chiesa (.) come si dice in chiesa ?
+%mor:	adv|come pro:clit|si&3SP v|face-3S&PRES=do prep|in=in
+	n|chiesa-f&sg=church adv|come pro:clit|si&3SP v|dice-3S&PRES=say
+	prep|in=in n|chiesa-f&sg=church ?
+*GRE:	alle alle alleluia &=canta !
+%mor:	vimp|3S&IMP~pro:clit|3S&f vimp|3S&IMP~pro:clit|3S&f co|alleluia !
+*MOT:	alle alle alleluia &=canta .
+%mor:	vimp|3S&IMP~pro:clit|3S&f vimp|3S&IMP~pro:clit|3S&f co|alleluia .
+*GRE:	alleluia .
+%mor:	co|alleluia .
+*MOT:	alleluia .
+%mor:	co|alleluia .
+*MOT:	e poi come ti ha insegnato la mamma (.) nel nome +...
+%mor:	conj|e adv|poi adv|come pro:clit|ti&2S v|ave-3S&PRES=have
+	v|insegna-PPART&sg&m=teach art|il&f&sg n|mamma-f&sg prepart|ne-m&sg
+	n|nome-m&sg +...
+*GRE:	pa(d)re .
+%mor:	n|padre-m&sg .
+*MOT:	del figlio +...
+%mor:	prepart|de-m&sg n|figlio-m&sg=son +...
+*GRE:	padre .
+%mor:	n|padre-m&sg .
+*MOT:	dello Spirito Santo +...
+%mor:	prepart|de-m&sg n:prop|Spirito n:prop|Santo +...
+*GRE:	xxx un bacino .
+%mor:	art|uno&m&sg n|bacio-DIM-m&sg=kiss .
+%com:	Gregorio sta frugando tra i giocattoli
+*MOT:	un' altra pistola !
+%mor:	art|uno&m&sg det|altro-f&sg=other n|pistola-f&sg=pistol !
+*MOT:	ma quante pistole c' hai ?
+%mor:	conj|ma det|quanto-f&pl=how_much n|pistola-f&pl=pistol
+	pro:clit|ci&1P v|ave-2S&PRES=have ?
+*GRE:	due .
+%mor:	num|due .
+*MOT:	due ?
+%mor:	num|due ?
+%com:	rumori
+*MOT:	telefona via un po' al tato Erri dai .
+%mor:	v|telefona-3S&PRES=telephone adv|via art|uno&m&sg
+	pro:det|poco-m&sg=few prepart|a-m&sg n|tato-m&sg=boy n:prop|Erri
+	co|dai .
+*MOT:	fai il numero di telefono xxx .
+%mor:	v|face-2S&PRES=do art|il&m&sg n|numero-m&sg prep|di=of
+	n|telefono-m&sg .
+*MOT:	chiamalo un po' !
+%mor:	vimp|chiama-2S&IMP~pro:clit|3S&m art|uno&m&sg pro:det|poco-m&sg=few
+	!
+*MOT:	telefona a papà (.) digli che arrivi@q .
+%mor:	v|telefona-3S&PRES=telephone prep|a=to n|papà&m
+	vimp|da-3S&IMP~pro:clit|3SP pro:int|che=what meta|arrivi .
+*GRE:	0 .
+*MOT:	dai (.) digli che abbiamo xxx .
+%mor:	co|dai vimp|da-3S&IMP~pro:clit|3SP pro:rel|che=that
+	v|ave-1P&PRES&SUB=have .
+*MOT:	telefona (.) dai telefona a papà .
+%mor:	v|telefona-3S&PRES=telephone co|dai vimp|telefona-2S&IMP=telephone
+	prep|a=to n|papà&m .
+*GRE:	no .
+%mor:	adv|no .
+*MOT:	no ?
+%mor:	adv|no ?
+*GRE:	no (.) gioca .
+%mor:	adv|no v|gioca-3S&PRES=play .
+%com:	continua a giocare
+*GRE:	le palline .
+%mor:	art|il&f&pl n|palla-DIM-f&pl .
+*MOT:	le palline (.) chi è che le ha rotte ?
+%mor:	art|il&f&pl n|palla-DIM-f&pl pro:int|chi=who v|esse-3S&PRES=be
+	pro:rel|che=that pro:clit|le&3P&f v|ave-3S&PRES=have adj|rotto-f&pl
+	?
+*GRE:	Lororo [: Lorolo] .
+%mor:	n:prop|Lorolo .
+*MOT:	ah (.) quel Lorolo lì rompe tutto (.) eh ?
+%mor:	co|ah det|quello-m&sg=that n:prop|Lorolo adv|lì
+	v|rompe-3S&PRES=break adv|tutto co|eh ?
+*MOT:	è vero che rompe ?
+%mor:	v|esse-3S&PRES=be adj|vero-m&sg pro:rel|che=that
+	v|rompe-3S&PRES=break ?
+*GRE:	xxx xxx tutti .
+%mor:	pro:det|tutto-m&pl=all .
+*GRE:	xxx tutti .
+%mor:	pro:det|tutto-m&pl=all .
+%com:	nastro danneggiato
+*GRE:	www .
+*GRE:	no .
+%mor:	adv|no .
+%com:	si sente fischiare qualcuno
+*MOT:	dai via (.) prendi il trenino (.) dai che ti spingo .
+%mor:	co|dai adv|via v|prende-2S&PRES=catch art|il&m&sg n|treno-DIM-m&sg
+	co|dai pro:rel|che=that pro:clit|ti&2S v|spinge-1S&PRES=push .
+*GRE:	no t(r)enino .
+%mor:	adv|no n|treno-DIM-m&sg .
+*MOT:	via .
+%mor:	adv|via .
+*GRE:	va [/] va .
+%mor:	vimp|anda-2S&IMP=go .
+@End
