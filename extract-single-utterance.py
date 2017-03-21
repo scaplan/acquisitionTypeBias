@@ -110,6 +110,12 @@ def evalOutputData(outputString, outputTags):
 		elif ('v|' in currTag):
 			outputVerbTokenCount += 1
 
+		# currTagInfo = currTag.split("|")
+		# if (currTagInfo[0] == 'n'):
+		# 	outputNounTokenCount += 1
+		# elif (currTagInfo[0] == 'v'):
+		# 	outputVerbTokenCount += 1
+
 
 
 def iterateSubDir(directoryName):
