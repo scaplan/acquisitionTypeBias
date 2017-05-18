@@ -1,0 +1,1190 @@
+@UTF8
+@PID:	11312/c-00030285-1
+@Begin
+@Languages:	ita
+@Participants:	ELI Elisa Child , MOT Mother
+@ID:	ita|Tonelli|ELI|1;10.04|female|||Child|||
+@ID:	ita|Tonelli|MOT|||||Mother|||
+@Birth of ELI:	15-SEP-1991
+@Date:	19-JUL-1993
+@Situation:	The child is talking with her mother
+*ELI:	mi leggi ?
+%mor:	pro:clit|mi&1S v|legge-2S&PRES=read ?
+*ELI:	mi dai una penna ?
+%mor:	pro:clit|mi&1S v|da-2S&PRES=give art|uno&f&sg n|penna-f&sg=feather
+	?
+*MOT:	non ce l' ho qui .
+%mor:	adv|non pro:clit|ci&1P pro:clit|lo&3S&m v|ave-1S&PRES=have adv|qui
+	.
+*ELI:	Mina , una pennina !
+%mor:	n:prop|Mina cm|cm art|uno&f&sg n|penna-DIM-f&sg=feather !
+*MOT:	dopo , ora guarda questo bel libro !
+%mor:	adv|dopo cm|cm adv|ora co|guarda det|questo-m&sg=this
+	adj|bello-m&sg n|libro-m&sg !
+*MOT:	questo è un orsetto e questo è il suo padroncino .
+%mor:	pro:det|questo-m&sg=this v|esse-3S&PRES=be art|uno&m&sg
+	n|orso-DIM-m&sg conj|e pro:det|questo-m&sg=this v|esse-3S&PRES=be
+	art|il&m&sg pro:poss|suo-3S&m&sg=his n|padrone-DIM-m&sg=master .
+*MOT:	dove sono l' orsetto e il padroncino ?
+%mor:	adv|dove v|esse-3P&PRES=be art|il&sg n|orso-DIM-m&sg conj|e
+	art|il&m&sg n|padrone-DIM-m&sg=master ?
+*ELI:	eccoli qui !
+%mor:	adv:dem|ecco~pro:clit|3P&m adv|qui !
+*MOT:	sono ancora nel loro &le +...
+%mor:	v|esse-3P&PRES=be adv|ancora prepart|ne-m&sg pro:poss|loro&3P=their
+	+...
+*ELI:	xxx .
+*MOT:	lettino !
+%mor:	n|letto-DIM-m&sg !
+*ELI:	nel lettino . [+ R]
+%mor:	prepart|ne-m&sg n|letto-DIM-m&sg .
+*MOT:	e sono lì che si fanno ancora le coccole prima_di alzarsi .
+%mor:	conj|e v|esse-3P&PRES=be adv|lì pro:rel|che=that pro:clit|si&3SP
+	v|face-3P&PRES=do adv|ancora art|il&f&pl adj|coccolo-f&pl=cuddly
+	conj|prima_di=before vinf|alza-INF~pro:clit|REFL .
+*MOT:	cosa c' è in questo bel disegno ?
+%mor:	pro:int|cosa=what pro:clit|ci&1P v|esse-3S&PRES=be prep|in=in
+	det|questo-m&sg=this adj|bello-m&sg n|disegno-m&sg ?
+*MOT:	questa è tutta la stanzetta del bimbo .
+%mor:	pro:det|questo-f&sg=this v|esse-3S&PRES=be pro:det|tutto-f&sg=all
+	art|il&f&sg n|stanza-DIM-f&sg prepart|de-m&sg n|bimbo-m&sg .
+*MOT:	il bimbo c(i) ha ancora il pigiamino .
+%mor:	art|il&m&sg n|bimbo-m&sg pro:clit|ci&1P v|ave-3S&PRES=have
+	adv|ancora art|il&m&sg n|pigiama-DIM-m&sg=pyjamas .
+%com:	le mostra i disegni
+*ELI:	dai !
+%mor:	co|dai !
+%com:	impaziente
+*MOT:	guarda l' orsetto !
+%mor:	co|guarda art|il&sg n|orso-DIM-m&sg !
+*MOT:	c(i) ha il pigiamino anche l' orsetto .
+%mor:	pro:clit|ci&1P v|ave-3S&PRES=have art|il&m&sg
+	n|pigiama-DIM-m&sg=pyjamas conj|anche art|il&sg n|orso-DIM-m&sg .
+*ELI:	e anche [/] e anche la bimbina .
+%mor:	conj|e conj|e conj|anche art|il&f&sg n|bimbo-DIM-f&sg .
+*MOT:	è un bimbino (.) vedi ?
+%mor:	v|esse-3S&PRES=be art|uno&m&sg n|bimbo-DIM-m&sg co|vedi ?
+*ELI:	un bimbino . [+ R]
+%mor:	art|uno&m&sg n|bimbo-DIM-m&sg .
+*MOT:	e cosa fa ?
+%mor:	conj|e pro:int|cosa=what v|face-3S&PRES=do ?
+*MOT:	va a letto +...
+%mor:	v|anda-3S&PRES=go prep|a=to n|letto-m&sg +...
+*ELI:	a letto mette a letto +... [+ R]
+%mor:	prep|a=to n|letto-m&sg v|mette-3S&PRES=put prep|a=to n|letto-m&sg
+	+...
+%com:	titubante
+*MOT:	cos' è quello ?
+%mor:	pro:int|cosa=what v|esse-3S&PRES=be pro:det|quello-m&sg=that ?
+*ELI:	è un xxx .
+%mor:	v|esse-3S&PRES=be art|uno&m&sg .
+*MOT:	un librino !
+%mor:	art|uno&m&sg n|libro-DIM-m&sg !
+*ELI:	un librino .
+%mor:	art|uno&m&sg n|libro-DIM-m&sg .
+*MOT:	e questo è il letto del bambino .
+%mor:	conj|e pro:det|questo-m&sg=this v|esse-3S&PRES=be art|il&m&sg
+	n|letto-m&sg prepart|de-m&sg n|bambino-m&sg=child .
+*MOT:	e questo piccolino (.) è il letto (.) di chi sarà questo letto piccolino ?
+%mor:	conj|e pro:det|questo-m&sg=this adj|piccolo-DIM-m&sg
+	v|esse-3S&PRES=be art|il&m&sg n|letto-m&sg prep|di=of
+	pro:int|chi=who v|esse-3S&FUT=be det|questo-m&sg=this n|letto-m&sg
+	adj|piccolo-DIM-m&sg ?
+*ELI:	del (.) pe [//] pesciolino .
+%mor:	prepart|de-m&sg n|pesciolino-m&sg .
+*MOT:	no del pesciolino .
+%mor:	adv|no prepart|de-m&sg n|pesciolino-m&sg .
+*MOT:	sarà dell' or(setto) +...
+%mor:	v|esse-3S&FUT=be prepart|de-m&sg n|orso-DIM-m&sg +...
+*ELI:	++ (or)setto .
+%mor:	n|orso-DIM-m&sg .
+*MOT:	orsetto .
+%mor:	n|orso-DIM-m&sg .
+*MOT:	e qui chi c' è (.) dietro ?
+%mor:	conj|e adv|qui pro:int|chi=who pro:clit|ci&1P v|esse-3S&PRES=be
+	adv|dietro ?
+*ELI:	ci sono i cagnoni .
+%mor:	pro:clit|ci&1P v|esse-3P&PRES=be art|il&m&pl n|cagno-AUG-m&pl=dog .
+*MOT:	un cagnolino solo è (.) non sono tanti .
+%mor:	art|uno&m&sg n|cagno-DIM-m&sg=dog adv|solo v|esse-3S&PRES=be
+	adv|non v|esse-3P&PRES=be pro:det|tanto-m&pl=as_much .
+*ELI:	allora xxx sulla strada .
+%mor:	co|allora prepart|su-f&sg n|strada-f&sg .
+*ELI:	hai visto ?
+%mor:	v|ave-2S&PRES=have v|vede-PPART&sg&m=see ?
+*MOT:	cosa c' è disegnato sulla copertina del bimbo ?
+%mor:	pro:int|cosa=what pro:clit|ci&1P v|esse-3S&PRES=be
+	v|disegna-PPART&sg&m=draw prepart|su-f&sg n|coperta-DIM-f&sg
+	prepart|de-m&sg n|bimbo-m&sg ?
+*ELI:	c' è disegnato (.) i colo(ri) .
+%mor:	pro:clit|ci&1P v|esse-3S&PRES=be v|disegna-PPART&sg&m=draw
+	art|il&m&pl n|colore-m&pl .
+*MOT:	sono ?
+%mor:	v|esse-3P&PRES=be ?
+*ELI:	i colori .
+%mor:	art|il&m&pl n|colore-m&pl .
+*MOT:	colori (.) anche (.) sembrano quasi dei funghetti .
+%mor:	n|colore-m&pl conj|anche v|sembra-3P&PRES=seem adv|quasi
+	prepart|de-m&pl n|fungo-DIM-m&pl=mushroom .
+*MOT:	il bimbo è biondo (.) o moretto quel bimbo lì ?
+%mor:	art|il&m&sg n|bimbo-m&sg v|esse-3S&PRES=be adj|biondo-m&sg conj|o
+	adj|moro-DIM-m&sg=dark det|quello-m&sg=that n|bimbo-m&sg adv|lì ?
+*ELI:	moretto . [+ R]
+%mor:	adj|moro-DIM-m&sg=dark .
+*MOT:	no che non è moretto .
+%mor:	adv|no pro:rel|che=that adv|non v|esse-3S&PRES=be
+	adj|moro-DIM-m&sg=dark .
+*MOT:	com' è (.) <biondo> [>] .
+%mor:	adv|come v|esse-3S&PRES=be adj|biondo-m&sg .
+*ELI:	<dov' è la cucina > [<] ?
+%mor:	adv|dove v|esse-3S&PRES=be art|il&f&sg n|cucina-f&sg ?
+*MOT:	la cucina è qui (.) dove c' è questo signore qui .
+%mor:	art|il&f&sg n|cucina-f&sg v|esse-3S&PRES=be adv|qui adv|dove
+	pro:clit|ci&1P v|esse-3S&PRES=be det|questo-m&sg=this
+	n|signore-m&sg=sir adv|qui .
+*MOT:	chi sarà quel signore lì (.) sarà un papà ?
+%mor:	pro:int|chi=who v|esse-3S&FUT=be det|quello-m&sg=that
+	n|signore-m&sg=sir adv|lì v|esse-3S&FUT=be art|uno&m&sg n|papà&m ?
+*ELI:	0 .
+*MOT:	allora (.) se il bambino si è appena svegliato il papà cosa starà facendo ?
+%mor:	co|allora conj|se art|il&m&sg n|bambino-m&sg=child pro:clit|si&3SP
+	v|esse-3S&PRES=be adv|appena v|sveglia-PPART&sg&m=awaken art|il&m&sg
+	n|papà&m pro:int|cosa=what v|sta-3S&FUT=stay v:ger|face-PROG=do ?
+*MOT:	preparando la cola(zione) +...
+%mor:	v:ger|prepara-PROG=prepare art|il&f&sg n|colazione&f +...
+*ELI:	no .
+%mor:	adv|no .
+*MOT:	cosa mangerà quel bimbo a colazione ?
+%mor:	pro:int|cosa=what v|mangia-3S&FUT=eat det|quello-m&sg=that
+	n|bimbo-m&sg prep|a=to n|colazione&f ?
+*MOT:	l' Elisa cosa mangia alla colazione ?
+%mor:	art|il&sg n:prop|Elisa pro:int|cosa=what v|mangia-3S&PRES=eat
+	prepart|a-f&sg n|colazione&f ?
+*ELI:	i [//] il xxx col latte .
+%mor:	art|il&m&sg prepart|co-m&sg n|latte-m&sg=milk .
+*MOT:	e Giovanni invece cosa mangia ?
+%mor:	conj|e n:prop|Giovanni adv|invece pro:int|cosa=what
+	v|mangia-3S&PRES=eat ?
+%exp:	Giovanni è uno dei fratelli di Elisa
+*ELI:	il xxx col latte .
+%mor:	art|il&m&sg prepart|co-m&sg n|latte-m&sg=milk .
+*MOT:	e Angelo ?
+%mor:	conj|e n:prop|Angelo ?
+%exp:	Angelo è l' altro fratello di Elisa
+*ELI:	il xxx col latte .
+%mor:	art|il&m&sg prepart|co-m&sg n|latte-m&sg=milk .
+*ELI:	qui c' è sc(r)itto (.) Elisa .
+%mor:	adv|qui pro:clit|ci&1P v|esse-3S&PRES=be v|scrive-PPART&sg&m=write
+	n:prop|Elisa .
+%com:	si sentono dei colpetti; probabimente Elisa da dei colpetti sul libro
+*MOT:	qui invece c' è scritto Teddy (.) e il suo padroncino dice +/.
+%mor:	adv|qui adv|invece pro:clit|ci&1P v|esse-3S&PRES=be
+	v|scrive-PPART&sg&m=write n:prop|Teddy conj|e art|il&m&sg
+	pro:poss|suo-3S&m&sg=his n|padrone-DIM-m&sg=master
+	v|dice-3S&PRES=say +/.
+*MOT:	+" ho un orsacchiotto e il suo pelo è molto morbido .
+%mor:	v|ave-1S&PRES=have art|uno&m&sg n|orsacchiotto-m&sg conj|e
+	art|il&m&sg pro:poss|suo-3S&m&sg=his n|pelo-m&sg v|esse-3S&PRES=be
+	det|molto-m&sg=a_lot_of adj|morbido-m&sg .
+*MOT:	+" prima di alzarci facciamo ancora un po' di moine .
+%mor:	adv|prima prep|di=of vinf|alza-INF~pro:clit|1P3S
+	v|face-1P&PRES&SUB=do adv|ancora art|uno&m&sg pro:det|poco-m&sg=few
+	prep|di=of n|moina-f&pl=caress .
+*ELI:	0 .
+%com:	Elisa osserva i disegni
+*MOT:	e poi , guarda !
+%mor:	conj|e adv|poi cm|cm co|guarda !
+*MOT:	cosa fanno (.) dopoché si sono alzati (.) dove vanno ?
+%mor:	pro:int|cosa=what v|face-3P&PRES=do conj|dopoché=after
+	pro:clit|si&3SP v|esse-3P&PRES=be vimp|alza-2S&IMP~pro:clit|2S
+	adv|dove v|anda-3P&PRES=go ?
+*ELI:	in cucina e mangia [: E] il latte .
+%mor:	prep|in=in n|cucina-f&sg conj|e n:prop|E art|il&m&sg
+	n|latte-m&sg=milk .
+*MOT:	chi è questa ?
+%mor:	pro:int|chi=who v|esse-3S&PRES=be pro:det|questo-f&sg=this ?
+*ELI:	è [/] (.) è la sua mamma .
+%mor:	v|esse-3S&PRES=be art|il&f&sg pro:poss|suo-3S&f&sg=her n|mamma-f&sg
+	.
+*MOT:	la sua mamma .
+%mor:	art|il&f&sg pro:poss|suo-3S&f&sg=her n|mamma-f&sg .
+*MOT:	cosa fa la sua mamma ?
+%mor:	pro:int|cosa=what v|face-3S&PRES=do art|il&f&sg
+	pro:poss|suo-3S&f&sg=her n|mamma-f&sg ?
+*ELI:	mette giù il suo bimbino che [/] xxx che [/] che mette xxx i piedini .
+%mor:	v|mette-3S&PRES=put adv|giù art|il&m&sg pro:poss|suo-3S&m&sg=his
+	n|bimbo-DIM-m&sg pro:rel|che=that v|mette-3S&PRES=put art|il&m&pl
+	n|piede-DIM-m&pl .
+*ELI:	hai capito ?
+%mor:	v|ave-2S&PRES=have v|capi-PPART&sg&m=understand ?
+*MOT:	non tanto , ma secondo te cosa fa (.) lo lava ?
+%mor:	adv|non adv|tanto cm|cm conj|ma prep|secondo=according_to
+	pro:pers|te&2S&OBJ=you pro:int|cosa=what v|face-3S&PRES=do
+	pro:clit|lo&3S&m v|lava-3S&PRES=wash ?
+*ELI:	sì .
+%mor:	adv|sì .
+*MOT:	lo veste ?
+%mor:	pro:clit|lo&3S&m v|vesti-3S&PRES=dress ?
+*ELI:	no che non lo veste non +/.
+%mor:	adv|no pro:rel|che=that adv|non pro:clit|lo&3S&m
+	v|vesti-3S&PRES=dress adv|non +/.
+*MOT:	lo sta spogliando forse ?
+%mor:	pro:clit|lo&3S&m v|sta-3S&PRES=stay v:ger|spoglia-PROG=strip
+	adv|forse ?
+*ELI:	lo sta spo(gl)iando . [+ R]
+%mor:	pro:clit|lo&3S&m v|sta-3S&PRES=stay v:ger|spoglia-PROG=strip .
+*MOT:	guarda (.) il pigiamino l' ha messo qua .
+%mor:	co|guarda art|il&m&sg n|pigiama-DIM-m&sg=pyjamas pro:clit|lo&3S&m
+	v|ave-3S&PRES=have v|mette-PPART&sg&m=put adv|qua .
+*MOT:	vedi dov' è il pigiamino ?
+%mor:	v|vede-2S&PRES=see adv|dove v|esse-3S&PRES=be art|il&m&sg
+	n|pigiama-DIM-m&sg=pyjamas ?
+*MOT:	guarda (.) chi c' è qua in questo angolino ?
+%mor:	co|guarda pro:int|chi=who pro:clit|ci&1P v|esse-3S&PRES=be adv|qua
+	prep|in=in det|questo-m&sg=this n|angolo-DIM-m&sg=corner ?
+*ELI:	c' è il cagnone .
+%mor:	pro:clit|ci&1P v|esse-3S&PRES=be art|il&m&sg n|cagno-AUG-m&sg=dog .
+*MOT:	e l' orsetto (.) dov' è andato ?
+%mor:	conj|e art|il&sg n|orso-DIM-m&sg adv|dove v|esse-3S&PRES=be
+	v|anda-PPART&sg&m=go ?
+*ELI:	l' orsetto eccolo lì .
+%mor:	art|il&sg n|orso-DIM-m&sg adv:dem|ecco~pro:clit|3S&m adv|lì .
+*MOT:	e com' è ?
+%mor:	conj|e adv|come v|esse-3S&PRES=be ?
+*MOT:	è in piedi o seduto ?
+%mor:	v|esse-3S&PRES=be prep|in=in n|piede-m&pl conj|o
+	v|sede-PPART&sg&m=sit ?
+*ELI:	seduto .
+%mor:	v|sede-PPART&sg&m=sit .
+*MOT:	<seduto> [>] .
+%mor:	v|sede-PPART&sg&m=sit .
+*ELI:	< xxx > [<] l' orsetto .
+%mor:	art|il&sg n|orso-DIM-m&sg .
+*MOT:	è lo stesso orsetto (.) o è un altro ?
+%mor:	v|esse-3S&PRES=be art|il&m&sg det|stesso-m&sg=same n|orso-DIM-m&sg
+	conj|o v|esse-3S&PRES=be art|uno&m&sg pro:det|altro-m&sg=another_one
+	?
+*ELI:	è un a(l)tro .
+%mor:	v|esse-3S&PRES=be art|uno&m&sg pro:det|altro-m&sg=another_one .
+*MOT:	sì che è lo stesso orsetto (.) guarda è vestito uguale !
+%mor:	adv|sì pro:rel|che=that v|esse-3S&PRES=be art|il&m&sg
+	det|stesso-m&sg=same n|orso-DIM-m&sg co|guarda v|esse-3S&PRES=be
+	v|vesti-PPART&sg&m=dress adj|uguale-sg !
+*MOT:	guarda (.) hai visto ?
+%mor:	co|guarda v|ave-2S&PRES=have v|vede-PPART&sg&m=see ?
+%com:	le mostra meglio il disegno
+*ELI:	e sì , ho visto .
+%mor:	conj|e adv|sì cm|cm v|ave-1S&PRES=have v|vede-PPART&sg&m=see .
+*MOT:	guardiamo (.) aspetta che si deve prima finire di lavare (.) eh ?
+%mor:	vimp|guarda-1P&IMP=look vimp|aspetta-2S&IMP=wait pro:rel|che=that
+	pro:clit|si&3SP v|dove-3S&PRES=must adv|prima vinf|fini-INF=finish
+	prep|di=of vinf|lava-INF=wash co|eh ?
+*MOT:	cosa fa qui la mamma ?
+%mor:	pro:int|cosa=what v|face-3S&PRES=do adv|qui art|il&f&sg
+	n|mamma-f&sg ?
+*MOT:	queste cosa sono ?
+%mor:	pro:det|questo-f&pl=this pro:int|cosa=what v|esse-3P&PRES=be ?
+*ELI:	sono le pantoline [: pantofoline] (.) xxx .
+%mor:	v|esse-3P&PRES=be art|il&f&pl n|pantofola-DIM-f&pl=slipper .
+*MOT:	e si laverà anche il bimbo .
+%mor:	conj|e pro:clit|si&3SP v|lava-3S&FUT=wash conj|anche art|il&m&sg
+	n|bimbo-m&sg .
+*MOT:	cosa si laverà (.) anche i denti ?
+%mor:	pro:int|cosa=what pro:clit|si&3SP v|lava-3S&FUT=wash conj|anche
+	art|il&m&pl n|dente-m&pl=tooth ?
+*ELI:	anche i dentini .
+%mor:	conj|anche art|il&m&pl n|dente-DIM-m&pl=tooth .
+%com:	ride
+*MOT:	mhm .
+%mor:	co|mhm .
+%par:	annuisce
+*ELI:	xxx .
+*MOT:	e anche l' orsetto secondo te si lava i denti (.) o no ?
+%mor:	conj|e conj|anche art|il&sg n|orso-DIM-m&sg
+	prep|secondo=according_to pro:pers|te&2S&OBJ=you pro:clit|si&3SP
+	v|lava-3S&PRES=wash art|il&m&pl n|dente-m&pl=tooth conj|o adv|no ?
+*ELI:	eh sì .
+%mor:	co|eh adv|sì .
+*MOT:	anche l' orsetto ?
+%mor:	conj|anche art|il&sg n|orso-DIM-m&sg ?
+*ELI:	sì .
+%mor:	adv|sì .
+*MOT:	e si pettina l' orsetto ?
+%mor:	conj|e pro:clit|si&3SP v|pettina-3S&PRES=comb art|il&sg
+	n|orso-DIM-m&sg ?
+*MOT:	ce li ha i capelli ?
+%mor:	pro:clit|ci&1P pro:clit|li&3P&m v|ave-3S&PRES=have art|il&m&pl
+	n|capello-m&pl ?
+*ELI:	sì .
+%mor:	adv|sì .
+*ELI:	sì ?
+%mor:	adv|sì ?
+*MOT:	hm:@i .
+%mor:	int|hm .
+%par:	incredula
+*ELI:	anch' io ce l' ho [/] anch' io +/.
+%mor:	conj|anche pro:pers|io&1S&SUBJ=I pro:clit|ci&1P pro:clit|lo&3S&m
+	conj|anche pro:pers|io&1S&SUBJ=I +/.
+*MOT:	anche te ce li hai ?
+%mor:	conj|anche pro:pers|te&2S&OBJ=you pro:pers|ce&1P&OBJ=it
+	pro:clit|li&3P&m v|ave-2S&PRES=have ?
+*ELI:	sì e anche una spassola [: spazzola] .
+%mor:	adv|sì conj|e conj|anche art|uno&f&sg n|spazzola-f&sg .
+*MOT:	mhm .
+%mor:	co|mhm .
+*ELI:	anche i cagnoni +...
+%mor:	conj|anche art|il&m&pl n|cagno-AUG-m&pl=dog +...
+*MOT:	avrà fatto anche la doccia secondo te ?
+%mor:	v|ave-3S&FUT=have vpart|face-PPART&sg&m=do conj|anche art|il&f&sg
+	n|doccia-f&sg prep|secondo=according_to pro:pers|te&2S&OBJ=you ?
+*ELI:	sì .
+%mor:	adv|sì .
+*MOT:	e questo piccolino cosa sarà ?
+%mor:	conj|e det|questo-m&sg=this n|piccolo-DIM-m&sg pro:int|cosa=what
+	v|esse-3S&FUT=be ?
+%exp:	indica un oggetto raffigurato nel libro
+*ELI:	(.) &u un affatoio [: annaffiatoio] .
+%mor:	art|uno&m&sg n|annaffiatoio-m&sg=watering_can .
+*MOT:	un annaffiatoio (.) esatto .
+%mor:	art|uno&m&sg n|annaffiatoio-m&sg=watering_can adv|esatto .
+*ELI:	e lui (.) perché ci ha fatto la doccia ?
+%mor:	conj|e pro:pers|lui&3S&m=him conj|perché pro:clit|ci&1P
+	v|ave-3S&PRES=have vpart|face-PPART&sg&m=do art|il&f&sg
+	n|doccia-f&sg ?
+*MOT:	eh (.) perché alla mattina quando ci si sveglia si fa la doccia .
+%mor:	co|eh conj|perché prepart|a-f&sg n|mattina-f&sg conj|quando
+	pro:clit|ci&1P pro:clit|si&3SP v|sveglia-3S&PRES=awaken
+	pro:clit|si&3SP v|face-3S&PRES=do art|il&f&sg n|doccia-f&sg .
+*MOT:	anche l' Elisa fa la doccia la mattina ?
+%mor:	conj|anche art|il&sg n:prop|Elisa v|face-3S&PRES=do art|il&f&sg
+	n|doccia-f&sg art|il&f&sg n|mattina-f&sg ?
+*ELI:	xxx me la sono fatta .
+%mor:	pro:clit|mi&1S pro:clit|la&3S&f v|esse-1S&PRES=be
+	vpart|face-PPART&sg&f=do .
+*MOT:	te la sei fatta ?
+%mor:	pro:pers|te&2S&OBJ=you pro:clit|la&3S&f v|esse-2S&PRES=be
+	vpart|face-PPART&sg&f=do ?
+*ELI:	sì .
+%mor:	adv|sì .
+*MOT:	hm .
+%mor:	co|hm .
+*MOT:	queste che si vedono sotto (.) cosa sono ?
+%mor:	pro:det|questo-f&pl=this pro:rel|che=that pro:clit|si&3SP
+	v|vede-3P&PRES=see adv|sotto pro:int|cosa=what v|esse-3P&PRES=be ?
+*ELI:	sono le pantoline [: pantofoline] del bimbo .
+%mor:	v|esse-3P&PRES=be art|il&f&pl n|pantofola-DIM-f&pl=slipper
+	prepart|de-m&sg n|bimbo-m&sg .
+*ELI:	hai capito ?
+%mor:	v|ave-2S&PRES=have v|capi-PPART&sg&m=understand ?
+*ELI:	e queste sono dell' orsetto .
+%mor:	conj|e pro:det|questo-f&pl=this v|esse-3P&PRES=be prepart|de-m&sg
+	n|orso-DIM-m&sg .
+*MOT:	di Teddy [/] (.) Teddy non si deve lavare né pettinare (.) né pulire i denti .
+%mor:	prep|di=of n:prop|Teddy adv|non pro:clit|si&3SP v|dove-3S&PRES=must
+	vinf|lava-INF=wash conj|né vinf|pettina-INF=comb conj|né
+	vinf|puli-INF=clean art|il&m&pl n|dente-m&pl=tooth .
+*MOT:	e se la passa proprio bene quest(i) orsetto .
+%mor:	conj|e pro:pers|se&3S&OBJ=him pro:clit|la&3S&f
+	v|passa-3S&PRES=spend adv|proprio adv|bene pro:det|questo-m&pl=this
+	n|orso-DIM-m&sg .
+*ELI:	no (.) perché xxx le scarpette l' orsetto ?
+%mor:	adv|no conj|perché art|il&f&pl n|scarpa-DIM-f&pl=shoe art|il&sg
+	n|orso-DIM-m&sg ?
+*MOT:	le scarpette ? [+ R]
+%mor:	art|il&f&pl n|scarpa-DIM-f&pl=shoe ?
+*ELI:	sì .
+%mor:	adv|sì .
+*MOT:	non sono del bambino ?
+%mor:	adv|non v|esse-3P&PRES=be prepart|de-m&sg n|bambino-m&sg=child ?
+*ELI:	no (.) perché la nonna cerca un altro paio di [/] di scarpe .
+%mor:	adv|no conj|perché art|il&f&sg n|nonna-f&sg v|cerca-3S&PRES=search
+	art|uno&m&sg det|altro-m&sg=other n|paio-m&sg prep|di=of
+	n|scarpa-f&pl=shoe .
+*MOT:	la nonna ne cerca un altro paio ?
+%mor:	art|il&f&sg n|nonna-f&sg pro:clit|ne v|cerca-3S&PRES=search
+	art|uno&m&sg det|altro-m&sg=other n|paio-m&sg ?
+*MOT:	ma questa è la mamma non è la nonna .
+%mor:	conj|ma pro:det|questo-f&sg=this v|esse-3S&PRES=be art|il&f&sg
+	n|mamma-f&sg adv|non v|esse-3S&PRES=be art|il&f&sg n|nonna-f&sg .
+*MOT:	questa (.) vedi (.) c(i) ha i capelli castani .
+%mor:	pro:det|questo-f&sg=this v|vede-2S&PRES=see pro:clit|ci&1P
+	v|ave-3S&PRES=have art|il&m&pl n|capello-m&pl adj|castano-m&pl=brown
+	.
+*MOT:	non c(i) ha mica i capelli bianchi .
+%mor:	adv|non pro:clit|ci&1P v|ave-3S&PRES=have adv|mica art|il&m&pl
+	n|capello-m&pl adj|bianco-m&pl=white .
+*MOT:	questa è una mamma +...
+%mor:	pro:det|questo-f&sg=this v|esse-3S&PRES=be art|uno&f&sg
+	n|mamma-f&sg +...
+*ELI:	una mamma .
+%mor:	art|uno&f&sg n|mamma-f&sg .
+*ELI:	no (.) hai detto un papà ?
+%mor:	adv|no v|ave-2S&PRES=have vpart|dici-PPART&sg&m=say art|uno&m&sg
+	n|papà&m ?
+*MOT:	no (.) il papà c' era prima (.) alla pagina prima c' era il papà .
+%mor:	adv|no art|il&m&sg n|papà&m pro:clit|ci&1P v|esse-3S&PAST=be
+	adv|prima prepart|a-f&sg n|pagina-f&sg adv|prima pro:clit|ci&1P
+	v|esse-3S&PAST=be art|il&m&sg n|papà&m .
+%exp:	torna alla pagina precedente
+*MOT:	vedi (.) il papà era questo con i pantaloni .
+%mor:	v|vede-2S&PRES=see art|il&m&sg n|papà&m v|esse-3S&PAST=be
+	pro:det|questo-m&sg=this prep|con=with art|il&m&pl n|pantalone-m&pl
+	.
+*MOT:	e si prendeva forse il caffé quel papà lì .
+%mor:	conj|e pro:clit|si&3SP v|prende-3S&PAST=catch adv|forse art|il&m&sg
+	n|caffé&m=coffee det|quello-m&sg=that n|papà&m adv|lì .
+*ELI:	sì .
+%mor:	adv|sì .
+*MOT:	adesso c' è la mamma (.) adesso guardiamo se anche il bimbo mangia .
+%mor:	adv|adesso pro:clit|ci&1P v|esse-3S&PRES=be art|il&f&sg
+	n|mamma-f&sg adv|adesso vimp|guarda-1P&IMP=look conj|se conj|anche
+	art|il&m&sg n|bimbo-m&sg v|mangia-3S&PRES=eat .
+*MOT:	ahh@i (.) cosa fa il bimbo qua ?
+%mor:	int|ahh pro:int|cosa=what v|face-3S&PRES=do art|il&m&sg
+	n|bimbo-m&sg adv|qua ?
+*ELI:	mangia .
+%mor:	vimp|mangia-2S&IMP=eat .
+*MOT:	cosa mangia ?
+%mor:	pro:int|cosa=what v|mangia-3S&PRES=eat ?
+*ELI:	il pane .
+%mor:	art|il&m&sg n|pane-m&sg .
+*ELI:	ecco lì (.) c' è la mamma .
+%mor:	adv:dem|ecco adv|lì pro:clit|ci&1P v|esse-3S&PRES=be art|il&f&sg
+	n|mamma-f&sg .
+*ELI:	ecco un(a) a(l)tra mamma .
+%mor:	adv:dem|ecco art|uno&f&sg det|altro-f&sg=other n|mamma-f&sg .
+*MOT:	è sempre quella .
+%mor:	v|esse-3S&PRES=be adv|sempre pro:det|quello-f&sg=that .
+*ELI:	sempre quella .
+%mor:	adv|sempre pro:det|quello-f&sg=that .
+*MOT:	che gli ha preparato la colazione (.) e mangia il bimbo .
+%mor:	pro:rel|che=that pro:clit|gli&3S&m v|ave-3S&PRES=have
+	v|prepara-PPART&sg&m=prepare art|il&f&sg n|colazione&f conj|e
+	v|mangia-3S&PRES=eat art|il&m&sg n|bimbo-m&sg .
+*ELI:	e anche questa .
+%mor:	conj|e conj|anche pro:det|questo-f&sg=this .
+*MOT:	e sì anche questa è la mamma .
+%mor:	conj|e adv|sì conj|anche pro:det|questo-f&sg=this v|esse-3S&PRES=be
+	art|il&f&sg n|mamma-f&sg .
+*ELI:	è uguale la mamma .
+%mor:	v|esse-3S&PRES=be adj|uguale-sg art|il&f&sg n|mamma-f&sg .
+*MOT:	hm .
+%mor:	co|hm .
+*MOT:	+" un boccone a Teddy e uno a me .
+%mor:	art|uno&m&sg n|boccone-m&sg=morsel prep|a=to n:prop|Teddy conj|e
+	num|uno prep|a=to pro:pers|me&1S&OBJ=me .
+*MOT:	a Teddy piace pane e marmellata e anche a me +".
+%mor:	prep|a=to n:prop|Teddy v|piace-3S&PRES=please n|pane-m&sg conj|e
+	n|marmellata-f&sg=jam conj|e conj|anche prep|a=to
+	pro:pers|me&1S&OBJ=me +".
+*MOT:	vedi (.) mangiano (.) e la mamma ha preparato i panini con la marmellata .
+%mor:	v|vede-2S&PRES=see v|mangia-3P&PRES=eat conj|e art|il&f&sg
+	n|mamma-f&sg v|ave-3S&PRES=have v|prepara-PPART&sg&m=prepare
+	art|il&m&pl n|pane-DIM-m&pl prep|con=with art|il&f&sg
+	n|marmellata-f&sg=jam .
+*MOT:	vedi (.) qui c' è il barattolo della marmellata (.) e questi sono i panini .
+%mor:	v|vede-2S&PRES=see adv|qui pro:clit|ci&1P v|esse-3S&PRES=be
+	art|il&m&sg n|barattolo-m&sg=pot prepart|de-f&sg
+	n|marmellata-f&sg=jam conj|e pro:det|questo-m&pl=this
+	v|esse-3P&PRES=be art|il&m&pl n|pane-DIM-m&pl .
+*MOT:	allora (.) il bimbo mangia (.) un po' lui e un po' l' orsetto (.) hai visto ?
+%mor:	co|allora art|il&m&sg n|bimbo-m&sg v|mangia-3S&PRES=eat
+	art|uno&m&sg pro:det|poco-m&sg=few pro:pers|lui&3S&m=him conj|e
+	art|uno&m&sg pro:det|poco-m&sg=few art|il&sg n|orso-DIM-m&sg
+	v|ave-2S&PRES=have v|vede-PPART&sg&m=see ?
+*ELI:	sì , anche l' orsetto mangia .
+%mor:	adv|sì cm|cm conj|anche art|il&sg n|orso-DIM-m&sg
+	v|mangia-3S&PRES=eat .
+*MOT:	e forse guarda .
+%mor:	conj|e adv|forse v|guarda-3S&PRES=look .
+*MOT:	anche il cagnolino ne vuole un po' (.) forse .
+%mor:	conj|anche art|il&m&sg n|cagno-DIM-m&sg=dog pro:clit|ne
+	v|vole-3S&PRES=want art|uno&m&sg pro:det|poco-m&sg=few adv|forse .
+*MOT:	guarda !
+%mor:	co|guarda !
+*MOT:	fuori della finestra (.) cosa c' è fuori della finestra ?
+%mor:	adv|fuori prepart|de-f&sg n|finestra-f&sg=window pro:int|cosa=what
+	pro:clit|ci&1P v|esse-3S&PRES=be adv|fuori prepart|de-f&sg
+	n|finestra-f&sg=window ?
+*ELI:	è un &u [//] uccellino .
+%mor:	v|esse-3S&PRES=be art|uno&m&sg n|uccello-DIM-m&sg .
+*MOT:	un uccellino ! [+ R]
+%mor:	art|uno&m&sg n|uccello-DIM-m&sg !
+*MOT:	e questa ?
+%mor:	conj|e pro:det|questo-f&sg=this ?
+*ELI:	è l' altalena .
+%mor:	v|esse-3S&PRES=be art|il&sg n|altalena-f&sg=swing .
+*MOT:	l' altalena . [+ R]
+%mor:	art|il&sg n|altalena-f&sg=swing .
+*ELI:	due altalene .
+%mor:	num|due n|altalena-f&pl=swing .
+*MOT:	due altalene . [+ R]
+%mor:	num|due n|altalena-f&pl=swing .
+*MOT:	e qua ci sono tutti gli (.) alberi .
+%mor:	conj|e adv|qua pro:clit|ci&1P v|esse-3P&PRES=be det|tutto-m&pl=all
+	art|il&m&pl n|albero-m&pl=tree .
+*ELI:	gli a(l)berelli .
+%mor:	art|il&m&pl n|albero-DIM-m&pl=tree .
+*MOT:	e i fiori .
+%mor:	conj|e art|il&m&pl n|fiore-m&pl=flower .
+*ELI:	e i fiori .
+%mor:	conj|e art|il&m&pl n|fiore-m&pl=flower .
+*ELI:	quello lì .
+%mor:	pro:det|quello-m&sg=that adv|lì .
+*ELI:	guarda tutti i fiori !
+%mor:	co|guarda det|tutto-m&pl=all art|il&m&pl n|fiore-m&pl=flower !
+*MOT:	son(o) belli eh ?
+%mor:	v|esse-3P&PRES=be adj|bello-m&pl co|eh ?
+*ELI:	sì .
+%mor:	adv|sì .
+*MOT:	hm@i .
+%mor:	int|hm .
+*ELI:	xxx metto un(a) altra pagina .
+%mor:	v|mette-1S&PRES=put art|uno&f&sg det|altro-f&sg=other n|pagina-f&sg
+	.
+*MOT:	eh pianino [/] pianino andiamo piano .
+%mor:	co|eh adj|piano-DIM-m&sg vimp|anda-1P&IMP=go adv|piano .
+*MOT:	prima guarderei ancora qui cosa fa .
+%mor:	adv|prima v|guarda-1S&COND=look adv|ancora adv|qui
+	pro:int|cosa=what v|face-3S&PRES=do .
+*MOT:	ma cosa beve ?
+%mor:	conj|ma pro:int|cosa=what v|beve-3S&PRES=drink ?
+*ELI:	beve (.) il vino .
+%mor:	v|beve-3S&PRES=drink art|il&m&sg n|vino-m&sg=wine .
+*MOT:	no non credo che beva il vino .
+%mor:	adv|no adv|non v|crede-1S&PRES=believe pro:rel|che=that
+	v|beve-sg&SUB=drink art|il&m&sg n|vino-m&sg=wine .
+*MOT:	sarà un po' di latte (.) guarda in questa tazza .
+%mor:	v|esse-3S&FUT=be art|uno&m&sg pro:det|poco-m&sg=few prep|di=of
+	n|latte-m&sg=milk co|guarda prep|in=in det|questo-f&sg=this
+	n|tazza-f&sg .
+*MOT:	secondo me è cioccolata (.) o tè o cioccolata .
+%mor:	prep|secondo=according_to pro:pers|me&1S&OBJ=me v|esse-3S&PRES=be
+	n|cioccolata-f&sg conj|o n|tè&m=tea conj|o n|cioccolata-f&sg .
+*MOT:	(.) vedi che è un po' scura ?
+%mor:	v|vede-2S&PRES=see pro:rel|che=that v|esse-3S&PRES=be art|uno&m&sg
+	pro:det|poco-m&sg=few adj|scuro-f&sg=dark ?
+*ELI:	è cioccolata .
+%mor:	v|esse-3S&PRES=be n|cioccolata-f&sg .
+*MOT:	è cioccolata ?
+%mor:	v|esse-3S&PRES=be n|cioccolata-f&sg ?
+*ELI:	no (.) è tè .
+%mor:	adv|no v|esse-3S&PRES=be n|tè&m=tea .
+*MOT:	è tè ?
+%mor:	v|esse-3S&PRES=be n|tè&m=tea ?
+*ELI:	è cioccolata !
+%mor:	v|esse-3S&PRES=be n|cioccolata-f&sg !
+%com:	ride divertita
+*MOT:	hm:@i .
+%mor:	int|hm .
+*MOT:	cosa c' è là ?
+%mor:	pro:int|cosa=what pro:clit|ci&1P v|esse-3S&PRES=be adv|là ?
+%exp:	indica un oggetto nel disegno
+*MOT:	per non sporcarsi cosa gli ha messo la mamma al bimbo ?
+%mor:	prep|per=for adv|non vinf|sporca-INF~pro:clit|REFL
+	pro:int|cosa=what pro:clit|gli&3S&m v|ave-3S&PRES=have
+	v|mette-PPART&sg&m=put art|il&f&sg n|mamma-f&sg prepart|a-m&sg
+	n|bimbo-m&sg ?
+*ELI:	il bavalolo [: bavagliolo] .
+%mor:	art|il&m&sg n|bavagliolo-m&sg=bib .
+*MOT:	il bavalolo [: bavagliolo] (.) cos' è il bavalolo [: bavagliolo] ?
+%mor:	art|il&m&sg n|bavagliolo-m&sg=bib pro:int|cosa=what
+	v|esse-3S&PRES=be art|il&m&sg n|bavagliolo-m&sg=bib ?
+*ELI:	è questo .
+%mor:	v|esse-3S&PRES=be pro:det|questo-m&sg=this .
+%com:	indica il suo bavagliolo o quello nel disegno
+*MOT:	questo ?
+%mor:	pro:det|questo-m&sg=this ?
+*MOT:	bavagliolo .
+%mor:	n|bavagliolo-m&sg=bib .
+*ELI:	++ &lo .
+*MOT:	bavagliolo .
+%mor:	n|bavagliolo-m&sg=bib .
+*ELI:	è tutto sporcato .
+%mor:	v|esse-3S&PRES=be adv|tutto v|sporca-PPART&sg&m=dirty .
+*MOT:	uuh@i (.) guarda l' altalena qua .
+%mor:	int|uuh co|guarda art|il&sg n|altalena-f&sg=swing adv|qua .
+*ELI:	e i bimbini ?
+%mor:	conj|e art|il&m&pl n|bimbo-DIM-m&pl ?
+*ELI:	guarda [/] (.) guarda !
+%mor:	co|guarda !
+*MOT:	allora qui (.) dopo aver(e) mangiato i bimbi vanno fuori e aspettano Melania .
+%mor:	co|allora adv|qui conj|dopo vinf|ave-INF=have
+	v|mangia-PPART&sg&m=eat art|il&m&pl n|bimbo-m&pl v|anda-3P&PRES=go
+	adv|fuori conj|e v|aspetta-3P&PRES=wait n:prop|Melania .
+*MOT:	lo sai chi è Melania ?
+%mor:	pro:clit|lo&3S&m v|sape-2S&PRES=know pro:int|chi=who
+	v|esse-3S&PRES=be n:prop|Melania ?
+*MOT:	è una bimbina che è amica (.) di Teddy e del suo padroncino .
+%mor:	v|esse-3S&PRES=be art|uno&f&sg n|bimbo-DIM-f&sg pro:rel|che=that
+	v|esse-3S&PRES=be n|amico-f&sg=friend prep|di=of n:prop|Teddy conj|e
+	prepart|de-m&sg pro:poss|suo-3S&m&sg=his n|padrone-DIM-m&sg=master .
+*MOT:	e l' amica abita lì (.) nella casa vicino .
+%mor:	conj|e art|il&sg n|amico-f&sg=friend v|abita-3S&PRES=live adv|lì
+	prepart|ne-f&sg n|casa-f&sg adv|vicino .
+*MOT:	e loro sono preoccupati perché la bimba non viene .
+%mor:	conj|e pro:pers|loro&3P=them v|esse-3P&PRES=be adj|preoccupato-m&pl
+	conj|perché art|il&f&sg n|bimbo-f&sg adv|non v|veni-3S&PRES=come .
+*ELI:	guarda [/] (.) <guarda la bimba> [>] !
+%mor:	vimp|guarda-2S&IMP=look art|il&f&sg n|bimbo-f&sg !
+*MOT:	<guarda> [<] che bel gioco che c(i) hanno .
+%mor:	co|guarda det|che=which adj|bello-m&sg n|gioco-m&sg
+	pro:rel|che=that pro:clit|ci&1P v|ave-3P&PRES=have .
+*ELI:	ma di chi sono ?
+%mor:	conj|ma prep|di=of pro:int|chi=who v|esse-3P&PRES=be ?
+*MOT:	son(o) tutti del bambino (.) questi giochi .
+%mor:	v|esse-3P&PRES=be pro:det|tutto-m&pl=all prepart|de-m&sg
+	n|bambino-m&sg=child det|questo-m&pl=this n|gioco-m&pl .
+*ELI:	e il mio dov' è ?
+%mor:	conj|e art|il&m&sg pro:poss|mio-1S&m&sg=my adv|dove
+	v|esse-3S&PRES=be ?
+*ELI:	l' altalena dov' è la mia ?
+%mor:	art|il&sg n|altalena-f&sg=swing adv|dove v|esse-3S&PRES=be
+	art|il&f&sg pro:poss|mio-1S&f&sg=my ?
+*ELI:	quest(a) è la mia ?
+%mor:	pro:det|questo-f&sg=this v|esse-3S&PRES=be art|il&f&sg
+	pro:poss|mio-1S&f&sg=my ?
+*MOT:	hm@i .
+%mor:	int|hm .
+*ELI:	è la mia .
+%mor:	v|esse-3S&PRES=be art|il&f&sg pro:poss|mio-1S&f&sg=my .
+*ELI:	è la mia ?
+%mor:	v|esse-3S&PRES=be art|il&f&sg pro:poss|mio-1S&f&sg=my ?
+*ELI:	non è la mia !
+%mor:	adv|non v|esse-3S&PRES=be art|il&f&sg pro:poss|mio-1S&f&sg=my !
+*MOT:	te puoi andare dentro al librino ?
+%mor:	pro:pers|te&2S&OBJ=you v|pote-2S&PRES=can vinf|anda-INF=go
+	adv|dentro=inside prepart|a-m&sg n|libro-DIM-m&sg ?
+*ELI:	no .
+%mor:	adv|no .
+*MOT:	ecco che arriva la bimba .
+%mor:	adv:dem|ecco pro:rel|che=that v|arriva-3S&PRES=arrive art|il&f&sg
+	n|bimbo-f&sg .
+*MOT:	la vedi la loro amica Melania ?
+%mor:	pro:clit|la&3S&f v|vede-2S&PRES=see art|il&f&sg
+	pro:poss|loro&3P=their n|amico-f&sg=friend n:prop|Melania ?
+*ELI:	sì .
+%mor:	adv|sì .
+*MOT:	dov' è la bimba Melania ?
+%mor:	adv|dove v|esse-3S&PRES=be art|il&f&sg n|bimbo-f&sg n:prop|Melania
+	?
+*ELI:	eccola qui .
+%mor:	adv:dem|ecco~pro:clit|3S&f adv|qui .
+*MOT:	qui dove ?
+%mor:	adv|qui adv|dove ?
+*ELI:	qui .
+%mor:	adv|qui .
+*MOT:	qui c' è un cagnolino .
+%mor:	adv|qui pro:clit|ci&1P v|esse-3S&PRES=be art|uno&m&sg
+	n|cagno-DIM-m&sg=dog .
+*ELI:	0 .
+*MOT:	qui ci sono gli uccellini .
+%mor:	adv|qui pro:clit|ci&1P v|esse-3P&PRES=be art|il&m&pl
+	n|uccello-DIM-m&pl .
+*ELI:	ma dove sono questi uccellini ?
+%mor:	conj|ma adv|dove v|esse-3P&PRES=be det|questo-m&pl=this
+	n|uccello-DIM-m&pl ?
+*ELI:	nel cielo .
+%mor:	prepart|ne-m&sg n|cielo-m&sg=sky .
+*ELI:	e quello ?
+%mor:	conj|e pro:det|quello-m&sg=that ?
+*ELI:	non so cos' è quello lì .
+%mor:	adv|non v|sape-1S&PRES=know pro:int|cosa=what v|esse-3S&PRES=be
+	pro:det|quello-m&sg=that adv|lì .
+*MOT:	questo ?
+%mor:	pro:det|questo-m&sg=this ?
+*ELI:	quell(o) è un cagnone .
+%mor:	pro:det|quello-m&sg=that v|esse-3S&PRES=be art|uno&m&sg
+	n|cagno-AUG-m&sg=dog .
+*MOT:	cagnone .
+%mor:	n|cagno-AUG-m&sg=dog .
+*MOT:	questo ?
+%mor:	pro:det|questo-m&sg=this ?
+*ELI:	gli uccellini .
+%mor:	art|il&m&pl n|uccello-DIM-m&pl .
+*MOT:	e questa ?
+%mor:	conj|e pro:det|questo-f&sg=this ?
+*ELI:	è una [/] è una signorina .
+%mor:	v|esse-3S&PRES=be v|esse-3S&PRES=be art|uno&f&sg
+	n|signore-DIM-f&sg=sir .
+*MOT:	una bimba (.) la loro amica (.) che va a giocare con loro .
+%mor:	art|uno&f&sg n|bimbo-f&sg art|il&f&sg pro:poss|loro&3P=their
+	n|amico-f&sg=friend pro:rel|che=that v|anda-3S&PRES=go prep|a=to
+	vinf|gioca-INF=play prep|con=with pro:pers|loro&3P=them .
+*ELI:	pecché [: perché] ?
+%mor:	conj|perché ?
+*MOT:	perché tutti insieme si gioca meglio .
+%mor:	conj|perché pro:det|tutto-m&pl=all adv|insieme pro:clit|si&3SP
+	v|gioca-3S&PRES=play adv|meglio .
+*MOT:	intanto mentre l' aspettano loro due vanno sull' altalena .
+%mor:	adv|intanto conj|mentre pro:clit|lo&3S&m v|aspetta-3P&PRES=wait
+	pro:pers|loro&3P=them num|due v|anda-3P&PRES=go prepart|su-m&sg
+	n|altalena-f&sg=swing .
+*MOT:	e l' orsetto dov' è (.) ce l' ha in spalla ?
+%mor:	conj|e art|il&sg n|orso-DIM-m&sg adv|dove v|esse-3S&PRES=be
+	pro:clit|ci&1P pro:clit|lo&3S&m v|ave-3S&PRES=have prep|in=in
+	n|spalla-f&sg=shoulder ?
+*MOT:	è legato (.) vedi ?
+%mor:	v|esse-3S&PRES=be v|lega-PPART&sg&m=bind v|vede-2S&PRES=see ?
+*MOT:	qui c' è il +...
+%mor:	adv|qui pro:clit|ci&1P v|esse-3S&PRES=be art|il&m&sg +...
+*MOT:	come lo tiene ?
+%mor:	adv|come pro:clit|lo&3S&m v|tene-3S&PRES=hold ?
+*ELI:	così (.) in spalla .
+%mor:	adv|così prep|in=in n|spalla-f&sg=shoulder .
+*MOT:	come uno zainetto ?
+%mor:	adv|come art|uno&m&sg n|zaino-DIM-m&sg=backpack ?
+*ELI:	come uno zainetto . [+ R]
+%mor:	adv|come art|uno&m&sg n|zaino-DIM-m&sg=backpack .
+*ELI:	gua(r)da [x 3] !
+%mor:	co|guarda !
+%com:	ha girato pagina
+*MOT:	+" Melania ha portato i suoi animali .
+%mor:	n:prop|Melania v|ave-3S&PRES=have v|porta-PPART&sg&m=carry
+	art|il&m&pl pro:poss|suo-3S&m&pl=his n|animale-m&pl=animal .
+*MOT:	ogni animale ha il suo recinto .
+%mor:	det|ogni=every n|animale-m&sg=animal v|ave-3S&PRES=have art|il&m&sg
+	pro:poss|suo-3S&m&sg=his n|recinto-m&sg .
+*MOT:	mentre vanno nel pollaio Teddy sorveglia il coniglietto .
+%mor:	conj|mentre v|anda-3P&PRES=go prepart|ne-m&sg
+	n|pollaio-m&sg=hen_house n:prop|Teddy v|sorveglia-3S&PRES=supervise
+	art|il&m&sg n|coniglio-DIM-m&sg=rabbit .
+*MOT:	guarda quanti animaletti ci sono !
+%mor:	co|guarda det|quanto-m&pl=how_much n|animale-DIM-m&pl=animal
+	pro:clit|ci&1P v|esse-3P&PRES=be !
+*MOT:	c' è un [//] una gallina .
+%mor:	pro:clit|ci&1P v|esse-3S&PRES=be art|uno&f&sg n|gallina-f&sg .
+*ELI:	una gallina e xxx uova .
+%mor:	art|uno&f&sg n|gallina-f&sg conj|e n|uova-PL=egg .
+*MOT:	e sì ha ha fatto le uova .
+%mor:	conj|e adv|sì v|ave-3S&PRES=have v|ave-3S&PRES=have
+	vpart|face-PPART&sg&m=do art|il&f&pl n|uova-PL=egg .
+*MOT:	poi chi c' è ancora ?
+%mor:	adv|poi pro:int|chi=who pro:clit|ci&1P v|esse-3S&PRES=be adv|ancora
+	?
+%com:	Elisa esita
+*ELI:	(coni)glietto .
+%mor:	n|coniglio-DIM-m&sg=rabbit .
+*MOT:	il coniglietto .
+%mor:	art|il&m&sg n|coniglio-DIM-m&sg=rabbit .
+*ELI:	e un altro coniglietto dov' è ?
+%mor:	conj|e art|uno&m&sg det|altro-m&sg=other n|coniglio-DIM-m&sg=rabbit
+	adv|dove v|esse-3S&PRES=be ?
+*MOT:	ce n' è uno solo di coniglietti .
+%mor:	pro:clit|ci&1P pro:clit|ne v|esse-3S&PRES=be num|uno adv|solo
+	prep|di=of n|coniglio-DIM-m&pl=rabbit .
+*MOT:	<cos' è questa> [>] ?
+%mor:	pro:int|cosa=what v|esse-3S&PRES=be pro:det|questo-f&sg=this ?
+*ELI:	<xxx> [<] .
+*MOT:	sabbia secondo me .
+%mor:	n|sabbia-f&sg prep|secondo=according_to pro:pers|me&1S&OBJ=me .
+*ELI:	sabbia . [+ R]
+%mor:	n|sabbia-f&sg .
+*MOT:	xxx guarda questa piccolina qua !
+%mor:	co|guarda det|questo-f&sg=this adj|piccolo-DIM-f&sg adv|qua !
+*ELI:	che cos' è ?
+%mor:	pro:int|che=what pro:int|cosa=what v|esse-3S&PRES=be ?
+*MOT:	ci sono anche qua , sono piccoline [/] piccoline .
+%mor:	pro:clit|ci&1P v|esse-3P&PRES=be conj|anche adv|qua cm|cm
+	v|esse-3P&PRES=be adj|piccolo-DIM-f&pl .
+*MOT:	sono ?
+%mor:	v|esse-3P&PRES=be ?
+*ELI:	sono (.) sono .
+%mor:	v|esse-3P&PRES=be v|esse-3P&PRES=be .
+*MOT:	le formichine .
+%mor:	art|il&f&pl n|formica-DIM-f&pl=ant .
+*ELI:	le formichine . [+ R]
+%mor:	art|il&f&pl n|formica-DIM-f&pl=ant .
+*ELI:	tante formichine .
+%mor:	det|tanto-f&pl=so_much n|formica-DIM-f&pl=ant .
+*MOT:	eh dove vuole andare quella formichina lì (.) nel recinto ?
+%mor:	co|eh adv|dove v|vole-3S&PRES=want vinf|anda-INF=go
+	det|quello-f&sg=that n|formica-DIM-f&sg=ant adv|lì prepart|ne-m&sg
+	n|recinto-m&sg ?
+*ELI:	sì .
+%mor:	adv|sì .
+*MOT:	per chi l' han(no) fatto loro questo recinto ?
+%mor:	prep|per=for pro:int|chi=who pro:clit|lo&3S&m v|ave-3P&PRES=have
+	vpart|face-PPART&sg&m=do pro:pers|loro&3P=them det|questo-m&sg=this
+	n|recinto-m&sg ?
+*ELI:	pé [: per] tutti .
+%mor:	prep|per=for pro:det|tutto-m&pl=all .
+*MOT:	no (.) vedi (.) chi ci mettono dentro ?
+%mor:	adv|no v|vede-2S&PRES=see pro:int|chi=who pro:clit|ci&1P
+	v|mette-3P&PRES=put adv|dentro=inside ?
+*ELI:	ci mettono quella lì ?
+%mor:	pro:clit|ci&1P v|mette-3P&PRES=put det|quello-f&sg=that adv|lì ?
+*MOT:	<chi è quella lì> [/] (.) chi è quella lì ?
+%mor:	pro:int|chi=who v|esse-3S&PRES=be pro:det|quello-f&sg=that adv|lì ?
+*ELI:	è una gallina .
+%mor:	v|esse-3S&PRES=be art|uno&f&sg n|gallina-f&sg .
+*MOT:	è una gallina (.) piccolina .
+%mor:	v|esse-3S&PRES=be art|uno&f&sg n|gallina-f&sg adj|piccolo-DIM-f&sg
+	.
+*ELI:	è una gallina piccolina (.) hai capito ? [+ R]
+%mor:	v|esse-3S&PRES=be art|uno&f&sg n|gallina-f&sg adj|piccolo-DIM-f&sg
+	v|ave-2S&PRES=have v|capi-PPART&sg&m=understand ?
+*MOT:	hm .
+%mor:	co|hm .
+*ELI:	gua(r)da [/] (.) gua(r)da .
+%mor:	co|guarda .
+*MOT:	bisogna andare piano , ogni pagina ha un suo senso .
+%mor:	v|bisogna-3S&PRES=need vinf|anda-INF=go adj|piano-m&sg cm|cm
+	det|ogni=every n|pagina-f&sg v|ave-3S&PRES=have art|uno&m&sg
+	pro:poss|suo-3S&m&sg=his n|senso-m&sg .
+*MOT:	mentre loro stanno giocando (.) guarda , improvvisamente cosa succede ?
+%mor:	conj|mentre pro:pers|loro&3P=them v|sta-3P&PRES=stay
+	v:ger|gioca-PROG=play co|guarda cm|cm adv:adj|improvviso-ADV
+	pro:int|cosa=what v|succede-3S&PRES=occur ?
+*ELI:	piove .
+%mor:	v|piove-3S&PRES=rain .
+*MOT:	piove . [+ R]
+%mor:	v|piove-3S&PRES=rain .
+*MOT:	allora cosa fanno i bimbi ?
+%mor:	co|allora pro:int|cosa=what v|face-3P&PRES=do art|il&m&pl
+	n|bimbo-m&pl ?
+*ELI:	(.) stanno lì .
+%mor:	v|sta-3P&PRES=stay adv|lì .
+*MOT:	e no , dicono +"/.
+%mor:	conj|e adv|no cm|cm v|dice-3P&PRES=say +"/.
+*MOT:	+" finché piove andiamo a giocare in camera .
+%mor:	conj|finché v|piove-3S&PRES=rain v|anda-1P&PRES&SUB=go prep|a=to
+	vinf|gioca-INF=play prep|in=in n|camera-f&sg .
+*MOT:	e scappano in casa lasciano fuori +...
+%mor:	conj|e v|scappa-3P&PRES=run_away prep|in=in n|casa-f&sg
+	v|lascia-3P&PRES=leave adv|fuori +...
+*ELI:	il cagnolino .
+%mor:	art|il&m&sg n|cagno-DIM-m&sg=dog .
+*MOT:	no (.) non è un cagnolino quello (.) è Teddy l' orsetto .
+%mor:	adv|no adv|non v|esse-3S&PRES=be art|uno&m&sg n|cagno-DIM-m&sg=dog
+	pro:det|quello-m&sg=that v|esse-3S&PRES=be n:prop|Teddy art|il&sg
+	n|orso-DIM-m&sg .
+*ELI:	è Teddy (.) l' orsetto . [+ R]
+%mor:	v|esse-3S&PRES=be n:prop|Teddy art|il&sg n|orso-DIM-m&sg .
+*MOT:	guardiamo se lo portano a casa ?
+%mor:	vimp|guarda-1P&IMP=look conj|se pro:clit|lo&3S&m
+	v|porta-3P&PRES=carry prep|a=to n|casa-f&sg ?
+*ELI:	sì ora anche Teddy è in casa .
+%mor:	adv|sì adv|ora conj|anche n:prop|Teddy v|esse-3S&PRES=be prep|in=in
+	n|casa-f&sg .
+*MOT:	guarda , ora cosa fanno ?
+%mor:	co|guarda cm|cm adv|ora pro:int|cosa=what v|face-3P&PRES=do ?
+*ELI:	tutti in casa .
+%mor:	pro:det|tutto-m&pl=all prep|in=in n|casa-f&sg .
+*MOT:	decidono di giocare col trenino .
+%mor:	v|decide-3P&PRES=decide prep|di=of vinf|gioca-INF=play
+	prepart|co-m&sg n|treno-DIM-m&sg .
+*MOT:	allora montano i binari .
+%mor:	co|allora v|monta-3P&PRES=ride art|il&m&pl n|binario-m&pl=binary .
+*MOT:	e poi cercano la locomotiva (.) i vagoni .
+%mor:	conj|e conj|poi v|cerca-3P&PRES=search art|il&f&sg
+	n|locomotiva-f&sg=locomotive art|il&m&pl n|vagone-m&pl=wagon .
+*MOT:	e questo bambino cerca la stazione nella cassetta dove c(i) ha tutti i giochi .
+%mor:	conj|e det|questo-m&sg=this n|bambino-m&sg=child
+	v|cerca-3S&PRES=search art|il&f&sg n|stazione&f prepart|ne-f&sg
+	n|cassa-DIM-f&sg=till adv|dove pro:clit|ci&1P v|ave-3S&PRES=have
+	det|tutto-m&pl=all art|il&m&pl n|gioco-m&pl .
+*MOT:	quanti giochi ci sono in quella cassetta ?
+%mor:	det|quanto-m&pl=how_much n|gioco-m&pl pro:clit|ci&1P
+	v|esse-3P&PRES=be prep|in=in det|quello-f&sg=that
+	n|cassa-DIM-f&sg=till ?
+*ELI:	tanti !
+%mor:	det|tanto-m&pl=so_much !
+*ELI:	e c' è anche un trenino .
+%mor:	conj|e pro:clit|ci&1P v|esse-3S&PRES=be conj|anche art|uno&m&sg
+	n|treno-DIM-m&sg .
+*ELI:	quello come si chiama ?
+%mor:	pro:det|quello-m&sg=that adv|come pro:clit|si&3SP
+	v|chiama-3S&PRES=call ?
+*MOT:	ce l' hai anche te !
+%mor:	pro:clit|ci&1P pro:clit|lo&3S&m v|ave-2S&PRES=have conj|anche
+	pro:pers|te&2S&OBJ=you !
+*ELI:	anch' io c(i) ho questa in camera [?] .
+%mor:	conj|anche pro:pers|io&1S&SUBJ=I pro:clit|ci&1P v|ave-1S&PRES=have
+	pro:det|questo-f&sg=this prep|in=in n|camera-f&sg .
+*MOT:	sì .
+%mor:	adv|sì .
+*ELI:	ce l' ho di là ?
+%mor:	pro:clit|ci&1P pro:clit|lo&3S&m v|ave-1S&PRES=have prep|di=of
+	adv|là ?
+*ELI:	vieni a vede(r)la !
+%mor:	vimp|veni-2S&IMP=come prep|a=to vinf|vede-INF~pro:clit|3S&f !
+*ELI:	ma dove sono i miei giochini ?
+%mor:	conj|ma adv|dove v|esse-3P&PRES=be art|il&m&pl
+	pro:poss|mio-1S&m&pl=my n|gioco-DIM-m&pl ?
+*MOT:	ma io vorrei sapere che cosa c' è qui (.) nel cassetto di questo bambino .
+%mor:	conj|ma pro:pers|io&1S&SUBJ=I v|vole-1S&COND=wish
+	vinf|sape-INF=know pro:int|che=what pro:int|cosa=what pro:clit|ci&1P
+	v|esse-3S&PRES=be adv|qui prepart|ne-m&sg n|cassetto-m&sg prep|di=of
+	det|questo-m&sg=this n|bambino-m&sg=child .
+*ELI:	<ci sono> [/] ci sono tutti i giochini .
+%mor:	pro:clit|ci&1P v|esse-3P&PRES=be det|tutto-m&pl=all art|il&m&pl
+	n|gioco-DIM-m&pl .
+*ELI:	tutti i giochi .
+%mor:	det|tutto-m&pl=all art|il&m&pl n|gioco-m&pl .
+*ELI:	e guarda (.) ora va dentro che piove .
+%mor:	conj|e co|guarda adv|ora vimp|anda-2S&IMP=go adv|dentro=inside
+	pro:rel|che=that v|piove-3S&PRES=rain .
+*ELI:	&m (.) ma (.) guarda che piove !
+%mor:	conj|ma co|guarda pro:rel|che=that v|piove-3S&PRES=rain !
+*ELI:	guarda che piove !
+%mor:	co|guarda pro:rel|che=that v|piove-3S&PRES=rain !
+*ELI:	incomincia a piovere .
+%mor:	v|incomincia-3S&PRES=begin prep|a=to vinf|piove-INF=rain .
+*ELI:	questo (.) <anche qui> [/] anche qui .
+%mor:	pro:det|questo-m&sg=this conj|anche adv|qui .
+*ELI:	ecco ecco , speriamo che non piove qui .
+%mor:	adv:dem|ecco adv:dem|ecco cm|cm v|spera-1P&PRES&SUB=hope
+	pro:rel|che=that adv|non v|piove-3S&PRES=rain adv|qui .
+*ELI:	anche qui piove (.) guarda !
+%mor:	conj|anche adv|qui v|piove-3S&PRES=rain co|guarda !
+*MOT:	e sì tutti hanno cercato un riparo .
+%mor:	conj|e adv|sì pro:det|tutto-m&pl=all v|ave-3P&PRES=have
+	v|cerca-PPART&sg&m=search art|uno&m&sg v|ripara-1S&PRES=repair .
+*ELI:	anche gli animaletti !
+%mor:	conj|anche art|il&m&pl n|animale-DIM-m&pl=animal !
+*MOT:	e i bambini in casa hanno finito di costruire la ferrovia .
+%mor:	conj|e art|il&m&pl n|bambino-m&pl=child prep|in=in n|casa-f&sg
+	v|ave-3P&PRES=have v|fini-PPART&sg&m=finish prep|di=of
+	vinf|costrui-INF=build art|il&f&sg n|ferrovia-f&sg=railway .
+*ELI:	ferrovia . [+ R]
+%mor:	n|ferrovia-f&sg=railway .
+*MOT:	hanno trovato anche la stazione .
+%mor:	v|ave-3P&PRES=have v|trova-PPART&sg&m=find conj|anche art|il&f&sg
+	n|stazione&f .
+*ELI:	ma dov' è la stazione ?
+%mor:	conj|ma adv|dove v|esse-3S&PRES=be art|il&f&sg n|stazione&f ?
+*MOT:	quest(a) è la stazione (.) con l' albero .
+%mor:	pro:det|questo-f&sg=this v|esse-3S&PRES=be art|il&f&sg n|stazione&f
+	prep|con=with art|il&sg n|albero-m&sg=tree .
+*MOT:	e questo (.) guarda (.) è un bel +...
+%mor:	conj|e pro:det|questo-m&sg=this co|guarda v|esse-3S&PRES=be
+	art|uno&m&sg adj|bello-m&sg +...
+*ELI:	un bel +...
+%mor:	art|uno&m&sg adj|bello-m&sg +...
+*MOT:	++ ponte .
+%mor:	n|ponte-m&sg .
+*ELI:	è un bel (.) ponte .
+%mor:	v|esse-3S&PRES=be art|uno&m&sg adj|bello-m&sg n|ponte-m&sg .
+*ELI:	chi l' ha fatto ?
+%mor:	pro:int|chi=who pro:clit|lo&3S&m v|ave-3S&PRES=have
+	vpart|face-PPART&sg&m=do ?
+*MOT:	il bimbo .
+%mor:	art|il&m&sg n|bimbo-m&sg .
+*ELI:	perché ?
+%mor:	conj|perché ?
+*MOT:	è bravo .
+%mor:	v|esse-3S&PRES=be adj|bravo-m&sg .
+*ELI:	e questo qui ?
+%mor:	conj|e pro:det|questo-m&sg=this adv|qui ?
+%exp:	indica qualcosa nel disegno
+*MOT:	Melania .
+%mor:	n:prop|Melania .
+*MOT:	ha la borsetta .
+%mor:	v|ave-3S&PRES=have art|il&f&sg n|borsa-DIM-f&sg .
+*ELI:	perché [/] perché [>] ?
+%mor:	conj|perché ?
+*MOT:	< perché > [<] lei fa il bigliettaio .
+%mor:	conj|perché pro:pers|lei&3S&f=she v|face-3S&PRES=do art|il&m&sg
+	n|bigliettaio-m&sg=ticket_seller .
+*ELI:	perché ?
+%mor:	conj|perché ?
+*MOT:	il bimbo fa il macchinista (.) Melania fa il bigliettaio .
+%mor:	art|il&m&sg n|bimbo-m&sg v|face-3S&PRES=do art|il&m&sg
+	n|macchinista&m=engine_driver n:prop|Melania v|face-3S&PRES=do
+	art|il&m&sg n|bigliettaio-m&sg=ticket_seller .
+*MOT:	ognuno ha un biglietto (.) il coniglietto (.) la gallina e Teddy .
+%mor:	pro:det|ognuno-m&sg=everyone v|ave-3S&PRES=have art|uno&m&sg
+	n|biglietto-m&sg art|il&m&sg n|coniglio-DIM-m&sg=rabbit art|il&f&sg
+	n|gallina-f&sg conj|e n:prop|Teddy .
+*MOT:	hanno dato un biglietto alla gallina (.) un biglietto al coniglietto e a tutti gli animaletti vedi ?
+%mor:	v|ave-3P&PRES=have v|da-PPART&sg&m=give art|uno&m&sg
+	n|biglietto-m&sg prepart|a-f&sg n|gallina-f&sg art|uno&m&sg
+	n|biglietto-m&sg prepart|a-m&sg n|coniglio-DIM-m&sg=rabbit conj|e
+	prep|a=to det|tutto-m&pl=all art|il&m&pl n|animale-DIM-m&pl=animal
+	v|vede-2S&PRES=see ?
+*MOT:	e si sono accorti che hanno lasciato fuori Teddy !
+%mor:	conj|e pro:clit|si&3SP v|esse-3P&PRES=be
+	v|accorge-PPART&pl&m=notice pro:rel|che=that v|ave-3P&PRES=have
+	v|lascia-PPART&sg&m=leave adv|fuori n:prop|Teddy !
+*MOT:	è fuori che si bagna (.) guardalo poverino !
+%mor:	v|esse-3S&PRES=be adv|fuori pro:rel|che=that pro:clit|si&3SP
+	v|bagna-3S&PRES=wet vimp|guarda-2S&IMP~pro:clit|3S&m
+	adj|povero-DIM-m&sg !
+*MOT:	cosa facciamo ?
+%mor:	pro:int|cosa=what v|face-1P&PRES&SUB=do ?
+*ELI:	cosa facciamo , poverino !
+%mor:	pro:int|cosa=what v|face-1P&PRES&SUB=do cm|cm adj|povero-DIM-m&sg !
+*MOT:	è là fuori che si bagna (.) cosa possiamo fare ?
+%mor:	v|esse-3S&PRES=be adv|là adv|fuori pro:rel|che=that pro:clit|si&3SP
+	v|bagna-3S&PRES=wet pro:int|cosa=what v|pote-1P&PRES&SUB=be_able
+	vinf|face-INF=do ?
+*ELI:	lo prendiamo .
+%mor:	pro:clit|lo&3S&m v|prende-1P&PRES&SUB=catch .
+*MOT:	lo andiamo a prendere ?
+%mor:	pro:clit|lo&3S&m v|anda-1P&PRES&SUB=go prep|a=to
+	vinf|prende-INF=catch ?
+*ELI:	sì .
+%mor:	adv|sì .
+*MOT:	guardiamo se anche loro ci vanno a prendere Teddy .
+%mor:	vimp|guarda-1P&IMP=look conj|se conj|anche pro:pers|loro&3P=them
+	pro:clit|ci&1P v|anda-3P&PRES=go prep|a=to vinf|prende-INF=catch
+	n:prop|Teddy .
+*MOT:	e sì che ci vanno (.) guarda !
+%mor:	conj|e adv|sì pro:rel|che=that pro:clit|ci&1P v|anda-3P&PRES=go
+	co|guarda !
+*ELI:	Mina guarda (.) non ci vanno !
+%mor:	n:prop|Mina co|guarda adv|non pro:clit|ci&1P v|anda-3P&PRES=go !
+*MOT:	ma guarda che corre fuori (.) il bimbo lo porta dentro insieme allo zainetto .
+%mor:	conj|ma co|guarda pro:rel|che=that v|corre-3S&PRES=run adv|fuori
+	art|il&m&sg n|bimbo-m&sg pro:clit|lo&3S&m v|porta-3S&PRES=carry
+	adv|dentro=inside adv|insieme prepart|a-m&sg
+	n|zaino-DIM-m&sg=backpack .
+*MOT:	oh poverino (.) è tutto raffreddato .
+%mor:	co|oh adj|povero-DIM-m&sg v|esse-3S&PRES=be adv|tutto
+	v|raffredda-PPART&sg&m=cool .
+*ELI:	vedi che xxx e fa la doccia ?
+%mor:	v|vede-2S&PRES=see pro:rel|che=that conj|e v|face-3S&PRES=do
+	art|il&f&sg n|doccia-f&sg ?
+*MOT:	ma la doccia si fa spogliati .
+%mor:	conj|ma art|il&f&sg n|doccia-f&sg pro:clit|si&3SP v|face-3S&PRES=do
+	vimp|spoglia-2S&IMP~pro:clit|2S .
+*MOT:	lui s' è preso tutta l' acqua .
+%mor:	pro:pers|lui&3S&m=him pro:clit|si&3SP v|esse-3S&PRES=be
+	v|prende-PPART&sg&m=catch det|tutto-f&sg=all art|il&sg
+	n|acqua-f&sg=water .
+*MOT:	bisogna asciugarlo .
+%mor:	v|bisogna-3S&PRES=need vinf|asciuga-INF~pro:clit|3S&m .
+*MOT:	bisogna prima togliergli i vestiti bagnati e poi asciugarlo bene .
+%mor:	v|bisogna-3S&PRES=need adv|prima vinf|toglie-INF~pro:clit|3SP
+	art|il&m&pl n|vestito-m&pl adj|bagnato-m&pl conj|e adv|poi
+	vinf|asciuga-INF~pro:clit|3S&m adv|bene .
+*ELI:	quando si è fatto la doccia ?
+%mor:	adv|quando pro:clit|si&3SP v|esse-3S&PRES=be
+	vpart|face-PPART&sg&m=do art|il&f&sg n|doccia-f&sg ?
+*MOT:	ma quando tu ti bagni con l' acqua non fai la doccia (.) ti bagni se non hai l' ombrello .
+%mor:	conj|ma adv|quando pro:pers|tu&2S&SUBJ=you pro:clit|ti&2S
+	v|bagna-2S&PRES=wet prep|con=with art|il&sg n|acqua-f&sg=water
+	adv|non v|face-2S&PRES=do art|il&f&sg n|doccia-f&sg pro:clit|ti&2S
+	v|bagna-2S&PRES=wet conj|se adv|non v|ave-2S&PRES=have art|il&sg
+	n|ombrello-m&sg .
+*MOT:	la doccia la fai (.) in casa (.) col sapone .
+%mor:	art|il&f&sg n|doccia-f&sg pro:clit|la&3S&f v|face-2S&PRES=do
+	prep|in=in n|casa-f&sg prepart|co-m&sg n|sapone-m&sg .
+*ELI:	ma anche te .
+%mor:	conj|ma conj|anche pro:pers|te&2S&OBJ=you .
+*MOT:	questa è pioggia (.) non è doccia .
+%mor:	pro:det|questo-f&sg=this v|esse-3S&PRES=be n|pioggia-f&sg=rain
+	adv|non v|esse-3S&PRES=be n|doccia-f&sg .
+*ELI:	no: (.) dov' è la doccia ?
+%mor:	adv|no adv|dove v|esse-3S&PRES=be art|il&f&sg n|doccia-f&sg ?
+*ELI:	voglio vedere dov' è .
+%mor:	v|vole-1S&PRES=wish vinf|vede-INF=see adv|dove v|esse-3S&PRES=be .
+*ELI:	dov' è la sua mamma ?
+%mor:	adv|dove v|esse-3S&PRES=be art|il&f&sg pro:poss|suo-3S&f&sg=her
+	n|mamma-f&sg ?
+*ELI:	la sua mamma dov' è ?
+%mor:	art|il&f&sg pro:poss|suo-3S&f&sg=her n|mamma-f&sg adv|dove
+	v|esse-3S&PRES=be ?
+*ELI:	è questa ?
+%mor:	v|esse-3S&PRES=be pro:det|questo-f&sg=this ?
+*ELI:	hai visto il cagnone ?
+%mor:	v|ave-2S&PRES=have v|vede-PPART&sg&m=see art|il&m&sg
+	n|cagno-AUG-m&sg=dog ?
+*ELI:	e la sua mamma (.) co [//] cosa fa ?
+%mor:	conj|e art|il&f&sg pro:poss|suo-3S&f&sg=her n|mamma-f&sg
+	pro:int|cosa=what v|face-3S&PRES=do ?
+*ELI:	posso fare la doccia ?
+%mor:	v|pote-1S&PRES=be_able vinf|face-INF=do art|il&f&sg n|doccia-f&sg ?
+*ELI:	anche questo fa la doccia ?
+%mor:	conj|anche pro:det|questo-m&sg=this v|face-3S&PRES=do art|il&f&sg
+	n|doccia-f&sg ?
+*ELI:	posso fare la doccia ?
+%mor:	v|pote-1S&PRES=be_able vinf|face-INF=do art|il&f&sg n|doccia-f&sg ?
+%com:	Elisa si allontana per un attimo , poi torna
+*ELI:	hai capito ?
+%mor:	v|ave-2S&PRES=have v|capi-PPART&sg&m=understand ?
+*ELI:	ma dov' è che è la doccia ?
+%mor:	conj|ma adv|dove v|esse-3S&PRES=be pro:rel|che=that
+	v|esse-3S&PRES=be art|il&f&sg n|doccia-f&sg ?
+%com:	si sentono dei passi
+*ELI:	ma dov' è (.) ma dov' è la doccia ?
+%mor:	conj|ma adv|dove v|esse-3S&PRES=be conj|ma adv|dove
+	v|esse-3S&PRES=be art|il&f&sg n|doccia-f&sg ?
+*ELI:	qui non [/] (.) qui non c' è la doccia .
+%mor:	adv|qui adv|qui adv|non pro:clit|ci&1P v|esse-3S&PRES=be
+	art|il&f&sg n|doccia-f&sg .
+*ELI:	qua c' è solo il bagno .
+%mor:	adv|qua pro:clit|ci&1P v|esse-3S&PRES=be adv|solo art|il&m&sg
+	n|bagno-m&sg .
+*ELI:	mi leggi ?
+%mor:	pro:clit|mi&1S v|legge-2S&PRES=read ?
+*MOT:	ti rileggo tutto dall' inizio ?
+%mor:	pro:clit|ti&2S v|rilegge-1S&PRES=reread pro:det|tutto-m&sg=all
+	prepart|da-m&sg n|inizio-m&sg=beginning ?
+*ELI:	sì .
+%mor:	adv|sì .
+*MOT:	allora (.) all' inizio c' è un bimbo che è ancora a letto col suo orsetto (.) e dice +/.
+%mor:	co|allora prepart|a-m&sg n|inizio-m&sg=beginning pro:clit|ci&1P
+	v|esse-3S&PRES=be art|uno&m&sg n|bimbo-m&sg pro:rel|che=that
+	v|esse-3S&PRES=be adv|ancora prep|a=to n|letto-m&sg prepart|co-m&sg
+	pro:poss|suo-3S&m&sg=his n|orso-DIM-m&sg conj|e v|dice-3S&PRES=say
+	+/.
+*MOT:	+" io ho un orsacchiotto .
+%mor:	pro:pers|io&1S&SUBJ=I v|ave-1S&PRES=have art|uno&m&sg
+	n|orsacchiotto-m&sg .
+*MOT:	il suo pelo è molto morbido .
+%mor:	art|il&m&sg pro:poss|suo-3S&m&sg=his n|pelo-m&sg v|esse-3S&PRES=be
+	det|molto-m&sg=a_lot_of adj|morbido-m&sg .
+*MOT:	prima_di alzarmi ci facciamo ancora un po' di moine +/.
+%mor:	conj|prima_di=before vinf|alza-INF~pro:clit|1S pro:clit|ci&1P
+	v|face-1P&PRES&SUB=do adv|ancora art|uno&m&sg pro:det|poco-m&sg=few
+	prep|di=of n|moina-f&pl=caress +/.
+*ELI:	ma i [//] io devo leggere (.) io devo leggere .
+%mor:	conj|ma pro:pers|io&1S&SUBJ=I v|dove-1S&PRES=must
+	vinf|legge-INF=read pro:pers|io&1S&SUBJ=I v|dove-1S&PRES=must
+	vinf|legge-INF=read .
+*ELI:	vogliamo (.) ancora un po' di moine .
+%mor:	v|vole-1P&PRES&SUB=wish adv|ancora art|uno&m&sg
+	pro:det|poco-m&sg=few prep|di=of n|moina-f&pl=caress .
+*ELI:	mi metto a leggere .
+%mor:	pro:clit|mi&1S v|mette-1S&PRES=put prep|a=to vinf|legge-INF=read .
+*MOT:	io non ti dico niente invece (.) qui c' è scritto +...
+%mor:	pro:pers|io&1S&SUBJ=I adv|non pro:clit|ti&2S v|dice-1S&PRES=say
+	pro:det|niente=nothing adv|invece adv|qui pro:clit|ci&1P
+	v|esse-3S&PRES=be v|scrive-PPART&sg&m=write +...
+*ELI:	invece che io mangio le mele le xxx ai lamponi (.) tutto !
+%mor:	adv|invece pro:rel|che=that pro:pers|io&1S&SUBJ=I
+	v|mangia-1S&PRES=eat art|il&f&pl n|mela-f&pl art|il&f&pl
+	prepart|a-m&pl n|lampone-m&pl=raspberry pro:det|tutto-m&sg=all !
+*ELI:	vabé (.) io ti saluto .
+%mor:	co|vabé pro:pers|io&1S&SUBJ=I pro:clit|ti&2S v|saluta-1S&PRES=greet
+	.
+*ELI:	ti saluta , gli dici ciao ?
+%mor:	pro:clit|ti&2S v|saluta-3S&PRES=greet cm|cm pro:clit|gli&3S&m
+	v|dice-2S&PRES=say co|ciao ?
+*MOT:	ciao .
+%mor:	co|ciao .
+*ELI:	ti saluta !
+%mor:	pro:clit|ti&2S v|saluta-3S&PRES=greet !
+*ELI:	gli dai un bacino ?
+%mor:	pro:clit|gli&3S&m v|da-2S&PRES=give art|uno&m&sg
+	n|bacio-DIM-m&sg=kiss ?
+*MOT:	hm .
+%mor:	co|hm .
+%com:	scocca un bacio
+*ELI:	ti saluto (.) ciao !
+%mor:	pro:clit|ti&2S v|saluta-1S&PRES=greet co|ciao !
+*MOT:	ci vediamo domani ?
+%mor:	pro:clit|ci&1P v|vede-1P&PRES&SUB=see adv|domani ?
+*ELI:	ci vediamo domani !
+%mor:	pro:clit|ci&1P v|vede-1P&PRES&SUB=see adv|domani !
+*ELI:	e xxx sul pavimento .
+%mor:	conj|e prepart|su-m&sg n|pavimento-m&sg .
+*ELI:	xxx nel cassetto (.) cassetto [?] .
+%mor:	prepart|ne-m&sg n|cassetto-m&sg n|cassetto-m&sg .
+*ELI:	hai capito ?
+%mor:	v|ave-2S&PRES=have v|capi-PPART&sg&m=understand ?
+*ELI:	adesso (.) io dormo .
+%mor:	adv|adesso pro:pers|io&1S&SUBJ=I v|dormi-1S&PRES=sleep .
+@End

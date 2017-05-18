@@ -1,0 +1,298 @@
+@UTF8
+@PID:	11312/c-00030287-1
+@Begin
+@Languages:	ita
+@Participants:	ELI Elisa Child , MOT Mother
+@ID:	ita|Tonelli|ELI|1;11.04|female|||Child|||
+@ID:	ita|Tonelli|MOT|||||Mother|||
+@Birth of ELI:	15-SEP-1991
+@Date:	19-AUG-1993
+@Situation:	The child is talking with her mother
+*MOT:	guardiamo se è uguale .
+%mor:	vimp|guarda-1P&IMP=look conj|se v|esse-3S&PRES=be adj|uguale-sg .
+*ELI:	guardiamo se è uguale mhm .
+%mor:	vimp|guarda-1P&IMP=look conj|se v|esse-3S&PRES=be adj|uguale-sg
+	co|mhm .
+*MOT:	prendi l' altro di orsetti .
+%mor:	vimp|prende-2S&IMP=catch art|il&sg pro:det|altro-m&sg=another_one
+	prep|di=of n|orso-DIM-m&pl .
+*MOT:	lo spogli (.) cosa fai ?
+%mor:	pro:clit|lo&3S&m v|spoglia-sg&SUB=strip pro:int|cosa=what
+	v|face-2S&PRES=do ?
+*ELI:	lo spoglio .
+%mor:	pro:clit|lo&3S&m v|spoglia-1S&PRES=strip .
+*MOT:	e perché lo spogli (.) si è bagnato anche quello ?
+%mor:	conj|e conj|perché pro:clit|lo&3S&m v|spoglia-sg&SUB=strip
+	pro:clit|si&3SP v|esse-3S&PRES=be v|bagna-PPART&sg&m=wet conj|anche
+	pro:det|quello-m&sg=that ?
+*ELI:	no che non è bagnato .
+%mor:	adv|no pro:rel|che=that adv|non v|esse-3S&PRES=be
+	v|bagna-PPART&sg&m=wet .
+*MOT:	allora il pelo di quell' orsetto lì è morbido ?
+%mor:	co|allora art|il&m&sg n|pelo-m&sg prep|di=of det|quello-m&sg=that
+	n|orso-DIM-m&sg adv|lì v|esse-3S&PRES=be adj|morbido-m&sg ?
+*ELI:	è morbido .
+%mor:	v|esse-3S&PRES=be adj|morbido-m&sg .
+*ELI:	<xxx> [>] .
+*MOT:	<ce l' ha> [<] la bocchina ?
+%mor:	pro:clit|ci&1P pro:clit|lo&3S&m v|ave-3S&PRES=have art|il&f&sg
+	n|bocca-DIM-f&sg ?
+*ELI:	sì .
+%mor:	adv|sì .
+*MOT:	gli occhietti ?
+%mor:	art|il&m&pl n|occhio-DIM-m&pl=eye ?
+*ELI:	sì e anche le zampine .
+%mor:	adv|sì conj|e conj|anche art|il&f&pl n|zampa-DIM-f&pl=leg .
+*MOT:	le zampine (.) il nasino .
+%mor:	art|il&f&pl n|zampa-DIM-f&pl=leg art|il&m&sg n|naso-DIM-m&sg .
+*ELI:	sì .
+%mor:	adv|sì .
+*ELI:	anche [/] (.) anche le manine (.) e anche le zampone (.) e <anche le> [//] anche il naso .
+%mor:	conj|anche art|il&f&pl n|mano-DIM-f&pl=hand conj|e conj|anche
+	art|il&f&pl n|zampa-AUG-f&pl=leg conj|e conj|anche art|il&m&sg
+	n|naso-m&sg .
+*ELI:	ca [//] casa (.) sì c' è anche la casetta .
+%mor:	n|casa-f&sg adv|sì pro:clit|ci&1P v|esse-3S&PRES=be conj|anche
+	art|il&f&sg n|casa-DIM-f&sg .
+*MOT:	hm .
+%mor:	co|hm .
+*ELI:	funziona .
+%mor:	vimp|funziona-2S&IMP=function .
+*MOT:	funziona quell' orsetto lì ?
+%mor:	v|funziona-3S&PRES=function det|quello-m&sg=that n|orso-DIM-m&sg
+	adv|lì ?
+*ELI:	0 .
+*MOT:	ma a noi non ci interessa quell' orsetto lì .
+%mor:	conj|ma prep|a=to pro:pers|noi&1P=we adv|non pro:clit|ci&1P
+	v|interessa-3S&PRES=interest det|quello-m&sg=that n|orso-DIM-m&sg
+	adv|lì .
+*ELI:	sì , vedi ?
+%mor:	adv|sì cm|cm v|vede-2S&PRES=see ?
+%com:	si sente della musica
+*MOT:	ce l' avevamo un altro orsetto ancora (.) <oltre a questi> [>] ?
+%mor:	pro:clit|ci&1P pro:clit|lo&3S&m v|ave-1P&PAST=have art|uno&m&sg
+	det|altro-m&sg=other n|orso-DIM-m&sg adv|ancora prep|oltre=beyond
+	prep|a=to pro:det|questo-m&pl=this ?
+*ELI:	<ma dai è quello> [<] che [/] che è mo(r)bido .
+%mor:	conj|ma co|dai v|esse-3S&PRES=be pro:det|quello-m&sg=that
+	pro:rel|che=that v|esse-3S&PRES=be adj|morbido-m&sg .
+*MOT:	questo è morbido ?
+%mor:	pro:det|questo-m&sg=this v|esse-3S&PRES=be adj|morbido-m&sg ?
+*ELI:	sì .
+%mor:	adv|sì .
+*MOT:	hm ?
+%mor:	co|hm ?
+*ELI:	sì (.) è morbido .
+%mor:	adv|sì v|esse-3S&PRES=be adj|morbido-m&sg .
+*MOT:	guarda (.) secondo me è più morbido questo (.) guarda com' è morbido .
+%mor:	co|guarda prep|secondo=according_to pro:pers|me&1S&OBJ=me
+	v|esse-3S&PRES=be adv|più adj|morbido-m&sg pro:det|questo-m&sg=this
+	co|guarda adv|come v|esse-3S&PRES=be adj|morbido-m&sg .
+*ELI:	va bene xxx (.) questo è morbido .
+%mor:	v|anda-3S&PRES=go adv|bene pro:det|questo-m&sg=this
+	v|esse-3S&PRES=be adj|morbido-m&sg .
+*MOT:	guarda (.) secondo me è più morbido questo adesso che lo hanno tutto asciugato +/.
+%mor:	co|guarda prep|secondo=according_to pro:pers|me&1S&OBJ=me
+	v|esse-3S&PRES=be adv|più adj|morbido-m&sg pro:det|questo-m&sg=this
+	adv|adesso pro:rel|che=that pro:clit|lo&3S&m v|ave-3P&PRES=have
+	adv|tutto v|asciuga-PPART&sg&m=dry +/.
+*MOT:	vieni a vedere <com' è> [/] com' è lungo il pelo di questo orsetto (.) guarda .
+%mor:	vimp|veni-2S&IMP=come prep|a=to vinf|vede-INF=see adv|come
+	v|esse-3S&PRES=be adj|lungo-m&sg art|il&m&sg n|pelo-m&sg prep|di=of
+	det|questo-m&sg=this n|orso-DIM-m&sg co|guarda .
+*MOT:	poi sai che in fondo canta la canzoncina ?
+%mor:	conj|poi v|sape-2S&PRES=know pro:rel|che=that prep|in=in
+	n|fondo-m&sg=bottom v|canta-3S&PRES=sing art|il&f&sg
+	n|canzone-DIM-f&sg=song ?
+*MOT:	guarda com' è bello .
+%mor:	co|guarda adv|come v|esse-3S&PRES=be adj|bello-m&sg .
+*ELI:	che bello .
+%mor:	det|che=which adj|bello-m&sg .
+*MOT:	guarda questo .
+%mor:	co|guarda pro:det|questo-m&sg=this .
+*MOT:	questo treno piacerebbe molto a Giovanni perché porta la legna (.) guarda che bello .
+%mor:	det|questo-m&sg=this n|treno-m&sg v|piace-3S&COND=please
+	det|molto-m&sg=a_lot_of prep|a=to n:prop|Giovanni conj|perché
+	v|porta-3S&PRES=carry art|il&f&sg n|legna-f&sg co|guarda
+	det|che=which adj|bello-m&sg .
+*MOT:	vieni a vedere .
+%mor:	v|veni-2S&PRES=come prep|a=to vinf|vede-INF=see .
+*ELI:	ora Teddy parla .
+%mor:	adv|ora n:prop|Teddy v|parla-3S&PRES=speak .
+*MOT:	dobbiamo parlare noi (.) non deve parlare l' orsetto +/.
+%mor:	v|dove-1P&PRES&SUB=must vinf|parla-INF=speak pro:pers|noi&1P=we
+	adv|non v|dove-3S&PRES=must vinf|parla-INF=speak art|il&sg
+	n|orso-DIM-m&sg +/.
+*ELI:	no (.) dopo !
+%mor:	adv|no adv|dopo !
+*MOT:	quando abbiamo finito di parlare noi facciamo parlare l' orsetto .
+%mor:	adv|quando v|ave-1P&PRES&SUB=have v|fini-PPART&sg&m=finish
+	prep|di=of vinf|parla-INF=speak pro:pers|noi&1P=we
+	v|face-1P&PRES&SUB=do vinf|parla-INF=speak art|il&sg n|orso-DIM-m&sg
+	.
+*MOT:	vieni (.) dopo parla lui .
+%mor:	vimp|veni-2S&IMP=come adv|dopo v|parla-3S&PRES=speak
+	pro:pers|lui&3S&m=him .
+*ELI:	Teddy deve parlare .
+%mor:	n:prop|Teddy v|dove-3S&PRES=must vinf|parla-INF=speak .
+*MOT:	guarda questo treno .
+%mor:	co|guarda det|questo-m&sg=this n|treno-m&sg .
+*MOT:	c' è (.) la locomotiva , un vagone (.) .
+%mor:	pro:clit|ci&1P v|esse-3S&PRES=be art|il&f&sg
+	n|locomotiva-f&sg=locomotive cm|cm art|uno&m&sg n|vagone-m&sg=wagon
+	.
+*MOT:	poi c' è un carico di legna .
+%mor:	adv|poi pro:clit|ci&1P v|esse-3S&PRES=be art|uno&m&sg
+	v|carica-1S&PRES=load prep|di=of n|legna-f&sg .
+*MOT:	e poi c' è un altro vagone con sopra tutti gli omini .
+%mor:	conj|e adv|poi pro:clit|ci&1P v|esse-3S&PRES=be art|uno&m&sg
+	det|altro-m&sg=other n|vagone-m&sg=wagon prep|con=with adv|sopra
+	det|tutto-m&pl=all art|il&m&pl n|uomo-DIM-m&pl=man .
+*MOT:	solo che quando il treno arriva qui sotto a questo ponte questo omino li saluta .
+%mor:	adv|solo pro:rel|che=that adv|quando art|il&m&sg n|treno-m&sg
+	v|arriva-3S&PRES=arrive adv|qui prep|sotto=under prep|a=to
+	det|questo-m&sg=this n|ponte-m&sg det|questo-m&sg=this
+	n|uomo-DIM-m&sg=man pro:clit|li&3P&m v|saluta-3S&PRES=greet .
+%com:	Elisa annuisce
+*MOT:	e te li vedi mai i treni (.) dove vai a vedere i treni ?
+%mor:	conj|e pro:pers|te&2S&OBJ=you pro:clit|li&3P&m v|vede-2S&PRES=see
+	adv|mai art|il&m&pl n|treno-m&pl adv|dove v|anda-2S&PRES=go
+	prep|a=to vinf|vede-INF=see art|il&m&pl n|treno-m&pl ?
+*ELI:	dalla nonna .
+%mor:	prepart|da-f&sg n|nonna-f&sg .
+*MOT:	e dove vai per vederli meglio ?
+%mor:	conj|e adv|dove v|anda-2S&PRES=go prep|per=for
+	vinf|vede-INF~pro:clit|3P&m adv|meglio ?
+*ELI:	faccio così xxx xxx in piedi xxx nella seggiola .
+%mor:	v|face-1S&PRES=do adv|così prep|in=in n|piede-m&pl prepart|ne-f&sg
+	n|seggiola-f&sg=chair .
+*MOT:	sì oppure dove vai anche (.) su per le scalette ?
+%mor:	adv|sì conj|oppure adv|dove v|anda-2S&PRES=go conj|anche adv|su
+	prep|per=for art|il&f&pl n|scala-DIM-f&pl ?
+*ELI:	sì voglio vedere nella to(r)re .
+%mor:	adv|sì v|vole-1S&PRES=wish vinf|vede-INF=see prepart|ne-f&sg
+	n|torre-m&sg .
+*MOT:	nella torre .
+%mor:	prepart|ne-f&sg n|torre-m&sg .
+*MOT:	e con chi ci vai sulla torre ?
+%mor:	conj|e prep|con=with pro:int|chi=who pro:clit|ci&1P
+	v|anda-2S&PRES=go prepart|su-f&sg n|torre-m&sg ?
+*ELI:	con Giovanni e con la mammina .
+%mor:	prep|con=with n:prop|Giovanni conj|e prep|con=with art|il&f&sg
+	n|mamma-DIM-f&sg .
+*MOT:	e quando passano i treni cosa fai (.) li saluti ?
+%mor:	conj|e conj|quando v|passa-3P&PRES=spend art|il&m&pl n|treno-m&pl
+	pro:int|cosa=what v|face-2S&PRES=do pro:clit|li&3P&m
+	v|saluta-2S&PRES=greet ?
+*ELI:	sì .
+%mor:	adv|sì .
+*MOT:	cosa gli dici ?
+%mor:	pro:int|cosa=what pro:clit|gli&3S&m v|dice-2S&PRES=say ?
+*ELI:	ho detto +"/.
+%mor:	v|ave-1S&PRES=have vpart|dici-PPART&sg&m=say +"/.
+*ELI:	ciao treno !
+%mor:	co|ciao n|treno-m&sg !
+*MOT:	chi c' è su questo treno ?
+%mor:	pro:int|chi=who pro:clit|ci&1P v|esse-3S&PRES=be prep|su=on
+	det|questo-m&sg=this n|treno-m&sg ?
+*MOT:	ci sono dei bambini dei signori .
+%mor:	pro:clit|ci&1P v|esse-3P&PRES=be prepart|de-m&pl
+	n|bambino-m&pl=child prepart|de-m&pl n|signore-m&pl=sir .
+*ELI:	(.) ma non vedo xxx questo ?
+%mor:	conj|ma adv|non v|vede-1S&PRES=see pro:det|questo-m&sg=this ?
+*ELI:	Mina , me l' hai preso te ?
+%mor:	n:prop|Mina cm|cm pro:pers|me&1S&OBJ=me pro:clit|lo&3S&m
+	v|ave-2S&PRES=have v|prende-PPART&sg&m=catch pro:pers|te&2S&OBJ=you
+	?
+*MOT:	il libro ?
+%mor:	art|il&m&sg n|libro-m&sg ?
+*ELI:	dammi , dammi !
+%mor:	vimp|da-2S&IMP~pro:clit|1S cm|cm vimp|da-2S&IMP~pro:clit|1S !
+*ELI:	e allora prendilo .
+%mor:	conj|e co|allora vimp|prende-2S&IMP~pro:clit|3S&m .
+*MOT:	hm .
+%mor:	co|hm .
+*ELI:	posso [/] posso parlare ?
+%mor:	v|pote-1S&PRES=be_able vinf|parla-INF=speak ?
+*MOT:	no non [/] non lo far(e) parlare Teddy (.) parla te .
+%mor:	adv|no adv|non pro:clit|lo&3S&m vinf|face-INF=do
+	vinf|parla-INF=speak n:prop|Teddy vimp|parla-2S&IMP=speak
+	pro:pers|te&2S&OBJ=you .
+*MOT:	lo prendiamo dopo (.) quando andiamo a prendere Giovanni .
+%mor:	pro:clit|lo&3S&m v|prende-1P&PRES&SUB=catch adv|dopo conj|quando
+	v|anda-1P&PRES&SUB=go prep|a=to vinf|prende-INF=catch
+	n:prop|Giovanni .
+*MOT:	adesso [/] (.) adesso facciamo un(a) altra cosa .
+%mor:	adv|adesso v|face-1P&PRES&SUB=do art|uno&f&sg det|altro-f&sg=other
+	n|cosa-f&sg .
+*ELI:	no (.) e poi xxx .
+%mor:	adv|no conj|e adv|poi .
+*MOT:	ci prepariamo una cioccolata ?
+%mor:	pro:clit|ci&1P v|prepara-1P&PRES&SUB=prepare art|uno&f&sg
+	n|cioccolata-f&sg ?
+*ELI:	io preparo .
+%mor:	pro:pers|io&1S&SUBJ=I v|prepara-1S&PRES=prepare .
+*MOT:	dimmi come fai a prepararla la cioccolata !
+%mor:	vimp|dice-2S&IMP~pro:clit|1S conj|come v|face-2S&PRES=do prep|a=to
+	vinf|prepara-INF~pro:clit|3S&f art|il&f&sg n|cioccolata-f&sg !
+*ELI:	p(r)endo il latte e apro il fuoco .
+%mor:	v|prende-1S&PRES=catch art|il&m&sg n|latte-m&sg=milk conj|e
+	v|apri-1S&PRES=open art|il&m&sg n|fuoco-m&sg .
+*ELI:	poi xxx xxx .
+%mor:	adv|poi .
+*ELI:	ma anche zucchero .
+%mor:	conj|ma conj|anche n|zucchero-m&sg .
+*MOT:	e basta ?
+%mor:	conj|e v|basta-3S&PRES=suffice ?
+*MOT:	cosa ci vuole ancora ?
+%mor:	pro:int|cosa=what pro:clit|ci&1P v|vole-3S&PRES=want adv|ancora ?
+*ELI:	una tazza , una tazzina e i cucc(hi)aini .
+%mor:	art|uno&f&sg n|tazza-f&sg cm|cm art|uno&f&sg n|tazza-DIM-f&sg
+	conj|e art|il&m&pl n|cucchiaino-m&pl=teaspoon .
+*MOT:	sì per berla , ma cosa ci vuole ancora , prima di berla ?
+%mor:	adv|sì prep|per=for vinf|beve-INF~pro:clit|3S&f cm|cm conj|ma
+	pro:int|cosa=what pro:clit|ci&1P v|vole-3S&PRES=want adv|ancora
+	cm|cm adv|prima prep|di=of vinf|beve-INF~pro:clit|3S&f ?
+*ELI:	e poi brucia .
+%mor:	conj|e adv|poi v|brucia-3S&PRES=burn .
+*ELI:	ma anche i biscotti .
+%mor:	conj|ma conj|anche art|il&m&pl n|biscotto-m&pl .
+*ELI:	Mina , i biscotti della nonna !
+%mor:	n:prop|Mina cm|cm art|il&m&pl n|biscotto-m&pl prepart|de-f&sg
+	n|nonna-f&sg !
+*MOT:	sì , lo sai dove sono i biscotti della nonna ?
+%mor:	adv|sì cm|cm pro:clit|lo&3S&m v|sape-2S&PRES=know adv|dove
+	v|esse-3P&PRES=be art|il&m&pl n|biscotto-m&pl prepart|de-f&sg
+	n|nonna-f&sg ?
+*ELI:	0 .
+*MOT:	non lo sai più ?
+%mor:	adv|non pro:clit|lo&3S&m v|sape-2S&PRES=know adv|più ?
+*ELI:	sì io prendo i biscotti .
+%mor:	adv|sì pro:pers|io&1S&SUBJ=I v|prende-1S&PRES=catch art|il&m&pl
+	n|biscotto-m&pl .
+*ELI:	ma anche Angelo li mangia tutti .
+%mor:	conj|ma conj|anche n:prop|Angelo pro:clit|li&3P&m
+	v|mangia-3S&PRES=eat pro:det|tutto-m&pl=all .
+*MOT:	appunto , li abbiamo nascosti fino a domani , sennò Angelo li mangia tutti e poi sta male .
+%mor:	adv|appunto cm|cm pro:clit|li&3P&m v|ave-1P&PRES&SUB=have
+	v|nasconde-PPART&pl&m=hide prep|fino=until prep|a=to adv|domani
+	cm|cm conj|sennò n:prop|Angelo pro:clit|li&3P&m v|mangia-3S&PRES=eat
+	pro:det|tutto-m&pl=all conj|e adv|poi v|sta-3S&PRES=stay adv|male .
+*ELI:	mammina , dammi i biscottini !
+%mor:	n|mamma-DIM-f&sg cm|cm vimp|da-2S&IMP~pro:clit|1S art|il&m&pl
+	n|biscotto-DIM-m&pl !
+*ELI:	dammi i biscotti !
+%mor:	vimp|da-2S&IMP~pro:clit|1S art|il&m&pl n|biscotto-m&pl !
+*MOT:	ora li andiamo a prendere , ma prima dimmi dove sono .
+%mor:	adv|ora pro:clit|li&3P&m v|anda-1P&PRES&SUB=go prep|a=to
+	vinf|prende-INF=catch cm|cm conj|ma adv|prima
+	vimp|dice-2S&IMP~pro:clit|1S adv|dove v|esse-3P&PRES=be .
+*MOT:	dove li abbiamo messi , non lo sai più ?
+%mor:	adv|dove pro:clit|li&3P&m v|ave-1P&PRES&SUB=have
+	v|mette-PPART&pl&m=put cm|cm adv|non pro:clit|lo&3S&m
+	v|sape-2S&PRES=know adv|più ?
+*ELI:	xxx xxx anche qui .
+%mor:	conj|anche adv|qui .
+%com:	parla sottovoce
+*MOT:	xxx .
+@End

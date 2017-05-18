@@ -1,0 +1,634 @@
+@UTF8
+@PID:	11312/c-00030290-1
+@Begin
+@Languages:	ita
+@Participants:	ELI Elisa Child , MOT Mother
+@ID:	ita|Tonelli|ELI|2;1.20|female|||Child|||
+@ID:	ita|Tonelli|MOT|||||Mother|||
+@Birth of ELI:	15-SEP-1991
+@Date:	05-NOV-1993
+@Situation:	The child is talking with her mother
+*ELI:	è questo ?
+%mor:	v|esse-3S&PRES=be pro:det|questo-m&sg=this ?
+*MOT:	xxx mangiare per bene .
+%mor:	vinf|mangia-INF=eat prep|per=for adv|bene .
+*MOT:	cosa c' hai nella valigetta ?
+%mor:	pro:int|cosa=what pro:clit|ci&1P v|ave-2S&PRES=have prepart|ne-f&sg
+	n|valigia-DIM-f&sg=suit_case ?
+*ELI:	c' è (.) solo questo qui e questo .
+%mor:	pro:clit|ci&1P v|esse-3S&PRES=be adv|solo pro:det|questo-m&sg=this
+	adv|qui conj|e pro:det|questo-m&sg=this .
+*ELI:	lo metto (q)ui .
+%mor:	pro:clit|lo&3S&m v|mette-1S&PRES=put adv|qui .
+*ELI:	xxx che lo metto (q)ui .
+%mor:	pro:rel|che=that pro:clit|lo&3S&m v|mette-1S&PRES=put adv|qui .
+*MOT:	sì .
+%mor:	adv|sì .
+*ELI:	allo(r)a buttalo .
+%mor:	co|allora vimp|butta-2S&IMP~pro:clit|3S&m .
+*ELI:	buttami il mandancio [: mandarancio] .
+%mor:	vimp|butta-2S&IMP~pro:clit|1S art|il&m&sg
+	n|mandarancio-m&sg=clementine .
+*ELI:	buttami il mandancio [: mandarancio] .
+%mor:	vimp|butta-2S&IMP~pro:clit|1S art|il&m&sg
+	n|mandarancio-m&sg=clementine .
+*ELI:	&m mettilo nel mandarancio .
+%mor:	vimp|mette-2S&IMP~pro:clit|3S&m prepart|ne-m&sg
+	n|mandarancio-m&sg=clementine .
+*ELI:	buttalo (.) il mandarancio .
+%mor:	vimp|butta-2S&IMP~pro:clit|3S&m art|il&m&sg
+	n|mandarancio-m&sg=clementine .
+*ELI:	buttalo .
+%mor:	vimp|butta-2S&IMP~pro:clit|3S&m .
+*MOT:	prima fammi da mangiare qui sul fornello (.) dai .
+%mor:	adv|prima vimp|face-2S&IMP~pro:clit|1S prep|da=at
+	vinf|mangia-INF=eat adv|qui prepart|su-m&sg n|fornello-m&sg=stove
+	co|dai .
+*ELI:	ah (.) allora [/] allora mi dai quello (.) mammina ?
+%mor:	co|ah co|allora pro:clit|mi&1S v|da-2S&PRES=give
+	det|quello-m&sg=that n|mamma-DIM-f&sg ?
+*ELI:	quello lì .
+%mor:	pro:det|quello-m&sg=that adv|lì .
+*MOT:	sì (.) apriamo qua .
+%mor:	adv|sì v|apri-1P&PRES&SUB=open adv|qua .
+*ELI:	sì (.) xxx tutto lì .
+%mor:	adv|sì pro:det|tutto-m&sg=all adv|lì .
+%com:	rovesciano i giocattoli
+*MOT:	mh@i .
+%mor:	int|mh .
+*ELI:	il xxx (.) era qui nel fornellone [: fornellino][*] .
+%mor:	art|il&m&sg v|esse-3S&PAST=be adv|qui prepart|ne-m&sg
+	n|fornello-DIM-m&sg=stove .
+*ELI:	xxx e qui nel fornellino .
+%mor:	conj|e adv|qui prepart|ne-m&sg n|fornello-DIM-m&sg=stove .
+*ELI:	allora (.) &m Mina (.) te mangi la banana e io mangio il mandarancio (.) eh .
+%mor:	adv|allora n:prop|Mina pro:pers|te&2S&OBJ=you v|mangia-sg&SUB=eat
+	art|il&f&sg n|banana-f&sg conj|e pro:pers|io&1S&SUBJ=I
+	v|mangia-1S&PRES=eat art|il&m&sg n|mandarancio-m&sg=clementine co|eh
+	.
+*MOT:	prima mettiamo su nel fornellino mettiamo (.) questa [/] (.) questa grossa .
+%mor:	adv|prima v|mette-1P&PRES&SUB=put adv|su prepart|ne-m&sg
+	n|fornello-DIM-m&sg=stove v|mette-1P&PRES&SUB=put
+	pro:det|questo-f&sg=this adj|grosso-f&sg .
+*ELI:	quetto [: questo] ?
+%mor:	pro:det|questo-m&sg=this ?
+*MOT:	grosso .
+%mor:	adj|grosso-m&sg .
+*ELI:	questo ?
+%mor:	pro:det|questo-m&sg=this ?
+*MOT:	hm .
+%mor:	co|hm .
+*ELI:	oh (.) questo lo mettiamo +/.
+%mor:	co|oh pro:det|questo-m&sg=this pro:clit|lo&3S&m
+	v|mette-1P&PRES&SUB=put +/.
+*MOT:	qua .
+%mor:	adv|qua .
+*MOT:	mentre cuoce la minestra mi prepari un caffé ?
+%mor:	conj|mentre v|cuoce-3S&PRES=cook art|il&f&sg n|minestra-f&sg=soup
+	pro:clit|mi&1S v|prepara-2S&PRES=prepare art|uno&m&sg
+	n|caffé&m=coffee ?
+*ELI:	e dove lo metto ?
+%mor:	conj|e adv|dove pro:clit|lo&3S&m v|mette-1S&PRES=put ?
+*MOT:	nella tazzina .
+%mor:	prepart|ne-f&sg n|tazza-DIM-f&sg .
+*ELI:	no lo metto qui dove c' è il minestrone .
+%mor:	adv|no pro:clit|lo&3S&m v|mette-1S&PRES=put adv|qui adv|dove
+	pro:clit|ci&1P v|esse-3S&PRES=be art|il&m&sg
+	n|minestrone-m&sg=vegetable_soup .
+*ELI:	e qui ci metto questo .
+%mor:	conj|e adv|qui pro:clit|ci&1P v|mette-1S&PRES=put
+	pro:det|questo-m&sg=this .
+*ELI:	ah (.) xxx (.) questo dove te lo metto ?
+%mor:	co|ah pro:det|questo-m&sg=this adv|dove pro:pers|te&2S&OBJ=you
+	pro:clit|lo&3S&m v|mette-1S&PRES=put ?
+*ELI:	lì .
+%mor:	adv|lì .
+*ELI:	<dove ti metto questo> [/] dove ti metto questo .
+%mor:	adv|dove pro:clit|ti&2S v|mette-1S&PRES=put
+	pro:det|questo-m&sg=this .
+*ELI:	e poi (.) &m metto ?
+%mor:	conj|e adv|poi v|mette-1S&PRES=put ?
+*MOT:	ormai il caffé è pronto .
+%mor:	adv|ormai art|il&m&sg n|caffé&m=coffee v|esse-3S&PRES=be
+	adj|pronto-m&sg=ready .
+*ELI:	ah (.) il caffé è pronto .
+%mor:	co|ah art|il&m&sg n|caffé&m=coffee v|esse-3S&PRES=be
+	adj|pronto-m&sg=ready .
+*ELI:	tu tu tututu@wp .
+%mor:	pro:pers|tu&2S&SUBJ=you pro:pers|tu&2S&SUBJ=you wplay|tututu .
+*ELI:	e dove sono i cuccaini [: cucchiaini] (.) non lo sai dove sono ?
+%mor:	conj|e adv|dove v|esse-3P&PRES=be art|il&m&pl
+	n|cucchiaino-m&pl=teaspoon adv|non pro:clit|lo&3S&m
+	v|sape-2S&PRES=know adv|dove v|esse-3P&PRES=be ?
+*MOT:	usiamo questi .
+%mor:	v|usa-1P&PRES&SUB=use pro:det|questo-m&pl=this .
+*MOT:	questo come cucchiaino .
+%mor:	pro:det|questo-m&sg=this adv|come n|cucchiaino-m&sg=teaspoon .
+*ELI:	dai (.) dai (.) te lo mangi .
+%mor:	co|dai vimp|da-2S&IMP=give pro:clit|ti&2S pro:clit|lo&3S&m
+	v|mangia-sg&SUB=eat .
+*ELI:	te lo mangi che xxx il cucc(hi)aino .
+%mor:	pro:clit|ti&2S pro:clit|lo&3S&m v|mangia-sg&SUB=eat
+	pro:rel|che=that art|il&m&sg n|cucchiaino-m&sg=teaspoon .
+*MOT:	lo zucchero ce l' hai messo ?
+%mor:	art|il&m&sg n|zucchero-m&sg pro:clit|ci&1P pro:clit|lo&3S&m
+	v|ave-2S&PRES=have v|mette-PPART&sg&m=put ?
+*ELI:	no non te l' ho messo lo zucchero .
+%mor:	adv|no adv|non pro:clit|ti&2S pro:clit|lo&3S&m v|ave-1S&PRES=have
+	v|mette-PPART&sg&m=put art|il&m&sg n|zucchero-m&sg .
+*ELI:	aspetta che te lo metto xxx .
+%mor:	vimp|aspetta-2S&IMP=wait pro:rel|che=that pro:clit|ti&2S
+	pro:clit|lo&3S&m v|mette-1S&PRES=put .
+*ELI:	xxx .
+*ELI:	te l' ho messo .
+%mor:	pro:clit|ti&2S pro:clit|lo&3S&m v|ave-1S&PRES=have
+	v|mette-PPART&sg&m=put .
+*ELI:	<ora gi> [//] ora giro io .
+%mor:	adv|ora v|gira-1S&PRES=turn pro:pers|io&1S&SUBJ=I .
+*ELI:	ce la fai a gira(r)lo ?
+%mor:	pro:clit|ci&1P pro:clit|la&3S&f v|face-2S&PRES=do prep|a=to
+	vinf|gira-INF~pro:clit|3S&m ?
+*MOT:	hm .
+%mor:	co|hm .
+*ELI:	allora gira (.) giralo .
+%mor:	co|allora vimp|gira-2S&IMP=turn vimp|gira-2S&IMP~pro:clit|3S&m .
+*ELI:	<dammi questo> [/] (.) Mina dammi questo .
+%mor:	n:prop|Mina vimp|da-2S&IMP~pro:clit|1S pro:det|questo-m&sg=this .
+*ELI:	dammi questo .
+%mor:	vimp|da-2S&IMP~pro:clit|1S pro:det|questo-m&sg=this .
+*MOT:	ho bevuto (.) lava .
+%mor:	v|ave-1S&PRES=have v|beve-PPART&sg&m=drink n|lava-f&sg .
+*ELI:	ma dammi +/.
+%mor:	conj|ma vimp|da-2S&IMP~pro:clit|1S +/.
+*MOT:	questo lo prendo io che ti dà fastidio mentre mangi (.) dai .
+%mor:	pro:det|questo-m&sg=this pro:clit|lo&3S&m v|prende-1S&PRES=catch
+	pro:pers|io&1S&SUBJ=I pro:rel|che=that pro:clit|ti&2S
+	v|da-3S&PRES=give n|fastidio-m&sg conj|mentre v|mangia-sg&SUB=eat
+	co|dai .
+*MOT:	poi .
+%mor:	adv|poi .
+*ELI:	no .
+%mor:	adv|no .
+*MOT:	tieni .
+%mor:	vimp|tene-2S&IMP=hold .
+*MOT:	ecco .
+%mor:	adv:dem|ecco .
+*ELI:	no (.) Mina dai .
+%mor:	adv|no n:prop|Mina co|dai .
+*MOT:	mettiamo questo .
+%mor:	v|mette-1P&PRES&SUB=put det|questo-m&sg=this .
+*ELI:	ah (.) qui ci va la banana .
+%mor:	co|ah adv|qui pro:clit|ci&1P v|anda-3S&PRES=go art|il&f&sg
+	n|banana-f&sg .
+*ELI:	me la apri tutta che &l la facciamo a pezzettini (.) tutti a pezzettini qui vicino alla banana .
+%mor:	pro:clit|mi&1S pro:clit|la&3S&f v|apri-2S&PRES=open
+	pro:det|tutto-f&sg=all pro:rel|che=that pro:clit|la&3S&f
+	v|face-1P&PRES&SUB=do prep|a=to n|pezzo-DIM-DIM-m&pl=piece
+	pro:det|tutto-m&pl=all prep|a=to n|pezzo-DIM-DIM-m&pl=piece adv|qui
+	adv|vicino prepart|a-f&sg n|banana-f&sg .
+*ELI:	dai sì .
+%mor:	co|dai adv|sì .
+*ELI:	dai .
+%mor:	co|dai .
+*ELI:	Mina me l' hai fatta a pezzetti(ni) +...
+%mor:	n:prop|Mina pro:clit|mi&1S pro:clit|lo&3S&m v|ave-2S&PRES=have
+	vpart|face-PPART&sg&f=do prep|a=to n|pezzo-DIM-DIM-m&pl=piece +...
+*ELI:	mangia (.) i miei mammina mangia il mio .
+%mor:	vimp|mangia-2S&IMP=eat art|il&m&pl pro:poss|mio-1S&m&pl=my
+	n|mamma-DIM-f&sg v|mangia-3S&PRES=eat art|il&m&sg
+	pro:poss|mio-1S&m&sg=my .
+*ELI:	<no così> [/] mammina no così .
+%mor:	n|mamma-DIM-f&sg adv|no adv|così .
+*ELI:	con (.) così .
+%mor:	prep|con=with adv|così .
+*ELI:	ma non ci [: si] mettono qui (.) nel piattino (.) ci [: si] tagliano .
+%mor:	conj|ma adv|non pro:clit|si&3SP v|mette-3P&PRES=put adv|qui
+	prepart|ne-m&sg n|piatto-DIM-m&sg pro:clit|si&3SP
+	v|taglia-3P&PRES=cut .
+*ELI:	e te (.) ti fa male ?
+%mor:	conj|e pro:pers|te&2S&OBJ=you pro:clit|ti&2S v|face-3S&PRES=do
+	adv|male ?
+%com:	mangia
+*ELI:	quando ho finito di mangiare (.) poi mi dai anche una lira [?] .
+%mor:	adv|quando v|ave-1S&PRES=have v|fini-PPART&sg&m=finish prep|di=of
+	vinf|mangia-INF=eat adv|poi pro:clit|mi&1S v|da-2S&PRES=give
+	conj|anche art|uno&f&sg n|lira-f&sg .
+*MOT:	ma vieni a cuocere la minestra .
+%mor:	conj|ma vimp|veni-2S&IMP=come prep|a=to vinf|cuoce-INF=cook
+	art|il&f&sg n|minestra-f&sg=soup .
+*ELI:	guarda che questa non è la minestra (.) <sono le> [//] sono dei formaggi .
+%mor:	co|guarda pro:rel|che=that pro:det|questo-f&sg=this adv|non
+	v|esse-3S&PRES=be art|il&f&sg n|minestra-f&sg=soup v|esse-3P&PRES=be
+	prepart|de-m&pl n|formaggio-m&pl=cheese .
+*ELI:	e non ti devi mettere (.) la xxx (.) ti devi mettere +/.
+%mor:	conj|e adv|non pro:clit|ti&2S v|dove-2S&PRES=must
+	vinf|mette-INF=put art|il&f&sg pro:clit|ti&2S v|dove-2S&PRES=must
+	vinf|mette-INF=put +/.
+*MOT:	è la minestra questa (.) eccola qua .
+%mor:	v|esse-3S&PRES=be art|il&f&sg n|minestra-f&sg=soup
+	pro:det|questo-f&sg=this adv:dem|ecco~pro:clit|3S&f adv|qua .
+*ELI:	guarda che non è la minestra !
+%mor:	co|guarda pro:rel|che=that adv|non v|esse-3S&PRES=be art|il&f&sg
+	n|minestra-f&sg=soup !
+*ELI:	<te l' ho detto> [/] che non è la minestra (.) te l' ho detto .
+%mor:	pro:rel|che=that adv|non v|esse-3S&PRES=be art|il&f&sg
+	n|minestra-f&sg=soup pro:clit|ti&2S pro:clit|lo&3S&m
+	v|ave-1S&PRES=have vpart|dici-PPART&sg&m=say .
+*ELI:	e invece te la metti via .
+%mor:	conj|e adv|invece pro:clit|ti&2S pro:clit|la&3S&f
+	v|mette-2S&PRES=put adv|via .
+*ELI:	e [/] (.) e [/] (.) e io metto la zucchina .
+%mor:	conj|e pro:pers|io&1S&SUBJ=I v|mette-1S&PRES=put art|il&f&sg
+	n|zucca-DIM-f&sg=pumpkin .
+*ELI:	xxx la minestra che non (.) ho messo qui nel minestrone .
+%mor:	art|il&f&sg n|minestra-f&sg=soup pro:rel|che=that adv|non
+	v|ave-1S&PRES=have v|mette-PPART&sg&m=put adv|qui prepart|ne-m&sg
+	n|minestrone-m&sg=vegetable_soup .
+*ELI:	ho messo qui i mandaranci .
+%mor:	v|ave-1S&PRES=have v|mette-PPART&sg&m=put adv|qui art|il&m&pl
+	n|mandarancio-m&pl=clementine .
+*ELI:	xxx .
+*ELI:	dov' è il succo xxx ?
+%mor:	adv|dove v|esse-3S&PRES=be art|il&m&sg n|succo-m&sg ?
+*ELI:	questo bib [: biberon] è succo xxx eh .
+%mor:	det|questo-m&sg=this n|biberon&m v|esse-3S&PRES=be n|succo-m&sg
+	co|eh .
+*ELI:	aspetta cambiamo .
+%mor:	vimp|aspetta-2S&IMP=wait vimp|cambia-1P&IMP=exchange .
+*ELI:	allora uno era qui (.) xxx .
+%mor:	co|allora art|uno&m&sg v|esse-3S&PAST=be adv|qui .
+*ELI:	xxx (.) ah qui (.) una qui (.) una una (.) qui una una (.) una qui .
+%mor:	co|ah adv|qui art|uno&f&sg adv|qui art|uno&f&sg art|uno&f&sg
+	adv|qui art|uno&f&sg art|uno&f&sg art|uno&f&sg adv|qui .
+*ELI:	xxx .
+%com:	farfuglia
+*ELI:	ecco qui .
+%mor:	adv:dem|ecco adv|qui .
+*ELI:	xxx questo non è .
+%mor:	pro:det|questo-m&sg=this adv|non v|esse-3S&PRES=be .
+*ELI:	la mietta@wp .
+%mor:	art|il&f&sg wplay|mietta .
+*ELI:	xxx (.) vedi ?
+%mor:	v|vede-2S&PRES=see ?
+*ELI:	questi li mettiamo (.) sul &p &p &p piattino .
+%mor:	pro:det|questo-m&pl=this pro:clit|li&3P&m v|mette-1P&PRES&SUB=put
+	prepart|su-m&sg n|piatto-DIM-m&sg .
+*ELI:	che faccio xxx .
+%mor:	det|che=which v|face-1S&PRES=do .
+*ELI:	eccolo xxx .
+%mor:	adv:dem|ecco~pro:clit|3S&m .
+*ELI:	Mina (.) mi hai trovato i miei coppettini@wp ?
+%mor:	n:prop|Mina pro:clit|mi&1S v|ave-2S&PRES=have
+	v|trova-PPART&sg&m=find art|il&m&pl pro:poss|mio-1S&m&pl=my
+	wplay|coppettini ?
+*ELI:	ah (.) Mina xxx è piccolo (.) guardalo .
+%mor:	co|ah n:prop|Mina v|esse-3S&PRES=be adj|piccolo-m&sg
+	vimp|guarda-2S&IMP~pro:clit|3S&m .
+*MOT:	i piattini (.) per mangiare .
+%mor:	art|il&m&pl n|piatto-DIM-m&pl prep|per=for vinf|mangia-INF=eat .
+*ELI:	e le tazzine dove sono ?
+%mor:	conj|e art|il&f&pl n|tazza-DIM-f&pl adv|dove v|esse-3P&PRES=be ?
+*ELI:	le a(l)tre tazzine dove +...
+%mor:	art|il&f&pl pro:det|altro-m&sg=another_one n|tazza-DIM-f&pl
+	adv|dove +...
+*ELI:	l' a(l)tro piattino dov' è ?
+%mor:	art|il&sg det|altro-m&sg=other n|piatto-DIM-m&sg adv|dove
+	v|esse-3S&PRES=be ?
+*ELI:	guarda (.) il piattino xxx .
+%mor:	co|guarda art|il&m&sg n|piatto-DIM-m&sg .
+*ELI:	e c' è solo +...
+%mor:	conj|e pro:clit|ci&1P v|esse-3S&PRES=be adv|solo +...
+*ELI:	ciao ciao !
+%mor:	co|ciao co|ciao !
+*ELI:	xxx .
+%com:	farfuglia
+*ELI:	ciao .
+%mor:	co|ciao .
+*ELI:	xxx .
+%com:	imita il ronzio del motore di una macchina
+*ELI:	<te sei xxx te sei xxx> [/] te sei xxx .
+%mor:	pro:clit|ti&2S v|esse-2S&PRES=be .
+*ELI:	xxx .
+%com:	parla tra sé e sé
+*ELI:	mangi (.) tutta la banana (.) c' è una banana (.) c' è un(a) altra banana .
+%mor:	v|mangia-sg&SUB=eat det|tutto-f&sg=all art|il&f&sg n|banana-f&sg
+	pro:clit|ci&1P v|esse-3S&PRES=be art|uno&f&sg n|banana-f&sg
+	pro:clit|ci&1P v|esse-3S&PRES=be art|uno&f&sg det|altro-f&sg=other
+	n|banana-f&sg .
+*ELI:	qua c' è un [/] (.) un piattino .
+%mor:	adv|qua pro:clit|ci&1P v|esse-3S&PRES=be art|uno&m&sg
+	n|piatto-DIM-m&sg .
+*ELI:	c' è (.) xxx banana .
+%mor:	pro:clit|ci&1P v|esse-3S&PRES=be n|banana-f&sg .
+*ELI:	c' è un(a) a(l)tra banana !
+%mor:	pro:clit|ci&1P v|esse-3S&PRES=be art|uno&f&sg det|altro-f&sg=other
+	n|banana-f&sg !
+*ELI:	qua c' è un piattino .
+%mor:	adv|qua pro:clit|ci&1P v|esse-3S&PRES=be art|uno&m&sg
+	n|piatto-DIM-m&sg .
+*ELI:	xxx la sedia .
+%mor:	art|il&f&sg n|sedia-f&sg .
+*ELI:	ma mi dai quel piattino viola ?
+%mor:	conj|ma pro:clit|mi&1S v|da-2S&PRES=give det|quello-m&sg=that
+	n|piatto-DIM-m&sg adj|viola=violet ?
+*ELI:	ma mi dai quel piattino viola ?
+%mor:	conj|ma pro:clit|mi&1S v|da-2S&PRES=give det|quello-m&sg=that
+	n|piatto-DIM-m&sg adj|viola=violet ?
+*ELI:	aia@i .
+%mor:	int|aia .
+*ELI:	xxx .
+%com:	urla
+*MOT:	non c' è il piattino (.) quello viola .
+%mor:	adv|non pro:clit|ci&1P v|esse-3S&PRES=be art|il&m&sg
+	n|piatto-DIM-m&sg det|quello-m&sg=that adj|viola=violet .
+*MOT:	sarà qua sotto (.) aspetta .
+%mor:	v|esse-3S&FUT=be adv|qua prep|sotto=under vimp|aspetta-2S&IMP=wait
+	.
+*ELI:	qua sotto (.) qua sotto .
+%mor:	adv|qua prep|sotto=under adv|qua prep|sotto=under .
+*ELI:	qui non c' è .
+%mor:	adv|qui adv|non pro:clit|ci&1P v|esse-3S&PRES=be .
+*ELI:	qui c' è .
+%mor:	adv|qui pro:clit|ci&1P v|esse-3S&PRES=be .
+*ELI:	qui c' è +...
+%mor:	adv|qui pro:clit|ci&1P v|esse-3S&PRES=be +...
+*ELI:	oh (.) xxx via !
+%mor:	co|oh adv|via !
+*ELI:	aspetta (.) mammina .
+%mor:	vimp|aspetta-2S&IMP=wait n|mamma-DIM-f&sg .
+*ELI:	xxx .
+*ELI:	ah (.) ho finito di mangiare basta .
+%mor:	co|ah v|ave-1S&PRES=have v|fini-PPART&sg&m=finish prep|di=of
+	vinf|mangia-INF=eat v|basta-3S&PRES=suffice .
+*ELI:	dai (.) aspetta mammina (.) dammelo .
+%mor:	co|dai vimp|aspetta-2S&IMP=wait n|mamma-DIM-f&sg
+	vimp|da-2S&IMP~pro:clit|1S~pro:clit|3S&m .
+*ELI:	<dammelo> [/] (.) Mina (.) dammelo .
+%mor:	n:prop|Mina vimp|da-2S&IMP~pro:clit|1S~pro:clit|3S&m .
+*ELI:	dammelo &=sottovoce .
+%mor:	vimp|da-2S&IMP~pro:clit|1S~pro:clit|3S&m .
+*ELI:	dammelo &=forte !
+%mor:	vimp|da-2S&IMP~pro:clit|1S~pro:clit|3S&m !
+*ELI:	<dammelo (.) dammelo> [/] mammina dammelo .
+%mor:	n|mamma-DIM-f&sg vimp|da-2S&IMP~pro:clit|1S~pro:clit|3S&m .
+@New Episode
+*ELI:	oh (.) ma mi fai un xxx ?
+%mor:	co|oh conj|ma pro:clit|mi&1S v|face-2S&PRES=do art|uno&m&sg ?
+*ELI:	ma mi xxx .
+%mor:	conj|ma pro:clit|mi&1S .
+*MOT:	sì (.) te la faccio sentire davvero .
+%mor:	adv|sì pro:clit|ti&2S pro:clit|la&3S&f v|face-1S&PRES=do
+	vinf|senti-INF=feel adv|davvero .
+*ELI:	ah (.) quand(o) ho mangiato .
+%mor:	co|ah adv|quando v|ave-1S&PRES=have v|mangia-PPART&sg&m=eat .
+*MOT:	è cotta la minestra ?
+%mor:	v|esse-3S&PRES=be v|cuoce-PPART&sg&f=cook art|il&f&sg
+	n|minestra-f&sg=soup ?
+*ELI:	sì è cotta !
+%mor:	adv|sì v|esse-3S&PRES=be v|cuoce-PPART&sg&f=cook !
+*MOT:	cosa ci hai messo nella minestra ?
+%mor:	pro:int|cosa=what pro:clit|ci&1P v|ave-2S&PRES=have
+	v|mette-PPART&sg&m=put prepart|ne-f&sg n|minestra-f&sg=soup ?
+*ELI:	ci metto le ca(r)ote .
+%mor:	pro:clit|ci&1P v|mette-1S&PRES=put art|il&f&pl n|carota-f&pl .
+*MOT:	e poi ?
+%mor:	conj|e adv|poi ?
+*ELI:	e poi niente ci metto solo il sedano .
+%mor:	conj|e adv|poi adv|niente pro:clit|ci&1P v|mette-1S&PRES=put
+	adv|solo art|il&m&sg n|sedano-m&sg=celery .
+*MOT:	il sedano e poi ?
+%mor:	art|il&m&sg n|sedano-m&sg=celery conj|e adv|poi ?
+*ELI:	e poi niente .
+%mor:	conj|e adv|poi pro:det|niente=nothing .
+*MOT:	la patata no ?
+%mor:	art|il&f&sg n|patata-f&sg adv|no ?
+*ELI:	no (.) ci metto solo il sedano &=ride .
+%mor:	adv|no pro:clit|ci&1P v|mette-1S&PRES=put adv|solo art|il&m&sg
+	n|sedano-m&sg=celery .
+*MOT:	è la patata ?
+%mor:	v|esse-3S&PRES=be art|il&f&sg n|patata-f&sg ?
+*ELI:	no .
+%mor:	adv|no .
+*MOT:	<e il prezzemolo> [>] ?
+%mor:	conj|e art|il&m&sg n|prezzemolo-m&sg=parsley ?
+*ELI:	<oh> [<] .
+%mor:	co|oh .
+*ELI:	sì che ce l' ho messo il prezzemolo .
+%mor:	adv|sì pro:int|che=what pro:clit|ci&1P pro:clit|lo&3S&m
+	v|ave-1S&PRES=have v|mette-PPART&sg&m=put art|il&m&sg
+	n|prezzemolo-m&sg=parsley .
+*ELI:	guarda che bel +/.
+%mor:	co|guarda det|che=which adj|bello-m&sg +/.
+*MOT:	e la cipolla ?
+%mor:	conj|e art|il&f&sg n|cipolla-f&sg=onion ?
+*ELI:	non l' ho ancora co(m)prata e sì che ce la metto .
+%mor:	adv|non pro:clit|lo&3S&m v|ave-1S&PRES=have adv|ancora
+	v|compra-PPART&sg&f=buy conj|e adv|sì pro:int|che=what
+	pro:clit|ci&1P pro:clit|la&3S&f v|mette-1S&PRES=put .
+*MOT:	la pasta ?
+%mor:	art|il&f&sg n|pasta-f&sg ?
+*ELI:	no: (.) è qui già !
+%mor:	adv|no v|esse-3S&PRES=be adv|qui adv|già !
+*MOT:	formaggio ?
+%mor:	n|formaggio-m&sg=cheese ?
+*ELI:	l' ho (.) buttata lì dietro .
+%mor:	pro:clit|lo&3S&m v|ave-1S&PRES=have v|butta-PPART&sg&f=throw adv|lì
+	prep|dietro=behind .
+*MOT:	come mai ?
+%mor:	adv|come adv|mai ?
+*ELI:	perché (.) l' ho buttata nel xxx .
+%mor:	conj|perché pro:clit|lo&3S&m v|ave-1S&PRES=have
+	v|butta-PPART&sg&f=throw prepart|ne-m&sg .
+*ELI:	c' è solo quetto [: questo] (.) se lo vuoi mangialo .
+%mor:	pro:clit|ci&1P v|esse-3S&PRES=be adv|solo pro:det|questo-m&sg=this
+	conj|se pro:clit|lo&3S&m v|vole-2S&PRES=want
+	vimp|mangia-2S&IMP~pro:clit|3S&m .
+*MOT:	lo mangio grazie .
+%mor:	pro:clit|lo&3S&m v|mangia-1S&PRES=eat co|grazie .
+*ELI:	no (.) lo devi mangiare col cuccaino [: cucchiaino] .
+%mor:	adv|no pro:clit|lo&3S&m v|dove-2S&PRES=must vinf|mangia-INF=eat
+	prepart|co-m&sg n|cucchiaino-m&sg=teaspoon .
+*MOT:	ascolta .
+%mor:	v|ascolta-3S&PRES=listen .
+*ELI:	no (.) lo devi mangiare col cuccaino [: cucchiaino] .
+%mor:	adv|no pro:clit|lo&3S&m v|dove-2S&PRES=must vinf|mangia-INF=eat
+	prepart|co-m&sg n|cucchiaino-m&sg=teaspoon .
+*ELI:	lo devi mangiare +...
+%mor:	pro:clit|lo&3S&m v|dove-2S&PRES=must vinf|mangia-INF=eat +...
+*ELI:	me lo metti in bocca che altrimenti (.) bisogna tagliare la pancia .
+%mor:	pro:clit|mi&1S pro:clit|lo&3S&m v|mette-2S&PRES=put prep|in=in
+	n|bocca-f&sg pro:rel|che=that adv|altrimenti v|bisogna-3S&PRES=need
+	vinf|taglia-INF=cut art|il&f&sg n|pancia-f&sg=stomach .
+*ELI:	è finita ?
+%mor:	v|esse-3S&PRES=be v|fini-PPART&sg&f=finish ?
+*ELI:	allora (.) poi ci metto ancora xxx (.) sì eh .
+%mor:	co|allora adv|poi pro:clit|ci&1P v|mette-1S&PRES=put adv|ancora
+	adv|sì co|eh .
+*ELI:	allora (.) questo no lo xxx oggi .
+%mor:	co|allora pro:det|questo-m&sg=this adv|no pro:clit|lo&3S&m adv|oggi
+	.
+*ELI:	xxx non è pronto il sedano poi .
+%mor:	adv|non v|esse-3S&PRES=be adj|pronto-m&sg=ready art|il&m&sg
+	n|sedano-m&sg=celery adv|poi .
+*ELI:	uha@i (.) sai (.) uha@i (.) papà (.) ormai è diventato un cuccaino@wp .
+%mor:	int|uha co|sai int|uha n|papà&m adv|ormai v|esse-3S&PRES=be
+	v|diventa-PPART&sg&m=become art|uno&m&sg wplay|cuccaino .
+*ELI:	devo [?] tagliare (.) le unghie .
+%mor:	v|dove-1S&PRES=must vinf|taglia-INF=cut art|il&f&pl n|unghia-f&pl .
+*ELI:	mammina mi puoi tagliare le unghie ?
+%mor:	n|mamma-DIM-f&sg pro:clit|mi&1S v|pote-2S&PRES=can
+	vinf|taglia-INF=cut art|il&f&pl n|unghia-f&pl ?
+*ELI:	lo sai che non mi fanno +...
+%mor:	pro:clit|lo&3S&m v|sape-2S&PRES=know pro:rel|che=that adv|non
+	pro:clit|mi&1S v|face-3P&PRES=do +...
+*ELI:	v(i)eni vedi xxx solo la mia (.) la mia xxx .
+%mor:	vimp|veni-2S&IMP=come co|vedi adv|solo art|il&f&sg
+	pro:poss|mio-1S&f&sg=my art|il&f&sg pro:poss|mio-1S&f&sg=my .
+*ELI:	xxx .
+*ELI:	ehi@i (.) tocchi il sedano !
+%mor:	int|ehi v|tocca-2S&PRES=touch art|il&m&sg n|sedano-m&sg=celery !
+*ELI:	ehi@i (.) tocchi il sedano mammina !
+%mor:	int|ehi v|tocca-2S&PRES=touch art|il&m&sg n|sedano-m&sg=celery
+	n|mamma-DIM-f&sg !
+*ELI:	e toccamelo .
+%mor:	conj|e vimp|tocca-2S&IMP~pro:clit|1S~pro:clit|3S&m .
+*ELI:	lascialo (q)ui (.) (q)ui dentro xxx .
+%mor:	vimp|lascia-2S&IMP~pro:clit|3S&m adv|qui adv|qui prep|dentro=inside
+	.
+*ELI:	no no no un cuccaino [: cucchiaino] una cannuccia .
+%mor:	adv|no adv|no adv|no art|uno&m&sg n|cucchiaino-m&sg=teaspoon
+	art|uno&f&sg n|cannuccia-f&sg .
+*MOT:	dammi l' aranciata allora .
+%mor:	vimp|da-2S&IMP~pro:clit|1S art|il&sg n|aranciata-f&sg=orangeade
+	adv|allora .
+*ELI:	ma no (.) si vuole il tè (.) te lo do col mio bicchierino .
+%mor:	conj|ma adv|no pro:clit|si&3SP v|vole-3S&PRES=want art|il&m&sg
+	n|tè&m=tea pro:clit|ti&2S pro:clit|lo&3S&m v|da-1S&PRES=give
+	prepart|co-m&sg pro:poss|mio-1S&m&sg=my n|bicchiere-DIM-m&sg .
+*ELI:	ti ho dato l' aranciata .
+%mor:	pro:clit|ti&2S v|ave-1S&PRES=have v|da-PPART&sg&m=give art|il&sg
+	n|aranciata-f&sg=orangeade .
+*MOT:	vuoi un po' di xxx ?
+%mor:	v|vole-2S&PRES=want art|uno&m&sg pro:det|poco-m&sg=few prep|di=of ?
+*ELI:	sì .
+%mor:	adv|sì .
+*MOT:	è buona ?
+%mor:	v|esse-3S&PRES=be adj|buono-f&sg=good ?
+*ELI:	sì .
+%mor:	adv|sì .
+*ELI:	bevila .
+%mor:	vimp|beve-2S&IMP~pro:clit|3S&f .
+*ELI:	ora ti faccio da mangiare (.) guarda ti ho fatto da mangiare !
+%mor:	adv|ora pro:clit|ti&2S v|face-1S&PRES=do prep|da=at
+	vinf|mangia-INF=eat vimp|guarda-2S&IMP=look pro:clit|ti&2S
+	v|ave-1S&PRES=have n|fatto-m&sg prep|da=at vinf|mangia-INF=eat !
+*ELI:	perché non mangi ?
+%mor:	conj|perché adv|non v|mangia-sg&SUB=eat ?
+*ELI:	mamma devi metterci un bavalolo [: bavagliolo] che sennò si sporca .
+%mor:	n|mamma-f&sg vimp|dove-2S&IMP=must vinf|mette-INF~pro:clit|1P3S
+	art|uno&m&sg n|bavagliolo-m&sg=bib pro:rel|che=that adv|sennò
+	pro:clit|si&3SP v|sporca-3S&PRES=dirty .
+*ELI:	ecco xxx (.) hai finito ?
+%mor:	adv:dem|ecco v|ave-2S&PRES=have v|fini-PPART&sg&m=finish ?
+*ELI:	xxx metto +...
+%mor:	v|mette-1S&PRES=put +...
+*ELI:	ma non hai finito ?
+%mor:	conj|ma adv|non v|ave-2S&PRES=have v|fini-PPART&sg&m=finish ?
+*ELI:	mannaggia .
+%mor:	co:adv|mannaggia .
+*ELI:	cos' è quetto [: questo] ?
+%mor:	pro:int|cosa=what v|esse-3S&PRES=be pro:det|questo-m&sg=this ?
+*ELI:	cos' è: ?
+%mor:	pro:int|cosa=what v|esse-3S&PRES=be ?
+*ELI:	cos' è ?
+%mor:	pro:int|cosa=what v|esse-3S&PRES=be ?
+*ELI:	è (u)na banana ?
+%mor:	v|esse-3S&PRES=be art|uno&f&sg n|banana-f&sg ?
+*ELI:	ora la mangio +...
+%mor:	adv|ora pro:clit|la&3S&f v|mangia-1S&PRES=eat +...
+*ELI:	hai visto che l' abbiamo mangiata la banana ?
+%mor:	v|ave-2S&PRES=have v|vede-PPART&sg&m=see pro:rel|che=that
+	pro:clit|lo&3S&m v|ave-1P&PRES&SUB=have v|mangia-PPART&sg&f=eat
+	art|il&f&sg n|banana-f&sg ?
+*ELI:	e la [?] banana eh .
+%mor:	conj|e art|il&f&sg n|banana-f&sg co|eh .
+*ELI:	ah (.) no (.) xxx che non hai finito .
+%mor:	co|ah adv|no pro:rel|che=that adv|non v|ave-2S&PRES=have
+	v|fini-PPART&sg&m=finish .
+*ELI:	i tuoi piattini (.) il suo cappello (.) poi io mangio (.) i mandaranci eh .
+%mor:	art|il&m&pl pro:poss|tuo-2S&m&pl=your adj|piatto-DIM-f&pl
+	art|il&m&sg pro:poss|suo-3S&m&sg=his n|cappello-m&sg adv|poi
+	pro:pers|io&1S&SUBJ=I v|mangia-1S&PRES=eat art|il&m&pl
+	n|mandarancio-m&pl=clementine co|eh .
+*ELI:	mi dai (.) &m xxx (.) no (.) il librino no .
+%mor:	pro:clit|mi&1S v|da-2S&PRES=give adv|no art|il&m&sg
+	n|libro-DIM-m&sg adv|no .
+*ELI:	ho finito di cannuccio@n .
+%mor:	v|ave-1S&PRES=have v|fini-PPART&sg&m=finish prep|di=of
+	neo|cannuccio .
+*ELI:	xxx cannuccia piena eh .
+%mor:	n|cannuccia-f&sg adj|pieno-f&sg co|eh .
+*ELI:	ma (.) non lo voglio io .
+%mor:	conj|ma adv|non pro:clit|lo&3S&m v|vole-1S&PRES=wish
+	pro:pers|io&1S&SUBJ=I .
+*ELI:	mettimelo (.) dove c' è un [/] un xxx (.) un bacino [?] (.) un gattino .
+%mor:	vimp|mette-2S&IMP~pro:clit|1S~pro:clit|3S&m adv|dove pro:clit|ci&1P
+	v|esse-3S&PRES=be art|uno&m&sg art|uno&m&sg n|bacio-DIM-m&sg=kiss
+	art|uno&m&sg n|gatto-DIM-m&sg .
+*ELI:	dai mettilo qui .
+%mor:	co|dai vimp|mette-2S&IMP~pro:clit|3S&m adv|qui .
+*ELI:	tante grazie .
+%mor:	det|tanto-f&pl=so_much co|grazie .
+*ELI:	ora siediti .
+%mor:	adv|ora vimp|sede-2S&IMP~pro:clit|2S .
+*ELI:	xxx (.) te lo prendo io .
+%mor:	pro:clit|ti&2S pro:clit|lo&3S&m v|prende-1S&PRES=catch
+	pro:pers|io&1S&SUBJ=I .
+*ELI:	te lo prendo io xxx cavallo (.) eh .
+%mor:	pro:clit|ti&2S pro:clit|lo&3S&m v|prende-1S&PRES=catch
+	pro:pers|io&1S&SUBJ=I n|cavallo-m&sg=horse co|eh .
+*ELI:	allo(ra) [//] allora te lo do .
+%mor:	co|allora pro:clit|ti&2S pro:clit|lo&3S&m v|da-1S&PRES=give .
+*ELI:	anche la buccia ce l' ha (.) questo (.) via [: mia] +...
+%mor:	conj|anche art|il&f&sg n|buccia-f&sg=peel pro:clit|ci&1P
+	pro:clit|lo&3S&m v|ave-3S&PRES=have pro:det|questo-m&sg=this
+	pro:poss|mio-1S&f&sg=my +...
+*ELI:	anche i mandaranci nella buccia +...
+%mor:	conj|anche art|il&m&pl n|mandarancio-m&pl=clementine
+	prepart|ne-f&sg n|buccia-f&sg=peel +...
+*ELI:	xxx te li mangi xxx .
+%mor:	pro:clit|ti&2S pro:clit|li&3P&m v|mangia-sg&SUB=eat .
+*ELI:	&l lo butti te (.) <latte lattini@n> [/] (.) latte lattini@n .
+%mor:	pro:clit|lo&3S&m v|butta-2S&PRES=throw pro:pers|te&2S&OBJ=you
+	n|latte-m&sg=milk neo|lattini .
+*ELI:	Mina (.) Mina .
+%mor:	n:prop|Mina n:prop|Mina .
+*ELI:	mh@i (.) no .
+%mor:	int|mh adv|no .
+*ELI:	non ho ancora (.) buttato le bottiglie i mandaranci che ci sono xxx là di là .
+%mor:	adv|non v|ave-1S&PRES=have adv|ancora v|butta-PPART&sg&m=throw
+	art|il&f&pl n|bottiglia-f&pl art|il&m&pl
+	n|mandarancio-m&pl=clementine pro:rel|che=that pro:clit|ci&1P
+	v|esse-3P&PRES=be adv|là prep|di=of adv|là .
+*ELI:	xxx (.) lì c' è papà .
+%mor:	adv|lì pro:clit|ci&1P v|esse-3S&PRES=be n|papà&m .
+*ELI:	qui ci sono tantissimi (.) ci sono .
+%mor:	adv|qui pro:clit|ci&1P v|esse-3P&PRES=be adj|tanto-SUPER-f&pl
+	pro:clit|ci&1P v|esse-3P&PRES=be .
+*ELI:	Mina xxx mi apri uno .
+%mor:	n:prop|Mina pro:clit|mi&1S v|apri-2S&PRES=open num|uno .
+*ELI:	mi apri uno .
+%mor:	pro:clit|mi&1S v|apri-2S&PRES=open num|uno .
+*ELI:	ora sono qui .
+%mor:	adv|ora v|esse-3P&PRES=be adv|qui .
+*ELI:	ora tocca a te .
+%mor:	adv|ora v|tocca-3S&PRES=touch prep|a=to pro:pers|te&2S&OBJ=you .
+*ELI:	ah (.) ce l' ho io (.) ora accendilo .
+%mor:	co|ah pro:clit|ci&1P pro:clit|lo&3S&m v|ave-1S&PRES=have
+	pro:pers|io&1S&SUBJ=I adv|ora vimp|accende-2S&IMP~pro:clit|3S&m .
+*ELI:	<accendilo> [/] (.) accendilo (.) ti aiuto .
+%mor:	vimp|accende-2S&IMP~pro:clit|3S&m pro:clit|ti&2S
+	v|aiuta-1S&PRES=help .
+*ELI:	xxx .
+%com:	canta
+@End

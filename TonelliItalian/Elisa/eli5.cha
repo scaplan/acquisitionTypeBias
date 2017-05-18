@@ -1,0 +1,431 @@
+@UTF8
+@PID:	11312/c-00030289-1
+@Begin
+@Languages:	ita
+@Participants:	ELI Elisa Child , MOT Mother
+@ID:	ita|Tonelli|ELI|2;1.06|female|||Child|||
+@ID:	ita|Tonelli|MOT|||||Mother|||
+@Birth of ELI:	15-SEP-1991
+@Date:	21-OCT-1993
+@Situation:	The child is talking with her mother
+*ELI:	ho fatto la spesa .
+%mor:	v|ave-1S&PRES=have vpart|face-PPART&sg&m=do art|il&f&sg
+	n|spesa-f&sg .
+*ELI:	quest(a) è la mia borsa ?
+%mor:	pro:det|questo-f&sg=this v|esse-3S&PRES=be art|il&f&sg
+	pro:poss|mio-1S&f&sg=my n|borsa-f&sg ?
+*ELI:	ah .
+%mor:	co|ah .
+*ELI:	xxx tutti e due .
+%mor:	pro:det|tutto-m&pl=all conj|e num|due .
+*ELI:	ah (.) ciao .
+%mor:	co|ah co|ciao .
+*ELI:	ho fatto la spesa (.) lo sai che ti ho comprato un regalo .
+%mor:	v|ave-1S&PRES=have vpart|face-PPART&sg&m=do art|il&f&sg
+	n|spesa-f&sg pro:clit|lo&3S&m v|sape-2S&PRES=know pro:rel|che=that
+	pro:clit|ti&2S v|ave-1S&PRES=have v|compra-PPART&sg&m=buy
+	art|uno&m&sg n|regalo-m&sg .
+*MOT:	bello .
+%mor:	adj|bello-m&sg .
+*ELI:	tieni (.) te lo metto .
+%mor:	vimp|tene-2S&IMP=hold pro:clit|ti&2S pro:clit|lo&3S&m
+	v|mette-1S&PRES=put .
+*ELI:	<o così> [/] o così xxx quando arriva Angelo xxx .
+%mor:	conj|o adv|così adv|quando v|arriva-3S&PRES=arrive n:prop|Angelo .
+*ELI:	fo(r)se xxx xxx .
+%mor:	adv|forse .
+*ELI:	lasciamelo qui nella mia borsa .
+%mor:	vimp|lascia-2S&IMP~pro:clit|1S~pro:clit|3S&m adv|qui
+	prepart|ne-f&sg pro:poss|mio-1S&f&sg=my n|borsa-f&sg .
+*MOT:	cosa c' è dentro alla borsa ?
+%mor:	pro:int|cosa=what pro:clit|ci&1P v|esse-3S&PRES=be
+	adv|dentro=inside prepart|a-f&sg n|borsa-f&sg ?
+*ELI:	c' è niente &=bisbiglia .
+%mor:	pro:clit|ci&1P v|esse-3S&PRES=be pro:det|niente=nothing .
+*MOT:	caramelle ?
+%mor:	n|caramella-f&pl ?
+*ELI:	sì (.) c' è [* sono] le mie caramelle .
+%mor:	adv|sì pro:clit|ci&1P v|esse-3S&PRES=be art|il&f&pl
+	pro:poss|mio-1S&f&pl=my n|caramella-f&pl .
+*ELI:	e me le faccio .
+%mor:	conj|e pro:clit|mi&1S pro:clit|le&3P&f v|face-1S&PRES=do .
+*MOT:	poi cosa c' è ?
+%mor:	adv|poi pro:int|cosa=what pro:clit|ci&1P v|esse-3S&PRES=be ?
+*ELI:	no (.) le tengo io le tengo io .
+%mor:	adv|no pro:clit|le&3P&f v|tene-1S&PRES=hold pro:pers|io&1S&SUBJ=I
+	pro:clit|le&3P&f v|tene-1S&PRES=hold pro:pers|io&1S&SUBJ=I .
+*ELI:	poi c' è (.) anche una mia cosina .
+%mor:	adv|poi pro:clit|ci&1P v|esse-3S&PRES=be conj|anche art|uno&f&sg
+	pro:poss|mio-1S&f&sg=my n|cosa-DIM-f&sg .
+*ELI:	<lei fa tutto> [/] lei fa tutto .
+%mor:	pro:pers|lei&3S&f=she v|face-3S&PRES=do det|tutto-m&sg=all .
+*ELI:	lei fa tutto .
+%mor:	pro:pers|lei&3S&f=she v|face-3S&PRES=do det|tutto-m&sg=all .
+*ELI:	lei fa tutto (.) la mia mammina .
+%mor:	pro:pers|lei&3S&f=she v|face-3S&PRES=do adv|tutto art|il&f&sg
+	pro:poss|mio-1S&f&sg=my n|mamma-DIM-f&sg .
+*ELI:	lei fa tutto .
+%mor:	pro:pers|lei&3S&f=she v|face-3S&PRES=do det|tutto-m&sg=all .
+*ELI:	xxx (.) questa non la puoi prende(re) .
+%mor:	pro:det|questo-f&sg=this adv|non pro:clit|la&3S&f
+	v|pote-2S&PRES=can vinf|prende-INF=catch .
+*ELI:	ah (.) sono andati via .
+%mor:	co|ah v|esse-3P&PRES=be vimp|anda-2S&IMP~pro:clit|2S adv|via .
+*ELI:	questa è la [/] la mia borsina .
+%mor:	pro:det|questo-f&sg=this v|esse-3S&PRES=be art|il&f&sg
+	pro:poss|mio-1S&f&sg=my n|borsa-DIM-f&sg .
+*ELI:	xxx &=bisbiglia .
+*MOT:	qui cosa c' hai ancora ?
+%mor:	adv|qui pro:int|cosa=what pro:clit|ci&1P v|ave-2S&PRES=have
+	adv|ancora ?
+*ELI:	no (.) guarda che questo non +/.
+%mor:	adv|no co|guarda pro:rel|che=that pro:det|questo-m&sg=this adv|non
+	+/.
+*MOT:	ma non mi raccontavi quella bella favola prima ?
+%mor:	conj|ma adv|non pro:clit|mi&1S vimp|racconta-2S&IMP~pro:clit|v2P
+	det|quello-f&sg=that adj|bello-f&sg n|favola-f&sg adv|prima ?
+*ELI:	no (.) questo non xxx tutti .
+%mor:	adv|no pro:det|questo-m&sg=this adv|non pro:det|tutto-m&pl=all .
+*ELI:	tutti (.) è mio xxx la mia vicina &=bisbiglia .
+%mor:	pro:det|tutto-m&pl=all v|esse-3S&PRES=be pro:poss|mio-1S&m&sg=my
+	art|il&f&sg pro:poss|mio-1S&f&sg=my n|vicino-f&sg=neighbor .
+*MOT:	non sento (.) parla forte che non sento .
+%mor:	adv|non v|senti-1S&PRES=feel vimp|parla-2S&IMP=speak adv|forte
+	pro:rel|che=that adv|non v|senti-1S&PRES=feel .
+*ELI:	a (.) la xxx era la mia vicina .
+%mor:	prep|a=to art|il&f&sg v|esse-3S&PAST=be art|il&f&sg
+	pro:poss|mio-1S&f&sg=my n|vicino-f&sg=neighbor .
+*ELI:	questo è il mio vicino .
+%mor:	pro:det|questo-m&sg=this v|esse-3S&PRES=be art|il&m&sg
+	pro:poss|mio-1S&m&sg=my n|vicino-m&sg=neighbor .
+*MOT:	hm .
+%mor:	co|hm .
+*ELI:	ah (.) questo &=bisbiglia .
+%mor:	co|ah pro:det|questo-m&sg=this .
+*MOT:	non sento niente se non parli normale .
+%mor:	adv|non v|senti-1S&PRES=feel pro:det|niente=nothing conj|se adv|non
+	v|parla-2S&PRES=speak adj|normale-sg .
+*ELI:	senti lo tengo qui eh .
+%mor:	vimp|senti-2S&IMP=feel art|il&m&sg v|tene-1S&PRES=hold adv|qui
+	co|eh .
+*ELI:	che poi (.) conto .
+%mor:	pro:rel|che=that adv|poi v|conta-1S&PRES=count .
+*ELI:	alle settima [?] .
+%mor:	vimp|3S&IMP~pro:clit|3S&f num:ord|settimo-f&sg .
+*MOT:	cantami una canzoncina .
+%mor:	vimp|canta-2S&IMP~pro:clit|1S art|uno&f&sg n|canzone-DIM-f&sg=song
+	.
+*ELI:	e accendi qui .
+%mor:	conj|e vimp|accende-2S&IMP=turn_on adv|qui .
+*MOT:	è già acceso (.) tu cantamela (.) poi te la faccio sentire .
+%mor:	v|esse-3S&PRES=be adv|già v|accende-PPART&sg&m=turn_on
+	pro:pers|tu&2S&SUBJ=you vimp|canta-2S&IMP~pro:clit|1S~pro:clit|3S&f
+	adv|poi pro:clit|ti&2S pro:clit|la&3S&f v|face-1S&PRES=do
+	vinf|senti-INF=feel .
+*ELI:	a (.) la (.) xxx +...
+%mor:	prep|a=to art|il&f&sg +...
+*ELI:	ora fammela sentire .
+%mor:	adv|ora vimp|face-2S&IMP~pro:clit|1S~pro:clit|3S&f
+	vinf|senti-INF=feel .
+*MOT:	no (.) vai avanti (.) finché non hai finito .
+%mor:	adv|no v|anda-2S&PRES=go adv|avanti conj|finché adv|non
+	v|ave-2S&PRES=have v|fini-PPART&sg&m=finish .
+*MOT:	dai (.) vai avanti .
+%mor:	co|dai vimp|anda-2S&IMP=go adv|avanti .
+*ELI:	a la xxx comincio ho finito (.) ora xxx .
+%mor:	prep|a=to art|il&f&sg v|comincia-1S&PRES=begin v|ave-1S&PRES=have
+	v|fini-PPART&sg&m=finish adv|ora .
+*MOT:	avanti (.) vai avanti (.) non non l' hai finita .
+%mor:	adv|avanti v|anda-2S&PRES=go adv|avanti adv|non adv|non
+	pro:clit|lo&3S&m v|ave-2S&PRES=have adj|finito-f&sg .
+*MOT:	dai (.) poi ?
+%mor:	co|dai adv|poi ?
+*ELI:	ah poi (.) alla xxx ho finito .
+%mor:	co|ah adv|poi prepart|a-f&sg v|ave-1S&PRES=have
+	v|fini-PPART&sg&m=finish .
+*ELI:	ora comincia alla pollaia@wp .
+%mor:	adv|ora v|comincia-3S&PRES=begin prepart|a-f&sg wplay|pollaia .
+*ELI:	(.) solo que(s)to .
+%mor:	adv|solo pro:det|questo-m&sg=this .
+*ELI:	allora quetto [: questo] è del bimbino .
+%mor:	co|allora pro:det|questo-m&sg=this v|esse-3S&PRES=be
+	prepart|de-m&sg n|bimbo-DIM-m&sg .
+*ELI:	xxx .
+*ELI:	solo quello .
+%mor:	adv|solo pro:det|quello-m&sg=that .
+*ELI:	me lo lasci quello +/.
+%mor:	pro:clit|mi&1S pro:clit|lo&3S&m v|lasci&2S&PRES=leave
+	pro:det|quello-m&sg=that +/.
+*MOT:	cosa fa il bambino adesso ?
+%mor:	pro:int|cosa=what v|face-3S&PRES=do art|il&m&sg
+	n|bambino-m&sg=child adv|adesso ?
+*ELI:	alla xxx +...
+%mor:	vimp|2S&IMP~pro:clit|3S&f +...
+*ELI:	no (.) non fa niente il bambino del +...
+%mor:	adv|no adv|non v|face-3S&PRES=do pro:det|niente=nothing art|il&m&sg
+	n|bambino-m&sg=child prepart|de-m&sg +...
+*ELI:	fa solo xxx .
+%mor:	v|face-3S&PRES=do adv|solo .
+%com:	fa una pernacchia
+*MOT:	non credo .
+%mor:	adv|non v|crede-1S&PRES=believe .
+*ELI:	e sì che fa così .
+%mor:	conj|e adv|sì pro:rel|che=that v|face-3S&PRES=do adv|così .
+*ELI:	ora comincio .
+%mor:	adv|ora v|comincia-1S&PRES=begin .
+*ELI:	ora xxx lo tieni qui (.) eh ?
+%mor:	adv|ora pro:clit|lo&3S&m v|tene-2S&PRES=hold adv|qui co|eh ?
+*ELI:	no (.) non lo deve tenere qui che non vado via (.) sto qui .
+%mor:	adv|no adv|non pro:clit|lo&3S&m v|dove-3S&PRES=must
+	vinf|tene-INF=hold adv|qui pro:rel|che=that adv|non
+	v|anda-1S&PRES=go adv|via v|sta-1S&PRES=stay adv|qui .
+*ELI:	xxx (.) a(s)petta .
+%mor:	v|aspetta-3S&PRES=wait .
+*ELI:	allora (.) mi fai sedere ?
+%mor:	co|allora pro:clit|mi&1S v|face-2S&PRES=do vinf|sede-INF=sit ?
+*ELI:	uffa (.) allora xxx .
+%mor:	co|uffa co|allora .
+*MOT:	raccontami .
+%mor:	vimp|racconta-2S&IMP~pro:clit|1S .
+*ELI:	guarda (.) ho detto (.) “è b(r)uciato” .
+%mor:	co|guarda v|ave-1S&PRES=have vpart|dici-PPART&sg&m=say bq|bq
+	v|esse-3S&PRES=be v|brucia-PPART&sg&m=burn eq|eq .
+*ELI:	va bé [: bene] .
+%mor:	v|anda-3S&PRES=go adv|bene .
+*ELI:	ma guarda (.) è tutto b(r)ucato [: bruciato] .
+%mor:	conj|ma co|guarda v|esse-3S&PRES=be adv|tutto
+	v|brucia-PPART&sg&m=burn .
+*ELI:	bello eh ?
+%mor:	adj|bello-m&sg co|eh ?
+*ELI:	ma guarda è tutto b(r)uciato [: bruciato] !
+%mor:	conj|ma co|guarda v|esse-3S&PRES=be adv|tutto
+	v|brucia-PPART&sg&m=burn !
+*ELI:	xxx è tutto blu .
+%mor:	v|esse-3S&PRES=be adv|tutto adj|blu=blue .
+*ELI:	www .
+%com:	comincia a cantare
+*ELI:	ecco (.) non te lo dico &=bisbiglia .
+%mor:	adv:dem|ecco adv|non pro:clit|ti&2S pro:clit|lo&3S&m
+	v|dice-1S&PRES=say .
+*ELI:	ma (.) mi siedo qui io .
+%mor:	conj|ma pro:clit|mi&1S v|sede-1S&PRES=sit adv|qui
+	pro:pers|io&1S&SUBJ=I .
+*ELI:	la mia borsa la tengo qui (.) non me la porti via eh .
+%mor:	art|il&f&sg pro:poss|mio-1S&f&sg=my n|borsa-f&sg pro:clit|la&3S&f
+	v|tene-1S&PRES=hold adv|qui adv|non pro:clit|mi&1S pro:clit|la&3S&f
+	v|porta-2S&PRES=carry adv|via co|eh .
+*ELI:	non me la porta(r)e via .
+%mor:	adv|non pro:clit|mi&1S pro:clit|la&3S&f vinf|porta-INF=carry
+	adv|via .
+*ELI:	non me la porta(r)e via .
+%mor:	adv|non pro:clit|mi&1S pro:clit|la&3S&f vinf|porta-INF=carry
+	adv|via .
+*ELI:	xxx &=bisbiglia .
+*ELI:	cambio il canale ?
+%mor:	v|cambia-1S&PRES=exchange art|il&m&sg n|canale-m&sg=canal ?
+*ELI:	no: .
+%mor:	adv|no .
+*ELI:	ecco la cassetta qua .
+%mor:	adv:dem|ecco art|il&f&sg n|cassetta-f&sg=cassette adv|qua .
+*ELI:	ecco la cassetta qua .
+%mor:	adv:dem|ecco art|il&f&sg n|cassetta-f&sg=cassette adv|qua .
+*ELI:	guarda (.) sì c' è là la grande cassetta (.) guarda la grande cassetta .
+%mor:	co|guarda adv|sì pro:clit|ci&1P v|esse-3S&PRES=be adv|là
+	art|il&f&sg adj|grande-sg=big n|cassetta-f&sg=cassette
+	vimp|guarda-2S&IMP=look art|il&f&sg adj|grande-sg=big
+	n|cassetta-f&sg=cassette .
+*ELI:	io no (.) Mina no (.) dammelo !
+%mor:	pro:pers|io&1S&SUBJ=I adv|no n:prop|Mina adv|no
+	vimp|da-2S&IMP~pro:clit|1S~pro:clit|3S&m !
+*ELI:	dammelo (.) Mina !
+%mor:	vimp|da-2S&IMP~pro:clit|1S~pro:clit|3S&m n:prop|Mina !
+*ELI:	dammelo .
+%mor:	vimp|da-2S&IMP~pro:clit|1S~pro:clit|3S&m .
+*ELI:	xxx andare senza quetto [: questo] (.) che sennò +...
+%mor:	vinf|anda-INF=go prep|senza=without pro:det|questo-m&sg=this
+	pro:rel|che=that adv|sennò +...
+*ELI:	questo poi si xxx (.) e xxx .
+%mor:	pro:det|questo-m&sg=this adv|poi pro:clit|si&3SP conj|e .
+*ELI:	no: (.) xxx .
+%mor:	adv|no .
+*ELI:	xxx .
+*ELI:	le ga:ba:sse@wp (.) uffa (.) pe(r)de la folega@wp .
+%mor:	art|il&f&pl wplay|gabasse co|uffa v|perde-3S&PRES=lose art|il&f&sg
+	wplay|folega .
+*ELI:	ma (.) dammi quello lì (.) dammi quello lì .
+%mor:	conj|ma vimp|da-2S&IMP~pro:clit|1S pro:det|quello-m&sg=that adv|lì
+	vimp|da-2S&IMP~pro:clit|1S pro:det|quello-m&sg=that adv|lì .
+*ELI:	non me lo vuoi dare ?
+%mor:	adv|non pro:clit|mi&1S pro:clit|lo&3S&m v|vole-2S&PRES=want
+	vinf|da-INF=give ?
+*ELI:	me lo dai ?
+%mor:	pro:clit|mi&1S pro:clit|lo&3S&m co|dai ?
+*ELI:	me lo vuoi da(r)e !
+%mor:	pro:clit|mi&1S pro:clit|lo&3S&m v|vole-2S&PRES=want
+	vinf|da-INF=give !
+*ELI:	me lo vuoi da(r)e ?
+%mor:	pro:clit|mi&1S pro:clit|lo&3S&m v|vole-2S&PRES=want
+	vinf|da-INF=give ?
+*ELI:	xxx .
+*ELI:	me lo vuoi dare quello lì ?
+%mor:	pro:clit|mi&1S pro:clit|lo&3S&m v|vole-2S&PRES=want
+	vinf|da-INF=give pro:det|quello-m&sg=that adv|lì ?
+*ELI:	cosa c' ho ?
+%mor:	pro:int|cosa=what pro:clit|ci&1P v|ave-1S&PRES=have ?
+*ELI:	xxx così .
+%mor:	adv|così .
+*ELI:	xxx .
+*ELI:	ora canta te .
+%mor:	adv|ora vimp|canta-2S&IMP=sing pro:pers|te&2S&OBJ=you .
+*ELI:	canta te: .
+%mor:	vimp|canta-2S&IMP=sing pro:pers|te&2S&OBJ=you .
+*ELI:	canta te !
+%mor:	vimp|canta-2S&IMP=sing pro:pers|te&2S&OBJ=you !
+*ELI:	canta te xxx (.) canta te prima che ti xxx .
+%mor:	vimp|canta-2S&IMP=sing pro:pers|te&2S&OBJ=you
+	vimp|canta-2S&IMP=sing pro:pers|te&2S&OBJ=you adv|prima
+	pro:rel|che=that pro:clit|ti&2S .
+*ELI:	canta te &=bisbiglia .
+%mor:	vimp|canta-2S&IMP=sing pro:pers|te&2S&OBJ=you .
+*ELI:	canta te &=bisbiglia .
+%mor:	vimp|canta-2S&IMP=sing pro:pers|te&2S&OBJ=you .
+*ELI:	ora dammi que(s)to (.) dammi que(s)to .
+%mor:	adv|ora vimp|da-2S&IMP~pro:clit|1S det|questo-m&sg=this
+	vimp|da-2S&IMP~pro:clit|1S pro:det|questo-m&sg=this .
+*ELI:	me (.) <anche a me anche a me> [/] anche a me .
+%mor:	pro:clit|mi&1S conj|anche prep|a=to pro:pers|me&1S&OBJ=me .
+*ELI:	<anche a me> [/] anche a me !
+%mor:	conj|anche prep|a=to pro:pers|me&1S&OBJ=me !
+*ELI:	anche a me Mina anche a me .
+%mor:	conj|anche prep|a=to pro:pers|me&1S&OBJ=me n:prop|Mina conj|anche
+	prep|a=to pro:pers|me&1S&OBJ=me .
+*ELI:	quetto [: questo] xxx (.) <solo quetto> [/] (.) <solo quetto> [/] (.) solo quetto [: questo] .
+%mor:	pro:det|questo-m&sg=this adv|solo pro:det|questo-m&sg=this .
+*ELI:	adesso smetti .
+%mor:	adv|adesso vimp|smette-2S&IMP=stop .
+*ELI:	Mina (.) tieni .
+%mor:	n:prop|Mina vimp|tene-2S&IMP=hold .
+*ELI:	aprimi c' è una [//] (.) ci sono le caramelle .
+%mor:	vimp|apri-2S&IMP~pro:clit|1S pro:clit|ci&1P v|esse-3S&PRES=be
+	pro:clit|ci&1P v|esse-3P&PRES=be art|il&f&pl n|caramella-f&pl .
+*ELI:	aprimi che ci sono le carame(lle) xxx .
+%mor:	vimp|apri-2S&IMP~pro:clit|1S pro:rel|che=that pro:clit|ci&1P
+	v|esse-3P&PRES=be art|il&f&pl n|caramella-f&pl .
+*ELI:	sì che ci sono le carame(lle) +...
+%mor:	adv|sì pro:rel|che=that pro:clit|ci&1P v|esse-3P&PRES=be
+	art|il&f&pl n|caramella-f&pl +...
+*ELI:	ma mi dai la pila ?
+%mor:	conj|ma pro:clit|mi&1S v|da-2S&PRES=give art|il&f&sg
+	n|pila-f&sg=battery ?
+*ELI:	ma mi dai la pila (.) non ci vedo .
+%mor:	conj|ma pro:clit|mi&1S v|da-2S&PRES=give art|il&f&sg
+	n|pila-f&sg=battery adv|non pro:clit|ci&1P v|vede-1S&PRES=see .
+*ELI:	io non ci vedo nella bossa [: borsa] .
+%mor:	pro:pers|io&1S&SUBJ=I adv|non pro:clit|ci&1P v|vede-1S&PRES=see
+	prepart|ne-f&sg n|borsa-f&sg .
+*ELI:	Mina (.) non c' è (.) qui non c' è (.) neanche qui .
+%mor:	n:prop|Mina adv|non pro:clit|ci&1P v|esse-3S&PRES=be adv|qui
+	adv|non pro:clit|ci&1P v|esse-3S&PRES=be adv|neanche adv|qui .
+*ELI:	xxx .
+*ELI:	no no oggi ce l' ha Titti .
+%mor:	adv|no adv|no adv|oggi pro:clit|ci&1P pro:clit|lo&3S&m
+	v|ave-3S&PRES=have n:prop|Titti .
+*ELI:	mammina dammi questa (.) no .
+%mor:	n|mamma-DIM-f&sg vimp|da-2S&IMP~pro:clit|1S
+	pro:det|questo-f&sg=this adv|no .
+%com:	sbuffa
+*ELI:	come si mette ?
+%mor:	adv|come pro:clit|si&3SP v|mette-3S&PRES=put ?
+*ELI:	come si mette ?
+%mor:	adv|come pro:clit|si&3SP v|mette-3S&PRES=put ?
+*ELI:	come si mette ?
+%mor:	adv|come pro:clit|si&3SP v|mette-3S&PRES=put ?
+*ELI:	ma come si mette ?
+%mor:	conj|ma adv|come pro:clit|si&3SP v|mette-3S&PRES=put ?
+*ELI:	come si mette .
+%mor:	adv|come pro:clit|si&3SP v|mette-3S&PRES=put .
+*ELI:	<come si mette> [/] mammina come si mette ?
+%mor:	n|mamma-DIM-f&sg adv|come pro:clit|si&3SP v|mette-3S&PRES=put ?
+*ELI:	quell' orsetto lì (.) <me lo> [/] me lo fai vedere quello lì ?
+%mor:	det|quello-m&sg=that n|orso-DIM-m&sg adv|lì pro:clit|mi&1S
+	pro:clit|lo&3S&m v|face-2S&PRES=do vinf|vede-INF=see
+	pro:det|quello-m&sg=that adv|lì ?
+*MOT:	eh ?
+%mor:	co|eh ?
+*ELI:	me lo fai vedere quello lì ?
+%mor:	pro:clit|mi&1S pro:clit|lo&3S&m v|face-2S&PRES=do vinf|vede-INF=see
+	pro:det|quello-m&sg=that adv|lì ?
+*MOT:	ma che cosa vuoi vedere (.) che cos' è ?
+%mor:	conj|ma pro:int|che=what pro:int|cosa=what v|vole-2S&PRES=want
+	vinf|vede-INF=see pro:int|che=what pro:int|cosa=what
+	v|esse-3S&PRES=be ?
+*ELI:	è quello xxx .
+%mor:	v|esse-3S&PRES=be pro:det|quello-m&sg=that .
+*ELI:	io non lo voglio .
+%mor:	pro:pers|io&1S&SUBJ=I adv|non pro:clit|lo&3S&m v|vole-1S&PRES=wish
+	.
+*ELI:	ah (.) non lo voglio .
+%mor:	co|ah adv|non pro:clit|lo&3S&m v|vole-1S&PRES=wish .
+*ELI:	mettitelo te .
+%mor:	vimp|mette-2S&IMP~pro:clit|2S~pro:clit|3S&m pro:pers|te&2S&OBJ=you
+	.
+*ELI:	mettitelo te .
+%mor:	vimp|mette-2S&IMP~pro:clit|2S~pro:clit|3S&m pro:pers|te&2S&OBJ=you
+	.
+*ELI:	no (.) la mia borsa +...
+%mor:	adv|no art|il&f&sg pro:poss|mio-1S&f&sg=my n|borsa-f&sg +...
+*ELI:	me le metti te le caramelle nella mia borsa ?
+%mor:	pro:clit|mi&1S pro:clit|le&3P&f v|mette-2S&PRES=put
+	pro:pers|te&2S&OBJ=you art|il&f&pl n|caramella-f&pl prepart|ne-f&sg
+	pro:poss|mio-1S&f&sg=my n|borsa-f&sg ?
+*ELI:	prendo un pacchetto tuo (.) prendo [/] prendo un pacchetto (.) qui .
+%mor:	v|prende-1S&PRES=catch art|uno&m&sg n|pacco-DIM-m&sg=package
+	pro:poss|tuo-2S&m&sg=your v|prende-1S&PRES=catch art|uno&m&sg
+	n|pacco-DIM-m&sg=package adv|qui .
+*ELI:	faccio così (.) e prendo la carame(lla) .
+%mor:	v|face-1S&PRES=do adv|così conj|e v|prende-1S&PRES=catch
+	art|il&f&sg n|caramella-f&sg .
+*ELI:	sai che la xxx aperta (.) che xxx +/.
+%mor:	v|sape-2S&PRES=know pro:rel|che=that art|il&f&sg adj|aperto-f&sg
+	pro:rel|che=that +/.
+*MOT:	<vieni qua> [/] vieni qua .
+%mor:	v|veni-2S&PRES=come adv|qua .
+%com:	da un' altra stanza
+*ELI:	ma dai .
+%mor:	conj|ma co|dai .
+*MOT:	qua .
+%mor:	adv|qua .
+*ELI:	mamma vai !
+%mor:	n|mamma-f&sg vimp|anda-2S&IMP=go !
+*ELI:	dai <chiudi> [/] chiudi !
+%mor:	co|dai vimp|chiude-2S&IMP=close !
+*ELI:	dai chiudimi (.) non lo voglio !
+%mor:	co|dai vimp|chiude-2S&IMP~pro:clit|1S adv|non pro:clit|lo&3S&m
+	v|vole-1S&PRES=wish !
+*ELI:	non lo voglio (.) Mina .
+%mor:	adv|non pro:clit|lo&3S&m v|vole-1S&PRES=wish n:prop|Mina .
+*MOT:	dove lo vuoi cercare ?
+%mor:	adv|dove pro:clit|lo&3S&m v|vole-2S&PRES=want vinf|cerca-INF=search
+	?
+*ELI:	le caramelle (.) quelle che metto (.) dentro la borsa qui .
+%mor:	art|il&f&pl n|caramella-f&pl pro:det|quello-f&pl=that
+	pro:rel|che=that v|mette-1S&PRES=put adv|dentro=inside art|il&f&sg
+	n|borsa-f&sg adv|qui .
+*MOT:	ma dove sono ?
+%mor:	conj|ma adv|dove v|esse-3P&PRES=be ?
+*ELI:	sono in cucina (.) eh .
+%mor:	v|esse-3P&PRES=be prep|in=in n|cucina-f&sg co|eh .
+*ELI:	ecco .
+%mor:	adv:dem|ecco .
+*ELI:	oh (.) te mi xxx una borsa da +...
+%mor:	co|oh pro:pers|te&2S&OBJ=you pro:clit|mi&1S art|uno&f&sg
+	n|borsa-f&sg prep|da=at +...
+%com:	corre via
+*ELI:	ah (.) aspetta che xxx (.) un pacchetto .
+%mor:	co|ah vimp|aspetta-2S&IMP=wait pro:rel|che=that art|uno&m&sg
+	n|pacco-DIM-m&sg=package .
+*ELI:	xxx (.) <trovata trovata> [/] trovata !
+%mor:	v|trova-PPART&sg&f=find !
+*ELI:	trovata (.) xxx .
+%mor:	v|trova-PPART&sg&f=find .
+@End
