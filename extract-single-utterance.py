@@ -11,9 +11,13 @@ from unicodedata import normalize
 punctuationSet = ['.', '?', '!', ':', '(.)', '+...', '+"/.', '+/.']
 inputSet = ['*mot:', '*gra:', '*fat:', '*ann:', '*ant:', '*nan:', '*wom:', '*car:']
 childSet = ['*chi:', '*eli:', '*gre:', '*mar:']
-morphCue = '%mor:'
+morphCue = ['%mor:', '%xmor:']
+## '%xmor:'
 inputNounTypeDict = {}
 inputVerbTypeDict = {}
+
+nounSet = ['n', 'nn', 'npro']
+verbSet = ['v', 'vt', 'vi', 'vc', 'va']
 
 outputNounTokenCount = 0
 outputVerbTokenCount = 0
@@ -53,7 +57,7 @@ def evalSpeechGroup(speechGroup):
 	tagTokensNoPunc = []
 	for entry in speechGroup:
 		entryTokens = entry.split()
-		if (entryTokens[0] == morphCue):
+		if (entryTokens[0] in morphCue):
 			tagTokens = entryTokens
 			tagTokensNoPunc = [x for x in tagTokens if x not in punctuationSet]
 
@@ -90,14 +94,16 @@ def evalInputData(inputString, inputTags):
 			wordTagInfo = wordTag.split("|")
 			wordMarkupForm = wordTagInfo[1]
 			#wordMarkupForm = inputString[1]
-			if (wordTagInfo[0] == 'n'):
+		#	if (wordTagInfo[0] == 'n'):
+			if (wordTagInfo[0] in nounSet):
 				if (wordMarkupForm in inputNounTypeDict):
 					newCount = 1 + inputNounTypeDict.get(wordMarkupForm)
 					inputNounTypeDict[wordMarkupForm] = newCount
 				else:
 					inputNounTypeDict[wordMarkupForm] = 1
 				singleWordNouns += 1
-			elif (wordTagInfo[0] == 'v'):
+			#elif (wordTagInfo[0] == 'v'):
+			elif (wordTagInfo[0] in verbSet):
 				if (wordMarkupForm in inputVerbTypeDict):
 					newCount = 1 + inputVerbTypeDict.get(wordMarkupForm)
 					inputVerbTypeDict[wordMarkupForm] = newCount
