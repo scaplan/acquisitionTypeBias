@@ -120,23 +120,20 @@ def evalOutputData(outputString, outputTags):
 #		print outputTags
 #		print ''
 	for currTag in outputTags:
-		# Need to figure out how to align this with original type
-		if ('n|' in currTag):
-			outputNounTokenCount += 1
-		elif ('v|' in currTag):
-			outputVerbTokenCount += 1
 
 		currTagInfo = currTag.split("|")
 		if len(currTagInfo) > 1:
 			currPos = currTagInfo[0]
 			currWord = currTagInfo[1]
-			if (currPos == 'v'):
+			if (currPos in verbSet):
+				outputVerbTokenCount += 1
 				if (currWord in outputVerbTypeDict):
 					newCount = 1 + outputVerbTypeDict.get(currWord)
 					outputVerbTypeDict[currWord] = newCount
 				else:
 					outputVerbTypeDict[currWord] = 1
-			elif (currPos == 'n'):
+			elif (currPos in nounSet):
+				outputNounTokenCount += 1
 				if (currWord in outputNounTypeDict):
 					newCount = 1 + outputNounTypeDict.get(currWord)
 					outputNounTypeDict[currWord] = newCount
