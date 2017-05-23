@@ -1,0 +1,861 @@
+@UTF8
+@PID:	11312/a-00000162-1
+@Begin
+@Languages:	zho, nan
+@Participants:	CHI Yang Child, EXA Observer, MOT Mother, GFT Grandfather,
+	GMT Grandmother
+@ID:	zho, nan|HC|CHI|2;0.||||Child|||
+@ID:	zho, nan|HC|EXA|||||Observer|||
+@ID:	zho, nan|HC|MOT|||||Mother|||
+@ID:	zho, nan|HC|GFT|||||Grandfather|||
+@ID:	zho, nan|HC|GMT|||||Grandmother|||
+*EXA:	你 說 什麼 ?
+*CHI:	這個 眼睛 怎麼 這麼 大 .
+*MOT:	他 說 這個 眼睛 怎麼 這麼 大 .
+%xsyn:	COMP-OBJ
+*MOT:	這 是 那個 小紅帽 的 故事 .
+%xsyn:	Other DE
+*MOT:	你 的 眼睛 怎麼 這麼 大 勒 .
+%xsyn:	Other DE
+*EXA:	你 給 它 拿 下來 .
+%xsyn:	PP-SVC
+*EXA:	阿姨 聽 不懂 啊 .
+*EXA:	你 給 它 拿 起來 .
+%xsyn:	PP-SVC
+*CHI:	怎麼 這麼 大 nei ?
+*EXA:	什麼 這麼 大 ?
+*CHI:	怎麼 這麼 大 .
+*EXA:	眼睛 這麼 大 要 做 什麼 啊 ?
+%xsyn:	GMOD-SVC
+*CHI:	要 把 大 野狼 殺掉.
+%xsyn:	GMOD-PP-V
+*EXA:	要 把 大野狼 殺掉 不對 啦.
+%xsyn:	GMOD-SVC
+*EXA:	要 看 你 啊.
+%xsyn:	GMOD-SVC
+*CHI:	要 看 你 啊.
+%xsyn:	GMOD-V-O
+*CHI:	傷腦筋.
+*EXA:	阿 你的耳朵 怎麼 這麼 大 勒?
+*CHI:	xxx 耳朵.
+*MOT:	耳朵 這麼 大 要 做什麼 啊?
+%xsyn:	GMOD-SVC
+*CHI:	要 把 你 吃掉.
+%xsyn:	GMOD-PP-V
+*MOT:	不是 要 把 你 吃掉.
+%xsyn:	MOD-GMOD-V
+*MOT:	要 看 要 聽 你 講話.
+%xsyn:	MOD-SVC
+*CHI:	要 聽 你 講 話.
+%xsyn:	MOD-SVC
+*MOT:	阿 嘴巴 怎麼 這麼 大 勒 ?
+*CHI:	嘴巴 怎麼 這麼 大 勒 ?
+*MOT:	嘴巴 這麼 大 要 做 什麼 啊 ?
+%xsyn:	GMOD-SVC
+*CHI:	要 把 你 吃掉 .
+%xsyn:	GMOD-PP-V
+*MOT:	對, 要 把 你 吃掉 .
+%xsyn:	GMOD-PP-V
+*MOT:	終於 等到 這句 .
+*MOT:	小紅帽 趕快 跑, 救命 啊 .
+*MOT:	你 又 咳嗽 嗽 了 .
+*MOT:	哎呦 實在 是 xxx .
+*CHI:	獵人 把 大野狼 殺掉 .
+%xsyn:	PP-V
+*MOT:	獵人 把 大野狼 殺掉.
+%xsyn:	PP-SVC
+*MOT:	然後 肚子 打開 把 誰 救 出來 ?
+%xsyn:	MEVENT
+*CHI:	把 紅帽[: 小紅帽] 救 出來 了 .
+%xsyn:	PP-V
+*MOT:	把 紅帽[: 小紅帽] 救 出來 了 .
+%xsyn:	PP-V
+*CHI:	xxx .
+*CHI:	小紅帽 不 乖 了 .
+*EXA:	蛤 小紅帽 怎樣 ?
+*EXA:	蛤 什麼 ?
+*CHI:	xxx .
+*CHI:	小紅帽 不 乖 了 .
+*MOT:	小紅帽 怎麼 會 不 乖 呢 ?
+*MOT:	故事 搞 xxx .
+*CHI:	xxx .
+*EXA:	那個 套 不 進去 啦 .
+*EXA:	你 的 腳 太 大 了 圈圈 太 小 了 .
+*CHI:	xxx .
+*CHI:	xxx .
+*CHI:	xxx .
+*EXA:	套 不 進去 啦 .
+*EXA:	你 的 腳 太 大 了 .
+*CHI:	太 大 了 .
+*EXA:	嘿 腳 太 大 還是 圈圈 太 大 ?
+*EXA:	哎喲, 吃 麵包 講 不 出來 了 .
+%xsyn:	MEVENT
+*MOT:	吃掉 .
+*CHI:	躲 在 時鐘 裡面 沒有 吃掉 .
+%xsyn:	MEVENT
+*MOT:	躲 在 時鐘 裡面 沒有 吃掉 .
+%xsyn:	MEVENT
+*MOT:	阿 媽媽, 他 現在 藏 巴比 躲 在 時鐘 裡面 .
+%xsyn:	MEVENT
+*CHI:	巴比 流 鼻涕 了 .
+*MOT:	巴比 流鼻涕 來 疢[: ts'eng] .
+*MOT:	用力 .
+*MOT:	哦 沒有 擦到 .
+*EXA:	好 恐怖 哦 .
+*EXA:	阿姨 差一點 從 樓上 滾 下來 .
+*EXA:	嚇死 人 了 .
+*EXA:	嚇一跳 .
+*EXA:	你 趕快 來 .
+*EXA:	巴比 來 啊 .
+*CHI:	xxx .
+*CHI:	xxx .
+*EXA:	來 這裡 嘛 .
+*EXA:	來 這裡 呀 .
+*EXA:	你 在 玩 什麼 ?
+*EXA:	你 在 玩 什麼 ?
+*EXA:	過來 .
+*EXA:	來 .
+*EXA:	過來 啊 .
+*CHI:	我 不要 到 那邊 去 .
+%xsyn:	NEG-GMOD-PP-V
+*EXA:	你 你 把 把 它 拿 下來 .
+%xsyn:	PP-SVC
+*EXA:	阿姨 聽 不懂 .
+*EXA:	快 呀 .
+*EXA:	巴比 !
+*CHI:	我 不要 到 那邊 去 .
+%xsyn:	NEG-GMOD- PP-V
+*EXA:	你 過來 這邊 .
+*EXA:	阿姨 聽 不見 你 過來 這裡 .
+*CHI:	我 不要 到 中紀堂@c [: 中正紀念堂] 去 .
+%xsyn:	NEG-GMOD-S PP-V
+*EXA:	他 說 什麼 ?
+*MOT:	中正紀念堂 .
+*EXA:	你 說 什麼?
+*CHI:	我 不 要 到 中紀堂@c [: 中正紀念堂] 去.
+%xsyn:	NEG-GMOD- PP-V
+*GMT:	到 到 紀念堂 去 啦 .
+*EXA:	到 紀念堂 去 啊 .
+*EXA:	你 來 這裡 跟 阿姨 講 啊.
+%xsyn:	MEVENT-P
+*EXA:	來 我 們 一起 去 .
+*EXA:	你 來 帶 阿姨 走 .
+%xsyn:	DIR-SVC
+*EXA:	快 啊 .
+*EXA:	阿姨 在 等 你 啊 .
+*EXA:	快 啊 .
+*EXA:	哦 準備 好 了 .
+*EXA:	巴比 開車 .
+*EXA:	巴比 坐 這裡 哦 .
+*EXA:	好 你 坐坐 下來 .
+*EXA:	要不然 你 坐 阿姨 這裡 .
+*EXA:	好不好 ?
+*EXA:	坐 阿姨 這裡 好不好 .
+*EXA:	好 .
+*EXA:	你 說 你 剛剛 說 要 去 哪裡 啊 ?
+%xsyn:	COMP-OBJ
+*CHI:	我 要 坐 計程車 .
+%xsyn:	GMOD-V-O
+*EXA:	到 哪裡 ?
+*CHI:	我 要 坐 計程車 .
+%xsyn:	GMOD-V-O
+*EXA:	要 坐 計程車 啊 .
+%xsyn:	GMOD-V-O
+*EXA:	是不是 ?
+*CHI:	對 .
+*EXA:	對 啊 .
+*CHI:	對 .
+*EXA:	你 的 計程車 好 可怕 .
+*GMT:	你 坐 計程車 到 哪裡 去 ?
+%xsyn:	MEVENT-P
+*CHI:	我 要 到 中紀堂@c[: 中正紀念堂] 去 .
+%xsyn:	GMOD- PP-V
+*EXA:	中正紀念堂 .
+*CHI:	在 這裡 啦 .
+*GMT:	哦 中正紀念堂 .
+*CHI:	在 這裡 啦 .
+*EXA:	哦, 在 這裡 哦 .
+*EXA:	哦 在 這裡 哦 你 是 指 沙發 啦 .
+*GMT:	+< 在 這裡 啦 .
+*EXA:	阿 趕快 開 過去 啊, 怎麼 開 ?
+*CHI:	啊 .
+*EXA:	呀 呀 呀 呀 .
+*CHI:	停 這裡 好 了 .
+%xsyn:	DCR
+*EXA:	蛤 ?
+*EXA:	停 這裡 好 了 .
+%xsyn:	DCR
+*GMT:	好 啊, 停 這裡 好 啊 .
+*EXA:	好, 停 阿姨 旁邊 .
+*EXA:	阿 你 要 怎麼 開, 你 現在 要 怎麼辦 ?
+%xsyn:	GMOD-SVC
+*CHI:	我 去 這裡 看一看 .
+%xsyn:	DIR-PP-V
+*EXA:	去 哪裡 看一看 ?
+%xsyn:	DIR-PP-V
+*CHI:	我 要 去 這裡 看一看 .
+%xsyn:	GMOD-DIR-PP-V
+*EXA:	心臟病 xxx .
+*EXA:	你 去 那裡 看 什麼 ?
+%xsyn:	DIR-SVC
+*CHI:	我 要 去 中正紀念堂 .
+%xsyn:	GMOD-DIR
+*EXA:	哈 ?
+*GMT:	中正紀念堂 .
+*EXA:	哦 中正紀念堂 看 過 了, 趕快 回來 .
+*EXA:	巴比 回來 回來 .
+*CHI:	回來 [/] .
+*EXA:	嗯 阿姨 沒有 下車 .
+*EXA:	你 沒有 請 阿姨 下車 啊 .
+%xsyn:	PVC
+*EXA:	阿嬤 在 泡 kabi@s [= 咖啡] ei .
+*EXA:	阿 阿 你 把 那些 銅板 都 踢 出來 了 .
+%xsyn:	PP-SVC
+*CHI:	阿姨 下車 .
+*EXA:	阿姨 下車, 好 下車, 然後 呢 ?
+*EXA:	你 還沒 你 沒有 幫 阿姨 開門 啊 .
+%xsyn:	GMOD-DCIR
+*EXA:	阿姨 怎麼 下去 阿姨 .
+*EXA:	門 沒有 開 啊 .
+*CHI:	巴比 門 打開 了 .
+*EXA:	哼 阿 然後 呢 ?
+*EXA:	打開 了 以後 呢 ?
+*CHI:	xxx .
+*EXA:	打開 了 以後 怎麼辦 ?
+*CHI:	巴比 用  key@s:eng 打開 .
+%xsyn:	DCIR
+*CHI:	巴比 的 key@s:eng 在 哪裡 呢 ?
+%xsyn:	Other DE
+*EXA:	巴比 什麼 ?
+*CHI:	巴比 的 key@s:eng 在 哪裡 呢 ?
+%xsyn:	Other DE
+*EXA:	巴比 的 什麼 ?
+*MOT:	key@s:eng .
+*CHI:	巴比 的 key@s:eng ?
+%xsyn:	Other DE
+*EXA:	si@s 是 什麼 ?
+*MOT:	鑰匙 .
+*EXA:	巴比 的 si 在 哪裡 ?
+%xsyn:	Other DE
+*EXA:	si 不是 在 車子 上 嗎 ?
+*EXA:	阿 你 把 媽媽 衣服 踩 爛 了 啦.
+%xsyn:	PP-SVC
+*EXA:	把 媽媽 衣服 掛 好 ?
+*CHI:	巴比 的 key 勒 ?
+%xsyn:	Other DE
+*EXA:	巴比的 si 呢 ?
+%xsyn:	Other DE
+*EXA:	是不是 嘎 ?
+*MOT:	摸摸 口袋 找找看 .
+%xsyn:	MEVENT-P
+*MOT:	摸摸 衣服 的 口袋 .
+%xsyn:	Other DE
+*CHI:	我 要 去 啊[/] .
+%xsyn:	GMOD-V
+*CHI:	xxx .
+*EXA:	你 吃 嘎 .
+*EXA:	阿姨 就 不能 錄 了 啊 .
+%xsyn:	MOD-SVC
+*EXA:	阿姨 聽 不懂 你 說 什麼 嘛 .
+%xsyn:	COMP-OBJ
+*CHI:	我 要 去 中紀堂@c[: 中正紀念堂].
+%xsyn:	MOD-DIR
+*EXA:	好 啊 你 要 帶 阿姨 去 .
+%xsyn:	GMOD-PVC
+*EXA:	來, 坐坐 .
+*EXA:	準備 開車 哦 .
+%xsyn:	SVC
+*EXA:	好, 好, 準備 好 了 沒有 ?
+*EXA:	這個 拿 起來 .
+*EXA:	這個 收 口袋 裡 .
+*EXA:	這個 收 口袋 裡 .
+*EXA:	口袋 在 哪裡 ?
+*CHI:	放 這裡.
+*EXA:	放 這裡, 你 放 旁邊 .
+*CHI:	xxx .
+*CHI:	阿姨 下車 .
+*EXA:	阿姨 下車 .
+*EXA:	阿姨 為什麼 要 下車 ?
+*EXA:	阿姨還沒到.
+*EXA:	阿姨不能下車.
+*EXA:	還沒到再開.
+*CHI:	阿姨 到 有 到 了.
+%xsyn:	GMOD-V
+*EXA:	哈?
+*CHI:	阿姨 有 到 了.
+%xsyn:	GMOD-V
+*MOT:	阿姨有到 了.
+%xsyn:	GMOD-V
+*MOT:	巴比還沒到.
+*MOT:	你注意看紅燈停綠燈走.
+%xsyn:	COMP-OBJ
+*EXA:	還沒到.
+*CHI:	這 裡 有 綠 燈.
+*EXA:	沒有綠燈啊.
+*EXA:	哪裡有綠燈?
+*EXA:	這都紅燈啊.
+*EXA:	都紅燈啊.
+*EXA:	你還帶誰?
+*EXA:	你要帶誰一起去?
+%xsyn:	GMOD-PVC
+*CHI:	巴比 要 帶 阿姨.
+%xsyn:	GMOD-V-O
+*EXA:	還有勒?
+*CHI:	還 有 阿公.
+*EXA:	哦 就 帶 我們 兩個 啊?
+*EXA:	爸爸 媽媽 不要啊?
+*EXA:	要 不要 啊?
+*CHI:	要.
+*EXA:	要啊.
+*EXA:	阿坐不下啊.
+*CHI:	媽媽 爸爸 要.
+*EXA:	阿坐不下呀.
+*EXA:	車子太小坐不下怎麼辦?
+*EXA:	哈?
+*CHI:	巴比 要 帶 阿姨.
+%xsyn:	GMOD-V-O
+*EXA:	哦就帶阿姨啊.
+*EXA:	不要帶他們啊?
+%xsyn:	GMOD-V-O
+*CHI:	不 要 帶 他 們.
+%xsyn:	GMOD-V-O
+*EXA:	哼為什麼不帶他們?
+*EXA:	為什麼不帶他們啊?
+*CHI:	要 帶 他 們.
+%xsyn:	GMOD-V-O
+*EXA:	要帶.
+%xsyn:	MOD-SVC
+*EXA:	到底帶不帶嘛?
+*EXA:	你這樣亂講.
+*CHI:	要 帶.
+%xsyn:	GMOD-V
+*EXA:	要帶啊.
+%xsyn:	GMOD-V
+*EXA:	坐不下呀.
+*CHI:	坐 不 下 啦.
+*EXA:	嘿坐不下.
+*CHI:	要[/] 帶 阿公 嘛.
+%xsyn:	GMOD-V-O
+*EXA:	好好要帶阿公.
+%xsyn:	GMOD-V-O
+*EXA:	阿他們兩個不要啊?
+*MOT:	那我們兩個要怎麼去?
+%xsyn:	GMOD-SVC
+*EXA:	對呀, 他們兩個怎麼辦?
+*EXA:	爸爸跟媽媽怎麼辦?
+*MOT:	那我們坐什麼東西?
+*CHI:	爸爸 跟 爸爸 媽媽 不 要 嘛.
+*EXA:	不要[=! 笑].
+*EXA:	不要啊.
+*EXA:	可是他們也要去.
+%xsyn:	GMOD-SVC
+*EXA:	他們一定要去啊.
+%xsyn:	GMOD-SVC
+*CHI:	他 們 一定 要 去 啦.
+%xsyn:	GMOD-V
+*EXA:	嘿, 那怎麼辦?
+*EXA:	那五個人坐不下啊.
+*EXA:	這麼多個 啊.
+*EXA:	那你怎麼辦?
+*CHI:	巴比 要 開開 車.
+%xsyn:	GMOD-V-O
+*EXA:	要開開車啊.
+%xsyn:	GMOD-V-O
+*EXA:	你嘎拿下來.
+*EXA:	阿姨聽不懂.
+*EXA:	哦, 巴比你看那個電視那個是什麼?
+%xsyn:	COMP-OBJ
+*CHI:	是 什麼 勒?
+*EXA:	你嘎拿下來.
+*EXA:	阿姨聽不懂.
+*EXA:	你看他們在放什麼?
+%xsyn:	COMP-OBJ
+*EXA:	你來這裡阿姨這裡坐.
+%xsyn:	DIR-SVC
+*EXA:	來, 過來這裡坐, 巴比.
+%xsyn:	DIR-SVC
+*EXA:	哎喲, 那個是什麼?
+*CHI:	咦.
+*EXA:	來哦.
+*EXA:	阿嬤要端咖啡來了哦.
+%xsyn:	GMOD-SVC
+*EXA:	趕快.
+*EXA:	巴比來這裡坐坐.
+%xsyn:	DIR-SVC
+*EXA:	快啊, 快啊.
+*EXA:	你拿什麼?
+*CHI:	xxx.
+*GMT:	xxx.
+*CHI:	xxx.
+*EXA:	那你不要開.
+%xsyn:	GMOD-SVC
+*EXA:	那都是杯子啊.
+*EXA:	那都是杯子.
+*EXA:	關起來.
+*EXA:	巴比乖.
+*EXA:	關起來.
+*EXA:	我們關起來.
+*CHI:	我 要 打 開 啦.
+%xsyn:	GMOD-V
+*EXA:	打開.
+*GMT:	打開有蟑螂啊.
+*GMT:	跑出來啊.
+*EXA:	那個不是嘛.
+*EXA:	不是你的杯子啊.
+*EXA:	你不能摸它.
+%xsyn:	MOD-SVC
+*EXA:	來, 關起來.
+*EXA:	關起來.
+*CHI:	阿姨 不 要.
+*EXA:	嘿, 阿姨不要擋著.
+%xsyn:	GMOD-SVC
+*EXA:	是不是, 好?
+*CHI:	你要去.
+%xsyn:	GMOD-V
+*GMT:	阿嬤還沒有空eng.
+*GMT:	xxx.
+*EXA:	+< 你要出去哪裡?
+%xsyn:	GMOD-SVC
+*EXA:	哦掉了.
+*EXA:	阿姨拿.
+*EXA:	你要出去哪裡啊?
+%xsyn:	GMOD-SVC
+*EXA:	來嘛, 我們到媽媽那裡.
+*EXA:	來阿姨跟你躲貓貓.
+%xsyn:	PP-SVC
+*EXA:	來哦.
+*EXA:	巴比, 我在哪裡?
+*CHI:	xxx.
+*EXA:	0 [=! 笑].
+*CHI:	0 [=! 笑].
+*EXA:	阿姨再躲一個.
+*CHI:	0 [=! 笑].
+*EXA:	哦[x 3].
+*EXA:	來[x 5], 哦[x 3].
+*CHI:	巴比xx.
+*EXA:	不行, 不行, 不行.
+*EXA:	這個滑[x 3].
+*CHI:	這 什麼?
+*EXA:	那什麼?
+*EXA:	那個是手把.
+*CHI:	這 什麼?
+*CHI:	手把.
+*EXA:	嘿, 把把.
+*CHI:	把把.
+*EXA:	嘿, 阿你不要坐你的馬.
+%xsyn:	GMOD-SVC
+*EXA:	是嗎?
+*EXA:	啊, 你把牆摸的黑黑的了啦.
+%xsyn:	PP-SVC
+*EXA:	拉出來才能坐.
+*EXA:	對, 再出來一點.
+*EXA:	來, 阿姨幫忙.
+*CHI:	xxx.
+*EXA:	來, 好, 上去.
+*EXA:	跨不上去, 再抬高一點.
+*EXA:	來, 我幫你扶.
+%xsyn:	DCIR
+*EXA:	來, 你上去腳伸過去.
+*EXA:	對.
+*EXA:	過去, 再再.
+*CHI:	巴比 xx要 自己 坐.
+%xsyn:	GMOD-S-V
+*EXA:	好, 你自己坐, 你自己坐.
+*EXA:	阿姨不要給你扶.
+%xsyn:	GMOD-SVC
+*CHI:	xxx.
+*EXA:	你這樣壓到腳了.
+*CHI:	xxx.
+*EXA:	哇, 哇, 哇.
+*CHI:	xxx.
+*EXA:	你要做什麼?
+%xsyn:	GMOD-SVC
+*EXA:	噫[x 8].
+*CHI:	xxx.
+*CHI:	Ei?
+*EXA:	這樣怎麼了?
+*EXA:	為什麼這樣啊?
+*EXA:	哼, 為什麼這樣啊?
+*CHI:	啊.
+*CHI:	哇.
+*EXA:	哇[x 4], 你踩著那個木馬的前腳做什麼啊?
+%xsyn:	MCC
+*EXA:	用力踩著不放啊.
+%xsyn:	MCC
+*EXA:	為什麼啊?
+*CHI:	放.
+*EXA:	嘿, 放.
+*EXA:	一下放開來.
+*EXA:	放開來放的好高.
+*CHI:	踩.
+*EXA:	踩.
+*CHI:	放.
+*EXA:	放, 不是 bang.
+*CHI:	放.
+*EXA:	巴比, 你看阿姨.
+*EXA:	放.
+*CHI:	放.
+*EXA:	這樣子, 放.
+*CHI:	放.
+*EXA:	你吐一大堆口水[=! 笑].
+*CHI:	放.
+*EXA:	放.
+*CHI:	放.
+*EXA:	不是啦, 放.
+*CHI:	放.
+*EXA:	踩, 你講踩.
+*CHI:	踩.
+*EXA:	踩.
+*CHI:	踩.
+*EXA:	踩.
+*CHI:	踩.
+*EXA:	啊 interdental@s:eng .
+*EXA:	來 阿姨 再 看一 次 來.
+*EXA:	你看, 開.
+*CHI:	開.
+*EXA:	不是,  開.
+*CHI:	開.
+*EXA:	開.
+*CHI:	開.
+*EXA:	開[x 4] .
+*CHI:	開 [x 4].
+*EXA:	阿姨氣死了[=! 笑].
+*EXA:	你怎麼會這麼慢呢.
+*EXA:	哦壓到腳了啦.
+*EXA:	傻瓜.
+*CHI:	xxx.
+*CHI:	踩.
+*CHI:	哇.
+*EXA:	好了.
+*EXA:	哎喲, 你看那什麼在叫.
+%xsyn:	COMP-OBJ
+*EXA:	xxx.
+*EXA:	巴比, 我們趕快來這裡坐坐.
+%xsyn:	DIR-SVC
+*EXA:	那個那狼出來勒.
+*EXA:	狼出來勒.
+*EXA:	巴比, 那個不能壓.
+*EXA:	不行.
+*EXA:	阿姨打屁股.
+*EXA:	走, 我們到阿公那裡去.
+%xsyn:	PP-SVC
+*EXA:	快點啊, 快點.
+*CHI:	xxx.
+*CHI:	xxx.
+*CHI:	xxx.
+*EXA:	你怎麼了?
+*EXA:	哦你不開車了.
+*EXA:	阿姨開.
+*EXA:	哦, 阿姨開哼.
+*EXA:	準備好了沒有?
+*EXA:	要帶誰?
+%xsyn:	GMOD-V-O
+*EXA:	要帶誰?
+%xsyn:	GMOD-V-O
+*EXA:	砰[x 6].
+*EXA:	來你開好了.
+*CHI:	xxx.
+*EXA:	你要開去哪裡?
+%xsyn:	GMOD-DIR
+*CHI:	我 要 開 去 中紀堂 啦.
+%xsyn:	GMOD-V-DIR
+*EXA:	為什麼要去中正紀念堂.
+%xsyn:	GMOD-DIR
+*EXA:	為什麼要去那裡啊?
+%xsyn:	GMOD-DIR
+*EXA:	蛤?
+*EXA:	為什麼?
+*GFT:	巴比要去動物園.
+%xsyn:	MOD-SVC
+*CHI:	巴比 要 去 動物園.
+%xsyn:	MOD-SVC
+*CHI:	阿姨 走 去 動物園.
+*EXA:	哈?
+*CHI:	阿姨 也 要 去.
+%xsyn:	GMOD-V
+*EXA:	阿姨也要去.
+%xsyn:	GMOD-V
+*GFT:	阿姨也要去.
+%xsyn:	GMOD-V
+*GFT:	動物園.
+*EXA:	還有誰要去啊?
+*CHI:	還 有 巴比 要 去.
+*EXA:	還有呢?
+*CHI:	還 有 阿公 要 去.
+%xsyn:	GMOD-SVC
+*CHI:	還 有 媽媽 要 去.
+%xsyn:	GMOD-SVC
+*CHI:	還 有 爸爸 要 去.
+%xsyn:	GMOD-SVC
+*EXA:	哼, 這樣子哦.
+*EXA:	這樣幾個人啊?
+*CHI:	五 個 人.
+*CHI:	一 個 人.
+*CHI:	五 個 人.
+*EXA:	為什麼要去動物園?
+%xsyn:	GMOD-SVC
+*EXA:	蛤?
+*EXA:	為什麼要去動物園?
+%xsyn:	GMOD-SVC
+*EXA:	為什麼不到別地方?
+*GFT:	動物園有小猴子.
+*CHI:	動物園 有 小 猴子.
+*EXA:	亂講.
+*EXA:	你不知道小猴子是什麼?
+%xsyn:	COMP-OBJ
+*GMT:	有啊.
+*GMT:	小猴子.
+*EXA:	沒有.
+*EXA:	小猴子回家了.
+*EXA:	阿公, 阿公騙你的.
+*GFT:	有.
+*CHI:	小 猴子 回 家 去 了.
+*EXA:	0 [=! 笑].
+*CHI:	到了[x 3].
+*EXA:	哈?
+*GFT:	到了, 到了.
+*CHI:	到 了.
+*EXA:	到了哦.
+*EXA:	到了.
+*EXA:	阿沒有給錢啊.
+*CHI:	多少 錢?
+*EXA:	不是, 不是你給我啦.
+*EXA:	我給你啦.
+*EXA:	我給你.
+*EXA:	我給你啦.
+*CHI:	阿姨 也 要 去.
+%xsyn:	GMOD-V
+*EXA:	阿姨也要去.
+%xsyn:	GMOD-V
+*EXA:	去哪裡?
+*CHI:	去 動物園.
+*EXA:	去動物園啊.
+*EXA:	去動物園做什麼?
+*MOT:	巴比, 你把好看的都給我擋掉了.
+%xsyn:	PP-PP-V
+*MOT:	照片.
+*CHI:	xxx.
+*MOT:	你走開.
+*CHI:	不 要 走 開 嘛.
+%xsyn:	NEG-GMOD-V
+*EXA:	不要走開嘛.
+%xsyn:	GMOD-V
+*EXA:	好生氣.
+*EXA:	哦, 你看.
+*EXA:	你看, 巴比.
+*EXA:	趕快來看.
+*EXA:	有一個有一個狗要跑出來哦.
+%xsyn:	GMOD-SVC
+*EXA:	很快哦.
+*EXA:	來來來, 巴比快來.
+*EXA:	快快快.
+*EXA:	趕快阿姨抱住.
+*EXA:	要不然它會咬人.
+%xsyn:	MOD-SVC
+*EXA:	快點趕快來.
+*EXA:	唉喲[x 3].
+*EXA:	你看看.
+*EXA:	好恐怖哦.
+*EXA:	叫媽媽再放一次給你看.
+%xsyn:	DCIR
+*EXA:	叫媽媽再放一次.
+*EXA:	嘿, 詹惠敏再放一次給他看.
+%xsyn:	DCIR
+*MOT:	不要嚇他.
+%xsyn:	GMOD-SVC
+*EXA:	你看看.
+*EXA:	那會有個狗跑出來哦.
+%xsyn:	MOD-SVC
+*EXA:	好恐怖哦.
+*EXA:	還會再出來一次哦.
+*EXA:	它出來你怕不怕?
+*EXA:	它前面有一隻腳好長.
+%xsyn:	DCR
+*EXA:	扎扎, 刺人 nei.
+*CHI:	xxx.
+*EXA:	把剛剛那個叔叔刺死了.
+%xsyn:	PP-SVC
+*EXA:	流血, 好痛.
+*EXA:	xxx.
+*EXA:	還有大火ei.
+*EXA:	好可怕.
+*EXA:	巴比都不敢出聲了是不是?
+*EXA:	你怕不怕狗?
+*CHI:	怕 狗.
+*EXA:	怕狗, 為什麼怕狗?
+*EXA:	哎喲, 你看看, 你看看.
+*EXA:	巴比, 看哦.
+*EXA:	要出來了.
+%xsyn:	GMOD-SVC
+*EXA:	要出來了.
+%xsyn:	GMOD-SVC
+*EXA:	巴比, 要出來了哦.
+%xsyn:	GMOD-SVC
+*EXA:	不要講話.
+%xsyn:	GMOD-SVC
+*CHI:	哇.
+*EXA:	走出來你怎麼辦?
+*EXA:	狗狗咬你.
+*EXA:	你怎麼辦?
+*EXA:	好可怕.
+*EXA:	剛剛那個是什麼?
+*CHI:	媽媽.
+*CHI:	xxx.
+*CHI:	媽媽 給 我 一 個.
+*CHI:	給 我 一 個.
+*MOT:	你有沒有錄到?
+%xsyn:	GMOD-SVC
+*MOT:	你有沒有錄到他給我講什.
+%xsyn:	GMOD-V-COMP
+*CHI:	給 我 一 個.
+*EXA:	蛤?
+*MOT:	給我一個.
+*EXA:	給你一個什麼?
+*EXA:	給你一個什麼?
+*CHI:	這 什麼?
+*CHI:	給 我 一 個.
+*MOT:	好.
+*CHI:	給 我 一 個.
+*CHI:	給 我 一 個.
+*CHI:	xxx.
+*EXA:	來, 你看看哦.
+*EXA:	好, 不要, 這一個.
+*EXA:	這裡一個 對不對?
+*EXA:	哪 一手?
+*CHI:	這 手.
+*EXA:	蛤, 你過來一點嘛.
+*EXA:	阿姨聽不見嘛.
+*EXA:	來, 阿姨xx.
+*EXA:	哪一手?
+*CHI:	這 手.
+*EXA:	沒有啊.
+*CHI:	這 手.
+*EXA:	嘿,  對了, 阿姨再弄.
+*EXA:	搖[x 5].
+*EXA:	哪一手?
+*CHI:	這 手.
+*EXA:	他都猜他剛剛看到的那一手.
+%xsyn:	NOM
+*EXA:	沒有 啊.
+*CHI:	在 這 裡.
+*EXA:	嘿, 對, 在這手.
+*EXA:	阿姨搖[x 5].
+*EXA:	哪一手?
+*CHI:	這 手.
+*EXA:	哼, 奇怪.
+*EXA:	他現在曉得猜另外一手了.
+%xsyn:	COMP-OBJ
+*EXA:	哎呀, 被騙了.
+*CHI:	xxx.
+*EXA:	哦 他好聰明.
+*EXA:	你知道嗎?
+*EXA:	哼玩了兩次就知道猜另外一手.
+%xsyn:	MCC
+*EXA:	不是剛剛看到拿錢那一手, 哼.
+%xsyn:	MCC
+*EXA:	在哪一手?
+*EXA:	不對.
+*EXA:	沒有.
+*CHI:	沒有 xxx.
+*EXA:	也沒有耶.
+*EXA:	哪裡去了?
+*EXA:	哎約 哎約, 好奇怪的樣子.
+*EXA:	在這裡, 在這裡.
+*EXA:	巴比, 在這裡.
+*EXA:	來, 你坐下來.
+*EXA:	坐下來.
+*EXA:	一 二 一 二 哪一手?
+*EXA:	他現在先找找地上[=! 笑].
+*CHI:	這 手.
+*EXA:	0 [=! 笑].
+*CHI:	這 手.
+*EXA:	Zou kiao ei.
+*CHI:	在 這 裡 啦.
+*EXA:	哼他很聰明.
+*EXA:	這小鬼真受不了.
+*EXA:	我故意把它摔到地上.
+%xsyn:	PP-SVC
+*EXA:	被他發現.
+%xsyn:	PP-SVC
+*EXA:	哪一手?
+*CHI:	xxx.
+*EXA:	不在這裡.
+*EXA:	有沒有?
+*EXA:	有沒有?
+*EXA:	有沒有?
+*EXA:	不是那裡啦.
+*EXA:	在阿姨手上啦.
+*EXA:	哪一手?
+*CHI:	在 這 裡 啦.
+*CHI:	這 手 啦.
+*EXA:	有沒有.
+*EXA:	你猜.
+*EXA:	打開.
+*EXA:	你說阿姨打開.
+%xsyn:	COMP-OBJ
+*CHI:	阿姨 打 開.
+*EXA:	啊啊輪巴比玩.
+*EXA:	輪巴比玩.
+*EXA:	你弄給阿姨猜哦哼.
+%xsyn:	DCIR
+*EXA:	阿姨不要看哦哼.
+%xsyn:	GMOD-SVC
+*EXA:	好了沒有?
+*CHI:	好 了.
+*EXA:	阿你要拿好哦.
+%xsyn:	GMOD-SVC
+*EXA:	你要藏起來.
+%xsyn:	GMOD-SVC
+*EXA:	不要給阿姨看到哦哼.
+%xsyn:	GMOD-SVC
+*EXA:	藏好了沒有?
+*CHI:	還 沒有 藏 好.
+%xsyn:	NEG-GMOD-V
+*EXA:	藏好在哪裡?
+*EXA:	阿姨看看.
+*EXA:	來, 阿姨猜哦哼.
+*EXA:	這手.
+*EXA:	你用兩手xx.
+*EXA:	好, 再一次哦.
+*EXA:	好, 藏好[x 3].
+*EXA:	是錢藏好.
+%xsyn:	REL-SHI
+*EXA:	不是你藏好.
+%xsyn:	REL-SHI
+*EXA:	你背過來對著阿姨幹什麼?
+%xsyn:	MEVENT
+*CHI:	阿姨 藏 好.
+*EXA:	來, 一二一二呀.
+*EXA:	哪一手?
+*CHI:	這 手.
+*EXA:	啊巴比猜中了.
+*EXA:	好棒哦.
+*EXA:	一二一二呀.
+*EXA:	哪一手?
+*CHI:	xxx.
+*EXA:	Ei, 怎麼沒有啊?
+*EXA:	哪裡去了?
+*CHI:	在 這 裡.
+*EXA:	不是啦.
+*EXA:	在這裡啦.
+*EXA:	你不能再去拿一個啦.
+%xsyn:	MOD-SVC
+*EXA:	好, 輪巴比啊.
+*EXA:	輪巴比啊.
+*CHI:	輪 阿姨.
+*EXA:	好, 阿姨弄.
+*EXA:	一 二 一 二 一 二 哪一手?
+*CHI:	這 手.
+*EXA:	哎喲, 你好厲害.
+*EXA:	巴比又猜對了.
+*CHI:	xxx.
+*EXA:	輪你嘛.
+*CHI:	不 要.
+*EXA:	輪你弄給阿姨猜呀.
+%xsyn:	MCC
+*CHI:	阿姨.
+*EXA:	輪你弄給阿姨猜.
+%xsyn:	MCC
+*EXA:	我們一個人玩一次嘛哼.
+*CHI:	好.
+@End

@@ -1,0 +1,1013 @@
+@UTF8
+@PID:	11312/a-00000155-1
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, WAN Wang Observer, NAN Nanny Aunt
+@ID:	zho|HC|CHI|2;5.||||Child|||
+@ID:	zho|HC|WAN|||||Observer|||
+@ID:	zho|HC|NAN|||||Aunt|||
+*WAN:	你 說 我 是 嘉嘉 .
+%xmor:	Npro:2sg|你 Vt|說 Npro:1sg|我 Vc|是 Nppn|嘉嘉 .
+*WAN:	快 講話 啊 , 我 是 嘉嘉 .
+%xmor:	ADV|快 Vi|講話 SFP|啊 , Npro:1sg|我 Vc|是 Nppn|嘉嘉 .
+*CHI:	我 是 嘉嘉 .
+%xmor:	Npro:1sg|我 Vc|是 Nppn|嘉嘉 .
+*WAN:	嗯 , 好 !
+%xmor:	INT|嗯 , Va|好 !
+*WAN:	嘉嘉 你 今天 有 什麼 好看 的 書 要 給 我 看 ?
+%xmor:	Nppn|嘉嘉 Npro:2sg|你 Nt|今天 Vt|有 WH|什麼 Va|好看 DE|的 Nn|書 Vt|要 Vt|給 Npro:1sg|我 Vt|看 ?
+*WAN:	還是 什麼 好玩 的 東西 ?
+%xmor:	CONJ|還是 WH|什麼 Va|好玩 DE|的 Nn|東西 ?
+*NAN:	給 你 !
+%xmor:	Vt|給 Npro:2sg|你 !
+*WAN:	啊 , 謝謝 !
+%xmor:	INT|啊 , Vt|謝謝 !
+*NAN:	Byebye , 嘉嘉 , I will be in your mama's room , yha !
+%xmor:	CS|Byebye , Nppn|嘉嘉 , CS|I CS|will CS|be CS|in CS|your CS|mama's CS|room , CS|yha !
+*WAN:	Byebye .
+%xmor:	CS|Byebye .
+*CHI:	Byebye .
+%xmor:	CS|Byebye .
+%com:	看圖畫書 .
+*WAN:	我 看看 是 什麼 啊 ?
+%xmor:	Npro:1sg|我 Vr|看看 Vc|是 WH|什麼 SFP|啊 ?
+*CHI:	這 冰淇淋 .
+%xmor:	Npro:dem|這 Nn|冰淇淋 .
+*WAN:	這 冰淇淋 啊 , 好吃 不 好吃 ?
+%xmor:	Npro:dem|這 Nn|冰淇淋 SFP|啊 , Va|好吃 NEG|不 Va|好吃 ?
+*WAN:	還有 什麼 你 認識 的 ?
+%xmor:	CONJ|還有 WH|什麼 Npro:2sg|你 Vt|認識 DE|的 ?
+*CHI:	嗯 ?
+%xmor:	INT|嗯 ?
+*WAN:	番茄 啊 !
+%xmor:	Nn|番茄 SFP|啊 !
+*WAN:	什麼 , 這 什麼 ?
+%xmor:	WH|什麼 , Npro:dem|這 WH|什麼 ?
+*CHI:	嗯 ?
+%xmor:	INT|嗯 ?
+*WAN:	汽水 啊 !
+%xmor:	Nn|汽水 SFP|啊 !
+*CHI:	汽水 .
+%xmor:	Nn|汽水 .
+*WAN:	嘿 , 要 不 要 喝 ?
+%xmor:	INT|嘿 , Vt|要 NEG|不 Vt|要 Vt|喝 ?
+*CHI:	不 要 .
+%xmor:	NEG|不 Vt|要 .
+*WAN:	吸 一 口 .
+%xmor:	Vt|吸 QN|一 M|口 .
+*WAN:	要 不 要 ?
+%xmor:	Vt|要 NEG|不 Vt|要 ?
+*WAN:	冰冰 .
+%xmor:	Nn|冰冰 .
+*WAN:	好 吧 , 那 我 自己 喝 了 .
+%xmor:	Va|好 SFP|吧 , INT|那 Npro:1sg|我 Npro:ref|自己 Vt|喝 ASP|了 .
+*CHI:	嗯 .
+%xmor:	INT|嗯 .
+*WAN:	這 是 什麼 ?
+%xmor:	Npro:dem|這 Vc|是 WH|什麼 ?
+*CHI:	嗯 ?
+%xmor:	INT|嗯 ?
+*WAN:	怎麼 你 不 記得 了 , 剛剛 還 有 吃 一 口 啊 !
+%xmor:	WH|怎麼 Npro:2sg|你 NEG|不 Vt|記得 ASP|了 , ADV|剛剛 ADV|還 Vt|有 Vt|吃 QN|一 M|口 SFP|啊 !
+*WAN:	蛋 , 對 不 對 ?
+%xmor:	Nn|蛋 , Va|對 NEG|不 Va|對 ?
+*CHI:	蛋 .
+%xmor:	Nn|蛋 .
+*WAN:	你 吃 蛋 吧 .
+%xmor:	Npro:2sg|你 Vt|吃 Nn|蛋 SFP|吧 .
+*CHI:	葡萄 .
+%xmor:	Nn|葡萄 .
+*WAN:	嗯 !
+%xmor:	INT|嗯 !
+*CHI:	鬍子 .
+%xmor:	Nn|鬍子 .
+*WAN:	這 個 鬍子 啊 ?
+%xmor:	DET|這 M|個 Nn|鬍子 SFP|啊 ?
+*CHI:	對 呀 .
+%xmor:	Va|對 SFP|呀 .
+*CHI:	這 鬍子 .
+%xmor:	Npro:dem|這 Nn|鬍子 .
+*WAN:	鬍子 啊 , 這 是 鳳梨 .
+%xmor:	Nn|鬍子 SFP|啊 , Npro:dem|這 Vc|是 Nn|鳳梨 .
+*CHI:	鳳梨 .
+%xmor:	Nn|鳳梨 .
+*WAN:	怎麼 會 鬍子 .
+%xmor:	WH|怎麼 MOD|會 Nn|鬍子 .
+*WAN:	草莓 呀 !
+%xmor:	Nn|草莓 SFP|呀 !
+*CHI:	草莓 .
+%xmor:	Nn|草莓 .
+*WAN:	Strawberry 對 不 對 , 你 會 不 會 講 ?
+%xmor:	CS|Strawberry Va|對 NEG|不 Va|對 , Npro:2sg|你 MOD|會 NEG|不 MOD|會 Vt|講 ?
+*WAN:	你 會 對 不 對 ?
+%xmor:	Npro:2sg|你 MOD|會 Va|對 NEG|不 Va|對 ?
+*CHI:	對 !
+%xmor:	Va|對 !
+*WAN:	對 嘛 !
+%xmor:	Va|對 SFP|嘛 !
+*WAN:	這 個 勒 ?
+%xmor:	DET|這 M|個 SFP|勒 ?
+*CHI:	Banana !
+%xmor:	CS|Banana !
+*WAN:	嗯 !
+%xmor:	INT|嗯 !
+*WAN:	這 什麼 ?
+%xmor:	Npro:dem|這 WH|什麼 ?
+*WAN:	你 要 問 我 嗎 ?
+%xmor:	Npro:2sg|你 Vt|要 Vt|問 Npro:1sg|我 SFP|嗎 ?
+*WAN:	芒果 .
+%xmor:	Nn|芒果 .
+%com:	CHI跑掉了 .
+*WAN:	大姊 勒 , 二姊 勒 ?
+%xmor:	Nn|大姊 SFP|勒 , Nn|二姊 SFP|勒 ?
+*WAN:	大姊 二姊 勒 ?
+%xmor:	Nn|大姊 Nn|二姊 SFP|勒 ?
+*WAN:	好 , 拿 相片 給 我 看 , 全部 好 不 好 !
+%xmor:	Va|好 , Vt|拿 Nn|相片 Vt|給 Npro:1sg|我 Vt|看 , QN|全部 Va|好 NEG|不 Va|好 !
+*WAN:	全部 .
+%xmor:	QN|全部 .
+*WAN:	嘉嘉 .
+%xmor:	Nppn|嘉嘉 .
+*WAN:	還有 小 的 啊 , 喔喔 !
+%xmor:	CONJ|還有 Va|小 DE|的 SFP|啊 , INT|喔喔 !
+*WAN:	撿 起來 , 撿 起來 放 回去 .
+%xmor:	Vt|撿 Vi|起來 , Vt|撿 Vi|起來 Vt|放 Vi|回去 .
+*WAN:	嗯 , 好 乖 喔 , 還 有 大 本 喔 !
+%xmor:	INT|嗯 , ADV|好 Va|乖 SFP|喔 , ADV|還 Vt|有 Va|大 M|本 SFP|喔 !
+*CHI:	這 大 本 .
+%xmor:	Npro:dem|這 Va|大 M|本 .
+*WAN:	要 不 要 給 我 看 ?
+%xmor:	Vt|要 NEG|不 Vt|要 Vt|給 Npro:1sg|我 Vt|看 ?
+*CHI:	這 大 本 .
+%xmor:	Npro:dem|這 Va|大 M|本 .
+*WAN:	大 本 放 在 小 本 的 下面 .
+%xmor:	Va|大 M|本 Vt|放 PREP|在 Va|小 M|本 DE|的 Nloc|下面 .
+*WAN:	會 不 會 ?
+%xmor:	MOD|會 NEG|不 MOD|會 ?
+*CHI:	還有 大 本 .
+%xmor:	CONJ|還有 Va|大 M|本 .
+*WAN:	嗯 .
+%xmor:	INT|嗯 .
+*CHI:	大 本 .
+%xmor:	Va|大 M|本 .
+*WAN:	大 本 放 在 小 本 的 下面 .
+%xmor:	Va|大 M|本 Vt|放 PREP|在 Va|小 M|本 DE|的 Nloc|下面 .
+*WAN:	你 看看 我 弄 .
+%xmor:	Npro:2sg|你 Vr|看看 Npro:1sg|我 Vt|弄 .
+*CHI:	嗯 .
+%xmor:	INT|嗯 .
+*WAN:	你 看看 我 弄 .
+%xmor:	Npro:2sg|你 Vr|看看 Npro:1sg|我 Vt|弄 .
+*WAN:	這 個 是 小 本 .
+%xmor:	DET|這 M|個 Vc|是 Va|小 M|本 .
+*WAN:	這 個 是 大 本 .
+%xmor:	DET|這 M|個 Vc|是 Va|大 M|本 .
+*WAN:	大 本 要 放 在 小 本 的 下面 才 不 會 掉 下去 啊 !
+%xmor:	Va|大 M|本 Vt|要 Vt|放 PREP|在 Va|小 M|本 DE|的 Nloc|下面 ADV|才 NEG|不 MOD|會 Vi|掉 Vi|下去 SFP|啊 !
+*WAN:	你 說 乖乖 , 這樣 就 不 會 掉 了 !
+%xmor:	Npro:2sg|你 Vt|說 Va|乖乖 , Va|這樣 ADV|就 NEG|不 MOD|會 Va|掉 ASP|了 !
+*WAN:	知道 不 知道 ?
+%xmor:	Vt|知道 NEG|不 Vt|知道 ?
+*CHI:	知道 .
+%xmor:	Vt|知道 .
+*CHI:	這樣 .
+%xmor:	Va|這樣 .
+*CHI:	這 大 本 對 不 對 ?
+%xmor:	Npro:dem|這 Va|大 M|本 Va|對 NEG|不 Va|對 ?
+*WAN:	對 , 我們 一起 看 好 不 好 ?
+%xmor:	Va|對 , Npro:1pl|我們 ADV|一起 Vt|看 Va|好 NEG|不 Va|好 ?
+*CHI:	這 大 本 .
+%xmor:	Npro:dem|這 Va|大 M|本 .
+*WAN:	哇 , 這 是 誰 呀 !
+%xmor:	INT|哇 , Npro:dem|這 Vc|是 WH|誰 SFP|呀 !
+*WAN:	嘉嘉 這 個 胖胖 是 誰 ?
+%xmor:	Nppn|嘉嘉 DET|這 M|個 Va|胖胖 Vc|是 WH|誰 ?
+*CHI:	嘉嘉 .
+%xmor:	Nppn|嘉嘉 .
+*CHI:	這 是 嘉嘉 .
+%xmor:	Npro:dem|這 Vc|是 Nppn|嘉嘉 .
+*WAN:	嘉嘉 啊 !
+%xmor:	Nppn|嘉嘉 SFP|啊 !
+*CHI:	這 是 嘉嘉 .
+%xmor:	Npro:dem|這 Vc|是 Nppn|嘉嘉 .
+*CHI:	阿姨 .
+%xmor:	Nn|阿姨 .
+*WAN:	這 個 勒 ?
+%xmor:	DET|這 M|個 SFP|勒 ?
+*CHI:	二姊 .
+%xmor:	Nn|二姊 .
+*WAN:	對 !
+%xmor:	Va|對 !
+*WAN:	好 可愛 喔 !
+%xmor:	ADV|好 Va|可愛 SFP|喔 !
+%com:	CHI咳嗽 .
+*CHI:	嘉嘉 咳嗽 了 .
+%xmor:	Nppn|嘉嘉 Vi|咳嗽 ASP|了 .
+*WAN:	蛤 ?
+%xmor:	INT|蛤 ?
+*CHI:	嘉嘉 咳嗽 .
+%xmor:	Nppn|嘉嘉 Vi|咳嗽 .
+*WAN:	什麼 狗肉 ?
+%xmor:	WH|什麼 Nn|狗肉 ?
+*CHI:	嘉嘉 啦 !
+%xmor:	Nppn|嘉嘉 SFP|啦 !
+*WAN:	咳嗽 啦 !
+%xmor:	Vi|咳嗽 SFP|啦 !
+*WAN:	你 為什麼 咳嗽 ?
+%xmor:	Npro:2sg|你 WH|為什麼 Vi|咳嗽 ?
+*WAN:	那 是 什麼 ?
+%xmor:	Npro:dem|那 Vc|是 WH|什麼 ?
+*CHI:	樹木 好 高 喔 !
+%xmor:	Nn|樹木 ADV|好 Va|高 SFP|喔 !
+*WAN:	嗯 !
+%xmor:	INT|嗯 !
+*WAN:	還有 後面 , 一 本 一 本 看 嘛 !
+%xmor:	CONJ|還有 Nloc|後面 , QN|一 M|本 QN|一 M|本 Vt|看 SFP|嘛 !
+*WAN:	這 是 誰 啊 ?
+%xmor:	Npro:dem|這 Vc|是 WH|誰 SFP|啊 ?
+*CHI:	祝你生日快樂 !
+%xmor:	IDM|祝你生日快樂 !
+*WAN:	嗯 !
+%xmor:	INT|嗯 !
+*CHI:	媽媽 !
+%xmor:	Nn|媽媽 !
+*WAN:	喔 , 那 是 媽媽 啊 !
+%xmor:	INT|喔 , Npro:dem|那 Vc|是 Nn|媽媽 SFP|啊 !
+*WAN:	這 誰 的 蛋糕 啊 ?
+%xmor:	Npro:dem|這 WH|誰 DE|的 Nn|蛋糕 SFP|啊 ?
+*CHI:	阿姨 的 啊 !
+%xmor:	Nn|阿姨 DE|的 SFP|啊 !
+*WAN:	是 阿姨 的 啊 , 不 是 你 的 嗎 ?
+%xmor:	Vc|是 Nn|阿姨 DE|的 SFP|啊 , NEG|不 Vc|是 Npro:2sg|你 DE|的 SFP|嗎 ?
+*WAN:	這 個 人 的 蛋糕 , 一 歲 啊 !
+%xmor:	DET|這 M|個 Nn|人 DE|的 Nn|蛋糕 , QN|一 M|歲 SFP|啊 !
+*WAN:	這 個 人 是 誰 啊 ?
+%xmor:	DET|這 M|個 Nn|人 Vc|是 WH|誰 SFP|啊 ?
+*WAN:	這 是 誰 啊 ?
+%xmor:	Npro:dem|這 Vc|是 WH|誰 SFP|啊 ?
+*CHI:	嘉嘉 .
+%xmor:	Nppn|嘉嘉 .
+*WAN:	是 你 的 蛋糕 .
+%xmor:	Vc|是 Npro:2sg|你 DE|的 Nn|蛋糕 .
+*WAN:	對 不 對 ?
+%xmor:	Va|對 NEG|不 Va|對 ?
+*WAN:	唉唷 !
+%xmor:	INT|唉唷 !
+*CHI:	唉呀 , 好 可愛 喔 !
+%xmor:	INT|唉呀 , ADV|好 Va|可愛 SFP|喔 !
+*WAN:	這樣子 啊 , 非常 可愛 啊 !
+%xmor:	Va|這樣子 SFP|啊 , ADV|非常 Va|可愛 SFP|啊 !
+*WAN:	我 好 可愛 是 不 是 ?
+%xmor:	Npro:1sg|我 ADV|好 Va|可愛 Vc|是 NEG|不 Vc|是 ?
+*CHI:	你 !
+%xmor:	Npro:2sg|你 !
+*WAN:	蛤 ?
+%xmor:	INT|蛤 ?
+*CHI:	好 可愛 .
+%xmor:	ADV|好 Va|可愛 .
+*WAN:	是 誰 可愛 ?
+%xmor:	Vc|是 WH|誰 Va|可愛 ?
+*WAN:	我 可愛 還是 你 可愛 ?
+%xmor:	Npro:1sg|我 Va|可愛 CONJ|還是 Npro:2sg|你 Va|可愛 ?
+*CHI:	啊 .
+%xmor:	INT|啊 .
+*WAN:	你 要 拿 什麼 ?
+%xmor:	Npro:2sg|你 Vt|要 Vt|拿 WH|什麼 ?
+*CHI:	我 要 這 個 .
+%xmor:	Npro:1sg|我 Vt|要 DET|這 M|個 .
+*CHI:	看 這 個 .
+%xmor:	Vt|看 DET|這 M|個 .
+*WAN:	看 這 個 啊 , 好 啊 , 可是 我 在 看 這 個 啊 !
+%xmor:	Vt|看 DET|這 M|個 SFP|啊 , Va|好 SFP|啊 , CONJ|可是 Npro:1sg|我 ASP|在 Vt|看 DET|這 M|個 SFP|啊 !
+*CHI:	姊姊 .
+%xmor:	Nn|姊姊 .
+*WAN:	嗯 , 你 要 看 那 個 啊 ?
+%xmor:	INT|嗯 , Npro:2sg|你 Vt|要 Vt|看 WH|那 M|個 SFP|啊 ?
+*WAN:	誰 ?
+%xmor:	WH|誰 ?
+*WAN:	阿姨 .
+%xmor:	Nn|阿姨 .
+*CHI:	他 痛痛 了 .
+%xmor:	Npro:3sg|他 Va|痛痛 ASP|了 .
+*WAN:	他 痛痛 了 啊 , 為什麼 痛痛 ?
+%xmor:	Npro:3sg|他 Va|痛痛 ASP|了 SFP|啊 , WH|為什麼 Va|痛痛 ?
+*WAN:	跌倒 了 嗎 ?
+%xmor:	Vi|跌倒 ASP|了 SFP|嗎 ?
+*CHI:	是 啊 .
+%xmor:	Vc|是 SFP|啊 .
+*WAN:	嘉嘉 你 在 哪裡 啊 , 這裡 ?
+%xmor:	Nppn|嘉嘉 Npro:2sg|你 PREP|在 WH|哪裡 SFP|啊 , Npro:dem|這裡 ?
+*WAN:	這 是 哪裡 啊 ?
+%xmor:	Npro:dem|這 Vc|是 WH|哪裡 SFP|啊 ?
+*CHI:	這裡 .
+%xmor:	Npro:dem|這裡 .
+*WAN:	這 是 誰 , 這 是 什麼 地方 ?
+%xmor:	Npro:dem|這 Vc|是 WH|誰 , Npro:dem|這 Vc|是 WH|什麼 Nn|地方 ?
+*WAN:	這 是 什麼 地方 ?
+%xmor:	Npro:dem|這 Vc|是 WH|什麼 Nn|地方 ?
+*CHI:	嗯 ?
+%xmor:	INT|嗯 ?
+*WAN:	學校 對 不 對 ?
+%xmor:	Nn|學校 Va|對 NEG|不 Va|對 ?
+*WAN:	這 是 不 是 在 學校 ?
+%xmor:	Npro:dem|這 Vc|是 NEG|不 Vc|是 PREP|在 Nn|學校 ?
+*CHI:	是 啊 !
+%xmor:	Vc|是 SFP|啊 !
+*WAN:	是 啊 .
+%xmor:	Vc|是 SFP|啊 .
+*CHI:	阿姨 這 個 沒有 痛痛 .
+%xmor:	Nn|阿姨 DET|這 M|個 NEG|沒有 Va|痛痛 .
+*WAN:	嗯 , 對 !
+%xmor:	INT|嗯 , Va|對 !
+*CHI:	阿姨 開 +...
+%xmor:	Nn|阿姨 Vt|開 +...
+*CHI:	阿姨 開心 !
+%xmor:	Nn|阿姨 Va|開心 !
+*WAN:	喔 , 阿姨 開心 吶 !
+%xmor:	INT|喔 , Nn|阿姨 Va|開心 SFP|吶 !
+*CHI:	阿姨 這 個 在 哪裡 ?
+%xmor:	Nn|阿姨 DET|這 M|個 PREP|在 WH|哪裡 ?
+*WAN:	阿姨 在 哪裡 啊 ?
+%xmor:	Nn|阿姨 PREP|在 WH|哪裡 SFP|啊 ?
+*CHI:	嗯 ?
+%xmor:	INT|嗯 ?
+*WAN:	這裡 !
+%xmor:	Npro:dem|這裡 !
+*CHI:	對 不 對 ?
+%xmor:	Va|對 NEG|不 Va|對 ?
+*WAN:	對 不 對 ?
+%xmor:	Va|對 NEG|不 Va|對 ?
+*CHI:	對 .
+%xmor:	Va|對 .
+*CHI:	好多 喔 .
+%xmor:	QN|好多 SFP|喔 .
+*WAN:	好多 人 喔 !
+%xmor:	QN|好多 Nn|人 SFP|喔 !
+*CHI:	好多 好多 喔 !
+%xmor:	QN|好多 QN|好多 SFP|喔 !
+*WAN:	好多 什麼 ?
+%xmor:	QN|好多 WH|什麼 ?
+*CHI:	阿姨 開心 喔 !
+%xmor:	Nn|阿姨 Va|開心 SFP|喔 !
+*WAN:	喔 , 阿姨 開心 喔 !
+%xmor:	INT|喔 , Nn|阿姨 Va|開心 SFP|喔 !
+*CHI:	阿姨 生氣 了 .
+%xmor:	Nn|阿姨 Va|生氣 ASP|了 .
+*WAN:	蛤 ?
+%xmor:	INT|蛤 ?
+*CHI:	阿姨 生氣 .
+%xmor:	Nn|阿姨 Va|生氣 .
+*WAN:	進去 啦 ?
+%xmor:	Vi|進去 SFP|啦 ?
+*CHI:	生氣 .
+%xmor:	Va|生氣 .
+*WAN:	生氣 啦 , 為什麼 ?
+%xmor:	Va|生氣 SFP|啦 , WH|為什麼 ?
+*WAN:	因為 什麼 ?
+%xmor:	CONJ|因為 WH|什麼 ?
+*WAN:	因為 什麼 生氣 ?
+%xmor:	CONJ|因為 WH|什麼 Va|生氣 ?
+*WAN:	因為 +...
+%xmor:	CONJ|因為 +...
+*CHI:	因為 angry .
+%xmor:	CONJ|因為 CS|angry .
+*WAN:	Angry 啊 , 為什麼 angry ?
+%xmor:	CS|Angry SFP|啊 , WH|為什麼 CS|angry ?
+*CHI:	這 什麼 ?
+%xmor:	Npro:dem|這 WH|什麼 ?
+*WAN:	牌子 .
+%xmor:	Nn|牌子 .
+*CHI:	這 誰 的 啊 ?
+%xmor:	Npro:dem|這 WH|誰 DE|的 SFP|啊 ?
+*WAN:	我 的 啊 !
+%xmor:	Npro:1sg|我 DE|的 SFP|啊 !
+*WAN:	好看 不 好看 ?
+%xmor:	Va|好看 NEG|不 Va|好看 ?
+*CHI:	好看 .
+%xmor:	Va|好看 .
+*WAN:	好看 啊 .
+%xmor:	Va|好看 SFP|啊 .
+*WAN:	這 什麼 顏色 ?
+%xmor:	Npro:dem|這 WH|什麼 Nn|顏色 ?
+*CHI:	紅色 .
+%xmor:	Nn|紅色 .
+*WAN:	紅色 .
+%xmor:	Nn|紅色 .
+*WAN:	你 的 裙子 勒 ?
+%xmor:	Npro:2sg|你 DE|的 Nn|裙子 SFP|勒 ?
+*CHI:	這 .
+%xmor:	Npro:dem|這 .
+*CHI:	紅色 .
+%xmor:	Nn|紅色 .
+*WAN:	你 的 好 漂亮 喔 !
+%xmor:	Npro:2sg|你 DE|的 ADV|好 Va|漂亮 SFP|喔 !
+*WAN:	對 不 對 , 好看 不 好看 ?
+%xmor:	Va|對 NEG|不 Va|對 , Va|好看 NEG|不 Va|好看 ?
+*WAN:	你 過來 這邊 跟 我 一起 看 好 不 好 ?
+%xmor:	Npro:2sg|你 Vi|過來 Npro:dem|這邊 CONJ|跟 Npro:1sg|我 ADV|一起 Vt|看 Va|好 NEG|不 Va|好 ?
+%xsyn:	MEVENT-Consecutivde
+*CHI:	祝你生日快樂 !
+%xmor:	IDM|祝你生日快樂 !
+*WAN:	嗯 , 對 !
+%xmor:	INT|嗯 , Va|對 !
+*WAN:	這 是 誰 生日 啊 ?
+%xmor:	Npro:dem|這 Vc|是 WH|誰 Nn|生日 SFP|啊 ?
+*CHI:	嗯 ?
+%xmor:	INT|嗯 ?
+*WAN:	爸爸 .
+%xmor:	Nn|爸爸 .
+*WAN:	他 是 誰 ?
+%xmor:	Npro:3sg|他 Vc|是 WH|誰 ?
+*CHI:	阿祖 生日 對 不 對 ?
+%xmor:	Nppn|阿祖 Nn|生日 Va|對 NEG|不 Va|對 ?
+*WAN:	對 , 阿祖 生日 .
+%xmor:	Va|對 , Nppn|阿祖 Nn|生日 .
+*CHI:	喂 , 這 是 姨媽 耶 !
+%xmor:	INT|喂 , Npro:dem|這 Vc|是 Nn|姨媽 SFP|耶 !
+*WAN:	嗯 !
+%xmor:	INT|嗯 !
+*CHI:	這裡 .
+%xmor:	Npro:dem|這裡 .
+*CHI:	這 阿姨 啊 ?
+%xmor:	Npro:dem|這 Nn|阿姨 SFP|啊 ?
+*WAN:	嗯 .
+%xmor:	INT|嗯 .
+*CHI:	這 是 +...
+%xmor:	Npro:dem|這 Vc|是 +...
+*CHI:	我 看到 了 !
+%xmor:	Npro:1sg|我 Vt|看到 ASP|了 !
+*WAN:	看 到 什麼 了 ?
+%xmor:	Vt|看 PREP|到 WH|什麼 ASP|了 ?
+*CHI:	看 到 阿姨 啊 .
+%xmor:	Vt|看 PREP|到 Nn|阿姨 SFP|啊 .
+*WAN:	你 有 沒有 看到 你 啊 ?
+%xmor:	Npro:2sg|你 Vt|有 NEG|沒有 Vt|看到 Npro:2sg|你 SFP|啊 ?
+*CHI:	好多 好多 喔 !
+%xmor:	QN|好多 QN|好多 SFP|喔 !
+*WAN:	嗯 .
+%xmor:	INT|嗯 .
+*CHI:	一 , 二 , 三 , 四 , 五 , 六 , 七 .
+%xmor:	QN|一 , QN|二 , QN|三 , QN|四 , QN|五 , QN|六 , QN|七 .
+*CHI:	好多 好多 阿姨 .
+%xmor:	QN|好多 QN|好多 Nn|阿姨 .
+*CHI:	二 , 三 , 四 , 五 , 六 , 七 .
+%xmor:	QN|二 , QN|三 , QN|四 , QN|五 , QN|六 , QN|七 .
+*CHI:	好多 好多 喔 !
+%xmor:	QN|好多 QN|好多 SFP|喔 !
+*WAN:	哇 , 好多 喔 , 你 在 哪裡 啊 ?
+%xmor:	INT|哇 , QN|好多 SFP|喔 , Npro:2sg|你 PREP|在 WH|哪裡 SFP|啊 ?
+*WAN:	嘉嘉 在 哪裡 啊 ?
+%xmor:	Nppn|嘉嘉 PREP|在 WH|哪裡 SFP|啊 ?
+*CHI:	嗯 ?
+%xmor:	INT|嗯 ?
+*WAN:	你 的 衣服 好 漂亮 喔 , 誰 買 的 啊 ?
+%xmor:	Npro:2sg|你 DE|的 Nn|衣服 ADV|好 Va|漂亮 SFP|喔 , WH|誰 Vt|買 DE|的 SFP|啊 ?
+*CHI:	嗯 ?
+%xmor:	INT|嗯 ?
+*WAN:	你 不 曉得 啊 ?
+%xmor:	Npro:2sg|你 NEG|不 Vt|曉得 SFP|啊 ?
+*WAN:	啊 , 看 這邊 !
+%xmor:	INT|啊 , Vt|看 Npro:dem|這邊 !
+*CHI:	看 這邊 .
+%xmor:	Vt|看 Npro:dem|這邊 .
+*WAN:	好多 好多 喔 !
+%xmor:	QN|好多 QN|好多 SFP|喔 !
+*CHI:	阿琳 在 做 什麼 ?
+%xmor:	Nppn|阿琳 ASP|在 Vt|做 WH|什麼 ?
+*WAN:	在 笑 , 笑咪咪 的 啊 !
+%xmor:	ASP|在 Vt|笑 , Va|笑咪咪 DE|的 SFP|啊 !
+*CHI:	阿琳 在 做 什麼 ?
+%xmor:	Nppn|阿琳 ASP|在 Vt|做 WH|什麼 ?
+*WAN:	你 說 呢 ?
+%xmor:	Npro:2sg|你 Vt|說 SFP|呢 ?
+*CHI:	嗯 ?
+%xmor:	INT|嗯 ?
+*WAN:	聊天 .
+%xmor:	Vi|聊天 .
+*CHI:	阿姨 在 做 什麼 ?
+%xmor:	Nn|阿姨 ASP|在 Vt|做 WH|什麼 ?
+*WAN:	吃 麵包 .
+%xmor:	Vt|吃 Nn|麵包 .
+*CHI:	哇 !
+%xmor:	INT|哇 !
+*CHI:	這 個 .
+%xmor:	DET|這 M|個 .
+*WAN:	對 啊 , 啊 , 大叫 一 聲 .
+%xmor:	Va|對 SFP|啊 , ONM|啊 , Vt|大叫 QN|一 M|聲 .
+*WAN:	這 個 胖胖 是 誰 啊 ?
+%xmor:	DET|這 M|個 Va|胖胖 Vc|是 WH|誰 SFP|啊 ?
+*CHI:	嘉嘉 啊 .
+%xmor:	Nppn|嘉嘉 SFP|啊 .
+*WAN:	那 這 個 呢 ?
+%xmor:	INT|那 DET|這 M|個 SFP|呢 ?
+*CHI:	嘉嘉 .
+%xmor:	Nppn|嘉嘉 .
+*WAN:	嘉嘉 你 喜歡 不 喜歡 這樣子 ?
+%xmor:	Nppn|嘉嘉 Npro:2sg|你 Vt|喜歡 NEG|不 Vt|喜歡 Va|這樣子 ?
+*CHI:	胖胖 .
+%xmor:	Va|胖胖 .
+*WAN:	嗯 .
+%xmor:	INT|嗯 .
+*CHI:	對 不 對 ?
+%xmor:	Va|對 NEG|不 Va|對 ?
+*WAN:	對 .
+%xmor:	Va|對 .
+*WAN:	放 回去 吧 , 換 那 個 小 本 給 我 看 , 好 不 好 ?
+%xmor:	Vt|放 Vi|回去 SFP|吧 , Vt|換 DET|那 M|個 Va|小 M|本 Vt|給 Npro:1sg|我 Vt|看 , Va|好 NEG|不 Va|好 ?
+*CHI:	好 .
+%xmor:	Va|好 .
+*WAN:	謝謝 你 .
+%xmor:	Vt|謝謝 Npro:2sg|你 .
+*WAN:	嗯 ?
+%xmor:	INT|嗯 ?
+*CHI:	嗯 !
+%xmor:	INT|嗯 !
+*WAN:	我 弄 我 弄 .
+%xmor:	Npro:1sg|我 Vt|弄 Npro:1sg|我 Vt|弄 .
+*CHI:	換 小 本 .
+%xmor:	Vt|換 Va|小 M|本 .
+*WAN:	放好 放好 .
+%xmor:	Vt|放好 Vt|放好 .
+*WAN:	我 來 用 , 我 放 好 不 好 , 我 拿去 放 , 會 掉 出來 .
+%xmor:	Npro:1sg|我 Vt|來 Vt|用 , Npro:1sg|我 Vt|放 Va|好 NEG|不 Va|好 , Npro:1sg|我 Vt|拿去 Vt|放 , MOD|會 Vi|掉 Vi|出來 .
+*WAN:	來 , 你 來 拿 小 本 的 .
+%xmor:	Vt|來 , Npro:2sg|你 Vt|來 Vt|拿 Va|小 M|本 DE|的 .
+*WAN:	你 去 拿 .
+%xmor:	Npro:2sg|你 Vt|去 Vt|拿 .
+*WAN:	還有 一 個 小 本 的 , 兩 個 小 本 吶 !
+%xmor:	CONJ|還有 QN|一 M|個 Va|小 M|本 DE|的 , QN|兩 M|個 Va|小 M|本 SFP|吶 !
+*WAN:	耶 , 他 也 是 小 本 , 兩 個 小 本 , 一 個 兩 個 .
+%xmor:	SFP|耶 , Npro:3sg|他 ADV|也 Vc|是 Va|小 M|本 , QN|兩 M|個 Va|小 M|本 , QN|一 M|個 QN|兩 M|個 .
+*WAN:	一 , 二 , 都 是 小 本 吶 !
+%xmor:	QN|一 , QN|二 , ADV|都 Vc|是 Va|小 M|本 SFP|吶 !
+*WAN:	好 , 你 去 那邊 , 拿 這 去 那邊 吧 !
+%xmor:	Va|好 , Npro:2sg|你 Vt|去 Nloc|那邊 , Vt|拿 Npro:dem|這 Vt|去 Nloc|那邊 SFP|吧 !
+*WAN:	要 不 要 , 給 我 看 好 不 好 ?
+%xmor:	Vt|要 NEG|不 Vt|要 , Vt|給 Npro:1sg|我 Vt|看 Va|好 NEG|不 Va|好 ?
+*WAN:	我 把 他 放 回去 .
+%xmor:	Npro:1sg|我 PREP|把 Npro:3sg|他 Vt|放 Vi|回去 .
+*WAN:	好 , 走 , 我們 來 這邊 看 !
+%xmor:	Va|好 , Vi|走 , Npro:1pl|我們 Vt|來 Npro:dem|這邊 Vt|看 !
+*WAN:	好 好看 喔 !
+%xmor:	ADV|好 Va|好看 SFP|喔 !
+*CHI:	好好 +...
+%xmor:	Va|好好 +...
+*CHI:	看 喔 !
+%xmor:	Vt|看 SFP|喔 !
+*WAN:	喔 !
+%xmor:	INT|喔 !
+*CHI:	他 在 做 什麼 啊 ?
+%xmor:	Npro:3sg|他 ASP|在 Vt|做 WH|什麼 SFP|啊 ?
+*WAN:	你 說 勒 ?
+%xmor:	Npro:2sg|你 Vt|說 SFP|勒 ?
+*WAN:	不 知道 嗎 , 不 知道 我 告訴 你 .
+%xmor:	NEG|不 Vt|知道 SFP|嗎 , NEG|不 Vt|知道 Npro:1sg|我 Vt|告訴 Npro:2sg|你 .
+*CHI:	他 要 +...
+%xmor:	Npro:3sg|他 Vt|要 +...
+*CHI:	狗狗 , 狗狗 , 狗狗 , 狗狗 , 狗狗 .
+%xmor:	Nn|狗狗 , Nn|狗狗 , Nn|狗狗 , Nn|狗狗 , Nn|狗狗 .
+*WAN:	騎 狗狗 對 不 對 ?
+%xmor:	Vt|騎 Nn|狗狗 Va|對 NEG|不 Va|對 ?
+*WAN:	那 這 個 在 做 什麼 ?
+%xmor:	INT|那 DET|這 M|個 ASP|在 Vt|做 WH|什麼 ?
+*CHI:	嗯 ?
+%xmor:	INT|嗯 ?
+*WAN:	盪秋千 .
+%xmor:	Vi|盪秋千 .
+*WAN:	你 坐 我 這裡 .
+%xmor:	Npro:2sg|你 Vi|坐 Npro:1sg|我 Npro:dem|這裡 .
+*WAN:	你 說 盪秋千 .
+%xmor:	Npro:2sg|你 Vt|說 Vi|盪秋千 .
+*CHI:	他 在 做 什麼 ?
+%xmor:	Npro:3sg|他 ASP|在 Vt|做 WH|什麼 ?
+*WAN:	跟 這 個 一樣 啊 , 這 在 做 什麼 ?
+%xmor:	CONJ|跟 DET|這 M|個 Va|一樣 SFP|啊 , Npro:dem|這 ASP|在 Vt|做 WH|什麼 ?
+*WAN:	盪秋千 , 你 說 .
+%xmor:	Vi|盪秋千 , Npro:2sg|你 Vt|說 .
+*WAN:	那 他 在 做 什麼 ?
+%xmor:	INT|那 Npro:3sg|他 ASP|在 Vt|做 WH|什麼 ?
+*CHI:	嗯 ?
+%xmor:	INT|嗯 ?
+*WAN:	盪秋千 .
+%xmor:	Vi|盪秋千 .
+*WAN:	你 會 不 會 講 , 原來 你 不 會 講 啊 .
+%xmor:	Npro:2sg|你 MOD|會 NEG|不 MOD|會 Vt|講 , ADV|原來 Npro:2sg|你 NEG|不 MOD|會 Vt|講 SFP|啊 .
+*CHI:	阿姨 在 做 什麼 ?
+%xmor:	Nn|阿姨 ASP|在 Vt|做 WH|什麼 ?
+*WAN:	阿姨 在 拉 這 個 啊 , 把 你 拉 上去 啊 !
+%xmor:	Nn|阿姨 ASP|在 Vt|拉 DET|這 M|個 SFP|啊 , PREP|把 Npro:2sg|你 Vt|拉 Vi|上去 SFP|啊 !
+*CHI:	大姊 在 做 什麼 ?
+%xmor:	Nn|大姊 ASP|在 Vt|做 WH|什麼 ?
+*WAN:	你 說 勒 ?
+%xmor:	Npro:2sg|你 Vt|說 SFP|勒 ?
+*CHI:	二姊 在 做 什麼 ?
+%xmor:	Nn|二姊 ASP|在 Vt|做 WH|什麼 ?
+*WAN:	嗯 , 你 說 ?
+%xmor:	INT|嗯 , Npro:2sg|你 Vt|說 ?
+*CHI:	二姊 .
+%xmor:	Nn|二姊 .
+*WAN:	嗯 .
+%xmor:	INT|嗯 .
+*WAN:	他 在 騎 摩托車 .
+%xmor:	Npro:3sg|他 ASP|在 Vt|騎 Nn|摩托車 .
+*CHI:	他 在 騎 什麼 ?
+%xmor:	Npro:3sg|他 ASP|在 Vt|騎 WH|什麼 ?
+*WAN:	騎 什麼 啊 , 他 在 開車 .
+%xmor:	Vt|騎 WH|什麼 SFP|啊 , Npro:3sg|他 ASP|在 Vi|開車 .
+*WAN:	開 大 轎車 .
+%xmor:	Vt|開 ADJ|大 Nn|轎車 .
+*CHI:	他 騎 車子 對 不 對 ?
+%xmor:	Npro:3sg|他 Vt|騎 Nn|車子 Va|對 NEG|不 Va|對 ?
+*WAN:	對 .
+%xmor:	Va|對 .
+*WAN:	你 要 不 要 喝 , 牛奶 .
+%xmor:	Npro:2sg|你 Vt|要 NEG|不 Vt|要 Vt|喝 , Nn|牛奶 .
+*CHI:	要 .
+%xmor:	Vt|要 .
+*WAN:	自己 餵 .
+%xmor:	Npro:ref|自己 Vt|餵 .
+*WAN:	慢慢 的 喔 , 慢 一點 嘛 !
+%xmor:	Va|慢慢 DE|的 SFP|喔 , Va|慢 QN|一點 SFP|嘛 !
+*WAN:	還 要 不 要 ?
+%xmor:	ADV|還 Vt|要 NEG|不 Vt|要 ?
+*WAN:	擦 一下 嘴巴 , 過來 !
+%xmor:	Vt|擦 QN|一下 Nn|嘴巴 , Vi|過來 !
+*WAN:	過來 , 嗯 .
+%xmor:	Vi|過來 , INT|嗯 .
+*CHI:	啊 !
+%xmor:	INT|啊 !
+*WAN:	好喝 嗎 ?
+%xmor:	Va|好喝 SFP|嗎 ?
+*CHI:	好喝 .
+%xmor:	Va|好喝 .
+*CHI:	阿姨 好像 果汁 喔 !
+%xmor:	Nn|阿姨 ADV|好像 Nn|果汁 SFP|喔 !
+*WAN:	我 好像 果汁 啊 ?
+%xmor:	Npro:1sg|我 ADV|好像 Nn|果汁 SFP|啊 ?
+*WAN:	你 要 不 要 喝 這 個 ?
+%xmor:	Npro:2sg|你 Vt|要 NEG|不 Vt|要 Vt|喝 DET|這 M|個 ?
+*CHI:	不 要 .
+%xmor:	NEG|不 Vt|要 .
+*CHI:	那 是 汽水 .
+%xmor:	Npro:dem|那 Vc|是 Nn|汽水 .
+*WAN:	對 啊 .
+%xmor:	Va|對 SFP|啊 .
+*CHI:	嗯 , 看 !
+%xmor:	INT|嗯 , Vt|看 !
+*CHI:	蠟筆 耶 !
+%xmor:	Nn|蠟筆 SFP|耶 !
+*CHI:	這 是 簽字筆 耶 .
+%xmor:	Npro:dem|這 Vc|是 Nn|簽字筆 SFP|耶 .
+*WAN:	蛤 ?
+%xmor:	INT|蛤 ?
+*CHI:	這 是 簽字筆 耶 .
+%xmor:	Npro:dem|這 Vc|是 Nn|簽字筆 SFP|耶 .
+*WAN:	鉛簽字筆 啊 ?
+%xmor:	Nn|鉛簽字筆 SFP|啊 ?
+*WAN:	蠟筆 還是 簽字筆 ?
+%xmor:	Nn|蠟筆 CONJ|還是 Nn|簽字筆 ?
+*WAN:	這 是 什麼 ?
+%xmor:	Npro:dem|這 Vc|是 WH|什麼 ?
+*CHI:	蠟筆 在 哪裡 ?
+%xmor:	Nn|蠟筆 PREP|在 WH|哪裡 ?
+*WAN:	蠟筆 在 哪裡 , 這 就 是 蠟筆 啊 !
+%xmor:	Nn|蠟筆 PREP|在 WH|哪裡 , Npro:dem|這 ADV|就 Vc|是 Nn|蠟筆 SFP|啊 !
+*WAN:	可是 你 沒有 紙 可以 畫畫 啊 !
+%xmor:	CONJ|可是 Npro:2sg|你 NEG|沒有 Nn|紙 MOD|可以 Vr|畫畫 SFP|啊 !
+*WAN:	所以 不 能 畫 啊 !
+%xmor:	CONJ|所以 NEG|不 MOD|能 Vt|畫 SFP|啊 !
+*WAN:	你 有 沒有 紙 ?
+%xmor:	Npro:2sg|你 Vt|有 NEG|沒有 Nn|紙 ?
+%com:	WAN開抽屜找紙 .
+*WAN:	你 等一下 喔 !
+%xmor:	Npro:2sg|你 ADV|等一下 SFP|喔 !
+*WAN:	畫 這裡 吧 !
+%xmor:	Nn|畫 Npro:dem|這裡 SFP|吧 !
+*WAN:	一 個 花 .
+%xmor:	QN|一 M|個 Nn|花 .
+*CHI:	我 畫 這 個 .
+%xmor:	Npro:1sg|我 Vt|畫 DET|這 M|個 .
+*WAN:	不 要 畫 白 的 .
+%xmor:	NEG|不 Vt|要 Vt|畫 Va|白 DE|的 .
+*WAN:	白色 沒有 顏色 , 用 紅色 .
+%xmor:	Nn|白色 NEG|沒有 Nn|顏色 , PREP|用 Nn|紅色 .
+*WAN:	你 畫 什麼 ?
+%xmor:	Npro:2sg|你 Vt|畫 WH|什麼 ?
+*CHI:	畫 紅色 .
+%xmor:	Vt|畫 Nn|紅色 .
+*CHI:	我 畫 紅色 .
+%xmor:	Npro:1sg|我 Vt|畫 Nn|紅色 .
+*WAN:	好 啊 !
+%xmor:	Va|好 SFP|啊 !
+*WAN:	你 要 不 要 畫 grape .
+%xmor:	Npro:2sg|你 Vt|要 NEG|不 Vt|要 Vt|畫 CS|grape .
+*WAN:	葡萄 的 顏色 ?
+%xmor:	Nn|葡萄 DE|的 Nn|顏色 ?
+*CHI:	要 .
+%xmor:	Vt|要 .
+*WAN:	這 個 就 是 , 葡萄 , 紫色 .
+%xmor:	DET|這 M|個 ADV|就 Vc|是 , Nn|葡萄 , Nn|紫色 .
+*WAN:	嘉 要 不 要 吃 這 個 , 櫻桃 ?
+%xmor:	Nppn|嘉 Vt|要 NEG|不 Vt|要 Vt|吃 DET|這 M|個 , Nn|櫻桃 ?
+*CHI:	不 要 .
+%xmor:	NEG|不 Vt|要 .
+*WAN:	還 沒 看完 啊 !
+%xmor:	ADV|還 NEG|沒 Vt|看完 SFP|啊 !
+*CHI:	Byebye , yahyah , byebye !
+%xmor:	CS|Byebye , CS|yahyah , CS|byebye !
+*WAN:	哇 !
+%xmor:	INT|哇 !
+*CHI:	哇 !
+%xmor:	INT|哇 !
+*CHI:	嘉嘉 好 酷 喔 !
+%xmor:	Nppn|嘉嘉 ADV|好 Va|酷 SFP|喔 !
+*WAN:	喔 , 是 啊 !
+%xmor:	INT|喔 , Vc|是 SFP|啊 !
+*WAN:	這 個 呢 ?
+%xmor:	DET|這 M|個 SFP|呢 ?
+*CHI:	爸爸 .
+%xmor:	Nn|爸爸 .
+*WAN:	爸爸 去 哪裡 了 ?
+%xmor:	Nn|爸爸 Vt|去 WH|哪裡 ASP|了 ?
+*WAN:	爸爸 去 上班 是 不 是 , 是 嗎 ?
+%xmor:	Nn|爸爸 Vt|去 Vi|上班 Vc|是 NEG|不 Vc|是 , Vc|是 SFP|嗎 ?
+*CHI:	是 大象 .
+%xmor:	Vc|是 Nn|大象 .
+*CHI:	都 都 都 都 都 !
+%xmor:	ADV|都 ADV|都 ADV|都 ADV|都 ADV|都 !
+*CHI:	葡萄汁 .
+%xmor:	Nn|葡萄汁 .
+*WAN:	嗯 , 對 的 .
+%xmor:	INT|嗯 , Va|對 DE|的 .
+*CHI:	蠟筆 .
+%xmor:	Nn|蠟筆 .
+*CHI:	這 是 小 天使 .
+%xmor:	Npro:dem|這 Vc|是 ADJ|小 Nn|天使 .
+*CHI:	要 畫 這 個 啊 .
+%xmor:	Vt|要 Vt|畫 DET|這 M|個 SFP|啊 .
+*WAN:	好 啊 !
+%xmor:	Va|好 SFP|啊 !
+*CHI:	我 畫 什麼 顏色 ?
+%xmor:	Npro:1sg|我 Vt|畫 WH|什麼 Nn|顏色 ?
+*WAN:	你 畫 什麼 顏色 啊 ?
+%xmor:	Npro:2sg|你 Vt|畫 WH|什麼 Nn|顏色 SFP|啊 ?
+*CHI:	嗯 ?
+%xmor:	INT|嗯 ?
+*WAN:	唉呀 , 好 可愛 呀 !
+%xmor:	INT|唉呀 , ADV|好 Va|可愛 SFP|呀 !
+*WAN:	可愛 不 可愛 ?
+%xmor:	Va|可愛 NEG|不 Va|可愛 ?
+*CHI:	可愛 呀 !
+%xmor:	Va|可愛 SFP|呀 !
+*WAN:	這 是 誰 呀 !
+%xmor:	Npro:dem|這 Vc|是 WH|誰 SFP|呀 !
+*CHI:	嘉嘉 啦 !
+%xmor:	Nppn|嘉嘉 SFP|啦 !
+*WAN:	我 吧 !
+%xmor:	Npro:1sg|我 SFP|吧 !
+*CHI:	是 我 !
+%xmor:	Vc|是 Npro:1sg|我 !
+*WAN:	是 你 還是 我 ?
+%xmor:	Vc|是 Npro:2sg|你 CONJ|還是 Npro:1sg|我 ?
+*WAN:	你 都 不 理 我 啦 !
+%xmor:	Npro:2sg|你 ADV|都 NEG|不 Vt|理 Npro:1sg|我 SFP|啦 !
+*WAN:	一 個 手 按 著 , 這 個 手 按 著 紙 .
+%xmor:	QN|一 M|個 Nn|手 Vt|按 ASP|著 , DET|這 M|個 Nn|手 Vt|按 ASP|著 Nn|紙 .
+*WAN:	開始 畫 , 畫一 個 什麼 , 蝴蝶 好 不 好 ?
+%xmor:	Vt|開始 Vt|畫 , Vt|畫一 M|個 WH|什麼 , Nn|蝴蝶 Va|好 NEG|不 Va|好 ?
+*WAN:	蝴蝶蝴蝶生的真美麗 .
+%xmor:	IDM|蝴蝶蝴蝶生的真美麗 .
+*WAN:	頭戴著金絲 , 啊 , 你 看 你 畫 的 蝴蝶 !
+%xmor:	IDM|頭戴著金絲 , INT|啊 , Npro:2sg|你 Vt|看 Npro:2sg|你 Vt|畫 DE|的 Nn|蝴蝶 !
+*WAN:	好看 不 好看 ?
+%xmor:	Va|好看 NEG|不 Va|好看 ?
+*WAN:	來 , 把 他 畫成 紅色 的 .
+%xmor:	Vt|來 , PREP|把 Npro:3sg|他 Vt|畫成 Nn|紅色 DE|的 .
+*CHI:	把 畫 紅色 的 .
+%xmor:	PREP|把 Vt|畫 Nn|紅色 DE|的 .
+*CHI:	這 , 嗯 .
+%xmor:	Npro:dem|這 , INT|嗯 .
+*CHI:	把 畫 白 紅色 的 .
+%xmor:	PREP|把 Vt|畫 Nn|白 Nn|紅色 DE|的 .
+*WAN:	嗯 .
+%xmor:	INT|嗯 .
+*CHI:	好多 喔 !
+%xmor:	QN|好多 SFP|喔 !
+*CHI:	我 畫 的 筆 .
+%xmor:	Npro:1sg|我 Vt|畫 DE|的 Nn|筆 .
+*CHI:	好 不 好 ?
+%xmor:	Va|好 NEG|不 Va|好 ?
+*WAN:	好 啊 !
+%xmor:	Va|好 SFP|啊 !
+*CHI:	我 也 畫 葡萄汁 的 .
+%xmor:	Npro:1sg|我 ADV|也 Vt|畫 Nn|葡萄汁 DE|的 .
+*CHI:	我 要 畫 這 個 .
+%xmor:	Npro:1sg|我 Vt|要 Vt|畫 DET|這 M|個 .
+*CHI:	好 不 好 ?
+%xmor:	Va|好 NEG|不 Va|好 ?
+*WAN:	好 .
+%xmor:	Va|好 .
+*CHI:	我 要 畫 +...
+%xmor:	Npro:1sg|我 Vt|要 Vt|畫 +...
+*WAN:	這 是 誰 , 他 是 誰 ?
+%xmor:	Npro:dem|這 Vc|是 WH|誰 , Npro:3sg|他 Vc|是 WH|誰 ?
+*CHI:	爺爺 .
+%xmor:	Nn|爺爺 .
+*WAN:	爺爺 啊 .
+%xmor:	Nn|爺爺 SFP|啊 .
+*WAN:	你 要 拿 哪 一 個 ?
+%xmor:	Npro:2sg|你 Vt|要 Vt|拿 WH|哪 QN|一 M|個 ?
+*WAN:	從 這裡 拿 , 你 看 我 怎麼 拿 .
+%xmor:	PREP|從 Npro:dem|這裡 Vt|拿 , Npro:2sg|你 Vt|看 Npro:1sg|我 WH|怎麼 Vt|拿 .
+*WAN:	這樣 拿 .
+%xmor:	Va|這樣 Vt|拿 .
+*CHI:	這樣 拿 .
+%xmor:	Va|這樣 Vt|拿 .
+*WAN:	不 是 , 不 是 , 嘉嘉 .
+%xmor:	NEG|不 Vc|是 , NEG|不 Vc|是 , Nppn|嘉嘉 .
+*WAN:	從 後面 拿 起來 .
+%xmor:	PREP|從 Nloc|後面 Vt|拿 Vi|起來 .
+*CHI:	沒有 .
+%xmor:	NEG|沒有 .
+*WAN:	來 , 換 你 拿 .
+%xmor:	Vt|來 , Vt|換 Npro:2sg|你 Vt|拿 .
+*WAN:	從 後面 拿 起來 , 這樣子 .
+%xmor:	PREP|從 Nloc|後面 Vt|拿 Vi|起來 , Va|這樣子 .
+*WAN:	從 後面 +...
+%xmor:	PREP|從 Nloc|後面 +...
+*CHI:	從 後面 拿 起來 .
+%xmor:	PREP|從 Nloc|後面 Vt|拿 Vi|起來 .
+*WAN:	這 是 前面 , 後面 在 這裡 , 對 , 這裡 .
+%xmor:	Npro:dem|這 Vc|是 Nloc|前面 , Nloc|後面 PREP|在 Npro:dem|這裡 , Va|對 , Npro:dem|這裡 .
+*WAN:	拿 起來 , 會 不 會 ?
+%xmor:	Vt|拿 Vi|起來 , MOD|會 NEG|不 MOD|會 ?
+*CHI:	會 .
+%xmor:	MOD|會 .
+*WAN:	好 , 再 一 次 .
+%xmor:	Va|好 , ADV|再 QN|一 M|次 .
+*WAN:	後面 , 這邊 , 後面 .
+%xmor:	Nloc|後面 , Npro:dem|這邊 , Nloc|後面 .
+*WAN:	嗯 ?
+%xmor:	INT|嗯 ?
+*WAN:	你 要 哪 一 個 顏色 , 指 一指 ?
+%xmor:	Npro:2sg|你 Vt|要 WH|哪 QN|一 M|個 Nn|顏色 , Vt|指 Vr|一指 ?
+*CHI:	這 個 .
+%xmor:	DET|這 M|個 .
+*WAN:	好 .
+%xmor:	Va|好 .
+*WAN:	從 後面 這邊 .
+%xmor:	PREP|從 Nloc|後面 Npro:dem|這邊 .
+*CHI:	從 後面 這邊 .
+%xmor:	PREP|從 Nloc|後面 Npro:dem|這邊 .
+*WAN:	對 , 你 好 聰明 喔 !
+%xmor:	Va|對 , Npro:2sg|你 ADV|好 Va|聰明 SFP|喔 !
+*WAN:	拿 起來 !
+%xmor:	Vt|拿 Vi|起來 !
+*WAN:	咖啡色 .
+%xmor:	Nn|咖啡色 .
+*CHI:	我 畫 這 個 .
+%xmor:	Npro:1sg|我 Vt|畫 DET|這 M|個 .
+*WAN:	好 啊 , 我 教 你 畫 腳 好 不 好 ?
+%xmor:	Va|好 SFP|啊 , Npro:1sg|我 Vt|教 Npro:2sg|你 Vt|畫 Nn|腳 Va|好 NEG|不 Va|好 ?
+*WAN:	嘉嘉 來 把 腳 , 站 起來 .
+%xmor:	Nppn|嘉嘉 Vt|來 PREP|把 Nn|腳 , Vi|站 Vi|起來 .
+*CHI:	畫 .
+%xmor:	Vt|畫 .
+*WAN:	腳 放 上來 .
+%xmor:	Nn|腳 Vt|放 Vi|上來 .
+*WAN:	站 起來 , 人 站 起來 .
+%xmor:	Vi|站 Vi|起來 , Nn|人 Vi|站 Vi|起來 .
+*WAN:	你 站 起來 , 腳 放 這邊 , 來 , 一 個 腳 放 這邊 .
+%xmor:	Npro:2sg|你 Vi|站 Vi|起來 , Nn|腳 Vt|放 Npro:dem|這邊 , Vt|來 , QN|一 M|個 Nn|腳 Vt|放 Npro:dem|這邊 .
+*WAN:	放好 , 對 .
+%xmor:	Vt|放好 , Va|對 .
+*CHI:	不 要 .
+%xmor:	NEG|不 Vt|要 .
+*WAN:	來 , 我 畫 腳 給 你 看 , 來 !
+%xmor:	Vt|來 , Npro:1sg|我 Vt|畫 Nn|腳 Vt|給 Npro:2sg|你 Vt|看 , Vt|來 !
+*WAN:	站好 囉 !
+%xmor:	Vi|站好 SFP|囉 !
+*WAN:	嘉嘉 的 腳 , 對 不 對 !
+%xmor:	Nppn|嘉嘉 DE|的 Nn|腳 , Va|對 NEG|不 Va|對 !
+*CHI:	腳 .
+%xmor:	Nn|腳 .
+*WAN:	來 , 比比 看 !
+%xmor:	Vt|來 , Vr|比比 Vt|看 !
+*WAN:	腳 放 上面 來 !
+%xmor:	Nn|腳 Vt|放 Nloc|上面 Vt|來 !
+*CHI:	好 好喝 喔 !
+%xmor:	ADV|好 Va|好喝 SFP|喔 !
+*WAN:	好好 喝 喔 , 要 不 要 喝 一 口 ?
+%xmor:	ADV|好好 Vt|喝 SFP|喔 , Vt|要 NEG|不 Vt|要 Vt|喝 QN|一 M|口 ?
+*WAN:	輕輕 的 喔 , 嗯 .
+%xmor:	Va|輕輕 DE|的 SFP|喔 , INT|嗯 .
+*CHI:	哇 , 我 的 +...
+%xmor:	INT|哇 , Npro:1sg|我 DE|的 +...
+*WAN:	熱 不 熱 ?
+%xmor:	Va|熱 NEG|不 Va|熱 ?
+*CHI:	媽媽 去 哪裡 ?
+%xmor:	Nn|媽媽 Vt|去 WH|哪裡 ?
+*WAN:	你 說 勒 , 我 沒有 看 到 媽媽 呀 ?
+%xmor:	Npro:2sg|你 Vt|說 SFP|勒 , Npro:1sg|我 NEG|沒有 Vt|看 PREP|到 Nn|媽媽 SFP|呀 ?
+*CHI:	媽媽 去 哪裡 ?
+%xmor:	Nn|媽媽 Vt|去 WH|哪裡 ?
+*WAN:	台北 是 嗎 ?
+%xmor:	Nppn|台北 Vc|是 SFP|嗎 ?
+*CHI:	去 了 市 了 .
+%xmor:	Vt|去 ASP|了 CHM|市 ASP|了 .
+*WAN:	蛤 ?
+%xmor:	INT|蛤 ?
+*CHI:	去 +...
+%xmor:	Vt|去 +...
+*WAN:	去 哪裡 ?
+%xmor:	Vt|去 WH|哪裡 ?
+*CHI:	去 台北市 .
+%xmor:	Vt|去 Nppn|台北市 .
+*WAN:	喔 , 去 台北市 啊 !
+%xmor:	INT|喔 , Vt|去 Nppn|台北市 SFP|啊 !
+*CHI:	嗯 .
+%xmor:	INT|嗯 .
+*WAN:	嘉嘉 這 是 什麼 動物 啊 , 你 看 !
+%xmor:	Nppn|嘉嘉 Npro:dem|這 Vc|是 WH|什麼 Nn|動物 SFP|啊 , Npro:2sg|你 Vt|看 !
+*CHI:	長頸鹿 啊 !
+%xmor:	Nn|長頸鹿 SFP|啊 !
+*WAN:	喔 , 是 長頸鹿 啊 !
+%xmor:	INT|喔 , Vc|是 Nn|長頸鹿 SFP|啊 !
+*CHI:	那 爸爸 講 .
+%xmor:	INT|那 Nn|爸爸 Vt|講 .
+*CHI:	對 不 對 ?
+%xmor:	Va|對 NEG|不 Va|對 ?
+*WAN:	對 !
+%xmor:	Va|對 !
+*CHI:	姊姊 .
+%xmor:	Nn|姊姊 .
+*WAN:	嗯 ?
+%xmor:	INT|嗯 ?
+*CHI:	他 是 誰 ?
+%xmor:	Npro:3sg|他 Vc|是 WH|誰 ?
+*WAN:	我 是 誰 啊 ?
+%xmor:	Npro:1sg|我 Vc|是 WH|誰 SFP|啊 ?
+*CHI:	嗯 ?
+%xmor:	INT|嗯 ?
+*WAN:	我 是 誰 ?
+%xmor:	Npro:1sg|我 Vc|是 WH|誰 ?
+*CHI:	阿姨 .
+%xmor:	Nn|阿姨 .
+*WAN:	我 是 阿姨 啊 ?
+%xmor:	Npro:1sg|我 Vc|是 Nn|阿姨 SFP|啊 ?
+*WAN:	你 忘記 我 是 誰 啦 ?
+%xmor:	Npro:2sg|你 Vt|忘記 Npro:1sg|我 Vc|是 WH|誰 SFP|啦 ?
+*CHI:	0.
+%com:	喃喃自語, 聽不清楚 .
+*CHI:	這 個 .
+%xmor:	DET|這 M|個 .
+*CHI:	喝水 .
+%xmor:	Vi|喝水 .
+*WAN:	喝完 , 把 牛奶 喝完 好 嗎 ?
+%xmor:	Vt|喝完 , PREP|把 Nn|牛奶 Vt|喝完 Va|好 SFP|嗎 ?
+*WAN:	一 口 .
+%xmor:	QN|一 M|口 .
+*CHI:	(喃喃自語) .
+*WAN:	嗯 ?
+%xmor:	INT|嗯 ?
+*WAN:	不 喝 , 啊 , 不 喝 給 我 不 要 打翻 了 !
+%xmor:	NEG|不 Vt|喝 , SFP|啊 , NEG|不 Vt|喝 Vt|給 Npro:1sg|我 NEG|不 Vt|要 Vt|打翻 ASP|了 !
+*WAN:	好 不 好 ?
+%xmor:	Va|好 NEG|不 Va|好 ?
+*CHI:	好 .
+%xmor:	Va|好 .
+*WAN:	嘉 來 !
+%xmor:	Nppn|嘉 Vt|來 !
+*CHI:	我 蠟筆 好 不 好 ?
+%xmor:	Npro:1sg|我 Nn|蠟筆 Va|好 NEG|不 Va|好 ?
+*WAN:	畫畫 啊 , 好 啊 !
+%xmor:	Vr|畫畫 SFP|啊 , Va|好 SFP|啊 !
+*CHI:	蠟筆 !
+%xmor:	Nn|蠟筆 !
+*WAN:	橘色 的 .
+%xmor:	Nn|橘色 DE|的 .
+*CHI:	好 不 好 ?
+%xmor:	Va|好 NEG|不 Va|好 ?
+*CHI:	橘色 的 .
+%xmor:	Nn|橘色 DE|的 .
+*WAN:	手 , 一 個 手 要 按 著 啊 !
+%xmor:	Nn|手 , QN|一 M|個 Nn|手 Vt|要 Vt|按 ASP|著 SFP|啊 !
+*WAN:	嗯 , 你 在 畫 什麼 ?
+%xmor:	INT|嗯 , Npro:2sg|你 ASP|在 Vt|畫 WH|什麼 ?
+*CHI:	畫 橘色 .
+%xmor:	Vt|畫 Nn|橘色 .
+*WAN:	橘色 哪 一 個 , 放反 了 .
+%xmor:	Nn|橘色 WH|哪 QN|一 M|個 , Vt|放反 ASP|了 .
+*CHI:	要 +...
+%xmor:	Vt|要 +...
+*WAN:	放反 了 , 放反 了 .
+%xmor:	Vt|放反 ASP|了 , Vt|放反 ASP|了 .
+*CHI:	要 畫 這 個 .
+%xmor:	Vt|要 Vt|畫 DET|這 M|個 .
+*WAN:	粉紅色 .
+%xmor:	Nn|粉紅色 .
+*CHI:	粉紅色 .
+%xmor:	Nn|粉紅色 .
+*WAN:	嗯 .
+%xmor:	INT|嗯 .
+@End

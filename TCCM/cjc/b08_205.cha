@@ -1,0 +1,609 @@
+@UTF8
+@PID:	11312/a-00000065-1
+@Begin
+@Languages:	zho
+@Participants:	CHI 小元 Child, MOT 阿秀 Mother
+@ID:	zho|LabName|CHI|2;5.|male|||Child|||
+@ID:	zho|LabName|MOT|36;0.|female|||Mother|12||
+@Birth of CHI:	08-JUN-2005
+@Situation:	reading the book "好忙的蜘蛛"
+@Date:	11-NOV-2007
+*MOT:	他 是 蜘蛛 耶 .
+%xmor:	Npro:3sg|他 Vc|是 Nn|蜘蛛 SFP|耶 .
+*MOT:	蜘蛛 的 頭 是 綠色 的 .
+%xmor:	Nn|蜘蛛 DE|的 Nn|頭 Vc|是 Nn|綠色 DE|的 .
+*MOT:	那 你 有 沒有 看 到 他 的 眼睛 蜘蛛 的 眼睛 .
+%xmor:	INT|那 Npro:2sg|你 Vt|有 NEG|沒有 Vt|看 Vt|到 Npro:3sg|他 DE|的 Nn|眼睛 Nn|蜘蛛 DE|的 Nn|眼睛 .
+*CHI:	0 [%act: 指圖] .
+*MOT:	對 .
+%xmor:	Va|對 .
+*MOT:	然後 呢 這 是 他 的 屁股 喔 .
+%xmor:	CONJ|然後 SFP|呢 Npro:dem|這 Vc|是 Npro:3sg|他 DE|的 Nn|屁股 SFP|喔 .
+*MOT:	他 的 身體 是 紅色 的 .
+%xmor:	Npro:3sg|他 DE|的 Nn|身體 Vc|是 Nn|紅色 DE|的 .
+*MOT:	然後 你 看 他 的 腳 有 長 很多 什麼 刺刺 的 毛 對 不 對 ?
+%xmor:	CONJ|然後 Npro:2sg|你 Vt|看 Npro:3sg|他 DE|的 Nn|腳 Vt|有 Vt|長 QN|很多 WH|什麼 Va|刺刺 DE|的 Nn|毛 Va|對 NEG|不 Va|對 ?
+*MOT:	好像 會 刺 人 喔 .
+%xmor:	ADV|好像 MOD|會 Vt|刺 Nn|人 SFP|喔 .
+*CHI:	嗯 .
+%xmor:	INT|嗯 .
+*MOT:	好 忙 的 蜘蛛 .
+%xmor:	ADV|好 Va|忙 DE|的 Nn|蜘蛛 .
+%gpx:	MOT指書名頁的字 .
+*CHI:	好 忙 蜘蛛 .
+%xmor:	ADV|好 Va|忙 Nn|蜘蛛 .
+*MOT:	不 對 .
+%xmor:	NEG|不 Va|對 .
+*MOT:	好 忙 的 蜘蛛 .
+%xmor:	ADV|好 Va|忙 DE|的 Nn|蜘蛛 .
+%gpx:	MOT指書名頁的字 .
+*CHI:	好 忙 蜘蛛 .
+%xmor:	ADV|好 ADJ|忙 Nn|蜘蛛 .
+*MOT:	喔 好 .
+%xmor:	INT|喔 Va|好 .
+*MOT:	這 是 什麼 ?
+%xmor:	Npro:dem|這 Vc|是 WH|什麼 ?
+%gpx:	MOT指著太陽 .
+*CHI:	太陽 .
+%xmor:	Nn|太陽 .
+*MOT:	對 翻 .
+%xmor:	Va|對 Vt|翻 .
+*MOT:	一大早 蜘蛛 啊 你 看 拖 著 一 個 線 哇 好 長 好 長 好 長 好 長 好 長 喔 .
+%xmor:	Nt|一大早 Nn|蜘蛛 SFP|啊 Npro:2sg|你 Vt|看 Vt|拖 ASP|著 QN|一 M|個 Nn|線 INT|哇 ADV|好 Va|長 Va|好 Va|長 Va|好 Va|長 Va|好 Va|長 Va|好 Va|長 SFP|喔 .
+%gpx:	MOT沿著蜘蛛絲走 .
+*CHI:	0 [=! 笑] .
+*MOT:	他 最後 在 農場 旁 的 籬笆 上 停 了 下來 .
+%xmor:	Npro:3sg|他 Nt|最後 PREP|在 Nn|農場 Nloc|旁 DE|的 Nn|籬笆 Nloc|上 Vi|停 ASP|了 Vi|下來 .
+*MOT:	他 停 了 .
+%xmor:	Npro:3sg|他 Vi|停 ASP|了 .
+*MOT:	本來 他 從 這邊 走 走 走 走 走 走 走 走 走 .
+%xmor:	ADV|本來 Npro:3sg|他 PREP|從 Npro:dem|這邊 Vi|走 Vi|走 Vi|走 Vi|走 Vi|走 Vi|走 Vi|走 Vi|走 Vi|走 .
+%gpx:	MOT沿著蜘蛛絲走 .
+*CHI:	0 [=! 笑] .
+*MOT:	停 在 哪裡 ?
+%xmor:	Vi|停 PREP|在 WH|哪裡 ?
+*CHI:	停 在 這 .
+%xmor:	Vi|停 PREP|在 Npro:dem|這 .
+%gpx:	CHI指蜘蛛 .
+*MOT:	摸摸 看 這 隻 蜘蛛 刺刺 的 喔 .
+%xmor:	Vr|摸摸 Vt|看 DET|這 M|隻 Nn|蜘蛛 Va|刺刺 DE|的 SFP|喔 .
+%gpx:	MOT拉著CHI的手摸蜘蛛 .
+*MOT:	有 沒有 摸 到 蜘蛛 有 嗎 ?
+%xmor:	Vt|有 NEG|沒有 Vt|摸 Vt|到 Nn|蜘蛛 Vt|有 SFP|嗎 ?
+*CHI:	有 .
+%xmor:	Vt|有 .
+*MOT:	然後 開始 用 那 根 亮亮 的 線 織 一 個 網子 囉 .
+%xmor:	CONJ|然後 Vt|開始 PREP|用 DET|那 M|根 Va|亮亮 DE|的 Nn|線 Vt|織 QN|一 M|個 Nn|網子 SFP|囉 .
+*CHI:	我 要 摸摸 看 .
+%xmor:	Npro:1sg|我 Vt|要 Vr|摸摸 Vt|看 .
+*MOT:	好 .
+%xmor:	Va|好 .
+*MOT:	有 沒有 刺刺 的 ?
+%xmor:	Vt|有 NEG|沒有 Va|刺刺 DE|的 ?
+*CHI:	有 .
+%xmor:	Vt|有 .
+*MOT:	你 要 用 手 一 個 這樣子 感覺 比較 .
+%xmor:	Npro:2sg|你 Vt|要 PREP|用 Nn|手 QN|一 M|個 Va|這樣子 Vt|感覺 Vt|比較 .
+%gpx:	MOT伸出食指 .
+*CHI:	0 [%act: 伸出食指摸] .
+*MOT:	有 嗎 ?
+%xmor:	Vt|有 SFP|嗎 ?
+*CHI:	有 .
+%xmor:	Vt|有 .
+*CHI:	蜘 .
+%xmor:	CHM|蜘 .
+%gpx:	CHI指蒼蠅 .
+*MOT:	這 也 是 一樣 這 是 蒼蠅 耶 .
+%xmor:	Npro:dem|這 ADV|也 Vc|是 Va|一樣 Npro:dem|這 Vc|是 Nn|蒼蠅 SFP|耶 .
+*MOT:	這 一 隻 是 什麼 ?
+%xmor:	DET|這 QN|一 M|隻 Vc|是 WH|什麼 ?
+*CHI:	不 知道 .
+%xmor:	NEG|不 Vt|知道 .
+*MOT:	這 隻 是 馬 .
+%xmor:	DET|這 M|隻 Vc|是 Nn|馬 .
+*CHI:	馬 .
+%xmor:	Nn|馬 .
+*MOT:	馬 摳摟摳摟 停 下來 了 .
+%xmor:	Nn|馬 ONM|摳摟摳摟 Vi|停 Vi|下來 ASP|了 .
+*MOT:	然後 就 問 蜘蛛 說 要 不 要 去 兜風 我 帶 你 去 兜兜風 .
+%xmor:	CONJ|然後 ADV|就 Vt|問 Nn|蜘蛛 Vt|說 Vt|要 NEG|不 Vt|要 Vt|去 Vi|兜風 Npro:1sg|我 Vt|帶 Npro:2sg|你 Vt|去 Vi|兜兜風 .
+*MOT:	然後 呢 蜘蛛 都 沒有 回答 耶 因為 他 好 忙 喔 .
+%xmor:	CONJ|然後 SFP|呢 Nn|蜘蛛 ADV|都 NEG|沒有 Vt|回答 SFP|耶 CONJ|因為 Npro:3sg|他 ADV|好 Va|忙 SFP|喔 .
+*MOT:	他 忙 著 要 織網 喔 .
+%xmor:	Npro:3sg|他 Va|忙 ASP|著 Vt|要 Vi|織網 SFP|喔 .
+*MOT:	要 做 他 的 家 .
+%xmor:	Vt|要 Vt|做 Npro:3sg|他 DE|的 Nn|家 .
+*MOT:	蜘蛛 都 沒有 回答 他 .
+%xmor:	Nn|蜘蛛 ADV|都 NEG|沒有 Vt|回答 Npro:3sg|他 .
+*MOT:	這 隻 是 誰 ?
+%xmor:	DET|這 M|隻 Vc|是 WH|誰 ?
+*CHI:	不 知道 .
+%xmor:	NEG|不 Vt|知道 .
+*MOT:	你 猜猜 看 .
+%xmor:	Npro:2sg|你 Vr|猜猜 Vt|看 .
+*CHI:	馬 .
+%xmor:	Nn|馬 .
+%gpx:	CHI指著圖 .
+*MOT:	錯 是 牛 .
+%xmor:	Va|錯 Vc|是 Nn|牛 .
+*MOT:	牛 怎麼 叫 ?
+%xmor:	Nn|牛 WH|怎麼 Vt|叫 ?
+*CHI:	摳 .
+%xmor:	ONM|摳 .
+*MOT:	錯 牛 是 牛 .
+%xmor:	Va|錯 Nn|牛 Vc|是 Nn|牛 .
+*CHI:	牛 .
+%xmor:	Nn|牛 .
+*MOT:	他 是 一 隻 母 牛 耶 .
+%xmor:	Npro:3sg|他 Vc|是 QN|一 M|隻 ADJ|母 Nn|牛 SFP|耶 .
+*MOT:	母 牛 就 問 蜘蛛 說 要 不 要 去 吃 點 草 呀 .
+%xmor:	ADJ|母 Nn|牛 ADV|就 Vt|問 Nn|蜘蛛 Vt|說 Vt|要 NEG|不 Vt|要 Vt|去 Vt|吃 M|點 Nn|草 SFP|呀 .
+*CHI:	要 .
+%xmor:	Vt|要 .
+*MOT:	蜘蛛 有 沒有 回答 他 ?
+%xmor:	Nn|蜘蛛 Vt|有 NEG|沒有 Vt|回答 Npro:3sg|他 ?
+*CHI:	有 啊 .
+%xmor:	Vt|有 SFP|啊 .
+*MOT:	沒有 .
+%xmor:	NEG|沒有 .
+*MOT:	蜘蛛 好 忙 喔 他 一直 在 織網 喔 .
+%xmor:	Nn|蜘蛛 ADV|好 Va|忙 SFP|喔 Npro:3sg|他 ADV|一直 ASP|在 Vi|織網 SFP|喔 .
+*CHI:	摸摸 看 .
+%xmor:	Vr|摸摸 Vt|看 .
+%gpx:	CHI摸著蜘蛛 .
+*MOT:	他 又 走 走 走 走 走 到 這 .
+%xmor:	Npro:3sg|他 ADV|又 Vi|走 Vi|走 Vi|走 Vi|走 Vt|走 Vt|到 Npro:dem|這 .
+*CHI:	我 要 摸摸 看 .
+%xmor:	Npro:1sg|我 Vt|要 Vr|摸摸 Vt|看 .
+*MOT:	好 .
+%xmor:	Va|好 .
+*MOT:	有 沒有 摸 到 蜘蛛 ?
+%xmor:	Vt|有 NEG|沒有 Vt|摸 Vt|到 Nn|蜘蛛 ?
+*CHI:	有 .
+%xmor:	Vt|有 .
+*MOT:	我 也 摸摸 看 好 不 好 ?
+%xmor:	Npro:1sg|我 ADV|也 Vr|摸摸 Vt|看 Va|好 NEG|不 Va|好 ?
+*MOT:	刺刺 的 .
+%xmor:	Va|刺刺 DE|的 .
+*CHI:	刺刺 的 .
+%xmor:	Va|刺刺 DE|的 .
+%gpx:	CHI摸蜘蛛 .
+*MOT:	他 一直 忙 著 織網 .
+%xmor:	Npro:3sg|他 ADV|一直 Va|忙 ASP|著 Vi|織網 .
+*MOT:	這 隻 是 誰 誰 來 了 ?
+%xmor:	DET|這 M|隻 Vc|是 WH|誰 WH|誰 Vt|來 ASP|了 ?
+*CHI:	不 知道 .
+%xmor:	NEG|不 Vt|知道 .
+*MOT:	綿羊 .
+%xmor:	Nn|綿羊 .
+*CHI:	綿羊 .
+%xmor:	Nn|綿羊 .
+*MOT:	綿羊 怎麼 叫 呢 ?
+%xmor:	Nn|綿羊 WH|怎麼 Vt|叫 SFP|呢 ?
+*CHI:	喵 .
+%xmor:	ONM|喵 .
+*MOT:	錯 綿羊 是 羊 .
+%xmor:	Va|錯 Nn|綿羊 Vc|是 Nn|羊 .
+*CHI:	羊 .
+%xmor:	Nn|羊 .
+*MOT:	綿羊 輕輕 的 問 要 不 要 去 草原 上 跑 一跑 呀 .
+%xmor:	Nn|綿羊 Va|輕輕 DE|的 Vt|問 Vt|要 NEG|不 Vt|要 Vt|去 Nn|草原 Nloc|上 Vi|跑 Vr|一跑 SFP|呀 .
+*CHI:	要 .
+%xmor:	Vt|要 .
+*MOT:	可是 蜘蛛 有 沒有 回答 他 ?
+%xmor:	CONJ|可是 Nn|蜘蛛 Vt|有 NEG|沒有 Vt|回答 Npro:3sg|他 ?
+*CHI:	有 哇 .
+%xmor:	Vt|有 SFP|哇 .
+*MOT:	沒有 蜘蛛 好 忙 喔 他 忙 著 做 什麼 ?
+%xmor:	NEG|沒有 Nn|蜘蛛 ADV|好 Va|忙 SFP|喔 Npro:3sg|他 Va|忙 ASP|著 Vt|做 WH|什麼 ?
+*CHI:	忙 不 知道 .
+%xmor:	Va|忙 NEG|不 Vt|知道 .
+*MOT:	忙 著 織網 啊 .
+%xmor:	Va|忙 ASP|著 Vi|織網 SFP|啊 .
+*CHI:	織網 .
+%xmor:	Vi|織網 .
+*MOT:	他 又 跑 過來 本來 在 這邊 又 登 登 登 跑 過來 .
+%xmor:	Npro:3sg|他 ADV|又 Vi|跑 Vi|過來 ADV|本來 PREP|在 Npro:dem|這邊 CONJ|又 ONM|登 ONM|登 ONM|登 Vi|跑 Vi|過來 .
+%gpx:	MOT沿著蜘蛛網走 .
+*MOT:	蜘蛛 好 忙 喔 .
+%xmor:	Nn|蜘蛛 ADV|好 Va|忙 SFP|喔 .
+*MOT:	哇 又 誰 來 了 ?
+%xmor:	INT|哇 ADV|又 WH|誰 Vt|來 ASP|了 ?
+*CHI:	不 知道 .
+%xmor:	NEG|不 Vt|知道 .
+*MOT:	山羊 啊 .
+%xmor:	Nn|山羊 SFP|啊 .
+*CHI:	山羊 .
+%xmor:	Nn|山羊 .
+*MOT:	山羊 問 蜘蛛 說 要 不 要 去 岩石 上 跳 一跳 呢 .
+%xmor:	Nn|山羊 Vt|問 Nn|蜘蛛 Vt|說 Vt|要 NEG|不 Vt|要 Vt|去 Nn|岩石 Nloc|上 Vi|跳 Vr|一跳 SFP|呢 .
+*CHI:	要 .
+%xmor:	Vt|要 .
+*MOT:	可是 蜘蛛 有 沒有 回答 他 ?
+%xmor:	CONJ|可是 Nn|蜘蛛 Vt|有 NEG|沒有 Vt|回答 Npro:3sg|他 ?
+*CHI:	有 哇 .
+%xmor:	Vt|有 SFP|哇 .
+*MOT:	沒有 .
+%xmor:	NEG|沒有 .
+*MOT:	蜘蛛 好 忙 喔 .
+%xmor:	Nn|蜘蛛 ADV|好 Va|忙 SFP|喔 .
+*MOT:	忙 著 做 什麼 ?
+%xmor:	Va|忙 ASP|著 Vt|做 WH|什麼 ?
+*MOT:	忙 著 織網 .
+%xmor:	Va|忙 ASP|著 Vi|織網 .
+*CHI:	織網 .
+%xmor:	Vi|織網 .
+*MOT:	對 .
+%xmor:	Va|對 .
+*MOT:	他 又 登 登 登 登 登 又 織 過來 這裡 .
+%xmor:	Npro:3sg|他 ADV|又 ONM|登 ONM|登 ONM|登 ONM|登 ONM|登 ADV|又 Vt|織 Vi|過來 Npro:dem|這裡 .
+%gpx:	MOT沿著蜘蛛絲走 .
+*MOT:	本來 蜘蛛 在 哪裡 ?
+%xmor:	ADV|本來 Nn|蜘蛛 PREP|在 WH|哪裡 ?
+*CHI:	0 [%act: 指圖] .
+*MOT:	對 本來 蜘蛛 在 這裡 .
+%xmor:	Va|對 ADJ|本來 Nn|蜘蛛 PREP|在 Npro:dem|這裡 .
+*MOT:	然後 登 登 登 登 登 到 中間 對 不 對 ?
+%xmor:	CONJ|然後 ONM|登 ONM|登 ONM|登 ONM|登 ONM|登 Vt|到 Nloc|中間 Va|對 NEG|不 Va|對 ?
+%gpx:	MOT沿著蜘蛛絲走 .
+*CHI:	嗯 .
+%xmor:	INT|嗯 .
+*MOT:	看看 是 誰 來 了 好 不 好 ?
+%xmor:	Vr|看看 Vc|是 WH|誰 Vt|來 ASP|了 Va|好 NEG|不 Va|好 ?
+*CHI:	嗯 .
+%xmor:	INT|嗯 .
+*MOT:	登 登 登 登 .
+%xmor:	ONM|登 ONM|登 ONM|登 ONM|登 .
+%gpx:	MOT為翻頁配音效 .
+*CHI:	豬 .
+%xmor:	Nn|豬 .
+*MOT:	哈哈 豬 來 了 .
+%xmor:	ONM|哈哈 Nn|豬 Vt|來 ASP|了 .
+%gpx:	MOT指著豬 .
+*MOT:	豬 怎麼 叫 呢 ?
+%xmor:	Nn|豬 WH|怎麼 Vt|叫 SFP|呢 ?
+*CHI:	豬 .
+%xmor:	Nn|豬 .
+*MOT:	豬 .
+%xmor:	Nn|豬 .
+*CHI:	豬 .
+%xmor:	Nn|豬 .
+*MOT:	要 不 要 去 泥漿 裡面 滾來滾去 呢 ?
+%xmor:	Vt|要 NEG|不 Vt|要 Vt|去 Nn|泥漿 Nloc|裡面 Vr|滾來滾去 SFP|呢 ?
+*CHI:	要 .
+%xmor:	Vt|要 .
+*MOT:	可是 蜘蛛 有 沒有 回答 他 呢 ?
+%xmor:	CONJ|可是 Nn|蜘蛛 Vt|有 NEG|沒有 Vt|回答 Npro:3sg|他 SFP|呢 ?
+*CHI:	有 哇 .
+%xmor:	Vt|有 SFP|哇 .
+*MOT:	沒有 蜘蛛 好 忙 喔 .
+%xmor:	NEG|沒有 Nn|蜘蛛 ADV|好 Va|忙 SFP|喔 .
+*CHI:	+^ 0 [%act: 摸豬] .
+*CHI:	屁股 圓圈圈 .
+%xmor:	Nn|屁股 Nn|圓圈圈 .
+%gpx:	CHI摸豬的屁股 .
+*MOT:	對 那 是 他 的 哪裡 ?
+%xmor:	Va|對 Npro:dem|那 Vc|是 Npro:3sg|他 DE|的 WH|哪裡 ?
+*CHI:	圓圈 .
+%xmor:	Nn|圓圈 .
+*MOT:	他 的 尾巴 啊 .
+%xmor:	Npro:3sg|他 DE|的 Nn|尾巴 SFP|啊 .
+*CHI:	他 尾巴 .
+%xmor:	Npro:3sg|他 Nn|尾巴 .
+*MOT:	他 的 尾巴 都 捲 起來 了 對 不 對 ?
+%xmor:	Npro:3sg|他 DE|的 Nn|尾巴 ADV|都 Vt|捲 Vi|起來 ASP|了 Va|對 NEG|不 Va|對 ?
+*CHI:	捲 起來 .
+%xmor:	Vt|捲 Vi|起來 .
+*MOT:	對 .
+%xmor:	Va|對 .
+*MOT:	然後 蜘蛛 有 沒有 回答 他 ?
+%xmor:	CONJ|然後 Nn|蜘蛛 Vt|有 NEG|沒有 Vt|回答 Npro:3sg|他 ?
+*CHI:	登 登 登 登 登 登 他 到 下面 去 了 .
+%xmor:	ONM|登 ONM|登 ONM|登 ONM|登 ONM|登 ONM|登 Npro:3sg|他 Vt|到 Nloc|下面 Vt|去 ASP|了 .
+%gpx:	CHI學MOT沿著蜘蛛絲走 .
+*MOT:	對 啊 蜘蛛 好 忙 喔 +/.
+%xmor:	Va|對 SFP|啊 Nn|蜘蛛 ADV|好 Va|忙 SFP|喔 +/.
+*CHI:	他 走 走 走 走 走 他 走 高高 的 他 走 下面 去 了 .
+%xmor:	Npro:3sg|他 Vi|走 Vi|走 Vi|走 Vi|走 Vi|走 Npro:3sg|他 Vi|走 Va|高高 DE|的 Npro:3sg|他 Vi|走 Nloc|下面 Vt|去 ASP|了 .
+%gpx:	CHI在蜘蛛網上點來點去 .
+*MOT:	對 呀 本來 在 高高 的 又 跑 到 下面 來 了 .
+%xmor:	Va|對 SFP|呀 ADV|本來 ASP|在 Va|高高 DE|的 ADV|又 Vt|跑 Vt|到 Nloc|下面 Vt|來 ASP|了 .
+*MOT:	蜘蛛 好 忙 喔 .
+%xmor:	Nn|蜘蛛 ADV|好 Va|忙 SFP|喔 .
+*CHI:	我 摸摸 看 .
+%xmor:	Npro:1sg|我 Vr|摸摸 Vt|看 .
+%gpx:	CHI摸蜘蛛網 .
+*MOT:	好 在 哪裡 ?
+%xmor:	Va|好 PREP|在 WH|哪裡 ?
+*MOT:	蜘蛛 織 的 網 愈來愈大 了 對 不 對 ?
+%xmor:	Nn|蜘蛛 Vt|織 DE|的 Nn|網 Vr|愈來愈大 ASP|了 Va|對 NEG|不 Va|對 ?
+%gpx:	MOT繞著蜘蛛網 .
+*CHI:	嗯 .
+%xmor:	INT|嗯 .
+*MOT:	他 忙 著 做 什麼 ?
+%xmor:	Npro:3sg|他 Va|忙 ASP|著 Vt|做 WH|什麼 ?
+*CHI:	忙 織 不 知道 .
+%xmor:	Va|忙 Vt|織 NEG|不 Vt|知道 .
+*MOT:	織網 .
+%xmor:	Vi|織網 .
+*CHI:	+^ 0 [%act: 翻頁] .
+*MOT:	還 沒 還 沒 媽媽 翻 好 嗎 ?
+%xmor:	ADV|還 NEG|沒 ADV|還 NEG|沒 Nn|媽媽 Vt|翻 Va|好 SFP|嗎 ?
+*CHI:	登 登 .
+%xmor:	ONM|登 ONM|登 .
+%gpx:	CHI把書翻到下一頁 .
+*MOT:	還 沒 還 沒 啦 .
+%xmor:	ADV|還 NEG|沒 ADV|還 NEG|沒 SFP|啦 .
+*MOT:	還 沒 還 有 一 個 動物 你 沒有 看到 .
+%xmor:	ADV|還 NEG|沒 ADV|還 Vt|有 QN|一 M|個 Nn|動物 Npro:2sg|你 NEG|沒有 Vt|看到 .
+%gpx:	MOT往前翻一頁 .
+*MOT:	誰 來 了 呢 ?
+%xmor:	WH|誰 Vt|來 ASP|了 SFP|呢 ?
+*CHI:	不 知道 .
+%xmor:	NEG|不 Vt|知道 .
+*MOT:	登 登 .
+%xmor:	ONM|登 ONM|登 .
+*CHI:	0 [=! 笑] .
+*MOT:	是 誰 來 了 ?
+%xmor:	Vc|是 WH|誰 Vt|來 ASP|了 ?
+*CHI:	不 知道 .
+%xmor:	NEG|不 Vt|知道 .
+*MOT:	哎唷 你 猜猜 看 嘛 .
+%xmor:	INT|哎唷 Npro:2sg|你 Vr|猜猜 Vt|看 SFP|嘛 .
+*MOT:	他 是 誰 ?
+%xmor:	Npro:3sg|他 Vc|是 WH|誰 ?
+*CHI:	0 [%act: 翻到下一頁] .
+*MOT:	媽媽 翻 .
+%xmor:	Nn|媽媽 Vt|翻 .
+*CHI:	看 這 個 .
+%xmor:	Vt|看 DET|這 M|個 .
+*MOT:	可是 狗狗 都 還 沒 說 到 話 耶 .
+%xmor:	CONJ|可是 Nn|狗狗 ADV|都 ADV|還 NEG|沒 Vt|說 Vt|到 Nn|話 SFP|耶 .
+*MOT:	狗狗 怎麼 叫 ?
+%xmor:	Nn|狗狗 WH|怎麼 Vt|叫 ?
+*CHI:	旺 .
+%xmor:	ONM|旺 .
+*MOT:	狗 你 要 不 要 去 追 小 貓咪 啊 .
+%xmor:	Nn|狗 Npro:2sg|你 Vt|要 NEG|不 Vt|要 Vt|去 Vt|追 ADJ|小 Nn|貓咪 SFP|啊 .
+*CHI:	旺 .
+%xmor:	ONM|旺 .
+*CHI:	要 .
+%xmor:	Vt|要 .
+*MOT:	可是 蜘蛛 有 沒有 回答 他 ?
+%xmor:	CONJ|可是 Nn|蜘蛛 Vt|有 NEG|沒有 Vt|回答 Npro:3sg|他 ?
+*CHI:	有 哇 .
+%xmor:	Vt|有 SFP|哇 .
+*MOT:	沒有 .
+%xmor:	NEG|沒有 .
+*MOT:	他 忙 著 做 什麼 ?
+%xmor:	Npro:3sg|他 Va|忙 ASP|著 Vt|做 WH|什麼 ?
+*CHI:	忙 著 +...
+%xmor:	Va|忙 ASP|著 +...
+*MOT:	織網 對 不 對 ?
+%xmor:	Vi|織網 Va|對 NEG|不 Va|對 ?
+*CHI:	織網 .
+%xmor:	Vi|織網 .
+*MOT:	哇 換 誰 來 了 呢 ?
+%xmor:	INT|哇 Vt|換 WH|誰 Vt|來 ASP|了 SFP|呢 ?
+*CHI:	不 知道 .
+%xmor:	NEG|不 Vt|知道 .
+*MOT:	是 黑色 的 小 貓咪 .
+%xmor:	Vc|是 Nn|黑色 DE|的 ADJ|小 Nn|貓咪 .
+*CHI:	對 呀 .
+%xmor:	Va|對 SFP|呀 .
+*MOT:	怎麼 叫 黑色 的 貓咪 怎麼 叫 ?
+%xmor:	WH|怎麼 Vt|叫 Nn|黑色 DE|的 Nn|貓咪 WH|怎麼 Vt|叫 ?
+*CHI:	貓 .
+%xmor:	Nn|貓 .
+*MOT:	對 貓 .
+%xmor:	Va|對 Nn|貓 .
+*CHI:	貓 .
+%xmor:	Nn|貓 .
+*MOT:	要 不 要 去 睡覺 ?
+%xmor:	Vt|要 NEG|不 Vt|要 Vt|去 Vi|睡覺 ?
+*CHI:	要 .
+%xmor:	Vt|要 .
+*MOT:	可是 蜘蛛 有 沒有 回答 他 呢 ?
+%xmor:	CONJ|可是 Nn|蜘蛛 Vt|有 NEG|沒有 Vt|回答 Npro:3sg|他 SFP|呢 ?
+*CHI:	有 .
+%xmor:	Vt|有 .
+*MOT:	沒有 .
+%xmor:	NEG|沒有 .
+*MOT:	蜘蛛 忙 著 做 什麼 ?
+%xmor:	Nn|蜘蛛 Va|忙 ASP|著 Vt|做 WH|什麼 ?
+*CHI:	蜘蛛 +/.
+%xmor:	Nn|蜘蛛 +/.
+*MOT:	你 看 你 看 .
+%xmor:	Npro:2sg|你 Vt|看 Npro:2sg|你 Vt|看 .
+%gpx:	MOT指著蜘蛛網 .
+*MOT:	蜘蛛 的 網 做成 一 個 什麼 有 沒有 看到 ?
+%xmor:	Nn|蜘蛛 DE|的 Nn|網 Vt|做成 QN|一 M|個 WH|什麼 Vt|有 NEG|沒有 Vt|看到 ?
+%gpx:	MOT畫著圈圈 .
+*MOT:	一 個 什麼 ?
+%xmor:	QN|一 M|個 WH|什麼 ?
+%gpx:	MOT畫著圈圈 .
+*CHI:	不 知道 .
+%xmor:	NEG|不 Vt|知道 .
+*MOT:	你 說 .
+%xmor:	Npro:2sg|你 Vt|說 .
+*CHI:	圈 圈圈 .
+%xmor:	Nn|圈 Nn|圈圈 .
+%gpx:	CHI將手轉圈圈 .
+*MOT:	對 呀 他 一直 一 個 圓圈圈 圓圈圈 .
+%xmor:	Va|對 SFP|呀 Npro:3sg|他 ADV|一直 QN|一 M|個 Nn|圓圈圈 Nn|圓圈圈 .
+*MOT:	哇 愈來愈大 的 圓圈圈 耶 .
+%xmor:	INT|哇 Vr|愈來愈大 DE|的 Nn|圓圈圈 SFP|耶 .
+*MOT:	蜘蛛 好 忙 喔 .
+%xmor:	Nn|蜘蛛 ADV|好 Va|忙 SFP|喔 .
+*MOT:	又 換 誰 來 了 呢 ?
+%xmor:	ADV|又 Vt|換 WH|誰 Vt|來 ASP|了 SFP|呢 ?
+*CHI:	不 知道 .
+%xmor:	NEG|不 Vt|知道 .
+*MOT:	哈哈 他 是 誰 ?
+%xmor:	ONM|哈哈 Npro:3sg|他 Vc|是 WH|誰 ?
+%gpx:	MOT指著鴨子 .
+*CHI:	不 知道 .
+%xmor:	NEG|不 Vt|知道 .
+*MOT:	是 不 是 一 隻 鴨子 ?
+%xmor:	Vc|是 NEG|不 Vc|是 QN|一 M|隻 Nn|鴨子 ?
+*MOT:	鴨子 怎麼 叫 ?
+%xmor:	Nn|鴨子 WH|怎麼 Vt|叫 ?
+*CHI:	quack .
+%xmor:	ONM|quack .
+*MOT:	不 是 鴨子 .
+%xmor:	NEG|不 Vc|是 Nn|鴨子 .
+*CHI:	鴨子 .
+%xmor:	Nn|鴨子 .
+*MOT:	鴨子 問 蜘蛛 要 不 要 去 游泳 .
+%xmor:	Nn|鴨子 Vt|問 Nn|蜘蛛 Vt|要 NEG|不 Vt|要 Vt|去 Vi|游泳 .
+*CHI:	要 .
+%xmor:	Vt|要 .
+*MOT:	可是 蜘蛛 也 沒有 回答 他 .
+%xmor:	CONJ|可是 Nn|蜘蛛 ADV|也 NEG|沒有 Vt|回答 Npro:3sg|他 .
+*MOT:	他 終於 把 網 織好 .
+%xmor:	Npro:3sg|他 ADV|終於 PREP|把 Nn|網 Vt|織好 .
+*MOT:	這 是 他 的 家 .
+%xmor:	Npro:dem|這 Vc|是 Npro:3sg|他 DE|的 Nn|家 .
+%gpx:	MOT繞著蜘蛛網 .
+*MOT:	他 要 睡 在 這邊 .
+%xmor:	Npro:3sg|他 Vt|要 Vi|睡 PREP|在 Npro:dem|這邊 .
+%gpx:	MOT指著蜘蛛 .
+*MOT:	你 要 不 要 陪 他 一起 睡覺 ?
+%xmor:	Npro:2sg|你 Vt|要 NEG|不 Vt|要 Vt|陪 Npro:3sg|他 ADV|一起 Vi|睡覺 ?
+*CHI:	不 要 .
+%xmor:	NEG|不 Vt|要 .
+*MOT:	這 是 誰 的 家 ?
+%xmor:	Npro:dem|這 Vc|是 WH|誰 DE|的 Nn|家 ?
+*CHI:	蜘蛛 的 蜘蛛網 的 家 .
+%xmor:	Nn|蜘蛛 DE|的 Nn|蜘蛛網 DE|的 Nn|家 .
+*MOT:	蜘蛛網 喔 做好 蜘蛛 的 家 .
+%xmor:	Nn|蜘蛛網 SFP|喔 Vt|做好 Nn|蜘蛛 DE|的 Nn|家 .
+*CHI:	是 誰 來 了 ?
+%xmor:	Vc|是 WH|誰 Vt|來 ASP|了 ?
+*MOT:	是 誰 來 了 呢 ?
+%xmor:	Vc|是 WH|誰 Vt|來 ASP|了 SFP|呢 ?
+*CHI:	不 知道 .
+%xmor:	NEG|不 Vt|知道 .
+*MOT:	這 隻 是 什麼 ?
+%xmor:	DET|這 M|隻 Vc|是 WH|什麼 ?
+*CHI:	不 知道 .
+%xmor:	NEG|不 Vt|知道 .
+*MOT:	公雞 .
+%xmor:	Nn|公雞 .
+*CHI:	公雞 .
+%xmor:	Nn|公雞 .
+*MOT:	是 什麼 ?
+%xmor:	Vc|是 WH|什麼 ?
+*CHI:	有 公雞 喔 .
+%xmor:	Vt|有 Nn|公雞 SFP|喔 .
+%gpx:	CHI指著公雞 .
+*MOT:	對 公雞 是 什麼 ?
+%xmor:	PREP|對 Nn|公雞 Vc|是 WH|什麼 ?
+*MOT:	0 .
+*MOT:	是 +...
+%xmor:	Vc|是 +...
+*MOT:	0 .
+*MOT:	公雞 .
+%xmor:	Nn|公雞 .
+*CHI:	是 公雞 .
+%xmor:	Vc|是 Nn|公雞 .
+*MOT:	公雞 說 要 不 要 來 抓 這 隻 可惡 的 蒼蠅 呀 .
+%xmor:	Nn|公雞 Vt|說 Vt|要 NEG|不 Vt|要 Vt|來 Vt|抓 DET|這 M|隻 Va|可惡 DE|的 Nn|蒼蠅 SFP|呀 .
+*CHI:	要 .
+%xmor:	Vt|要 .
+*MOT:	然後 他 就 追 他 嗡 .
+%xmor:	CONJ|然後 Npro:3sg|他 ADV|就 Vt|追 Npro:3sg|他 ONM|嗡 .
+%gpx:	MOT抖動手掌 .
+*MOT:	哇 黏住 黏 在 他 的 網子 上 了 .
+%xmor:	INT|哇 Vt|黏住 Vt|黏 PREP|在 Npro:3sg|他 DE|的 Nn|網子 Nloc|上 ASP|了 .
+*MOT:	蒼蠅 都 飛走 不 .
+%xmor:	Nn|蒼蠅 ADV|都 Vi|飛走 NEG|不 .
+*MOT:	蜘蛛 啊 就 網住 那 隻 蒼蠅 .
+%xmor:	Nn|蜘蛛 SFP|啊 ADV|就 Vt|網住 DET|那 M|隻 Nn|蒼蠅 .
+*MOT:	他 就 爬 爬 爬 爬 過來 怎麼樣 ?
+%xmor:	Npro:3sg|他 ADV|就 Vi|爬 Vi|爬 Vi|爬 Vi|爬 Vi|過來 WH|怎麼樣 ?
+*CHI:	不 能 走 .
+%xmor:	NEG|不 MOD|能 Vi|走 .
+*MOT:	不 能 走 他 飛走 不 了 對 不 對 ?
+%xmor:	NEG|不 MOD|能 Vi|走 Npro:3sg|他 Vi|飛走 NEG|不 ASP|了 Va|對 NEG|不 Va|對 ?
+*MOT:	蒼蠅 被 黏住 了 .
+%xmor:	Nn|蒼蠅 PREP|被 Vt|黏住 ASP|了 .
+*MOT:	然後 蜘蛛 就 抓住 那 隻 蒼蠅 了 就 這樣 .
+%xmor:	CONJ|然後 Nn|蜘蛛 ADV|就 Vt|抓住 DET|那 M|隻 Nn|蒼蠅 ASP|了 ADV|就 Va|這樣 .
+*MOT:	貓頭鷹 來 了 .
+%xmor:	Nn|貓頭鷹 Vt|來 ASP|了 .
+*CHI:	貓頭鷹 .
+%xmor:	Nn|貓頭鷹 .
+*MOT:	然後 呢 天空 上 好多 什麼 ?
+%xmor:	CONJ|然後 SFP|呢 Nn|天空 Nloc|上 QN|好多 WH|什麼 ?
+%gpx:	MOT指著星星 .
+*CHI:	星星 .
+%xmor:	Nn|星星 .
+*MOT:	對 好多 星星 喔 .
+%xmor:	Va|對 QN|好多 Nn|星星 SFP|喔 .
+*MOT:	星星 好 亮 對 不 對 ?
+%xmor:	Nn|星星 ADV|好 Va|亮 Va|對 NEG|不 Va|對 ?
+*CHI:	嗯 .
+%xmor:	INT|嗯 .
+*MOT:	貓頭鷹 問 是 誰 織 這 個 網子 這麼 漂亮 呢 ?
+%xmor:	Nn|貓頭鷹 Vt|問 Vc|是 WH|誰 Vt|織 DET|這 M|個 Nn|網子 ADV|這麼 Va|漂亮 SFP|呢 ?
+*MOT:	是 誰 織 的 ?
+%xmor:	Vc|是 WH|誰 Vt|織 DE|的 ?
+*CHI:	不 知道 .
+%xmor:	NEG|不 Vt|知道 .
+*MOT:	在 哪裡 是 誰 織 的 你 有 沒有 看到 ?
+%xmor:	PREP|在 WH|哪裡 Vc|是 WH|誰 Vt|織 DE|的 Npro:2sg|你 Vt|有 NEG|沒有 Vt|看到 ?
+*CHI:	星星 .
+%xmor:	Nn|星星 .
+*MOT:	不 是 星星 蜘蛛 蜘蛛 在 這邊 睡著 了 .
+%xmor:	NEG|不 Vc|是 Nn|星星 Nn|蜘蛛 Nn|蜘蛛 PREP|在 Npro:dem|這邊 Va|睡著 ASP|了 .
+*MOT:	噓 .
+%xmor:	INT|噓 .
+%gpx:	MOT擺了安靜的手勢 .
+*MOT:	誰 睡著 了 ?
+%xmor:	WH|誰 Va|睡著 ASP|了 ?
+*CHI:	烏龍茶 .
+%xmor:	Nn|烏龍茶 .
+*MOT:	什麼 烏龍茶 蜘蛛 啦 .
+%xmor:	WH|什麼 Nn|烏龍茶 Nn|蜘蛛 SFP|啦 .
+*CHI:	蜘蛛 睡著 了 .
+%xmor:	Nn|蜘蛛 Va|睡著 ASP|了 .
+*MOT:	對 呀 他 好 累 因為 他 一 天 都 在 織網 .
+%xmor:	Va|對 SFP|呀 Npro:3sg|他 ADV|好 Va|累 CONJ|因為 Npro:3sg|他 QN|一 Nn|天 ADV|都 ASP|在 Vi|織網 .
+*CHI:	他 跑 在 這邊 來 了 .
+%xmor:	Npro:3sg|他 Vi|跑 PREP|在 Npro:dem|這邊 Vt|來 ASP|了 .
+%gpx:	CHI指著蜘蛛 .
+*MOT:	什麼 ?
+%xmor:	WH|什麼 ?
+*CHI:	跑 在 這邊 +/.
+%xmor:	Vi|跑 PREP|在 Npro:dem|這邊 +/.
+*MOT:	他 一下跑過來這邊 一下跑過來這邊 對 不 對 ?
+%xmor:	Npro:3sg|他 Vr|一下跑過來這邊 Vr|一下跑過來這邊 Va|對 NEG|不 Va|對 ?
+%gpx:	MOT的手在書上跳來跳去 .
+*CHI:	對 呀 .
+%xmor:	Va|對 SFP|呀 .
+*MOT:	他 好 忙 .
+%xmor:	Npro:3sg|他 ADV|好 Va|忙 .
+*MOT:	誒 蒼蠅 呢 ?
+%xmor:	CHM|誒 Nn|蒼蠅 SFP|呢 ?
+*MOT:	蒼蠅 在 睡著 .
+%xmor:	Nn|蒼蠅 ASP|在 Va|睡著 .
+*MOT:	蜘蛛 睡著 了 啊 蒼蠅 呢 ?
+%xmor:	Nn|蜘蛛 Va|睡著 ASP|了 SFP|啊 Nn|蒼蠅 SFP|呢 ?
+*MOT:	0 .
+*MOT:	蒼蠅 不 見 了 .
+%xmor:	Nn|蒼蠅 NEG|不 Va|見 ASP|了 .
+*MOT:	媽媽 告訴 你 蒼蠅 到 哪裡 去 了 好 不 好 ?
+%xmor:	Nn|媽媽 Vt|告訴 Npro:2sg|你 Nn|蒼蠅 Vt|到 WH|哪裡 Vt|去 ASP|了 Va|好 NEG|不 Va|好 ?
+*CHI:	0 [%act: 指蜘蛛網] .
+*MOT:	沒有 呀 這裡 沒有 蒼蠅 .
+%xmor:	NEG|沒有 SFP|呀 Npro:dem|這裡 NEG|沒有 Nn|蒼蠅 .
+*MOT:	蒼蠅 已經 被 蜘蛛 吃 掉 了 .
+%xmor:	Nn|蒼蠅 ADV|已經 PREP|被 Nn|蜘蛛 Vt|吃 Va|掉 ASP|了 .
+*MOT:	知道 嗎 ?
+%xmor:	Vt|知道 SFP|嗎 ?
+*CHI:	知道 .
+%xmor:	Vt|知道 .
+*MOT:	好 .
+%xmor:	Va|好 .
+@End
