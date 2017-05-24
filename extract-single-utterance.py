@@ -26,8 +26,8 @@ outputVerbTypeDict ={}
 
 missingSpeechLines = 0
 
-def readChaFiles():
-	for dataFileName in glob.glob("*.cha"):
+def readChaFiles(sourceDir):
+	for dataFileName in glob.glob(sourceDir+"*.cha"):
 	#	print (os.getcwd() + '/' + dataFileName)
 		with open(dataFileName, 'r') as currFile:
 			# store tuples
@@ -148,13 +148,13 @@ def evalOutputData(outputString, outputTags):
 
 def iterateSubDir(directoryName):
 	# call function to iterate over any ".cha" files in this directory
-	readChaFiles()
+	readChaFiles(directoryName)
 
 	# going through each immediate subdirectory
 	for subDir in next(os.walk(directoryName))[1]:
-		subDirPath = directoryName + '/' + subDir
+		subDirPath = directoryName + subDir + '/'
 		os.chdir(subDirPath)
-		readChaFiles()
+		readChaFiles(subDirPath)
 
 def safeDivide(numerator, denominator):
 	if denominator > 0:
