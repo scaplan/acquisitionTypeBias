@@ -1,0 +1,1921 @@
+@Font:	Win95::-13:0
+@UTF8
+@PID:	11312/a-00000178-1
+@Begin
+@Languages:	zho
+@Participants:	CHI 小毅 Child, MOT Mother, ADU Adult
+@ID:	zho|HC|CHI|3;9.||||Child|||
+@ID:	zho|HC|MOT|||||Mother|||
+@ID:	zho|HC|ADU|||||Adult|||
+*CHI:	哇 !
+%xmor:	INT|哇 !
+*ADU:	在 哪裏 啊 ?
+%xmor:	Vt|在 WH|哪裏 SFP|啊 ?
+*ADU:	嗯 , 看到 了 喔 !
+%xmor:	INT|嗯 , Vt|看到 ASP|了 SFP|喔 !
+*CHI:	這 個 小孩子 怎麼樣 啊 ?
+%xmor:	DET|這 M|個 Nn|小孩子 WH|怎麼樣 SFP|啊 ?
+*ADU:	躲 在 他 的 袋子裏 啊 !
+%xmor:	Vt|躲 Vt|在 Npro:3sg|他 DE|的 Nloc|袋子裏 SFP|啊 !
+%xsyn:	Other DE .
+*CHI:	那 他 會 不 會 怕怕 ?
+%xmor:	INT|那 Npro:3sg|他 MOD|會 NEG|不 MOD|會 Va|怕怕 ?
+%xsyn:	MOD-VI .
+*ADU:	不 會 .
+%xmor:	NEG|不 MOD|會 .
+*ADU:	有 媽媽 保護 他 就 不 怕怕 .
+%xmor:	Vt|有 Nn|媽媽 Vt|保護 Npro:3sg|他 ADV|就 NEG|不 Va|怕怕 .
+%xsyn:	PBL .
+*CHI:	那 另外 一 個 是 不 是 +...
+%xmor:	INT|那 ADV|另外 QN|一 M|個 Vc|是 NEG|不 Vc|是 +...
+*ADU:	喲 , 你 長頸鹿 裝好 了 ?
+%xmor:	INT|喲 , Npro:2sg|你 Nn|長頸鹿 Vt|裝好 ASP|了 ?
+*ADU:	厲害 !
+%xmor:	Va|厲害 !
+*CHI:	這 個 是 不 是 +...
+%xmor:	DET|這 M|個 Vc|是 NEG|不 Vc|是 +...
+*ADU:	那 個 是 什麼 ?
+%xmor:	DET|那 M|個 Vc|是 WH|什麼 ?
+*ADU:	黃 的 這 隻 是 什麼 ?
+%xmor:	Va|黃 DE|的 DET|這 M|隻 Vc|是 WH|什麼 ?
+%xsyn:	Other DE .
+*CHI:	那 個 長頸鹿 .
+%xmor:	DET|那 M|個 Nn|長頸鹿 .
+*ADU:	哦 !
+%xmor:	INT|哦 !
+*ADU:	這 個 是 什麼 ?
+%xmor:	DET|這 M|個 Vc|是 WH|什麼 ?
+*ADU:	會 不 會 裝 ?
+%xmor:	MOD|會 NEG|不 MOD|會 Vt|裝 ?
+%xsyn:	MOD-VI .
+*CHI:	會 .
+%xmor:	MOD|會 .
+*ADU:	這 個 是 什麼 ?
+%xmor:	DET|這 M|個 Vc|是 WH|什麼 ?
+*CHI:	什麼 啊 ?
+%xmor:	WH|什麼 SFP|啊 ?
+*ADU:	還 有 一 個 .
+%xmor:	ADV|還 Vt|有 QN|一 M|個 .
+*ADU:	裝 上去 你 就 認得 .
+%xmor:	Vt|裝 Vi|上去 Npro:2sg|你 ADV|就 Vt|認得 .
+%xsyn:	COMP-SUBJ .
+*CHI:	什麼 啊 ?
+%xmor:	WH|什麼 SFP|啊 ?
+*CHI:	牛 是 不 是 ?
+%xmor:	Nn|牛 Vc|是 NEG|不 Vc|是 ?
+*ADU:	嗯 !
+%xmor:	INT|嗯 !
+*CHI:	為什麼 是 牛 呢 ?
+%xmor:	WH|為什麼 Vc|是 Nn|牛 SFP|呢 ?
+*ADU:	因為 有 +...
+%xmor:	CONJ|因為 Vt|有 +...
+*CHI:	欸 , 那 這 個 呢 ?
+%xmor:	INT|欸 , INT|那 DET|這 M|個 SFP|呢 ?
+*ADU:	你 找 白色 的 啊 !
+%xmor:	Npro:2sg|你 Vt|找 Nn|白色 DE|的 SFP|啊 !
+%xsyn:	Other DE .
+*ADU:	白色 的 在 哪裏 ?
+%xmor:	Nn|白色 DE|的 Vt|在 WH|哪裏 ?
+%xsyn:	Other DE .
+*CHI:	在 這裏 .
+%xmor:	Vt|在 Npro:dem|這裏 .
+*ADU:	嗯 !
+%xmor:	INT|嗯 !
+*CHI:	嘎嘎 .
+%xmor:	ONM|嘎嘎 .
+*CHI:	嘎嘎ki嘎嘎 .
+%xmor:	ONM|嘎嘎ki嘎嘎 .
+*ADU:	這 個 你 會 不 會 ?
+%xmor:	DET|這 M|個 Npro:2sg|你 MOD|會 NEG|不 MOD|會 ?
+*CHI:	會 .
+%xmor:	MOD|會 .
+*ADU:	來 , 我 幫 你 裝 , 好 不 好 ?
+%xmor:	Vt|來 , Npro:1sg|我 Vt|幫 Npro:2sg|你 Vt|裝 , Va|好 NEG|不 Va|好 ?
+%xsyn:	PP-VI .
+*ADU:	這 個 比較 難 喔 !
+%xmor:	DET|這 M|個 ADV|比較 Va|難 SFP|喔 !
+*CHI:	那 個 為什麼 要 裝 在 上面 ?
+%xmor:	DET|那 M|個 WH|為什麼 Vt|要 Vt|裝 Vt|在 Nloc|上面 ?
+%xsyn:	GMOD-V-PP .
+*ADU:	這 個 不 裝 上面 他 的 腳 就 放 不 上去 了 啊 !
+%xmor:	DET|這 M|個 NEG|不 Vt|裝 Nloc|上面 Npro:3sg|他 DE|的 Nn|腳 ADV|就 Vt|放 NEG|不 Vi|上去 ASP|了 SFP|啊 !
+%xsyn:	MCC .
+*CHI:	還 有 一 個 啊 !
+%xmor:	ADV|還 Vt|有 QN|一 M|個 SFP|啊 !
+*ADU:	還 有 一 個 白色 , 你 幫 我 找 一下 .
+%xmor:	ADV|還 Vt|有 QN|一 M|個 Nn|白色 , Npro:2sg|你 Vt|幫 Npro:1sg|我 Vt|找 QN|一下 .
+%xsyn:	PP-VI .
+*ADU:	白色 的 .
+%xmor:	Nn|白色 DE|的 .
+%xsyn:	Other DE .
+*CHI:	這 個 啊 ?
+%xmor:	DET|這 M|個 SFP|啊 ?
+*ADU:	對 .
+%xmor:	Va|對 .
+*CHI:	這 個 就 是 一 個 什麼 啦 ?
+%xmor:	DET|這 M|個 ADV|就 Vc|是 QN|一 M|個 WH|什麼 SFP|啦 ?
+*CHI:	裝 上去 就 是 一 個 什麼 啦 ?
+%xmor:	Vt|裝 Vi|上去 ADV|就 Vc|是 QN|一 M|個 WH|什麼 SFP|啦 ?
+%xsyn:	COMP-SUBJ .
+*ADU:	什麼 啦 ?
+%xmor:	WH|什麼 SFP|啦 ?
+*CHI:	鴨子 +...
+%xmor:	Nn|鴨子 +...
+*ADU:	鴕鳥 .
+%xmor:	Nn|鴕鳥 .
+*CHI:	鴕鳥 .
+%xmor:	Nn|鴕鳥 .
+*ADU:	我 說 的 對 不 對 啊 ?
+%xmor:	Npro:1sg|我 Vt|說 DE|的 Va|對 NEG|不 Va|對 SFP|啊 ?
+%xsyn:	COMP-SUBJ NOM .
+*CHI:	對 啊 !
+%xmor:	Va|對 SFP|啊 !
+*MOT:	對 吧 , 蠻 像 的 .
+%xmor:	Va|對 SFP|吧 , ADV|蠻 Vc|像 DE|的 .
+%xsyn:	Other DE .
+*ADU:	hm , 不 對 .
+%xmor:	CS|hm , NEG|不 Va|對 .
+*MOT:	不 對 啊 , 可是 還是 有 一點 像 啊 !
+%xmor:	NEG|不 Va|對 SFP|啊 , CONJ|可是 ADV|還是 Vt|有 QN|一點 Vc|像 SFP|啊 !
+*ADU:	他 的 頭 應該 是 低 下來 的 .
+%xmor:	Npro:3sg|他 DE|的 Nn|頭 MOD|應該 Vc|是 Va|低 Vi|下來 DE|的 .
+%xsyn:	Other DE REL-SHI .
+*CHI:	不 是 啦 !
+%xmor:	NEG|不 Vc|是 SFP|啦 !
+*CHI:	不 是 低 下來 的 啦 !
+%xmor:	NEG|不 Vc|是 Va|低 Vi|下來 DE|的 SFP|啦 !
+%xsyn:	NEG-REL-SHI .
+*ADU:	我 裝反 了 .
+%xmor:	Npro:1sg|我 Vt|裝反 ASP|了 .
+*ADU:	這樣子 的 啦 !
+%xmor:	Va|這樣子 DE|的 SFP|啦 !
+%xsyn:	Other DE .
+*ADU:	你 看 哪 !
+%xmor:	Npro:2sg|你 Vt|看 SFP|哪 !
+*CHI:	0 .
+*ADU:	他 的 頭 是 不 是 埋 到 沙裏 去 ?
+%xmor:	Npro:3sg|他 DE|的 Nn|頭 Vc|是 NEG|不 Vc|是 Vt|埋 Vt|到 Nloc|沙裏 Vt|去 ?
+%xsyn:	Other DE COMP-OBJ V-PP-DIR .
+*CHI:	喲 怎麼 埋 到 沙裏 去 啦 ?
+%xmor:	INT|喲 WH|怎麼 Vt|埋 Vt|到 Nloc|沙裏 Vt|去 SFP|啦 ?
+%xsyn:	V-PP-DIR .
+*ADU:	鴕鳥 就 是 會 敵人 來 的 時候 , 他 就 把 頭 鑽 到 沙裏 去 .
+%xmor:	Nn|鴕鳥 ADV|就 Vc|是 MOD|會 Nn|敵人 Vt|來 DE|的 Nn|時候 , Npro:3sg|他 ADV|就 PREP|把 Nn|頭 Vt|鑽 Vt|到 Nloc|沙裏 Vt|去 .
+%xsyn:	MCC .
+*CHI:	然後 呢 ?
+%xmor:	CONJ|然後 SFP|呢 ?
+*ADU:	這 是 他 的 什麼 ?
+%xmor:	Npro:dem|這 Vc|是 Npro:3sg|他 DE|的 WH|什麼 ?
+%xsyn:	Other DE .
+*ADU:	然後 敵人 就 看到 不 他 了 .
+%xmor:	CONJ|然後 Nn|敵人 ADV|就 Vt|看到 NEG|不 Npro:3sg|他 ASP|了 .
+*CHI:	然後 呢 ?
+%xmor:	CONJ|然後 SFP|呢 ?
+*ADU:	壞人 就 不 曉得 他 在 啊 !
+%xmor:	Nn|壞人 ADV|就 NEG|不 Vt|曉得 Npro:3sg|他 Vt|在 SFP|啊 !
+%xsyn:	COMP-OBJ .
+*ADU:	就 不 會 抓 他 啊 !
+%xmor:	ADV|就 NEG|不 MOD|會 Vt|抓 Npro:3sg|他 SFP|啊 !
+%xsyn:	NEG-MOD-VO .
+*CHI:	我 要 這 個 那 個 伸 到 那 個 啦 !
+%xmor:	Npro:1sg|我 Vt|要 DET|這 M|個 DET|那 M|個 Vt|伸 Vt|到 DET|那 M|個 SFP|啦 !
+%xsyn:	GMOD-V-PP .
+*ADU:	上面 啊 ?
+%xmor:	Nloc|上面 SFP|啊 ?
+*CHI:	嗯 !
+%xmor:	INT|嗯 !
+*ADU:	他 的 什麼 伸 到 上面 ?
+%xmor:	Npro:3sg|他 DE|的 WH|什麼 Vt|伸 Vt|到 Nloc|上面 ?
+%xsyn:	Other DE .
+*ADU:	來 .
+%xmor:	Vt|來 .
+*ADU:	我 幫 你 弄 .
+%xmor:	Npro:1sg|我 Vt|幫 Npro:2sg|你 Vt|弄 .
+%xsyn:	PP-V .
+*ADU:	你 要 怎麼樣 ?
+%xmor:	Npro:2sg|你 Vt|要 WH|怎麼樣 ?
+*ADU:	你 跟 我 說 .
+%xmor:	Npro:2sg|你 PREP|跟 Npro:1sg|我 Vt|說 .
+%xsyn:	PP-VI .
+*CHI:	那 個 伸 在 上面 啦 !
+%xmor:	DET|那 M|個 Vt|伸 Vt|在 Nloc|上面 SFP|啦 !
+*ADU:	就是 像 剛才 那樣 , 是 不 是 ?
+%xmor:	CONJ|就是 Vc|像 ADV|剛才 Va|那樣 , Vc|是 NEG|不 Vc|是 ?
+*CHI:	嗯 !
+%xmor:	INT|嗯 !
+*ADU:	你 不 喜歡 他 的 頭 這樣 啊 ?
+%xmor:	Npro:2sg|你 NEG|不 Vt|喜歡 Npro:3sg|他 DE|的 Nn|頭 Va|這樣 SFP|啊 ?
+%xsyn:	Other DE .
+*CHI:	嗯 !
+%xmor:	INT|嗯 !
+*ADU:	你 喜歡 這 個 樣子 啊 ?
+%xmor:	Npro:2sg|你 Vt|喜歡 DET|這 M|個 Nn|樣子 SFP|啊 ?
+*CHI:	嗯 !
+%xmor:	INT|嗯 !
+*ADU:	你 為什麼 喜歡 這樣子 呢 ?
+%xmor:	Npro:2sg|你 WH|為什麼 Vt|喜歡 Va|這樣子 SFP|呢 ?
+*CHI:	欸 , 他 的 腳 弄反 了 吧 ?
+%xmor:	INT|欸 , Npro:3sg|他 DE|的 Nn|腳 Vt|弄反 ASP|了 SFP|吧 ?
+%xsyn:	Other DE .
+*ADU:	真的 啊 ?
+%xmor:	MOD|真的 SFP|啊 ?
+%xsyn:	Other DE .
+*CHI:	欸 !
+%xmor:	INT|欸 !
+*ADU:	那 我 幫 你 弄好 , 好 不 好 ?
+%xmor:	INT|那 Npro:1sg|我 Vt|幫 Npro:2sg|你 Vt|弄好 , Va|好 NEG|不 Va|好 ?
+%xsyn:	PP-VI .
+*ADU:	這樣子 就 好 了 , 是 不 是 ?
+%xmor:	Va|這樣子 ADV|就 Va|好 ASP|了 , Vc|是 NEG|不 Vc|是 ?
+*CHI:	對 .
+%xmor:	Va|對 .
+*CHI:	鴕鳥 .
+%xmor:	Nn|鴕鳥 .
+*ADU:	鴕鳥 .
+%xmor:	Nn|鴕鳥 .
+*CHI:	欸 .
+%xmor:	INT|欸 .
+*ADU:	可是 他 這樣 站住 不 欸 !
+%xmor:	CONJ|可是 Npro:3sg|他 Va|這樣 Va|站住 NEG|不 SFP|欸 !
+*ADU:	會 倒 .
+%xmor:	MOD|會 Vi|倒 .
+%xsyn:	MOD-VI .
+*CHI:	0 .
+*CHI:	他 會 不 會 飛 啊 ?
+%xmor:	Npro:3sg|他 MOD|會 NEG|不 MOD|會 Vi|飛 SFP|啊 ?
+%xsyn:	MOD-VI .
+*ADU:	會 .
+%xmor:	MOD|會 .
+*CHI:	ㄓㄓ 戈戈戈戈 這樣 飛 啊 ?
+%xmor:	ONM|ㄓㄓ ONM|戈戈戈戈 Va|這樣 Vi|飛 SFP|啊 ?
+*ADU:	欸 , 對 啊 就 這樣子 .
+%xmor:	INT|欸 , Va|對 SFP|啊 ADV|就 Va|這樣子 .
+*ADU:	你 看看 他 的 脖子 長 不 長 啊 ?
+%xmor:	Npro:2sg|你 Vr|看看 Npro:3sg|他 DE|的 Nn|脖子 Va|長 NEG|不 Va|長 SFP|啊 ?
+%xsyn:	COMP-OBJ Other DE .
+*ADU:	鴕鳥 的 脖子 長 不 長 ?
+%xmor:	Nn|鴕鳥 DE|的 Nn|脖子 Va|長 NEG|不 Va|長 ?
+%xsyn:	Other DE .
+*CHI:	大象 鼻子 是 不 是 這 個 顏色 ?
+%xmor:	Nn|大象 Nn|鼻子 Vc|是 NEG|不 Vc|是 DET|這 M|個 Nn|顏色 ?
+*ADU:	是 .
+%xmor:	Vc|是 .
+*CHI:	這 個 啊 ?
+%xmor:	DET|這 M|個 SFP|啊 ?
+*ADU:	不 是 .
+%xmor:	NEG|不 Vc|是 .
+*CHI:	是 不 是 這 個 ?
+%xmor:	Vc|是 NEG|不 Vc|是 DET|這 M|個 ?
+*ADU:	嗯 , 對 .
+%xmor:	INT|嗯 , Va|對 .
+*ADU:	你 看 這 是 一 個 什麼 啊 ?
+%xmor:	Npro:2sg|你 Vt|看 Npro:dem|這 Vc|是 QN|一 M|個 WH|什麼 SFP|啊 ?
+%xsyn:	COMP-OBJ .
+*CHI:	這 個 啊 ?
+%xmor:	DET|這 M|個 SFP|啊 ?
+*ADU:	這 是 一 個 什麼 ?
+%xmor:	Npro:dem|這 Vc|是 QN|一 M|個 WH|什麼 ?
+*CHI:	馬 .
+%xmor:	Nn|馬 .
+*ADU:	嗯 .
+%xmor:	INT|嗯 .
+*ADU:	你 喜歡 不 喜歡 馬 ?
+%xmor:	Npro:2sg|你 Vt|喜歡 NEG|不 Vt|喜歡 Nn|馬 ?
+*CHI:	喜歡 .
+%xmor:	Vt|喜歡 .
+*ADU:	為什麼 呢 ?
+%xmor:	WH|為什麼 SFP|呢 ?
+*CHI:	ke lo ke lo +...
+%xmor:	CS|ke CS|lo CS|ke CS|lo +...
+*ADU:	馬 可以 怎麼樣 ?
+%xmor:	Nn|馬 MOD|可以 WH|怎麼樣 ?
+*CHI:	ke lo .
+%xmor:	CS|ke CS|lo .
+*CHI:	可以 坐 上去 啦 !
+%xmor:	MOD|可以 Vi|坐 Vi|上去 SFP|啦 !
+%xsyn:	MOD-SVC .
+*MOT:	小毅 , 等一下 就 再 脫 哦 !
+%xmor:	Nppn|小毅 , ADV|等一下 ADV|就 ADV|再 Vt|脫 SFP|哦 !
+%xsyn:	PBL .
+*MOT:	你 不 再 脫 等一下 感冒 了 .
+%xmor:	Npro:2sg|你 NEG|不 ADV|再 Vt|脫 ADV|等一下 Va|感冒 ASP|了 .
+%xsyn:	PBL .
+*ADU:	快 , 先 脫 再 來 玩 , 噢 !
+%xmor:	Va|快 , ADV|先 Vt|脫 ADV|再 Vt|來 Vt|玩 , INT|噢 !
+%xsyn:	MEVENT .
+*MOT:	欸 , 有 一 個 掉 地上 欸 .
+%xmor:	INT|欸 , Vt|有 QN|一 M|個 Vi|掉 Nn|地上 SFP|欸 .
+*ADU:	謝謝 .
+%xmor:	Vt|謝謝 .
+*MOT:	不客氣 .
+%xmor:	IDM|不客氣 .
+*ADU:	來 , 待會兒 .
+%xmor:	Vt|來 , ADV|待會兒 .
+*CHI:	哇 !
+%xmor:	INT|哇 !
+*ADU:	嗯 這 是 大象 的 什麼 ?
+%xmor:	INT|嗯 Npro:dem|這 Vc|是 Nn|大象 DE|的 WH|什麼 ?
+%xsyn:	Other DE .
+*CHI:	耳朵 .
+%xmor:	Nn|耳朵 .
+*ADU:	對 不 對 ?
+%xmor:	Va|對 NEG|不 Va|對 ?
+*ADU:	又 做好 一 個 大象 .
+%xmor:	ADV|又 Vt|做好 QN|一 M|個 Nn|大象 .
+*CHI:	那 這 個 呢 ?
+%xmor:	INT|那 DET|這 M|個 SFP|呢 ?
+*ADU:	這 個 啊 ?
+%xmor:	DET|這 M|個 SFP|啊 ?
+*ADU:	你 做好 就 知道 .
+%xmor:	Npro:2sg|你 Vt|做好 ADV|就 Vt|知道 .
+%xsyn:	COMP-SUBJ .
+*CHI:	好 .
+%xmor:	Va|好 .
+*CHI:	這 個 是 那 個 耶 !
+%xmor:	DET|這 M|個 Vc|是 DET|那 M|個 SFP|耶 !
+*ADU:	對 對 .
+%xmor:	Va|對 Va|對 .
+*ADU:	好 厲害 喔 !
+%xmor:	ADV|好 Va|厲害 SFP|喔 !
+*CHI:	那 這 個 是 在 哪裏 的 ?
+%xmor:	INT|那 DET|這 M|個 Vc|是 Vt|在 WH|哪裏 DE|的 ?
+%xsyn:	REL-SHI .
+*ADU:	我 幫 你 看看 , 好 不 好 ?
+%xmor:	Npro:1sg|我 Vt|幫 Npro:2sg|你 Vr|看看 , Va|好 NEG|不 Va|好 ?
+%xsyn:	PP-VI .
+*MOT:	小毅 , 等 你 都 做好 幫 媽媽 把 這 個 這些 衣服 拿 到 房間 放 , 好 不 好 ?
+%xmor:	Nppn|小毅 , Vt|等 Npro:2sg|你 ADV|都 Vt|做好 Vt|幫 Nn|媽媽 PREP|把 DET|這 M|個 Npro:dem|這些 Nn|衣服 Vt|拿 Vt|到 Nn|房間 Vt|放 , Va|好 NEG|不 Va|好 ?
+%xsyn:	MCC .
+*ADU:	你 現在 先 去 拿 .
+%xmor:	Npro:2sg|你 ADV|現在 ADV|先 Vt|去 Vt|拿 .
+%xsyn:	DIR-V .
+*ADU:	阿姨 幫 你 做 這 個 .
+%xmor:	Nn|阿姨 Vt|幫 Npro:2sg|你 Vt|做 DET|這 M|個 .
+%xsyn:	PP-VO .
+*CHI:	呃 !
+%xmor:	INT|呃 !
+*ADU:	han ?
+%xmor:	CS|han ?
+*CHI:	再 來 一 隻 腳 .
+%xmor:	ADV|再 Vt|來 QN|一 M|隻 Nn|腳 .
+*ADU:	這邊 這邊 .
+%xmor:	Npro:dem|這邊 Npro:dem|這邊 .
+*CHI:	沒有 那 個 奇怪 的 腳 啦 ?
+%xmor:	NEG|沒有 DET|那 M|個 Va|奇怪 DE|的 Nn|腳 SFP|啦 ?
+%xsyn:	Other DE .
+*ADU:	來 .
+%xmor:	Vt|來 .
+*ADU:	我 幫 你 做 嘛 !
+%xmor:	Npro:1sg|我 Vt|幫 Npro:2sg|你 Vt|做 SFP|嘛 !
+%xsyn:	PP-VI .
+*CHI:	這 個 是 什麼 馬 啊 ?
+%xmor:	DET|這 M|個 Vc|是 WH|什麼 Nn|馬 SFP|啊 ?
+*ADU:	這 個 不 是 馬 欸 !
+%xmor:	DET|這 M|個 NEG|不 Vc|是 Nn|馬 SFP|欸 !
+*CHI:	那 是 什麼 嘛 ?
+%xmor:	Npro:dem|那 Vc|是 WH|什麼 SFP|嘛 ?
+*ADU:	你 看 嘛 !
+%xmor:	Npro:2sg|你 Vt|看 SFP|嘛 !
+*ADU:	阿姨 幫 你 做 .
+%xmor:	Nn|阿姨 Vt|幫 Npro:2sg|你 Vt|做 .
+%xsyn:	PP-VI .
+*CHI:	這 個 是 什麼 嘛 !
+%xmor:	DET|這 M|個 Vc|是 WH|什麼 SFP|嘛 !
+*ADU:	那 個 啊 !
+%xmor:	DET|那 M|個 SFP|啊 !
+*CHI:	這 個 啊 !
+%xmor:	DET|這 M|個 SFP|啊 !
+*ADU:	你 做做 看 好 不 好 ?
+%xmor:	Npro:2sg|你 Vr|做做 Vt|看 Va|好 NEG|不 Va|好 ?
+%xsyn:	COMP-SUBJ .
+*CHI:	好 啊 !
+%xmor:	Va|好 SFP|啊 !
+*MOT:	他 現在 知道 那 個 東西 裝 到 那 個 下半身 了 喔 !
+%xmor:	Npro:3sg|他 Nt|現在 Vt|知道 DET|那 M|個 Nn|東西 Vt|裝 Vt|到 DET|那 M|個 Nn|下半身 ASP|了 SFP|喔 !
+%xsyn:	COMP-OBJ .
+*ADU:	對 , 很 厲害 .
+%xmor:	Va|對 , ADV|很 Va|厲害 .
+*ADU:	你 看 這 是 一 個 什麼 ?
+%xmor:	Npro:2sg|你 Vt|看 Npro:dem|這 Vc|是 QN|一 M|個 WH|什麼 ?
+%xsyn:	COMP-OBJ .
+*ADU:	謝謝 .
+%xmor:	Vt|謝謝 .
+*CHI:	你 看 我 的 .
+%xmor:	Npro:2sg|你 Vt|看 Npro:1sg|我 DE|的 .
+%xsyn:	Other DE .
+*MOT:	嗯 那 是 什麼 啊 ?
+%xmor:	INT|嗯 Npro:dem|那 Vc|是 WH|什麼 SFP|啊 ?
+*ADU:	那 是 什麼 ?
+%xmor:	Npro:dem|那 Vc|是 WH|什麼 ?
+*CHI:	奇怪 動物 .
+%xmor:	Va|奇怪 Nn|動物 .
+*CHI:	對 不 對 ?
+%xmor:	Va|對 NEG|不 Va|對 ?
+*MOT:	是 不 是 獅子 啊 ?
+%xmor:	Vc|是 NEG|不 Vc|是 Nn|獅子 SFP|啊 ?
+*MOT:	那 個 呢 ?
+%xmor:	DET|那 M|個 SFP|呢 ?
+*ADU:	要 不 要 ?
+%xmor:	Vt|要 NEG|不 Vt|要 ?
+*CHI:	要 啊 !
+%xmor:	Vt|要 SFP|啊 !
+*ADU:	hm hm !
+%xmor:	CS|hm CS|hm !
+*ADU:	那 個 酸梅 .
+%xmor:	DET|那 M|個 Nn|酸梅 .
+*ADU:	好 好吃 喔 !
+%xmor:	ADV|好 Va|好吃 SFP|喔 !
+*CHI:	嗯 !
+%xmor:	INT|嗯 !
+*ADU:	這 是 什麼 , 你 認得 不 認得 啊 ?
+%xmor:	Npro:dem|這 Vc|是 WH|什麼 , Npro:2sg|你 Vt|認得 NEG|不 Vt|認得 SFP|啊 ?
+*CHI:	什麼 啊 ?
+%xmor:	WH|什麼 SFP|啊 ?
+*ADU:	小 猴子 耶 !
+%xmor:	ADJ|小 Nn|猴子 SFP|耶 !
+*CHI:	對 呀 !
+%xmor:	Va|對 SFP|呀 !
+*ADU:	你 看 他 有 一 個 好 長 的 尾巴 .
+%xmor:	Npro:2sg|你 Vt|看 Npro:3sg|他 Vt|有 QN|一 M|個 ADV|好 Va|長 DE|的 Nn|尾巴 .
+%xsyn:	COMP-OBJ Other DE .
+*CHI:	全部 都 做好 了 .
+%xmor:	QN|全部 ADV|都 Vt|做好 ASP|了 .
+*ADU:	嗯 , 你 喜歡 不 喜歡 ?
+%xmor:	INT|嗯 , Npro:2sg|你 Vt|喜歡 NEG|不 Vt|喜歡 ?
+*CHI:	這 個 河馬 要 吃 掉 小 猴子 的 尾巴 .
+%xmor:	DET|這 M|個 Nn|河馬 Vt|要 Vt|吃 Vi|掉 ADJ|小 Nn|猴子 DE|的 Nn|尾巴 .
+%xsyn:	GMOD-VO Other DE .
+*ADU:	為什麼 ?
+%xmor:	WH|為什麼 ?
+*CHI:	因為 河馬 很 厲害 嘛 !
+%xmor:	CONJ|因為 Nn|河馬 ADV|很 Va|厲害 SFP|嘛 !
+*ADU:	你 剛才 不 是 說 那 是 犀牛 嗎 ?
+%xmor:	Npro:2sg|你 ADV|剛才 NEG|不 Vc|是 Vt|說 Npro:dem|那 Vc|是 Nn|犀牛 SFP|嗎 ?
+%xsyn:	COMP-OBJ .
+*CHI:	犀牛 啊 ?
+%xmor:	Nn|犀牛 SFP|啊 ?
+*ADU:	還是 河馬 ?
+%xmor:	ADV|還是 Nn|河馬 ?
+*CHI:	河馬 .
+%xmor:	Nn|河馬 .
+*ADU:	好像 應該 是 犀牛 欸 !
+%xmor:	ADV|好像 MOD|應該 Vc|是 Nn|犀牛 SFP|欸 !
+*ADU:	你 最 喜歡 哪 一 個 動物 啊 ?
+%xmor:	Npro:2sg|你 ADV|最 Vt|喜歡 WH|哪 QN|一 M|個 Nn|動物 SFP|啊 ?
+*ADU:	你 喜歡 不 喜歡 他 呀 ?
+%xmor:	Npro:2sg|你 Vt|喜歡 NEG|不 Vt|喜歡 Npro:3sg|他 SFP|呀 ?
+*CHI:	嗯 , 他 是 不 是 要 回來 +...
+%xmor:	INT|嗯 , Npro:3sg|他 Vc|是 NEG|不 Vc|是 Vt|要 Vi|回來 +...
+%xsyn:	GMOD-SVC .
+*ADU:	嗯 , 對 .
+%xmor:	INT|嗯 , Va|對 .
+*ADU:	小毅 , 你 看 這 個 袋鼠 有 幾 隻 腳 ?
+%xmor:	Nppn|小毅 , Npro:2sg|你 Vt|看 DET|這 M|個 Nn|袋鼠 Vt|有 QN|幾 M|隻 Nn|腳 ?
+%xsyn:	COMP-OBJ .
+*CHI:	四 隻 .
+%xmor:	QN|四 M|隻 .
+*ADU:	在 哪裏 ?
+%xmor:	Vt|在 WH|哪裏 ?
+*ADU:	這樣子 啊 ?
+%xmor:	Va|這樣子 SFP|啊 ?
+*ADU:	可是 他 前面 還 有 兩 隻 哪 !
+%xmor:	CONJ|可是 Npro:3sg|他 Nloc|前面 ADV|還 Vt|有 QN|兩 M|隻 SFP|哪 !
+*ADU:	保護 小小 袋鼠 的 啊 !
+%xmor:	Vt|保護 ADJ|小小 Nn|袋鼠 DE|的 SFP|啊 !
+%xsyn:	Other DE .
+*CHI:	唉呀 頭 怎麼 塞 到 這 個 呢 ?
+%xmor:	INT|唉呀 Nn|頭 WH|怎麼 Vt|塞 Vt|到 DET|這 M|個 SFP|呢 ?
+*ADU:	那 個 頭 ?
+%xmor:	WH|那 M|個 Nn|頭 ?
+*CHI:	咦 ?
+%xmor:	INT|咦 ?
+*MOT:	捨得 不 , 有 得 玩 .
+%xmor:	Vt|捨得 NEG|不 , Vt|有 DE|得 Vt|玩 .
+*CHI:	他 睡覺 是 不 是 這樣 睡 的 啊 ?
+%xmor:	Npro:3sg|他 Vi|睡覺 Vc|是 NEG|不 Vc|是 Va|這樣 Vi|睡 DE|的 SFP|啊 ?
+%xsyn:	REL-SHI .
+*ADU:	欸 , 你 是 不 是 這樣 睡 ?
+%xmor:	INT|欸 , Npro:2sg|你 Vc|是 NEG|不 Vc|是 Va|這樣 Vi|睡 ?
+*CHI:	那 猴子 為什麼 睡 都 不 這樣 睡 呢 ?
+%xmor:	INT|那 Nn|猴子 WH|為什麼 Vi|睡 ADV|都 NEG|不 Va|這樣 Vi|睡 SFP|呢 ?
+*ADU:	他 也 可以 這樣 睡 啊 !
+%xmor:	Npro:3sg|他 ADV|也 MOD|可以 Va|這樣 Vi|睡 SFP|啊 !
+%xsyn:	MOD-VI .
+*CHI:	han ?
+%xmor:	CS|han ?
+*ADU:	可以 不 可以 ?
+%xmor:	MOD|可以 NEG|不 MOD|可以 ?
+*CHI:	不 可以 .
+%xmor:	NEG|不 MOD|可以 .
+*ADU:	為什麼 ?
+%xmor:	WH|為什麼 ?
+*CHI:	0 .
+*CHI:	猴子 為什麼 可以 ?
+%xmor:	Nn|猴子 WH|為什麼 MOD|可以 ?
+*CHI:	爬 什麼 啊 ?
+%xmor:	Vi|爬 WH|什麼 SFP|啊 ?
+*ADU:	爬 什麼 ?
+%xmor:	Vi|爬 WH|什麼 ?
+*ADU:	你 還 沒有 告訴 我 啊 !
+%xmor:	Npro:2sg|你 ADV|還 NEG|沒有 Vt|告訴 Npro:1sg|我 SFP|啊 !
+%xsyn:	NEG-VO .
+*ADU:	你 最 喜歡 哪 一 個 ?
+%xmor:	Npro:2sg|你 ADV|最 Vt|喜歡 WH|哪 QN|一 M|個 ?
+*CHI:	這 個 袋鼠 .
+%xmor:	DET|這 M|個 Nn|袋鼠 .
+*ADU:	為什麼 ?
+%xmor:	WH|為什麼 ?
+*CHI:	這 個 最 厲害 了 .
+%xmor:	DET|這 M|個 ADV|最 Va|厲害 ASP|了 .
+*ADU:	他 會 怎麼樣 啊 ?
+%xmor:	Npro:3sg|他 MOD|會 WH|怎麼樣 SFP|啊 ?
+*CHI:	你 玩 這 個 !
+%xmor:	Npro:2sg|你 Vt|玩 DET|這 M|個 !
+*ADU:	這 個 是 什麼 ?
+%xmor:	DET|這 M|個 Vc|是 WH|什麼 ?
+*CHI:	奇怪 動物 .
+%xmor:	Va|奇怪 Nn|動物 .
+*ADU:	這 叫 獅子 欸 !
+%xmor:	Npro:dem|這 Vt|叫 Nn|獅子 SFP|欸 !
+*CHI:	對 啊 , 獅子 啊 !
+%xmor:	Va|對 SFP|啊 , Nn|獅子 SFP|啊 !
+*ADU:	獅子 厲害 還是 他 比較 厲害 ?
+%xmor:	Nn|獅子 Va|厲害 CONJ|還是 Npro:3sg|他 ADV|比較 Va|厲害 ?
+*CHI:	他 跟 他 厲害 .
+%xmor:	Npro:3sg|他 CONJ|跟 Npro:3sg|他 Va|厲害 .
+*CHI:	打架 .
+%xmor:	Vi|打架 .
+*ADU:	怎麼 打 ?
+%xmor:	WH|怎麼 Vt|打 ?
+*CHI:	嘎嘎 .
+%xmor:	CHM|嘎嘎 .
+*ADU:	不 要 打 了 .
+%xmor:	NEG|不 Vt|要 Vt|打 ASP|了 .
+%xsyn:	NEG-GMOD-VI .
+*ADU:	哇 !
+%xmor:	INT|哇 !
+*CHI:	來 打架 啊 !
+%xmor:	Vt|來 Vi|打架 SFP|啊 !
+%xsyn:	GMOD-VI .
+*ADU:	怎麼 打 嘛 ?
+%xmor:	WH|怎麼 Vt|打 SFP|嘛 ?
+*ADU:	我 不 會 打 .
+%xmor:	Npro:1sg|我 NEG|不 MOD|會 Vt|打 .
+%xsyn:	NEG-MOD-VI .
+*ADU:	我 這樣 叫 打架 是 不 是 ?
+%xmor:	Npro:1sg|我 Va|這樣 Vt|叫 Vi|打架 Vc|是 NEG|不 Vc|是 ?
+%xsyn:	COMP-SUBJ .
+*CHI:	嗯 !
+%xmor:	INT|嗯 !
+*ADU:	看 誰 贏 啊 ?
+%xmor:	Vt|看 WH|誰 Vt|贏 SFP|啊 ?
+*CHI:	我 贏 .
+%xmor:	Npro:1sg|我 Vt|贏 .
+*ADU:	噢 , 你 贏 .
+%xmor:	INT|噢 , Npro:2sg|你 Vt|贏 .
+*ADU:	那 個 獅子 最 喜歡 吃 什麼 動物 ?
+%xmor:	DET|那 M|個 Nn|獅子 ADV|最 Vt|喜歡 Vt|吃 WH|什麼 Nn|動物 ?
+%xsyn:	COMP-OBJ .
+*CHI:	袋鼠 .
+%xmor:	Nn|袋鼠 .
+*ADU:	真的 啊 ?
+%xmor:	MOD|真的 SFP|啊 ?
+%xsyn:	Other DE .
+*ADU:	那 袋鼠 要 不 要 保護 他 的 小 袋鼠 ?
+%xmor:	INT|那 Nn|袋鼠 Vt|要 NEG|不 Vt|要 Vt|保護 Npro:3sg|他 DE|的 ADJ|小 Nn|袋鼠 ?
+%xsyn:	GMOD-VO Other DE .
+*ADU:	那 他 怎麼 辦 ?
+%xmor:	INT|那 Npro:3sg|他 WH|怎麼 Vt|辦 ?
+*ADU:	你 保護 他 好 不 好 ?
+%xmor:	Npro:2sg|你 Vt|保護 Npro:3sg|他 Va|好 NEG|不 Va|好 ?
+%xsyn:	COMP-SUBJ .
+*CHI:	欸 ?
+%xmor:	INT|欸 ?
+*CHI:	來 打 , 我們 來 打架 嘛 !
+%xmor:	Vt|來 Vt|打 , Npro:1pl|我們 Vt|來 Vi|打架 SFP|嘛 !
+%xsyn:	GMOD-VI GMOD-VI .
+*CHI:	哇 , 你 玩 這 個 , 我 玩 這 個 .
+%xmor:	INT|哇 , Npro:2sg|你 Vt|玩 DET|這 M|個 , Npro:1sg|我 Vt|玩 DET|這 M|個 .
+*CHI:	哈 我 比較 厲害 +...
+%xmor:	ONM|哈 Npro:1sg|我 ADV|比較 Va|厲害 +...
+*ADU:	他 有 沒有 眼睛 ?
+%xmor:	Npro:3sg|他 Vt|有 NEG|沒有 Nn|眼睛 ?
+*CHI:	有 啊 !
+%xmor:	Vt|有 SFP|啊 !
+*ADU:	眼睛 會 不 會 動 ?
+%xmor:	Nn|眼睛 MOD|會 NEG|不 MOD|會 Vt|動 ?
+%xsyn:	MOD-VI .
+*CHI:	不 會 .
+%xmor:	NEG|不 MOD|會 .
+*ADU:	不 會 啊 ?
+%xmor:	NEG|不 MOD|會 SFP|啊 ?
+*ADU:	會 耶 你 看 !
+%xmor:	MOD|會 SFP|耶 Npro:2sg|你 Vt|看 !
+*CHI:	動 就 可以 .
+%xmor:	Vt|動 ADV|就 MOD|可以 .
+*ADU:	嗯 !
+%xmor:	INT|嗯 !
+*CHI:	你 看 !
+%xmor:	Npro:2sg|你 Vt|看 !
+*ADU:	你 眼睛 會 不 會 動 ?
+%xmor:	Npro:2sg|你 Nn|眼睛 MOD|會 NEG|不 MOD|會 Vt|動 ?
+%xsyn:	MOD-VI .
+*CHI:	0 .
+*CHI:	看 誰 厲害 啊 ?
+%xmor:	Vt|看 WH|誰 Va|厲害 SFP|啊 ?
+*ADU:	是 誰 厲害 啊 ?
+%xmor:	Vc|是 WH|誰 Va|厲害 SFP|啊 ?
+*CHI:	我 比較 厲害 啊 !
+%xmor:	Npro:1sg|我 ADV|比較 Va|厲害 SFP|啊 !
+*ADU:	大象 最 厲害 啦 !
+%xmor:	Nn|大象 ADV|最 Va|厲害 SFP|啦 !
+*ADU:	你 看 他 鼻子 這麼 長 .
+%xmor:	Npro:2sg|你 Vt|看 Npro:3sg|他 Nn|鼻子 ADV|這麼 Va|長 .
+%xsyn:	COMP-OBJ .
+*ADU:	是 不 是 ?
+%xmor:	Vc|是 NEG|不 Vc|是 ?
+*CHI:	來 啊 .
+%xmor:	Vt|來 SFP|啊 .
+*CHI:	我們 打架 吧 !
+%xmor:	Npro:1pl|我們 Vi|打架 SFP|吧 !
+*ADU:	怎麼 打 呀 ?
+%xmor:	WH|怎麼 Vt|打 SFP|呀 ?
+*ADU:	你 把 他 什麼 弄 掉 地上 啦 ?
+%xmor:	Npro:2sg|你 PREP|把 Npro:3sg|他 WH|什麼 Vt|弄 Vi|掉 Nn|地上 SFP|啦 ?
+%xsyn:	PP-V-PP .
+*CHI:	獅子 啊 我們 打架 吧 !
+%xmor:	Nn|獅子 SFP|啊 Npro:1pl|我們 Vi|打架 SFP|吧 !
+*CHI:	你 玩 猴子 .
+%xmor:	Npro:2sg|你 Vt|玩 Nn|猴子 .
+*ADU:	這 個 馬 厲害 不 厲害 ?
+%xmor:	DET|這 M|個 Nn|馬 Va|厲害 NEG|不 Va|厲害 ?
+*CHI:	這 個 馬 , 不 厲害 吧 !
+%xmor:	DET|這 M|個 Nn|馬 , NEG|不 Va|厲害 SFP|吧 !
+*ADU:	為什麼 ?
+%xmor:	WH|為什麼 ?
+*ADU:	他 跑 得 很 快 欸 !
+%xmor:	Npro:3sg|他 Vi|跑 DE|得 ADV|很 Va|快 SFP|欸 !
+*CHI:	那 個 牛 才 厲害 !
+%xmor:	DET|那 M|個 Nn|牛 ADV|才 Va|厲害 !
+*ADU:	真的 啊 ?
+%xmor:	MOD|真的 SFP|啊 ?
+%xsyn:	Other DE .
+*CHI:	嗯 !
+%xmor:	INT|嗯 !
+*ADU:	他 哪裏 厲害 ?
+%xmor:	Npro:3sg|他 WH|哪裏 Va|厲害 ?
+*CHI:	牛 , 他 的 耳朵 最 厲害 啦 !
+%xmor:	Nn|牛 , Npro:3sg|他 DE|的 Nn|耳朵 ADV|最 Va|厲害 SFP|啦 !
+%xsyn:	Other DE .
+*ADU:	他 可以 怎麼樣 ?
+%xmor:	Npro:3sg|他 MOD|可以 WH|怎麼樣 ?
+*CHI:	他 可以 消滅 獅子 .
+%xmor:	Npro:3sg|他 MOD|可以 Vt|消滅 Nn|獅子 .
+%xsyn:	MOD-VO .
+*ADU:	han ?
+%xmor:	CS|han ?
+*CHI:	消滅 獅子 哦 !
+%xmor:	Vt|消滅 Nn|獅子 SFP|哦 !
+*ADU:	消滅 獅子 啊 ?
+%xmor:	Vt|消滅 Nn|獅子 SFP|啊 ?
+*CHI:	對 .
+%xmor:	Va|對 .
+*ADU:	怎麼樣 消滅 ?
+%xmor:	WH|怎麼樣 Vt|消滅 ?
+*ADU:	你 消滅 給 我 看 .
+%xmor:	Npro:2sg|你 Vt|消滅 Vt|給 Npro:1sg|我 Vt|看 .
+%xsyn:	V-PP-VI .
+*CHI:	好 .
+%xmor:	Va|好 .
+*CHI:	我 不 會 +...
+%xmor:	Npro:1sg|我 NEG|不 MOD|會 +...
+*CHI:	奇怪 , 怎麼 有 個 大 +...
+%xmor:	Va|奇怪 , WH|怎麼 Vt|有 M|個 Va|大 +...
+*ADU:	嗯 !
+%xmor:	INT|嗯 !
+*CHI:	好 , 我 去 跟 他 打架 .
+%xmor:	Va|好 , Npro:1sg|我 Vt|去 PREP|跟 Npro:3sg|他 Vi|打架 .
+%xsyn:	GMOD-PP-VI .
+*ADU:	哇 , 怎麼 牛 被 消滅 了 呢 ?
+%xmor:	INT|哇 , WH|怎麼 Nn|牛 PREP|被 Vt|消滅 ASP|了 SFP|呢 ?
+%xsyn:	PP-VI .
+*CHI:	哇 知道 我 厲害 吧 !
+%xmor:	INT|哇 Vt|知道 Npro:1sg|我 Va|厲害 SFP|吧 !
+%xsyn:	COMP-OBJ .
+*CHI:	打死 小孩 欸 !
+%xmor:	Vt|打死 Nn|小孩 SFP|欸 !
+*ADU:	真的 啊 ?
+%xmor:	MOD|真的 SFP|啊 ?
+%xsyn:	Other DE .
+*ADU:	那 好 可憐 欸 !
+%xmor:	INT|那 ADV|好 Va|可憐 SFP|欸 !
+*CHI:	唉呀 唉 +...
+%xmor:	INT|唉呀 INT|唉 +...
+*ADU:	那麼 可憐 怎麼 行 呢 ?
+%xmor:	ADV|那麼 Va|可憐 WH|怎麼 Va|行 SFP|呢 ?
+*CHI:	0 .
+*CHI:	他 會 不 會 咬人 ?
+%xmor:	Npro:3sg|他 MOD|會 NEG|不 MOD|會 Vi|咬人 ?
+%xsyn:	MOD-VO .
+*ADU:	他 如果 你 要 咬 他 的 小孩 的 時候 , 他 就 會 咬人 .
+%xmor:	Npro:3sg|他 CONJ|如果 Npro:2sg|你 Vt|要 Vt|咬 Npro:3sg|他 DE|的 Nn|小孩 DE|的 Nn|時候 , Npro:3sg|他 ADV|就 MOD|會 Vi|咬人 .
+%xsyn:	MCC .
+*CHI:	他 就 會 咬 獅子 啊 ?
+%xmor:	Npro:3sg|他 ADV|就 MOD|會 Vt|咬 Nn|獅子 SFP|啊 ?
+%xsyn:	MOD-VO .
+*ADU:	嗯 !
+%xmor:	INT|嗯 !
+*ADU:	可是 你 看 他 的 嘴巴 大 還是 獅子 的 嘴巴 大 ?
+%xmor:	CONJ|可是 Npro:2sg|你 Vt|看 Npro:3sg|他 DE|的 Nn|嘴巴 Va|大 CONJ|還是 Nn|獅子 DE|的 Nn|嘴巴 Va|大 ?
+%xsyn:	COMP-OBJ Other DE Other DE .
+*CHI:	獅子 嘴巴 大 .
+%xmor:	Nn|獅子 Nn|嘴巴 Va|大 .
+*ADU:	那 他 咬過 不 咬過 得 獅子 ?
+%xmor:	INT|那 Npro:3sg|他 Vt|咬過 NEG|不 Vt|咬過 DE|得 Nn|獅子 ?
+*CHI:	咬過 不 .
+%xmor:	Vt|咬過 NEG|不 .
+*ADU:	那 他 怎麼 辦 ?
+%xmor:	INT|那 Npro:3sg|他 WH|怎麼 Vt|辦 ?
+*CHI:	他 比較 +...
+%xmor:	Npro:3sg|他 ADV|比較 +...
+*CHI:	他 的 尾巴 比較 大 .
+%xmor:	Npro:3sg|他 DE|的 Nn|尾巴 ADV|比較 Va|大 .
+%xsyn:	Other DE .
+*ADU:	喔 用 尾巴 跟 獅子 咬 .
+%xmor:	INT|喔 PREP|用 Nn|尾巴 PREP|跟 Nn|獅子 Vt|咬 .
+%xsyn:	PP-PP-VI .
+*CHI:	嗯 !
+%xmor:	INT|嗯 !
+*CHI:	打 啊 !
+%xmor:	Vt|打 SFP|啊 !
+*CHI:	0 .
+*ADU:	你 說 獅子 怎麼樣 ?
+%xmor:	Npro:2sg|你 Vt|說 Nn|獅子 WH|怎麼樣 ?
+%xsyn:	COMP-OBJ .
+*CHI:	你 看 !
+%xmor:	Npro:2sg|你 Vt|看 !
+*CHI:	我 喜歡 獅子 .
+%xmor:	Npro:1sg|我 Vt|喜歡 Nn|獅子 .
+*CHI:	獅子 比較 棒 .
+%xmor:	Nn|獅子 ADV|比較 Va|棒 .
+*CHI:	我 玩 這 個 , 很 棒 喔 !
+%xmor:	Npro:1sg|我 Vt|玩 DET|這 M|個 , ADV|很 Va|棒 SFP|喔 !
+*ADU:	這 個 也 很 棒 , 是 不 是 ?
+%xmor:	DET|這 M|個 ADV|也 ADV|很 Va|棒 , Vc|是 NEG|不 Vc|是 ?
+*CHI:	嗯 !
+%xmor:	INT|嗯 !
+*CHI:	獅子 比較 棒 .
+%xmor:	Nn|獅子 ADV|比較 Va|棒 .
+*CHI:	玩 獅子 最 棒 !
+%xmor:	Vt|玩 Nn|獅子 ADV|最 Va|棒 !
+%xsyn:	COMP-SUBJ .
+*ADU:	獅子 最 棒 啊 ?
+%xmor:	Nn|獅子 ADV|最 Va|棒 SFP|啊 ?
+*ADU:	可是 我 的 嘴巴 更 大 欸 !
+%xmor:	CONJ|可是 Npro:1sg|我 DE|的 Nn|嘴巴 ADV|更 Va|大 SFP|欸 !
+%xsyn:	Other DE .
+*CHI:	我 的 嘴巴 很 大 .
+%xmor:	Npro:1sg|我 DE|的 Nn|嘴巴 ADV|很 Va|大 .
+%xsyn:	Other DE .
+*ADU:	誰 最 大 啊 ?
+%xmor:	WH|誰 ADV|最 Va|大 SFP|啊 ?
+*ADU:	大象 哪 !
+%xmor:	Nn|大象 SFP|哪 !
+*CHI:	好 .
+%xmor:	Va|好 .
+*ADU:	誰 厲害 啊 ?
+%xmor:	WH|誰 Va|厲害 SFP|啊 ?
+*CHI:	我 厲害 !
+%xmor:	Npro:1sg|我 Va|厲害 !
+*ADU:	可是 我 的 鼻子 好 長 喔 !
+%xmor:	CONJ|可是 Npro:1sg|我 DE|的 Nn|鼻子 ADV|好 Va|長 SFP|喔 !
+%xsyn:	Other DE .
+*ADU:	是 不 是 ?
+%xmor:	Vc|是 NEG|不 Vc|是 ?
+*CHI:	我 要 消滅 你 啦 !
+%xmor:	Npro:1sg|我 Vt|要 Vt|消滅 Npro:2sg|你 SFP|啦 !
+%xsyn:	GMOD-VO .
+*CHI:	0 .
+*CHI:	咬住 啦 !
+%xmor:	Vt|咬住 SFP|啦 !
+*ADU:	咬住 他 哪裏 啊 ?
+%xmor:	Vt|咬住 Npro:3sg|他 WH|哪裏 SFP|啊 ?
+*CHI:	咬住 他 的 背上 啊 !
+%xmor:	Vt|咬住 Npro:3sg|他 DE|的 Nloc|背上 SFP|啊 !
+%xsyn:	Other DE .
+*ADU:	喔 , 咬住 他 背上 啊 ?
+%xmor:	INT|喔 , Vt|咬住 Npro:3sg|他 Nloc|背上 SFP|啊 ?
+*CHI:	對 .
+%xmor:	Va|對 .
+*ADU:	那 大象 痛 不 痛 ?
+%xmor:	INT|那 Nn|大象 Va|痛 NEG|不 Va|痛 ?
+*CHI:	不 痛 吧 !
+%xmor:	NEG|不 Va|痛 SFP|吧 !
+*ADU:	哇 , 他 怎麼 爬 到 他 背上 來 了 ?
+%xmor:	INT|哇 , Npro:3sg|他 WH|怎麼 Vt|爬 Vt|到 Npro:3sg|他 Nloc|背上 Vt|來 ASP|了 ?
+%xsyn:	V-PP-DIR .
+*CHI:	他 用 飛 的 啦 !
+%xmor:	Npro:3sg|他 PREP|用 Vi|飛 DE|的 SFP|啦 !
+%xsyn:	NOM .
+*ADU:	誰 ?
+%xmor:	WH|誰 ?
+*CHI:	0 .
+*CHI:	打架 .
+%xmor:	Vi|打架 .
+*CHI:	打架 吧 !
+%xmor:	Vi|打架 SFP|吧 !
+*CHI:	鬥 我 啊 !
+%xmor:	Vt|鬥 Npro:1sg|我 SFP|啊 !
+*ADU:	0 .
+*CHI:	我 是 獅子 .
+%xmor:	Npro:1sg|我 Vc|是 Nn|獅子 .
+*ADU:	喲 .
+%xmor:	INT|喲 .
+*ADU:	怎麼 這 個 也 來 了 啊 ?
+%xmor:	WH|怎麼 DET|這 M|個 ADV|也 Vt|來 ASP|了 SFP|啊 ?
+*ADU:	這 是 什麼 ?
+%xmor:	Npro:dem|這 Vc|是 WH|什麼 ?
+*CHI:	我 是 獅子 啊 !
+%xmor:	Npro:1sg|我 Vc|是 Nn|獅子 SFP|啊 !
+*ADU:	an !
+%xmor:	CS|an !
+*ADU:	獅子 這麼 厲害 啊 ?
+%xmor:	Nn|獅子 ADV|這麼 Va|厲害 SFP|啊 ?
+*CHI:	來 啊 我們 打架 吧 !
+%xmor:	Vt|來 SFP|啊 Npro:1pl|我們 Vi|打架 SFP|吧 !
+*CHI:	打架 !
+%xmor:	Vi|打架 !
+*ADU:	用 他 來 跟 他 打 好 不 好 ?
+%xmor:	PREP|用 Npro:3sg|他 Vt|來 PREP|跟 Npro:3sg|他 Vt|打 Va|好 NEG|不 Va|好 ?
+%xsyn:	COMP-SUBJ PP-GMOD-PP-V .
+*ADU:	誰 厲害 ?
+%xmor:	WH|誰 Va|厲害 ?
+*CHI:	他 這 個 比較 厲害 !
+%xmor:	Npro:3sg|他 DET|這 M|個 ADV|比較 Va|厲害 !
+*ADU:	這 個 啊 ?
+%xmor:	DET|這 M|個 SFP|啊 ?
+*CHI:	嗯 !
+%xmor:	INT|嗯 !
+*ADU:	他 這 個 是 什麼 ?
+%xmor:	Npro:3sg|他 DET|這 M|個 Vc|是 WH|什麼 ?
+*CHI:	我 是 +...
+%xmor:	Npro:1sg|我 Vc|是 +...
+*CHI:	我 是 嘴巴 比較 厲害 .
+%xmor:	Npro:1sg|我 Vc|是 Nn|嘴巴 ADV|比較 Va|厲害 .
+*MOT:	對 .
+%xmor:	Va|對 .
+*ADU:	那 我 的 什麼 厲害 ?
+%xmor:	INT|那 Npro:1sg|我 DE|的 WH|什麼 Va|厲害 ?
+%xsyn:	Other DE .
+*CHI:	欸 , 怎麼 統統 做好 啦 ?
+%xmor:	INT|欸 , WH|怎麼 ADV|統統 Vt|做好 SFP|啦 ?
+*ADU:	對 呀 !
+%xmor:	Va|對 SFP|呀 !
+*CHI:	我 自己 做 啊 ?
+%xmor:	Npro:1sg|我 Npro:ref|自己 Vt|做 SFP|啊 ?
+*ADU:	我們 把 他 拆 掉 再 做 , 好 不 好 ?
+%xmor:	Npro:1pl|我們 PREP|把 Npro:3sg|他 Vt|拆 Vi|掉 ADV|再 Vt|做 , Va|好 NEG|不 Va|好 ?
+%xsyn:	PP-MEVENT .
+*CHI:	要 再 到 脖子 的 時候 , 怎麼 放 ?
+%xmor:	Vt|要 ADV|再 Vt|到 Nn|脖子 DE|的 Nn|時候 , WH|怎麼 Vt|放 ?
+*ADU:	我 幫 你 放 好 不 好 ?
+%xmor:	Npro:1sg|我 Vt|幫 Npro:2sg|你 Vt|放 Va|好 NEG|不 Va|好 ?
+%xsyn:	COMP-SUBJ PP-V .
+*CHI:	好 .
+%xmor:	Va|好 .
+*ADU:	你 看 喔 !
+%xmor:	Npro:2sg|你 Vt|看 SFP|喔 !
+*ADU:	你 要 看好 , 然後 學會 喔 !
+%xmor:	Npro:2sg|你 Vt|要 Vt|看好 , CONJ|然後 Vt|學會 SFP|喔 !
+*ADU:	an , 拿 下來 喔 !
+%xmor:	CS|an , Vt|拿 Vi|下來 SFP|喔 !
+%xsyn:	SVC .
+*CHI:	嗯 .
+%xmor:	INT|嗯 .
+*ADU:	這 個 啊 , 把 他 反 過來 .
+%xmor:	DET|這 M|個 SFP|啊 , PREP|把 Npro:3sg|他 Vi|反 Vi|過來 .
+%xsyn:	PP-SVC .
+*CHI:	嗯 .
+%xmor:	INT|嗯 .
+*ADU:	然後 這 個 插 上去 .
+%xmor:	CONJ|然後 DET|這 M|個 Vt|插 Vi|上去 .
+%xsyn:	SVC .
+*CHI:	嘿 !
+%xmor:	INT|嘿 !
+*ADU:	欸 !
+%xmor:	INT|欸 !
+*CHI:	東西 就 是 這樣 +...
+%xmor:	Nn|東西 ADV|就 Vc|是 Va|這樣 +...
+*ADU:	對 .
+%xmor:	Va|對 .
+*CHI:	然後 喔 ?
+%xmor:	CONJ|然後 SFP|喔 ?
+*CHI:	要 怎麼樣 的 時候 才 這樣 啊 ?
+%xmor:	Vt|要 WH|怎麼樣 DE|的 Nn|時候 ADV|才 Va|這樣 SFP|啊 ?
+%xsyn:	Other DE .
+*ADU:	hm !
+%xmor:	CS|hm !
+*CHI:	然後 哦 ?
+%xmor:	CONJ|然後 SFP|哦 ?
+*CHI:	然後 這樣 弄 啊 ?
+%xmor:	CONJ|然後 Va|這樣 Vt|弄 SFP|啊 ?
+*ADU:	反 了 !
+%xmor:	Vi|反 ASP|了 !
+*ADU:	這 個 腳 裝反 了 .
+%xmor:	DET|這 M|個 Nn|腳 Vt|裝反 ASP|了 .
+*CHI:	這樣 對 了 啦 !
+%xmor:	Va|這樣 Va|對 ASP|了 SFP|啦 !
+*ADU:	這樣 才 對 .
+%xmor:	Va|這樣 ADV|才 Va|對 .
+*CHI:	這樣 啊 ?
+%xmor:	Va|這樣 SFP|啊 ?
+*ADU:	然後 這 個 這樣 .
+%xmor:	CONJ|然後 DET|這 M|個 Va|這樣 .
+*CHI:	這樣 .
+%xmor:	Va|這樣 .
+*ADU:	欸 , 對 .
+%xmor:	INT|欸 , Va|對 .
+*CHI:	這樣 反 了 啦 !
+%xmor:	Va|這樣 Vi|反 ASP|了 SFP|啦 !
+*CHI:	這樣 啦 !
+%xmor:	Va|這樣 SFP|啦 !
+*ADU:	這樣 才 反 了 啦 !
+%xmor:	Va|這樣 ADV|才 Vi|反 ASP|了 SFP|啦 !
+*CHI:	這樣 啦 !
+%xmor:	Va|這樣 SFP|啦 !
+*CHI:	不 是 這樣 啦 !
+%xmor:	NEG|不 Vc|是 Va|這樣 SFP|啦 !
+*ADU:	哈 .
+%xmor:	ONM|哈 .
+*CHI:	這樣 啊 ?
+%xmor:	Va|這樣 SFP|啊 ?
+*ADU:	欸 , 對 .
+%xmor:	INT|欸 , Va|對 .
+*CHI:	反 了 啦 !
+%xmor:	Vi|反 ASP|了 SFP|啦 !
+*ADU:	什麼 反 了 ?
+%xmor:	WH|什麼 Vi|反 ASP|了 ?
+*CHI:	你 看 鴕鳥 .
+%xmor:	Npro:2sg|你 Vt|看 Nn|鴕鳥 .
+*CHI:	鴕鳥 不 厲害 .
+%xmor:	Nn|鴕鳥 NEG|不 Va|厲害 .
+*ADU:	鴕鳥 不 厲害 啊 ?
+%xmor:	Nn|鴕鳥 NEG|不 Va|厲害 SFP|啊 ?
+*CHI:	你 幫 我 裝 嘛 !
+%xmor:	Npro:2sg|你 Vt|幫 Npro:1sg|我 Vt|裝 SFP|嘛 !
+%xsyn:	PP-VI .
+*ADU:	han ?
+%xmor:	CS|han ?
+*CHI:	哈 !
+%xmor:	ONM|哈 !
+*ADU:	為什麼 鴕鳥 不 厲害 啊 ?
+%xmor:	WH|為什麼 Nn|鴕鳥 NEG|不 Va|厲害 SFP|啊 ?
+*CHI:	整潔衛生紙 是 不 是 送 的 啊 ?
+%xmor:	Nn|整潔衛生紙 Vc|是 NEG|不 Vc|是 Vt|送 DE|的 SFP|啊 ?
+%xsyn:	REL-SHI .
+*ADU:	不 是 .
+%xmor:	NEG|不 Vc|是 .
+*CHI:	那 +...
+%xmor:	INT|那 +...
+*ADU:	這 個 是 學校 老師 借給 我 的 啊 , 還 要 還給 他 .
+%xmor:	DET|這 M|個 Vc|是 Nn|學校 Nn|老師 Vt|借給 Npro:1sg|我 DE|的 SFP|啊 , ADV|還 Vt|要 Vt|還給 Npro:3sg|他 .
+%xsyn:	REL-SHI GMOD-SVC .
+*CHI:	你 帶 玩具 是 不 是 ?
+%xmor:	Npro:2sg|你 Vt|帶 Nn|玩具 Vc|是 NEG|不 Vc|是 ?
+%xsyn:	COMP-SUBJ .
+*ADU:	han ?
+%xmor:	CS|han ?
+*CHI:	你 玩具 上學 +...
+%xmor:	Npro:2sg|你 Nn|玩具 Vi|上學 +...
+*ADU:	帶 玩具 怎麼樣 ?
+%xmor:	Vt|帶 Nn|玩具 WH|怎麼樣 ?
+*CHI:	帶 玩具 到 學校 啊 ?
+%xmor:	Vt|帶 Nn|玩具 Vt|到 Nn|學校 SFP|啊 ?
+%xsyn:	V-PP .
+*ADU:	不 是 , 老師 發 玩具 給 我 .
+%xmor:	NEG|不 Vc|是 , Nn|老師 Vt|發 Nn|玩具 Vt|給 Npro:1sg|我 .
+%xsyn:	V-PP .
+*CHI:	發 玩具 啊 ?
+%xmor:	Vt|發 Nn|玩具 SFP|啊 ?
+*ADU:	嗯 !
+%xmor:	INT|嗯 !
+*CHI:	為什麼 呢 ?
+%xmor:	WH|為什麼 SFP|呢 ?
+*ADU:	這 個 不 是 阿姨 .
+%xmor:	DET|這 M|個 NEG|不 Vc|是 Nn|阿姨 .
+*ADU:	好 好 好 .
+%xmor:	Va|好 Va|好 Va|好 .
+*CHI:	他 騎 在 他 的 背上 .
+%xmor:	Npro:3sg|他 Vt|騎 Vt|在 Npro:3sg|他 DE|的 Nloc|背上 .
+%xsyn:	V-PP Other DE .
+*ADU:	唔 !
+%xmor:	INT|唔 !
+*ADU:	那 他 的 小孩 怎麼 辦 啊 ?
+%xmor:	INT|那 Npro:3sg|他 DE|的 Nn|小孩 WH|怎麼 Vt|辦 SFP|啊 ?
+%xsyn:	Other DE .
+*CHI:	他 的 小孩 , 沒關係 啊 !
+%xmor:	Npro:3sg|他 DE|的 Nn|小孩 , IDM|沒關係 SFP|啊 !
+%xsyn:	Other DE .
+*CHI:	他 不 怕 啊 !
+%xmor:	Npro:3sg|他 NEG|不 Vt|怕 SFP|啊 !
+*ADU:	嗯 !
+%xmor:	INT|嗯 !
+*CHI:	馬 咧 ?
+%xmor:	Nn|馬 SFP|咧 ?
+*ADU:	馬 咧 ?
+%xmor:	Nn|馬 SFP|咧 ?
+*ADU:	噢 !
+%xmor:	INT|噢 !
+*CHI:	他 要 騎 在 他 的 背 上 .
+%xmor:	Npro:3sg|他 Vt|要 Vt|騎 Vt|在 Npro:3sg|他 DE|的 Nn|背 Nloc|上 .
+%xsyn:	GMOD-V-PP Other DE .
+*ADU:	哦 , 可以 騎 在 馬 的 背 上 是 吧 !
+%xmor:	INT|哦 , MOD|可以 Vt|騎 Vt|在 Nn|馬 DE|的 Nn|背 Nloc|上 Vc|是 SFP|吧 !
+%xsyn:	MOD-V-PP Other DE .
+*CHI:	嗯 !
+%xmor:	INT|嗯 !
+*ADU:	han ?
+%xmor:	CS|han ?
+*ADU:	要 騎 去 哪裏 ?
+%xmor:	Vt|要 Vt|騎 Vt|去 WH|哪裏 ?
+%xsyn:	MOD-V-DIR .
+*CHI:	騎 去 台北市 .
+%xmor:	Vt|騎 Vt|去 Nn|台北市 .
+%xsyn:	V-DIR .
+*ADU:	han ?
+%xmor:	CS|han ?
+*CHI:	喀拉喀拉喀拉 要 飛 囉 !
+%xmor:	ONM|喀拉喀拉喀拉 Vt|要 Vi|飛 SFP|囉 !
+%xsyn:	GMOD-VI .
+*CHI:	太空馬 太空馬 .
+%xmor:	Nn|太空馬 Nn|太空馬 .
+*ADU:	喔 , 變成 太空馬 .
+%xmor:	INT|喔 , Vt|變成 Nn|太空馬 .
+*ADU:	那 這 是 不 是 太空長頸鹿 ?
+%xmor:	INT|那 Npro:dem|這 Vc|是 NEG|不 Vc|是 Nn|太空長頸鹿 ?
+*CHI:	對 呀 !
+%xmor:	Va|對 SFP|呀 !
+*CHI:	太空長頸鹿 啪呃啊 !
+%xmor:	Nn|太空長頸鹿 ONM|啪呃啊 !
+*CHI:	哈 , 我們 兩 個 比較 厲害 !
+%xmor:	ONM|哈 , Npro:1pl|我們 QN|兩 M|個 ADV|比較 Va|厲害 !
+*ADU:	哪 兩 個 ?
+%xmor:	WH|哪 QN|兩 M|個 ?
+*CHI:	這 個 兩 個 這 個 兩 個 比較 厲害 .
+%xmor:	DET|這 M|個 QN|兩 M|個 DET|這 M|個 QN|兩 M|個 ADV|比較 Va|厲害 .
+*ADU:	這 兩 個 啊 ?
+%xmor:	DET|這 QN|兩 M|個 SFP|啊 ?
+*CHI:	嗯 !
+%xmor:	INT|嗯 !
+*ADU:	還有 呢 ?
+%xmor:	CONJ|還有 SFP|呢 ?
+*CHI:	可是 他 就 跑 了 .
+%xmor:	CONJ|可是 Npro:3sg|他 ADV|就 Vi|跑 ASP|了 .
+*CHI:	趕快 跑 啊 !
+%xmor:	ADV|趕快 Vi|跑 SFP|啊 !
+*ADU:	他 是 用 跳 的 欸 !
+%xmor:	Npro:3sg|他 Vc|是 PREP|用 Vi|跳 DE|的 SFP|欸 !
+%xsyn:	REL-SHI .
+*CHI:	對 呀 , 他 就 +...
+%xmor:	Va|對 SFP|呀 , Npro:3sg|他 ADV|就 +...
+*ADU:	欸 , 對 !
+%xmor:	INT|欸 , Va|對 !
+*CHI:	哎喲 , 誰 打 我 啊 ?
+%xmor:	INT|哎喲 , WH|誰 Vt|打 Npro:1sg|我 SFP|啊 ?
+*CHI:	這 隻 馬 啊 ?
+%xmor:	DET|這 M|隻 Nn|馬 SFP|啊 ?
+*CHI:	哎呀 , 我 要 騎 去 台北市 啊 !
+%xmor:	INT|哎呀 , Npro:1sg|我 Vt|要 Vt|騎 Vt|去 Nppn|台北市 SFP|啊 !
+%xsyn:	GMOD-V-DIR .
+*ADU:	你 看 他 厲害 不 厲害 咧 ?
+%xmor:	Npro:2sg|你 Vt|看 Npro:3sg|他 Va|厲害 NEG|不 Va|厲害 SFP|咧 ?
+%xsyn:	COMP-OBJ .
+*CHI:	不 厲害 啊 !
+%xmor:	NEG|不 Va|厲害 SFP|啊 !
+*ADU:	可是 他 這邊 有 兩 個 耶 !
+%xmor:	CONJ|可是 Npro:3sg|他 Npro:dem|這邊 Vt|有 QN|兩 M|個 SFP|耶 !
+*ADU:	別人 的 只 有 一 個 欸 !
+%xmor:	Npro|別人 DE|的 ADV|只 Vt|有 QN|一 M|個 SFP|欸 !
+%xsyn:	NOM .
+*ADU:	是 不 是 ?
+%xmor:	Vc|是 NEG|不 Vc|是 ?
+*CHI:	不 厲害 哪 !
+%xmor:	NEG|不 Va|厲害 SFP|哪 !
+*ADU:	那 猴子 呢 ?
+%xmor:	INT|那 Nn|猴子 SFP|呢 ?
+*CHI:	猴子 的 嘴巴 比較 厲害 !
+%xmor:	Nn|猴子 DE|的 Nn|嘴巴 ADV|比較 Va|厲害 !
+%xsyn:	Other DE .
+*ADU:	為什麼 ?
+%xmor:	WH|為什麼 ?
+*CHI:	他 可以 動 嗎 ?
+%xmor:	Npro:3sg|他 MOD|可以 Vt|動 SFP|嗎 ?
+%xsyn:	MOD-VI .
+*ADU:	啊 , 不 能 , 不 能 , 不 能 啊 , 會 壞 掉 .
+%xmor:	INT|啊 , NEG|不 MOD|能 , NEG|不 MOD|能 , NEG|不 MOD|能 SFP|啊 , MOD|會 Va|壞 Vi|掉 .
+%xsyn:	MOD-VI .
+*CHI:	猴子 怎麼 +...
+%xmor:	Nn|猴子 WH|怎麼 +...
+*CHI:	喔 , 我們 把 他 拆開 .
+%xmor:	INT|喔 , Npro:1pl|我們 PREP|把 Npro:3sg|他 Vt|拆開 .
+%xsyn:	PP-SVC .
+*ADU:	好 .
+%xmor:	Va|好 .
+*ADU:	拆開 可以 再 裝 啊 !
+%xmor:	Vt|拆開 MOD|可以 ADV|再 Vt|裝 SFP|啊 !
+%xsyn:	PBL .
+*CHI:	這 個 猴子 怎麼 用 爬 的 呢 ?
+%xmor:	DET|這 M|個 Nn|猴子 WH|怎麼 PREP|用 Vi|爬 DE|的 SFP|呢 ?
+%xsyn:	NOM .
+*ADU:	猴子 不 爬 欸 !
+%xmor:	Nn|猴子 NEG|不 Vi|爬 SFP|欸 !
+*CHI:	你 看 .
+%xmor:	Npro:2sg|你 Vt|看 .
+*ADU:	嗯 !
+%xmor:	INT|嗯 !
+*CHI:	猴子 用 爬 的 欸 !
+%xmor:	Nn|猴子 PREP|用 Vi|爬 DE|的 SFP|欸 !
+%xsyn:	NOM .
+*ADU:	他 怎麼 爬 ?
+%xmor:	Npro:3sg|他 WH|怎麼 Vi|爬 ?
+*CHI:	是 這樣 爬 啊 !
+%xmor:	Vc|是 Va|這樣 Vi|爬 SFP|啊 !
+*ADU:	爬 到 哪裏 去 啊 ?
+%xmor:	Vt|爬 Vt|到 WH|哪裏 Vt|去 SFP|啊 ?
+%xsyn:	V-PP-DIR .
+*CHI:	爬 到 屁股 .
+%xmor:	Vt|爬 Vt|到 Nn|屁股 .
+%xsyn:	V-PP .
+*ADU:	哎喲 !
+%xmor:	INT|哎喲 !
+*ADU:	誰 最 會 爬樹 ?
+%xmor:	WH|誰 ADV|最 MOD|會 Vi|爬樹 ?
+%xsyn:	MOD-VO .
+*CHI:	這 個 是 +...
+%xmor:	DET|這 M|個 Vc|是 +...
+*CHI:	這 個 統統 是 太空玩具 哦 !
+%xmor:	DET|這 M|個 ADV|統統 Vc|是 Nn|太空玩具 SFP|哦 !
+*ADU:	真的 啊 !
+%xmor:	MOD|真的 SFP|啊 !
+%xsyn:	Other DE .
+*ADU:	要 到 +...
+%xmor:	Vt|要 Vt|到 +...
+%xsyn:	GMOD-V .
+*ADU:	為什麼 叫 太空玩具 呢 ?
+%xmor:	WH|為什麼 Vt|叫 Nn|太空玩具 SFP|呢 ?
+*CHI:	對 呀 , 太空獅子 .
+%xmor:	Va|對 SFP|呀 , Nn|太空獅子 .
+*CHI:	你 玩 太空河馬 .
+%xmor:	Npro:2sg|你 Vt|玩 Nn|太空河馬 .
+*ADU:	好 .
+%xmor:	Va|好 .
+*CHI:	太空獅子 來 呀 !
+%xmor:	Nn|太空獅子 Vt|來 SFP|呀 !
+*ADU:	怎麼 玩 ?
+%xmor:	WH|怎麼 Vt|玩 ?
+*CHI:	太空獅子 啪 !
+%xmor:	Nn|太空獅子 ONM|啪 !
+*CHI:	我 看 這 個 .
+%xmor:	Npro:1sg|我 Vt|看 DET|這 M|個 .
+*CHI:	這 個 有 沒有 動物 ?
+%xmor:	DET|這 M|個 Vt|有 NEG|沒有 Nn|動物 ?
+*ADU:	有 , 好 多 動物 喔 !
+%xmor:	Vt|有 , ADV|好 ADJ|多 Nn|動物 SFP|喔 !
+*ADU:	這 裏面 有 什麼 ?
+%xmor:	DET|這 Nloc|裏面 Vt|有 WH|什麼 ?
+*ADU:	想想 看 !
+%xmor:	Vr|想想 Vt|看 !
+*ADU:	先 不 要 打開 !
+%xmor:	ADV|先 NEG|不 Vt|要 Vt|打開 !
+%xsyn:	NEG-GMOD-SVC .
+*ADU:	等一下 .
+%xmor:	ADV|等一下 .
+*CHI:	欸 +...
+%xmor:	INT|欸 +...
+*ADU:	有 什麼 啊 ?
+%xmor:	Vt|有 WH|什麼 SFP|啊 ?
+*ADU:	這邊 有 沒有 老虎 啊 ?
+%xmor:	Npro:dem|這邊 Vt|有 NEG|沒有 Nn|老虎 SFP|啊 ?
+*ADU:	有 沒有 ?
+%xmor:	Vt|有 NEG|沒有 ?
+*ADU:	沒有 老虎 .
+%xmor:	NEG|沒有 Nn|老虎 .
+*ADU:	好 , 再 看看 這 裏面 有 什麼 東西 我們 這邊 看到 不 的 .
+%xmor:	Va|好 , ADV|再 Vr|看看 DET|這 Nloc|裏面 Vt|有 WH|什麼 Nn|東西 Npro:1pl|我們 Npro:dem|這邊 Vt|看到 NEG|不 DE|的 .
+%xsyn:	MCC .
+*CHI:	哇 , 好 多 動物 啊 !
+%xmor:	INT|哇 , ADV|好 ADJ|多 Nn|動物 SFP|啊 !
+*ADU:	有 什麼 ?
+%xmor:	Vt|有 WH|什麼 ?
+*CHI:	有 動物 啊 ?
+%xmor:	Vt|有 Nn|動物 SFP|啊 ?
+*CHI:	這 個 馬 跟 這 個 馬 怎麼 壞壞 的 啊 ?
+%xmor:	DET|這 M|個 Nn|馬 CONJ|跟 DET|這 M|個 Nn|馬 WH|怎麼 Va|壞壞 DE|的 SFP|啊 ?
+%xsyn:	Other DE .
+*ADU:	哪裏 ?
+%xmor:	WH|哪裏 ?
+*CHI:	這 個 馬 跟 這 個 馬 啊 !
+%xmor:	DET|這 M|個 Nn|馬 CONJ|跟 DET|這 M|個 Nn|馬 SFP|啊 !
+*ADU:	沒有 壞壞 的 啊 !
+%xmor:	NEG|沒有 Va|壞壞 DE|的 SFP|啊 !
+%xsyn:	Other DE .
+*CHI:	有 啊 !
+%xmor:	Vt|有 SFP|啊 !
+*ADU:	哪裏 壞 ?
+%xmor:	WH|哪裏 Va|壞 ?
+*CHI:	你 看 他 這 個 樣子 .
+%xmor:	Npro:2sg|你 Vt|看 Npro:3sg|他 DET|這 M|個 Nn|樣子 .
+%xsyn:	COMP-OBJ .
+*ADU:	不 一樣 是 不 是 ?
+%xmor:	NEG|不 Va|一樣 Vc|是 NEG|不 Vc|是 ?
+*CHI:	嗯 !
+%xmor:	INT|嗯 !
+*ADU:	那 跟 這 個 馬 一樣 不 一樣 ?
+%xmor:	INT|那 CONJ|跟 DET|這 M|個 Nn|馬 Va|一樣 NEG|不 Va|一樣 ?
+*CHI:	這 個 馬 跟 這 個 馬 一樣 不 一樣 ?
+%xmor:	DET|這 M|個 Nn|馬 CONJ|跟 DET|這 M|個 Nn|馬 Va|一樣 NEG|不 Va|一樣 ?
+*ADU:	這 個 是 猴子 啦 !
+%xmor:	DET|這 M|個 Vc|是 Nn|猴子 SFP|啦 !
+*CHI:	馬 啦 !
+%xmor:	Nn|馬 SFP|啦 !
+*ADU:	好 啦 !
+%xmor:	Va|好 SFP|啦 !
+*ADU:	一樣 不 一樣 ?
+%xmor:	Va|一樣 NEG|不 Va|一樣 ?
+*CHI:	一樣 不 一樣 ?
+%xmor:	Va|一樣 NEG|不 Va|一樣 ?
+*ADU:	不 一樣 .
+%xmor:	NEG|不 Va|一樣 .
+*CHI:	一樣 .
+%xmor:	Va|一樣 .
+*ADU:	一樣 啊 ?
+%xmor:	Va|一樣 SFP|啊 ?
+*CHI:	嗯 !
+%xmor:	INT|嗯 !
+*ADU:	喔 , 你 說 顏色 是 不 是 ?
+%xmor:	INT|喔 , Npro:2sg|你 Vt|說 Nn|顏色 Vc|是 NEG|不 Vc|是 ?
+%xsyn:	COMP-SUBJ .
+*CHI:	對 .
+%xmor:	Va|對 .
+*ADU:	an 對 對 對 , 你 好 聰明 .
+%xmor:	CS|an Va|對 Va|對 Va|對 , Npro:2sg|你 ADV|好 Va|聰明 .
+*CHI:	這 個 也 是 馬 欸 !
+%xmor:	DET|這 M|個 ADV|也 Vc|是 Nn|馬 SFP|欸 !
+*ADU:	然後 我們 再 來 看看 還 有 什麼 動物 啊 ?
+%xmor:	CONJ|然後 Npro:1pl|我們 ADV|再 Vt|來 Vr|看看 ADV|還 Vt|有 WH|什麼 Nn|動物 SFP|啊 ?
+%xsyn:	COMP-OBJ .
+*CHI:	我 看看 .
+%xmor:	Npro:1sg|我 Vr|看看 .
+*CHI:	這 個 , 這 個 .
+%xmor:	DET|這 M|個 , DET|這 M|個 .
+*ADU:	嗯 , 這 個 裡頭 沒有 .
+%xmor:	INT|嗯 , DET|這 M|個 Nloc|裡頭 NEG|沒有 .
+*CHI:	那 他 為什麼 有 這 個 呢 ?
+%xmor:	INT|那 Npro:3sg|他 WH|為什麼 Vt|有 DET|這 M|個 SFP|呢 ?
+*ADU:	他 壞 掉 了 .
+%xmor:	Npro:3sg|他 Va|壞 Vi|掉 ASP|了 .
+*CHI:	我 幫 他 裝 上去 啦 !
+%xmor:	Npro:1sg|我 Vt|幫 Npro:3sg|他 Vt|裝 Vi|上去 SFP|啦 !
+%xsyn:	PP-SVC .
+*ADU:	嗯 , 好 .
+%xmor:	INT|嗯 , Va|好 .
+*CHI:	為什麼 那 個 裡頭 沒有 ?
+%xmor:	WH|為什麼 DET|那 M|個 Nloc|裡頭 NEG|沒有 ?
+*CHI:	欸 , 這 個 怎麼樣 啊 , 這 個 .
+%xmor:	INT|欸 , DET|這 M|個 WH|怎麼樣 SFP|啊 , DET|這 M|個 .
+*ADU:	這 一 個 小朋友 在 做 什麼 ?
+%xmor:	DET|這 QN|一 M|個 Nn|小朋友 ASP|在 Vt|做 WH|什麼 ?
+*CHI:	不 知道 .
+%xmor:	NEG|不 Vt|知道 .
+*ADU:	在 鑽洞 欸 !
+%xmor:	ASP|在 Vi|鑽洞 SFP|欸 !
+*CHI:	嗯 , 他 躲 到 那邊 去 欸 !
+%xmor:	INT|嗯 , Npro:3sg|他 Vt|躲 Vt|到 Npro:dem|那邊 Vt|去 SFP|欸 !
+%xsyn:	V-PP-DIR .
+*ADU:	嗯 !
+%xmor:	INT|嗯 !
+*CHI:	不 要 讓 他 鑽洞 欸 .
+%xmor:	NEG|不 Vt|要 Vt|讓 Npro:3sg|他 Vi|鑽洞 SFP|欸 .
+%xsyn:	NEG-GMOD-PVC .
+*ADU:	那 這 兩 個 小朋友 呢 ?
+%xmor:	INT|那 DET|這 QN|兩 M|個 Nn|小朋友 SFP|呢 ?
+*CHI:	為什麼 他 只 有 這 個 呢 ?
+%xmor:	WH|為什麼 Npro:3sg|他 ADV|只 Vt|有 DET|這 M|個 SFP|呢 ?
+*ADU:	an ?
+%xmor:	CS|an ?
+*CHI:	他 只 有 這 個 啊 !
+%xmor:	Npro:3sg|他 ADV|只 Vt|有 DET|這 M|個 SFP|啊 !
+*ADU:	只 有 什麼 ?
+%xmor:	ADV|只 Vt|有 WH|什麼 ?
+*CHI:	只 有 這 個 啊 ?
+%xmor:	ADV|只 Vt|有 DET|這 M|個 SFP|啊 ?
+*ADU:	我 聽懂 不 .
+%xmor:	Npro:1sg|我 Vt|聽懂 NEG|不 .
+*CHI:	裏面 沒有 了 .
+%xmor:	Nloc|裏面 NEG|沒有 ASP|了 .
+*ADU:	喔 , 裏面 因為 躲 了 一二三四五 五 隻 什麼 ?
+%xmor:	INT|喔 , Nloc|裏面 CONJ|因為 Vt|躲 ASP|了 IDM|一二三四五 QN|五 M|隻 WH|什麼 ?
+*CHI:	五 隻 青蛙 .
+%xmor:	QN|五 M|隻 Nn|青蛙 .
+*ADU:	對 呀 !
+%xmor:	Va|對 SFP|呀 !
+*MOT:	喲 , 這 是 個 什麼 啊 ?
+%xmor:	INT|喲 , Npro:dem|這 Vc|是 M|個 WH|什麼 SFP|啊 ?
+*CHI:	什麼 啊 ?
+%xmor:	WH|什麼 SFP|啊 ?
+*CHI:	沒關係 , 我 不 怕 .
+%xmor:	IDM|沒關係 , Npro:1sg|我 NEG|不 Vt|怕 .
+*ADU:	大熊 欸 !
+%xmor:	Nn|大熊 SFP|欸 !
+*CHI:	你 看 這邊 喔 !
+%xmor:	Npro:2sg|你 Vt|看 Npro:dem|這邊 SFP|喔 !
+*ADU:	哇 !
+%xmor:	INT|哇 !
+*ADU:	你 看 這 個 跟 這 個 一樣 不 一樣 啊 ?
+%xmor:	Npro:2sg|你 Vt|看 DET|這 M|個 CONJ|跟 DET|這 M|個 Va|一樣 NEG|不 Va|一樣 SFP|啊 ?
+%xsyn:	COMP-OBJ .
+*CHI:	你 看 喔 !
+%xmor:	Npro:2sg|你 Vt|看 SFP|喔 !
+*ADU:	這 個 跟 這 個 一樣 不 一樣 啊 ?
+%xmor:	DET|這 M|個 CONJ|跟 DET|這 M|個 Va|一樣 NEG|不 Va|一樣 SFP|啊 ?
+*CHI:	一樣 啊 !
+%xmor:	Va|一樣 SFP|啊 !
+*CHI:	你 看 !
+%xmor:	Npro:2sg|你 Vt|看 !
+*CHI:	這 個 什麼 啊 ?
+%xmor:	DET|這 M|個 WH|什麼 SFP|啊 ?
+*ADU:	什麼 ?
+%xmor:	WH|什麼 ?
+*CHI:	這 個 老虎 怎麼樣 ?
+%xmor:	DET|這 M|個 Nn|老虎 WH|怎麼樣 ?
+*ADU:	大 不 大 ?
+%xmor:	Va|大 NEG|不 Va|大 ?
+*CHI:	大 啊 !
+%xmor:	Va|大 SFP|啊 !
+*ADU:	嗯 !
+%xmor:	INT|嗯 !
+*CHI:	他 怎麼 壞心 啊 ?
+%xmor:	Npro:3sg|他 WH|怎麼 Va|壞心 SFP|啊 ?
+*ADU:	han ?
+%xmor:	CS|han ?
+*CHI:	他 怎麼 壞心 啊 ?
+%xmor:	Npro:3sg|他 WH|怎麼 Va|壞心 SFP|啊 ?
+*ADU:	他 怎麼樣 啊 ?
+%xmor:	Npro:3sg|他 WH|怎麼樣 SFP|啊 ?
+*CHI:	他 是 壞 老虎 .
+%xmor:	Npro:3sg|他 Vc|是 Va|壞 Nn|老虎 .
+*ADU:	你 怎麼 知道 的 ?
+%xmor:	Npro:2sg|你 WH|怎麼 Vt|知道 DE|的 ?
+%xsyn:	NOM .
+*CHI:	對 啊 , 我 猜 的 .
+%xmor:	Va|對 SFP|啊 , Npro:1sg|我 Vt|猜 DE|的 .
+%xsyn:	NOM .
+*ADU:	因為 他 怎麼樣 ?
+%xmor:	CONJ|因為 Npro:3sg|他 WH|怎麼樣 ?
+*CHI:	很 壞 啊 ?
+%xmor:	ADV|很 Va|壞 SFP|啊 ?
+*ADU:	他 把 房子 都 怎麼樣 ?
+%xmor:	Npro:3sg|他 PREP|把 Nn|房子 ADV|都 WH|怎麼樣 ?
+*CHI:	xxx 倒 了 .
+%xmor:	CHM|xxx Vi|倒 ASP|了 .
+*ADU:	對 , 你 看 他 把 他們 大象 的 家 統統 弄倒 了 .
+%xmor:	Va|對 , Npro:2sg|你 Vt|看 Npro:3sg|他 PREP|把 Npro:3pl|他們 Nn|大象 DE|的 Nn|家 ADV|統統 Vt|弄倒 ASP|了 .
+%xsyn:	COMP-OBJ PP-SVC Other DE .
+*CHI:	那 大象 都 怎麼樣 ?
+%xmor:	INT|那 Nn|大象 ADV|都 WH|怎麼樣 ?
+*ADU:	坐 什麼 東西 ?
+%xmor:	Vi|坐 WH|什麼 Nn|東西 ?
+*CHI:	坐 那 個 , xxx 球 啊 !
+%xmor:	Vi|坐 DET|那 M|個 , CHM|xxx Nn|球 SFP|啊 !
+*ADU:	氣球 啊 !
+%xmor:	Nn|氣球 SFP|啊 !
+*CHI:	對 啊 !
+%xmor:	Va|對 SFP|啊 !
+*ADU:	到 天上 去 啊 !
+%xmor:	Vt|到 Nn|天上 Vt|去 SFP|啊 !
+%xsyn:	PP-VI .
+*CHI:	哦 !
+%xmor:	INT|哦 !
+*CHI:	為什麼 我 不 行 坐 氣球 呢 ?
+%xmor:	WH|為什麼 Npro:1sg|我 NEG|不 Va|行 Vi|坐 Nn|氣球 SFP|呢 ?
+%xsyn:	NEG-MOD-VO .
+*ADU:	因為 你 不 是 大象 啊 !
+%xmor:	CONJ|因為 Npro:2sg|你 NEG|不 Vc|是 Nn|大象 SFP|啊 !
+*CHI:	欸 , 你 看 !
+%xmor:	INT|欸 , Npro:2sg|你 Vt|看 !
+*ADU:	an ?
+%xmor:	CS|an ?
+*CHI:	這 個 可以 拿 起來 啊 , 你 看 !
+%xmor:	DET|這 M|個 MOD|可以 Vt|拿 Vi|起來 SFP|啊 , Npro:2sg|你 Vt|看 !
+%xsyn:	MOD-SVC .
+*ADU:	嗯 , 對 .
+%xmor:	INT|嗯 , Va|對 .
+*ADU:	這 個 人 在 怎麼樣 ?
+%xmor:	DET|這 M|個 Nn|人 ASP|在 WH|怎麼樣 ?
+*CHI:	這 個 人 啊 ?
+%xmor:	DET|這 M|個 Nn|人 SFP|啊 ?
+*ADU:	嗯 !
+%xmor:	INT|嗯 !
+*CHI:	在 拉 他 的 耳朵 , 拉 他 的 這 個 啊 !
+%xmor:	ASP|在 Vt|拉 Npro:3sg|他 DE|的 Nn|耳朵 , Vt|拉 Npro:3sg|他 DE|的 DET|這 M|個 SFP|啊 !
+%xsyn:	Other DE Other DE .
+*ADU:	這 是 一 個 什麼 ?
+%xmor:	Npro:dem|這 Vc|是 QN|一 M|個 WH|什麼 ?
+*CHI:	這 個 是 個 大猩猩 .
+%xmor:	DET|這 M|個 Vc|是 M|個 Nn|大猩猩 .
+*ADU:	跟 這 個 一樣 不 一樣 呢 ?
+%xmor:	CONJ|跟 DET|這 M|個 Va|一樣 NEG|不 Va|一樣 SFP|呢 ?
+*CHI:	不 一樣 啦 !
+%xmor:	NEG|不 Va|一樣 SFP|啦 !
+*CHI:	他 嘴巴 和 衣服 欸 !
+%xmor:	Npro:3sg|他 Nn|嘴巴 CONJ|和 Nn|衣服 SFP|欸 !
+*ADU:	哦 , 那 我們 沒有 跟 他 一樣 的 ?
+%xmor:	INT|哦 , INT|那 Npro:1pl|我們 NEG|沒有 CONJ|跟 Npro:3sg|他 Va|一樣 DE|的 ?
+%xsyn:	NOM .
+*CHI:	沒有 .
+%xmor:	NEG|沒有 .
+*CHI:	那 這 個 可以 不 可以 拉 起來 呢 ?
+%xmor:	INT|那 DET|這 M|個 MOD|可以 NEG|不 MOD|可以 Vt|拉 Vi|起來 SFP|呢 ?
+%xsyn:	MOD-SVC .
+*ADU:	哪 個 ?
+%xmor:	WH|哪 M|個 ?
+*CHI:	這 個 .
+%xmor:	DET|這 M|個 .
+*ADU:	可以 啊 !
+%xmor:	MOD|可以 SFP|啊 !
+*CHI:	欸 , 怎麼樣 啊 ?
+%xmor:	INT|欸 , WH|怎麼樣 SFP|啊 ?
+*ADU:	小朋友 在 幹嘛 ?
+%xmor:	Nn|小朋友 ASP|在 WH|幹嘛 ?
+*CHI:	那 這 個 可以 不 可以 拉 起來 ?
+%xmor:	INT|那 DET|這 M|個 MOD|可以 NEG|不 MOD|可以 Vt|拉 Vi|起來 ?
+%xsyn:	MOD-SVC .
+*ADU:	不 行 .
+%xmor:	NEG|不 Va|行 .
+*CHI:	為什麼 ?
+%xmor:	WH|為什麼 ?
+*ADU:	他 是 讓 你 這樣子 看 的 啊 !
+%xmor:	Npro:3sg|他 Vc|是 Vt|讓 Npro:2sg|你 Va|這樣子 Vt|看 DE|的 SFP|啊 !
+%xsyn:	REL-SHI .
+*CHI:	為什麼 an an ?
+%xmor:	WH|為什麼 CS|an CS|an ?
+*CHI:	你 看 .
+%xmor:	Npro:2sg|你 Vt|看 .
+*ADU:	哎喲 !
+%xmor:	INT|哎喲 !
+*ADU:	噢 , 老虎 怎麼 叫 ?
+%xmor:	INT|噢 , Nn|老虎 WH|怎麼 Vt|叫 ?
+*CHI:	0 .
+*ADU:	欸 他 為什麼 要 叫 呢 ?
+%xmor:	INT|欸 Npro:3sg|他 WH|為什麼 Vt|要 Vt|叫 SFP|呢 ?
+%xsyn:	GMOD-VI .
+*CHI:	對 啊 , 他 看 到 壞人 就 +...
+%xmor:	Va|對 SFP|啊 , Npro:3sg|他 Vt|看 Vt|到 Nn|壞人 ADV|就 +...
+*ADU:	那 壞人 怕 不 怕 老虎 ?
+%xmor:	INT|那 Nn|壞人 Vt|怕 NEG|不 Vt|怕 Nn|老虎 ?
+*CHI:	怕 .
+%xmor:	Vt|怕 .
+*ADU:	嗯 , 你 看 這 是 什麼 ?
+%xmor:	INT|嗯 , Npro:2sg|你 Vt|看 Npro:dem|這 Vc|是 WH|什麼 ?
+%xsyn:	COMP-OBJ .
+*CHI:	壞心 的 老虎 .
+%xmor:	Va|壞心 DE|的 Nn|老虎 .
+%xsyn:	Other DE .
+*ADU:	欸 .
+%xmor:	INT|欸 .
+*CHI:	欸 , 那 個 是 什麼 啊 ?
+%xmor:	INT|欸 , DET|那 M|個 Vc|是 WH|什麼 SFP|啊 ?
+*ADU:	什麼 啊 ?
+%xmor:	WH|什麼 SFP|啊 ?
+*ADU:	我 也 看懂 不 .
+%xmor:	Npro:1sg|我 ADV|也 Vt|看懂 NEG|不 .
+*CHI:	蛇 欸 !
+%xmor:	Nn|蛇 SFP|欸 !
+*ADU:	那 個 蛇 啊 ?
+%xmor:	DET|那 M|個 Nn|蛇 SFP|啊 ?
+*ADU:	你 怕 不 怕 蛇 ?
+%xmor:	Npro:2sg|你 Vt|怕 NEG|不 Vt|怕 Nn|蛇 ?
+*ADU:	你 不 怕 呀 !
+%xmor:	Npro:2sg|你 NEG|不 Vt|怕 SFP|呀 !
+*CHI:	啊 , 我 不 要 , 不 要 啦 !
+%xmor:	INT|啊 , Npro:1sg|我 NEG|不 Vt|要 , NEG|不 Vt|要 SFP|啦 !
+*ADU:	你 怕 啊 !
+%xmor:	Npro:2sg|你 Vt|怕 SFP|啊 !
+*ADU:	好 , 不 要 .
+%xmor:	Va|好 , NEG|不 Vt|要 .
+*CHI:	我 要 看 .
+%xmor:	Npro:1sg|我 Vt|要 Vt|看 .
+%xsyn:	GMOD-VI .
+*ADU:	那 你 又 說 不 要 .
+%xmor:	INT|那 Npro:2sg|你 ADV|又 Vt|說 NEG|不 Vt|要 .
+%xsyn:	COMP-OBJ .
+*CHI:	你 看 哪 !
+%xmor:	Npro:2sg|你 Vt|看 SFP|哪 !
+*ADU:	嗯 !
+%xmor:	INT|嗯 !
+*ADU:	蛇 躲 在 哪裏 ?
+%xmor:	Nn|蛇 Vt|躲 Vt|在 WH|哪裏 ?
+*CHI:	蛇 躲 在 這裏 .
+%xmor:	Nn|蛇 Vt|躲 Vt|在 Npro:dem|這裏 .
+*ADU:	這 是 什麼 ?
+%xmor:	Npro:dem|這 Vc|是 WH|什麼 ?
+*CHI:	不 要 讓 人 看到 .
+%xmor:	NEG|不 Vt|要 Vt|讓 Nn|人 Vt|看到 .
+%xsyn:	NEG-GMOD-PVC .
+*ADU:	對 , 這 是 什麼 東西 啊 ?
+%xmor:	Va|對 , Npro:dem|這 Vc|是 WH|什麼 Nn|東西 SFP|啊 ?
+*ADU:	一 根 一 根 是 什麼 ?
+%xmor:	QN|一 M|根 QN|一 M|根 Vc|是 WH|什麼 ?
+*CHI:	這 個 ?
+%xmor:	DET|這 M|個 ?
+*CHI:	香蕉 啊 !
+%xmor:	Nn|香蕉 SFP|啊 !
+*ADU:	對 啊 !
+%xmor:	Va|對 SFP|啊 !
+*CHI:	我們 拿來 吃 !
+%xmor:	Npro:1pl|我們 Vt|拿來 Vt|吃 !
+%xsyn:	SVC .
+*CHI:	haam !
+%xmor:	CS|haam !
+*ADU:	haam !
+%xmor:	CS|haam !
+*CHI:	我 來 看看 !
+%xmor:	Npro:1sg|我 Vt|來 Vr|看看 !
+%xsyn:	GMOD-VI .
+*CHI:	哎喲 !
+%xmor:	INT|哎喲 !
+*ADU:	這 個 可怕 還是 魔鬼 可怕 ?
+%xmor:	DET|這 M|個 Va|可怕 CONJ|還是 Nn|魔鬼 Va|可怕 ?
+*CHI:	魔鬼 跟 這 個 可怕 .
+%xmor:	Nn|魔鬼 CONJ|跟 DET|這 M|個 Va|可怕 .
+*CHI:	我們 趕快 逃 嘛 !
+%xmor:	Npro:1pl|我們 ADV|趕快 Vi|逃 SFP|嘛 !
+*ADU:	好 , 逃 , 逃 到 動物園 來 .
+%xmor:	Va|好 , Vi|逃 , Vi|逃 Vt|到 Nn|動物園 Vt|來 .
+%xsyn:	V-PP-DIR .
+*CHI:	好 .
+%xmor:	Va|好 .
+*CHI:	哎喲 , 動物園 有 蛇 啊 !
+%xmor:	INT|哎喲 , Nn|動物園 Vt|有 Nn|蛇 SFP|啊 !
+*ADU:	真的 啊 ?
+%xmor:	MOD|真的 SFP|啊 ?
+*CHI:	an !
+%xmor:	CS|an !
+*ADU:	那 我們 把 他 關 起來 .
+%xmor:	INT|那 Npro:1pl|我們 PREP|把 Npro:3sg|他 Vt|關 Vi|起來 .
+%xsyn:	PP-SVC .
+*ADU:	不 要 拿 出來 .
+%xmor:	NEG|不 Vt|要 Vt|拿 Vi|出來 .
+%xsyn:	NEG-GMOD-SVC .
+*CHI:	我們 拿 出來 的 嘛 !
+%xmor:	Npro:1pl|我們 Vt|拿 Vi|出來 DE|的 SFP|嘛 !
+%xsyn:	NOM
+*ADU:	an ?
+%xmor:	CS|an ?
+*CHI:	我 喜歡 看 蛇 欸 !
+%xmor:	Npro:1sg|我 Vt|喜歡 Vt|看 Nn|蛇 SFP|欸 !
+%xsyn:	COMP-OBJ .
+*ADU:	好 , 那 你 把 他 拿 出來 啊 !
+%xmor:	Va|好 , INT|那 Npro:2sg|你 PREP|把 Npro:3sg|他 Vt|拿 Vi|出來 SFP|啊 !
+%xsyn:	PP-SVC .
+*CHI:	0 .
+*ADU:	你 怎麼 會 喜歡 看 蛇 呢 ?
+%xmor:	Npro:2sg|你 WH|怎麼 MOD|會 Vt|喜歡 Vt|看 Nn|蛇 SFP|呢 ?
+%xsyn:	COMP-OBJ .
+*CHI:	你 看 , 都 是 蛇 .
+%xmor:	Npro:2sg|你 Vt|看 , ADV|都 Vc|是 Nn|蛇 .
+*ADU:	an , 好 多 喔 !
+%xmor:	CS|an , ADV|好 Va|多 SFP|喔 !
+*CHI:	來 咬 你 啊 !
+%xmor:	Vt|來 Vt|咬 Npro:2sg|你 SFP|啊 !
+%xsyn:	GMOD-VO .
+*ADU:	0 .
+*CHI:	來 咬 你 這 種 你 的 手 來 嘛 !
+%xmor:	Vt|來 Vt|咬 Npro:2sg|你 DET|這 M|種 Npro:2sg|你 DE|的 Nn|手 Vt|來 SFP|嘛 !
+%xsyn:	GMOD-VO Other DE .
+*ADU:	好 , 我 的 手 來 .
+%xmor:	Va|好 , Npro:1sg|我 DE|的 Nn|手 Vt|來 .
+%xsyn:	Other DE .
+*CHI:	來 , 咬 啊 !
+%xmor:	Vt|來 , Vt|咬 SFP|啊 !
+*ADU:	咬 啊 !
+%xmor:	Vt|咬 SFP|啊 !
+*ADU:	咬到 沒有 ?
+%xmor:	Vt|咬到 NEG|沒有 ?
+*CHI:	咬到 了 !
+%xmor:	Vt|咬到 ASP|了 !
+*ADU:	那 我 的 手 會 怎麼樣 ?
+%xmor:	INT|那 Npro:1sg|我 DE|的 Nn|手 MOD|會 WH|怎麼樣 ?
+%xsyn:	Other DE .
+*CHI:	這邊 怎麼 還是 很 多 蛇 啊 ?
+%xmor:	Npro:dem|這邊 WH|怎麼 ADV|還是 ADV|很 ADJ|多 Nn|蛇 SFP|啊 ?
+*ADU:	對 , 你 看 有 幾 個 幾 個 蛇 在 這裏 .
+%xmor:	Va|對 , Npro:2sg|你 Vt|看 Vt|有 QN|幾 M|個 QN|幾 M|個 Nn|蛇 Vt|在 Npro:dem|這裏 .
+%xsyn:	COMP-OBJ .
+*CHI:	一二三一二三四 .
+%xmor:	IDM|一二三一二三四 .
+*ADU:	這 個 呢 ?
+%xmor:	DET|這 M|個 SFP|呢 ?
+*CHI:	這 個 我們 關 起來 , 不 要 看 .
+%xmor:	DET|這 M|個 Npro:1pl|我們 Vt|關 Vi|起來 , NEG|不 Vt|要 Vt|看 .
+%xsyn:	SVC NEG-GMOD-VI .
+*ADU:	不 要 看 .
+%xmor:	NEG|不 Vt|要 Vt|看 .
+%xsyn:	NEG-GMOD-VI .
+*ADU:	這 個 是 什麼 啊 ?
+%xmor:	DET|這 M|個 Vc|是 WH|什麼 SFP|啊 ?
+*CHI:	這 個 是 +...
+%xmor:	DET|這 M|個 Vc|是 +...
+*ADU:	這 個 有 眼睛 哦 !
+%xmor:	DET|這 M|個 Vt|有 Nn|眼睛 SFP|哦 !
+*CHI:	金龜 .
+%xmor:	Nn|金龜 .
+*ADU:	烏龜 .
+%xmor:	Nn|烏龜 .
+*CHI:	烏龜 .
+%xmor:	Nn|烏龜 .
+*ADU:	嗯 !
+%xmor:	INT|嗯 !
+*CHI:	那 這 個 ?
+%xmor:	INT|那 DET|這 M|個 ?
+*ADU:	看到 不 看到 得 ?
+%xmor:	Vt|看到 NEG|不 Vt|看到 DE|得 ?
+*CHI:	怪獸 大 +...
+%xmor:	Nn|怪獸 Va|大 +...
+*CHI:	太空梭 , 太空梭 .
+%xmor:	Nn|太空梭 , Nn|太空梭 .
+*ADU:	喔 , 這 是 太空梭 啊 ?
+%xmor:	INT|喔 , Npro:dem|這 Vc|是 Nn|太空梭 SFP|啊 ?
+*CHI:	嗯 , 太空梭 .
+%xmor:	INT|嗯 , Nn|太空梭 .
+*ADU:	小毅 , 阿姨 送給 你 的 跑車 還 在 不 在 ?
+%xmor:	Nppn|小毅 , Nn|阿姨 Vt|送給 Npro:2sg|你 DE|的 Nn|跑車 ADV|還 Vt|在 NEG|不 Vt|在 ?
+%xsyn:	REL-SO .
+*CHI:	在 啊 !
+%xmor:	Vt|在 SFP|啊 !
+*ADU:	真的 啊 ?
+%xmor:	MOD|真的 SFP|啊 ?
+%xsyn:	Other DE .
+*CHI:	嗯 !
+%xmor:	INT|嗯 !
+*ADU:	好玩 不 好玩 ?
+%xmor:	Va|好玩 NEG|不 Va|好玩 ?
+*CHI:	xxx 我 的 賽車 呢 ?
+%xmor:	CHM|xxx Npro:1sg|我 DE|的 Nn|賽車 SFP|呢 ?
+%xsyn:	Other DE .
+*CHI:	到 哪裏 了 啊 ?
+%xmor:	Vt|到 WH|哪裏 ASP|了 SFP|啊 ?
+*ADU:	找到 不 找到 得 啊 ?
+%xmor:	Vt|找到 NEG|不 Vt|找到 DE|得 SFP|啊 ?
+*CHI:	找到 不 .
+%xmor:	Vt|找到 NEG|不 .
+*ADU:	找到 不 那 怎麼 辦 ?
+%xmor:	Vt|找到 NEG|不 INT|那 WH|怎麼 Vt|辦 ?
+%xsyn:	COMP-SUBJ .
+*CHI:	我們 找找 看 這邊 .
+%xmor:	Npro:1pl|我們 Vr|找找 Vt|看 Npro:dem|這邊 .
+*ADU:	這邊 有 沒有 ?
+%xmor:	Npro:dem|這邊 Vt|有 NEG|沒有 ?
+*ADU:	不 是 這 個 喔 !
+%xmor:	NEG|不 Vc|是 DET|這 M|個 SFP|喔 !
+*ADU:	有 沒有 啊 ?
+%xmor:	Vt|有 NEG|沒有 SFP|啊 ?
+*CHI:	我們 找 看看 這 個 .
+%xmor:	Npro:1pl|我們 Vt|找 Vr|看看 DET|這 M|個 .
+*CHI:	在 啊 !
+%xmor:	Vt|在 SFP|啊 !
+*ADU:	什麼 ?
+%xmor:	WH|什麼 ?
+*CHI:	都 在 這裏 , 阿姨 你 送 的 呢 !
+%xmor:	ADV|都 Vt|在 Npro:dem|這裏 , Nn|阿姨 Npro:2sg|你 Vt|送 DE|的 SFP|呢 !
+%xsyn:	NOM .
+*ADU:	這 個 呢 ?
+%xmor:	DET|這 M|個 SFP|呢 ?
+*CHI:	這 個 , 欸 !
+%xmor:	DET|這 M|個 , INT|欸 !
+*ADU:	好玩 不 好玩 ?
+%xmor:	Va|好玩 NEG|不 Va|好玩 ?
+*CHI:	好玩 !
+%xmor:	Va|好玩 !
+*CHI:	怎麼 他 變 這樣子 啊 ?
+%xmor:	WH|怎麼 Npro:3sg|他 Vt|變 Va|這樣子 SFP|啊 ?
+*ADU:	他 變 什麼 樣子 ?
+%xmor:	Npro:3sg|他 Vt|變 WH|什麼 Nn|樣子 ?
+*CHI:	他 怎麼 變 +...
+%xmor:	Npro:3sg|他 WH|怎麼 Vt|變 +...
+*CHI:	這 個 +...
+%xmor:	DET|這 M|個 +...
+*CHI:	他 以前 還 不 是 的 嗎 ?
+%xmor:	Npro:3sg|他 ADV|以前 ADV|還 NEG|不 Vc|是 DE|的 SFP|嗎 ?
+*ADU:	怎麼樣 ?
+%xmor:	WH|怎麼樣 ?
+*CHI:	還 不 是 紅黃色 的 嗎 ?
+%xmor:	ADV|還 NEG|不 Vc|是 Nn|紅黃色 DE|的 SFP|嗎 ?
+%xsyn:	Other DE .
+*ADU:	是 啊 , 阿姨 拿來 的 時候 就 是 紅黃色 的 啊 !
+%xmor:	Vc|是 SFP|啊 , Nn|阿姨 Vt|拿來 DE|的 Nn|時候 ADV|就 Vc|是 Nn|紅黃色 DE|的 SFP|啊 !
+%xsyn:	Other DE Other DE .
+*CHI:	對 啊 , 但是 他 怎麼 變 這樣 ?
+%xmor:	Va|對 SFP|啊 , CONJ|但是 Npro:3sg|他 WH|怎麼 Vt|變 Va|這樣 ?
+*ADU:	現在 開開 看 .
+%xmor:	ADV|現在 Vr|開開 Vt|看 .
+*ADU:	還 可以 不 可以 開 ?
+%xmor:	ADV|還 MOD|可以 NEG|不 MOD|可以 Vt|開 ?
+%xsyn:	MOD-VI .
+*CHI:	紅黃色 的 .
+%xmor:	Nn|紅黃色 DE|的 .
+%xsyn:	Other DE .
+*ADU:	喔 , 你 貼 了 是 不 是 ?
+%xmor:	INT|喔 , Npro:2sg|你 Vt|貼 ASP|了 Vc|是 NEG|不 Vc|是 ?
+%xsyn:	COMP-SUBJ .
+*ADU:	沒有 啊 , 本來 就 是 紅黃色 的 .
+%xmor:	NEG|沒有 SFP|啊 , ADV|本來 ADV|就 Vc|是 Nn|紅黃色 DE|的 .
+%xsyn:	Other DE .
+*CHI:	但是 他 怎麼 變成 這樣 的 呢 ?
+%xmor:	CONJ|但是 Npro:3sg|他 WH|怎麼 Vt|變成 Va|這樣 DE|的 SFP|呢 ?
+%xsyn:	NOM .
+*CHI:	對 啊 , 本來 就 是 紅黃色 的 啊 !
+%xmor:	Va|對 SFP|啊 , ADV|本來 ADV|就 Vc|是 Nn|紅黃色 DE|的 SFP|啊 !
+%xsyn:	Other DE .
+*ADU:	嗯 !
+%xmor:	INT|嗯 !
+*CHI:	那 他 怎麼 變成 這樣 的 呢 ?
+%xmor:	INT|那 Npro:3sg|他 WH|怎麼 Vt|變成 Va|這樣 DE|的 SFP|呢 ?
+%xsyn:	NOM .
+*ADU:	本來 就 這樣 啊 !
+%xmor:	ADV|本來 ADV|就 Va|這樣 SFP|啊 !
+*ADU:	變成 什麼 樣子 ?
+%xmor:	Vt|變成 WH|什麼 Nn|樣子 ?
+*CHI:	你 來 玩 警察金龜車 .
+%xmor:	Npro:2sg|你 Vt|來 Vt|玩 Nn|警察金龜車 .
+%xsyn:	GMOD-VO .
+*ADU:	0 .
+*CHI:	我們 的 都 會 好 .
+%xmor:	Npro:1pl|我們 DE|的 ADV|都 MOD|會 Va|好 .
+%xsyn:	NOM .
+*ADU:	我們 兩 個 誰 快 ?
+%xmor:	Npro:1pl|我們 QN|兩 M|個 WH|誰 Va|快 ?
+*ADU:	你 比較 快 啊 ?
+%xmor:	Npro:2sg|你 ADV|比較 Va|快 SFP|啊 ?
+*CHI:	嗯 !
+%xmor:	INT|嗯 !
+*ADU:	我們 來 試試 看 好 不 好 ?
+%xmor:	Npro:1pl|我們 Vt|來 Vr|試試 Vt|看 Va|好 NEG|不 Va|好 ?
+%xsyn:	COMP-SUBJ GMOD-VI .
+*ADU:	來 , 我們 來 比賽 .
+%xmor:	Vt|來 , Npro:1pl|我們 Vt|來 Vi|比賽 .
+%xsyn:	GMOD-VI .
+*ADU:	看 誰 快 .
+%xmor:	Vt|看 WH|誰 Va|快 .
+%xsyn:	COMP-OBJ .
+*ADU:	欸 , 他 怎麼 不 會 這樣 走路 呢 ?
+%xmor:	INT|欸 , Npro:3sg|他 WH|怎麼 NEG|不 MOD|會 Va|這樣 Vi|走路 SFP|呢 ?
+%xsyn:	NEG-COMP-OBJ .
+*CHI:	他 本來 是 紅黃色 的 , 對 不 對 ?
+%xmor:	Npro:3sg|他 ADV|本來 Vc|是 Nn|紅黃色 DE|的 , Va|對 NEG|不 Va|對 ?
+%xsyn:	Other DE .
+*ADU:	對 啊 !
+%xmor:	Va|對 SFP|啊 !
+*CHI:	那 他 怎麼 變成 黑黃色 的 呢 ?
+%xmor:	INT|那 Npro:3sg|他 WH|怎麼 Vt|變成 Nn|黑黃色 DE|的 SFP|呢 ?
+%xsyn:	Other DE .
+*ADU:	還是 有 紅 啊 !
+%xmor:	CONJ|還是 Vt|有 Va|紅 SFP|啊 !
+*ADU:	欸 , 你 的 跑 到 哪裏 去 了 ?
+%xmor:	INT|欸 , Npro:2sg|你 DE|的 Vt|跑 Vt|到 WH|哪裏 Vt|去 ASP|了 ?
+%xsyn:	NOM V-PP-DIR .
+*CHI:	我 的 跑 到 哪裏 去 了 .
+%xmor:	Npro:1sg|我 DE|的 Vt|跑 Vt|到 WH|哪裏 Vt|去 ASP|了 .
+%xsyn:	NOM V-PP-DIR .
+*ADU:	這 是 哪裏 啊 ?
+%xmor:	Npro:dem|這 Vc|是 WH|哪裏 SFP|啊 ?
+*CHI:	車子 裏面 去 了 .
+%xmor:	Nn|車子 Nloc|裏面 Vt|去 ASP|了 .
+*ADU:	車子 啊 ?
+%xmor:	Nn|車子 SFP|啊 ?
+*ADU:	桌子 .
+%xmor:	Nn|桌子 .
+*CHI:	桌子 下面 去 了 .
+%xmor:	Nn|桌子 Nloc|下面 Vt|去 ASP|了 .
+*ADU:	對 , 拿到 不 拿到 得 ?
+%xmor:	Va|對 , Vt|拿到 NEG|不 Vt|拿到 DE|得 ?
+*CHI:	拿到 得 .
+%xmor:	Vt|拿到 DE|得 .
+*ADU:	那邊 .
+%xmor:	Npro:dem|那邊 .
+*CHI:	我 在 這裏 跑 .
+%xmor:	Npro:1sg|我 PREP|在 Npro:dem|這裏 Vi|跑 .
+*CHI:	我 可以 跑 好 遠 哦 !
+%xmor:	Npro:1sg|我 MOD|可以 Vi|跑 ADV|好 Va|遠 SFP|哦 !
+%xsyn:	GMOD-VI .
+*ADU:	你 的 遠 還是 我 的 遠 ?
+%xmor:	Npro:2sg|你 DE|的 Va|遠 CONJ|還是 Npro:1sg|我 DE|的 Va|遠 ?
+%xsyn:	Other DE Other DE .
+*CHI:	我們 來 撞車 .
+%xmor:	Npro:1pl|我們 Vt|來 Vi|撞車 .
+%xsyn:	GMOD-VO .
+*ADU:	好 .
+%xmor:	Va|好 .
+*CHI:	我們 來 這邊 撞 .
+%xmor:	Npro:1pl|我們 Vt|來 Npro:dem|這邊 Vt|撞 .
+%xsyn:	DIR-VI .
+*ADU:	把 抽屜 先 關 起來 , 好 不 好 ?
+%xmor:	PREP|把 Nn|抽屜 ADV|先 Vt|關 Vi|起來 , Va|好 NEG|不 Va|好 ?
+%xsyn:	PP-SVC .
+*CHI:	好 , 把 警察金龜車 關 起來 .
+%xmor:	Va|好 , PREP|把 Nn|警察金龜車 Vt|關 Vi|起來 .
+%xsyn:	PP-SVC .
+*CHI:	你 放手 啊 !
+%xmor:	Npro:2sg|你 Vi|放手 SFP|啊 !
+*ADU:	han ?
+%xmor:	CS|han ?
+*CHI:	0 .
+*ADU:	我們 來 換 好 不 好 ?
+%xmor:	Npro:1pl|我們 Vt|來 Vt|換 Va|好 NEG|不 Va|好 ?
+%xsyn:	COMP-SUBJ GMOD-V .
+*CHI:	不 要 啦 !
+%xmor:	NEG|不 Vt|要 SFP|啦 !
+*ADU:	不 要 .
+%xmor:	NEG|不 Vt|要 .
+*ADU:	再 來 .
+%xmor:	ADV|再 Vt|來 .
+*CHI:	我 的 比較 快 .
+%xmor:	Npro:1sg|我 DE|的 ADV|比較 Va|快 .
+%xsyn:	Other DE .
+*CHI:	我 撞 了 .
+%xmor:	Npro:1sg|我 Vt|撞 ASP|了 .
+*ADU:	誰 在 誰 下面 ?
+%xmor:	WH|誰 Vt|在 WH|誰 Nloc|下面 ?
+*CHI:	我 在 你 的 上面 .
+%xmor:	Npro:1sg|我 Vt|在 Npro:2sg|你 DE|的 Nloc|上面 .
+%xsyn:	Other DE .
+*ADU:	來 , 再 來 .
+%xmor:	Vt|來 , ADV|再 Vt|來 .
+*ADU:	哇 !
+%xmor:	INT|哇 !
+*CHI:	你 的 壞 掉 了 !
+%xmor:	Npro:2sg|你 DE|的 Va|壞 Vi|掉 ASP|了 !
+%xsyn:	Other DE .
+*ADU:	你 的 沒有 壞 .
+%xmor:	Npro:2sg|你 DE|的 NEG|沒有 Va|壞 .
+%xsyn:	Other DE NEG-GMOD-VI .
+*CHI:	沒有 .
+%xmor:	NEG|沒有 .
+*ADU:	我 的 也 沒有 壞 啊 !
+%xmor:	Npro:1sg|我 DE|的 ADV|也 NEG|沒有 Va|壞 SFP|啊 !
+%xsyn:	Other DE NEG-GMOD-VI .
+*ADU:	你 看 !
+%xmor:	Npro:2sg|你 Vt|看 !
+*CHI:	有 啦 !
+%xmor:	Vt|有 SFP|啦 !
+*ADU:	欸 !
+%xmor:	INT|欸 !
+*CHI:	啊 , 你 的 壞 掉 啊 !
+%xmor:	INT|啊 , Npro:2sg|你 DE|的 Va|壞 Vi|掉 SFP|啊 !
+%xsyn:	Other DE .
+*ADU:	你 幫 我 撿 起來 好 不 好 啊 ?
+%xmor:	Npro:2sg|你 Vt|幫 Npro:1sg|我 Vt|撿 Vi|起來 Va|好 NEG|不 Va|好 SFP|啊 ?
+%xsyn:	COMP-SUBJ PP-SVC .
+*CHI:	不 可以 啦 !
+%xmor:	NEG|不 MOD|可以 SFP|啦 !
+*CHI:	黃色 的 喔 !
+%xmor:	Nn|黃色 DE|的 SFP|喔 !
+%xsyn:	Other DE .
+*ADU:	那 我 的 呢 ?
+%xmor:	INT|那 Npro:1sg|我 DE|的 SFP|呢 ?
+%xsyn:	Other DE .
+*CHI:	你 是 白黃色 的 .
+%xmor:	Npro:2sg|你 Vc|是 Nn|白黃色 DE|的 .
+%xsyn:	Other DE .
+*ADU:	不 是 啦 , 這 不 是 白黃色 啊 !
+%xmor:	NEG|不 Vc|是 SFP|啦 , Npro:dem|這 NEG|不 Vc|是 Nn|白黃色 SFP|啊 !
+*CHI:	這 啦 , 就 是 白黃色 啦 !
+%xmor:	Npro:dem|這 SFP|啦 , ADV|就 Vc|是 Nn|白黃色 SFP|啦 !
+*ADU:	綠色 啦 !
+%xmor:	Nn|綠色 SFP|啦 !
+*CHI:	白黃色 啦 !
+%xmor:	Nn|白黃色 SFP|啦 !
+*ADU:	我們 來 換邊 .
+%xmor:	Npro:1pl|我們 Vt|來 Vi|換邊 .
+%xsyn:	GMOD-VO .
+*ADU:	你 到 那 一 邊 .
+%xmor:	Npro:2sg|你 Vt|到 DET|那 QN|一 Nloc|邊 .
+*ADU:	還 要 不 要 撞 ?
+%xmor:	ADV|還 Vt|要 NEG|不 Vt|要 Vt|撞 ?
+%xsyn:	GMOD-VI .
+*CHI:	好 啊 !
+%xmor:	Va|好 SFP|啊 !
+*ADU:	欸 , 怎麼 你 還是 在 我 的 上面 呢 ?
+%xmor:	INT|欸 , WH|怎麼 Npro:2sg|你 ADV|還是 Vt|在 Npro:1sg|我 DE|的 Nloc|上面 SFP|呢 ?
+%xsyn:	Other DE .
+*CHI:	對 呀 !
+%xmor:	Va|對 SFP|呀 !
+*ADU:	你 的 怎麼 那麼 厲害 呢 ?
+%xmor:	Npro:2sg|你 DE|的 WH|怎麼 ADV|那麼 Va|厲害 SFP|呢 ?
+%xsyn:	Other DE .
+*ADU:	欸 !
+%xmor:	INT|欸 !
+*CHI:	我 的 比較 棒 .
+%xmor:	Npro:1sg|我 DE|的 ADV|比較 Va|棒 .
+%xsyn:	Other DE .
+@End

@@ -1,0 +1,669 @@
+@UTF8
+@PID:	11312/a-00000167-1
+@Begin
+@Languages:	zho, nan
+@Participants:	CHI Yang Child, MOT Mother, FAT Father
+@ID:	zho, nan|HC|CHI|2;8.||||Child|||
+@ID:	zho, nan|HC|MOT|||||Mother|||
+@ID:	zho, nan|HC|FAT|||||Father|||
+*CHI:	xxx.
+*MOT:	嘿, 我先要講說今天是七十五年.
+%xsyn:	GMOD-COMP-OBJ
+*CHI:	今天 怎麼 七.
+*MOT:	八月三十一號.
+*MOT:	是不是?
+*CHI:	怎麼 xxx.
+*CHI:	七 月, 為什麼 是.
+*CHI:	是 xxx 年.
+*MOT:	七十五年.
+*MOT:	你你上去拿一張衛生紙來.
+%xsyn:	MEVENT-P
+*MOT:	我幫你擦嘴巴, 去.
+%xsyn:	PP-V-O
+*CHI:	好.
+*CHI:	xxx.
+*MOT:	好了沒?
+*MOT:	拿到了沒?
+*MOT:	拿一張就好了.
+%xsyn:	COMP-SUBJ
+*MOT:	拿那麼多張.
+*MOT:	好, 來, 過來過來.
+*MOT:	沒關係啊.
+*MOT:	撿起來.
+*CHI:	xxx.
+*MOT:	xx拿來給我.
+%xsyn:	MEVENT-P
+*MOT:	對.
+*MOT:	哦, 你會自己擦啊.
+%xsyn:	MOD-S-V
+*MOT:	哇, 好厲害.
+*MOT:	給我一張.
+*MOT:	xxx.
+*CHI:	xxx.
+*CHI:	借 你 玩 一 下.
+%xsyn:	PVC
+*MOT:	借我玩一下.
+%xsyn:	PVC
+*CHI:	打 電話.
+*MOT:	打電話.
+*MOT:	打給誰?
+%xsyn:	V-PP
+*CHI:	打給.
+*CHI:	打 給 阿嬤.
+%xsyn:	V-PP
+*MOT:	阿嬤, 阿嬤家電話幾號?
+*CHI:	三十五 年 的 電話.
+*MOT:	三十五年的電話[=! 笑].
+*CHI:	這 個 一 耶.
+*MOT:	好, 數給我看.
+%xsyn:	V-PP
+*MOT:	爸爸教你怎麼看電話.
+%xsyn:	COMP-OBJ
+*CHI:	一.
+*MOT:	一 呀, 對啊.
+*MOT:	嘿, 然後呢?
+*CHI:	二.
+*MOT:	嘿, 大聲.
+*CHI:	一.
+*MOT:	0 [=! 笑].
+*CHI:	二.
+*MOT:	什麼?
+*CHI:	這 個 我 不 知道.
+*MOT:	這個你不知道.
+*MOT:	三.
+*CHI:	三九一七八六四.
+*MOT:	對, 三九一七八六四就我們家的電話啊.
+*MOT:	誰教你的啊?
+*CHI:	爸爸.
+*MOT:	你要背起來哦.
+%xsyn:	GMOD-SVC
+*MOT:	好不好?
+*MOT:	你要背起來.
+%xsyn:	GMOD-SVC
+*MOT:	那你哪一天找不到媽媽迷路了.
+%xsyn:	MEVENT
+*MOT:	你就跟著一個伯伯講.
+%xsyn:	PP-V
+*MOT:	你在路上隨便找一個伯伯.
+%xsyn:	PP-V-O
+*MOT:	你就說請你幫我打電話.
+%xsyn:	MCC
+*MOT:	打幾號啊?
+*CHI:	打 三九一七八六四.
+*MOT:	對.
+*MOT:	好聰明.
+*CHI:	一.
+*MOT:	一.
+*CHI:	二.
+*MOT:	二.
+*MOT:	大聲點.
+*CHI:	一.
+*MOT:	嘿.
+*CHI:	二.
+*MOT:	對.
+*MOT:	怎麼?
+*CHI:	這 我 不 知道.
+*MOT:	三.
+*CHI:	三.
+*MOT:	嘿.
+*CHI:	一.
+*MOT:	四.
+*CHI:	四.
+*MOT:	嘿.
+*CHI:	四.
+*MOT:	嘿.
+*MOT:	五.
+*CHI:	五 [=! 笑].
+*CHI:	一.
+*MOT:	六.
+*CHI:	六.
+*MOT:	嘿.
+*MOT:	七.
+*CHI:	七.
+*MOT:	八.
+*CHI:	八.
+*MOT:	0 [=! 笑].
+*MOT:	九.
+*CHI:	九.
+*MOT:	過來nei?
+*MOT:	0.
+*CHI:	0.
+*MOT:	等一下哦.
+*MOT:	媽媽把這個移過來一點.
+%xsyn:	PP-SVC
+*MOT:	媽媽怕錄音機錄不到啊.
+%xsyn:	COMP-OBJ
+*MOT:	把它提過來一點.
+%xsyn:	PP-SVC
+*MOT:	哎呦, 只有這麼長而已.
+*MOT:	好, 我們不要管它.
+%xsyn:	NEG-GMOD-V-O
+*MOT:	再來.
+*CHI:	媽媽 怎麼 不 要 管 錄音機 呢?
+%xsyn:	NEG-GMOD-V-O
+*MOT:	對呀, 我們 不要管錄音機.
+%xsyn:	NEG-GMOD-V-O
+*MOT:	我們玩我們的啊.
+*MOT:	你要不要講故事給我聽?
+%xsyn:	MCC
+*CHI:	要 啊.
+*MOT:	要啊.
+*CHI:	我還.
+*CHI:	不 是 講 這 裡 的 故事.
+%xsyn:	PBL
+*MOT:	那個只是圖畫啊.
+*MOT:	那本沒有故事啊.
+*MOT:	你要拿一個有故事的啊.
+%xsyn:	GMOD-V-O Other DE
+*MOT:	那個都是圖畫而已.
+*CHI:	這 個 怎麼 都 是 圖畫?
+*MOT:	就是 啊.
+*MOT:	哇, 螞蟻在咬你的書.
+*MOT:	殺掉.
+*MOT:	哦, 巴比殺螞蟻好凶.
+*MOT:	捏死.
+*CHI:	捏 [x 6].
+*MOT:	好了 好了, 死掉了.
+*MOT:	老早死掉了.
+*MOT:	好, 你拿一個書來.
+%xsyn:	SVC
+*MOT:	講給我聽.
+%xsyn:	PP-S
+*MOT:	你有那麼多書啊.
+*CHI:	我 去 我 去 拿 一 本 書.
+%xsyn:	GMOD-V-O
+*CHI:	在 那 邊 等 哦.
+%xsyn:	PP-V
+*MOT:	你拿一本書, 我在這邊等.
+*MOT:	那個不是書啦.
+*MOT:	那個是月曆啦.
+*CHI:	拿 錯 了[=! 笑].
+*MOT:	拿錯了.
+*CHI:	xxx.
+*MOT:	那是什麼書?
+*CHI:	亦修 的 書.
+*MOT:	亦修的書.
+*MOT:	好, 這是一個日本童話.
+*MOT:	亦修的故事.
+*MOT:	好, 來.
+*CHI:	我 的 我 的 桃太郎 說 不 見 了.
+%xsyn:	COMP-OBJ (Other DE)
+*MOT:	你的桃太郎 說不見了.
+%xsyn:	Other DE COMP-OBJ
+*MOT:	在那裡啊.
+*MOT:	我看見了.
+*CHI:	xxx 這 邊 桃太郎.
+*MOT:	先講桃太郎好了.
+*MOT:	亦修的書太玄了.
+*CHI:	什麼 太 玄 太 玄 了?
+*MOT:	太玄了.
+*MOT:	好, 桃太郎.
+*CHI:	亦 亦修 的 書 怎麼 太 玄 了?
+*MOT:	太抽象了.
+*MOT:	那個小朋友現在看太早了.
+%xsyn:	COMP-SUBJ
+*MOT:	來.
+*MOT:	好, 你講桃太郎給我聽.
+%xsyn:	V-O-PP
+*CHI:	老公公 要 去.
+%xsyn:	GMOD-V
+*CHI:	不 是 這 樣子.
+*MOT:	對, 這樣子.
+*MOT:	好, 開始.
+*CHI:	這 個 老 公公 要 去 每 天 都 要 去 砍 柴 呀.
+%xsyn:	GMOD-GMOD-V-O
+*MOT:	對.
+*CHI:	老 婆婆 要 去 洗 衣服.
+%xsyn:	GMOD-GMOD-V-O
+*CHI:	看 到 一 個 桃子.
+*MOT:	嘿, 洗衣服.
+*MOT:	看到一個桃子.
+*CHI:	裡 面 有 誰?
+*MOT:	我不知道啊.
+*CHI:	娃娃.
+*MOT:	娃, 你現在還不知道是娃娃.
+%xsyn:	COMP-OBJ
+*MOT:	然後把桃子怎麼樣?
+*CHI:	切 開 來.
+*MOT:	還沒有.
+*MOT:	你要先搬回家.
+%xsyn:	GMOD-SVC
+*MOT:	對不對?
+*CHI:	搬 回 家 了 啊.
+*MOT:	對, 然後.
+*CHI:	老 公公 回 來 看 看 到 了 一 個 桃子,  xiu.
+%xsyn:	MEVENT
+*MOT:	對, 看到一個桃子就嚇一跳.
+%xsyn:	MEVENT
+*MOT:	這麼大啊.
+*CHI:	對.
+*MOT:	然後老婆婆拿什麼給他切開來?
+%xsyn:	MCC
+*CHI:	刀子.
+*MOT:	嗯, 結果裡面有誰?
+*CHI:	娃娃.
+*MOT:	有一個娃娃.
+*MOT:	桃太郎.
+*CHI:	他 有 一 個 名字 桃太郎.
+*MOT:	嘿, 老公公給他取.
+%xsyn:	PP-V
+*MOT:	等一下嘛.
+*MOT:	翻那麼快.
+*MOT:	老公公給他取一個名字.
+%xsyn:	PP-V-O
+*MOT:	桃太郎.
+*MOT:	這個畫冊.
+*MOT:	畫冊上面有桃太郎三個字.
+*MOT:	巴比就比著桃太郎.
+*MOT:	那樣比下來, 哼.
+*MOT:	再來.
+*MOT:	阿這一面在講什麼?
+*CHI:	誰 呀?
+*MOT:	誰呀, 你告訴我啊.
+*CHI:	我 也 不 知道.
+*MOT:	你怎麼不知道.
+*MOT:	那你講故事給我聽.
+%xsyn:	V-O-PP
+*MOT:	你還不知道.
+*MOT:	這個是誰?
+*CHI:	老 公公.
+*MOT:	對呀, 老公公怎樣?
+*CHI:	老 公公 跟 跟 桃太郎 玩.
+%xsyn:	PP-V
+*MOT:	對, 老公公 跟 桃太郎玩.
+%xsyn:	PP-V
+*MOT:	那老婆婆在做什麼?
+*CHI:	做 魚丸 給 他 們 兩 個 吃.
+%xsyn:	V-O-PP-V
+*MOT:	做魚丸哦.
+*MOT:	本來是kibibango 啦.
+*MOT:	結果是詹惠珍給人家改成說吃魚丸啦.
+%xsyn:	MCC
+*MOT:	以後巴比就說桃太郎吃魚丸.
+%xsyn:	COMP-OBJ
+*MOT:	好, 再來.
+*CHI:	夭怪.
+*MOT:	夭怪怎樣?
+*MOT:	這個叔叔告訴桃太郎跟老公公說.
+%xsyn:	PBL
+*MOT:	城裡來了一, 三個夭怪.
+*MOT:	是不是?
+*MOT:	那桃太郎就想要去殺夭怪對不對?
+%xsyn:	MCC
+*MOT:	你翻太多頁了.
+*MOT:	還沒有, 還有xx.
+*MOT:	然後呢?
+*MOT:	桃太郎就怎樣?
+*CHI:	桃太郎 就 去 殺 夭怪.
+%xsyn:	GMOD-V-O
+*MOT:	就去殺夭怪.
+%xsyn:	GMOD-V-O
+*MOT:	那他的便當是什麼?
+%xsyn:	Other DE
+*CHI:	是 魚丸.
+*MOT:	是 魚丸, 好.
+*CHI:	老公公 老 婆婆 老 公公 都 給 桃太郎 再見.
+%xsyn:	PP-V
+*MOT:	對, 再見.
+*MOT:	跟他加油加油.
+%xsyn:	PP-V
+*MOT:	對不對?
+*MOT:	你翻太多頁.
+*MOT:	你一次要翻一頁啊.
+%xsyn:	GMOD-SVC
+*MOT:	你那故事不要xx.
+*MOT:	好, 然候他先碰到誰?
+*CHI:	碰 到 一 隻 小 狗.
+*MOT:	嘿, 小狗說什麼?
+*CHI:	說 給 我 吃 一 個 魚丸.
+%xsyn:	COMP(PP-V-O)
+*MOT:	然後 桃太郎 就 給 他 吃 魚丸.
+%xsyn:	PP-V-O
+*MOT:	嗯, 然後呢?
+*MOT:	給他吃魚丸.
+%xsyn:	PP-V-O
+*MOT:	然後要怎樣?
+*CHI:	他 們 都 要 去 殺 夭怪.
+%xsyn:	GMOD-GMOD-V-O
+*MOT:	對啊, 你給我吃魚丸.
+%xsyn:	PP-V-O
+*MOT:	我就幫忙你殺夭怪.
+%xsyn:	PP-V-O
+*CHI:	過來 一 隻 猴子 碰 到 一 隻 小 狗.
+%xsyn:	PBL
+*CHI:	過來碰到一個.
+%xsyn:	PBL
+*CHI:	那 他 們 為什麼 還 不 走?
+*MOT:	他們在走啊.
+*MOT:	你故事講亂七八糟.
+*MOT:	他碰到一個猴子.
+*MOT:	猴子說什麼?
+*CHI:	說 給 我 吃 一 個 魚丸 啦.
+%xsyn:	COMP(PP-V-O)
+*MOT:	給我吃 一 個 魚丸 啦.
+%xsyn:	PP-V-O
+*MOT:	那我給你吃.
+%xsyn:	PP-V
+*MOT:	你要怎樣?
+*CHI:	說 謝謝.
+*MOT:	說謝謝而已哦.
+*MOT:	要不要幫忙殺夭怪?
+%xsyn:	GMOD-SVC-O
+*CHI:	要.
+*MOT:	要.
+*MOT:	過來又碰到一個誰?
+%xsyn:	PBL
+*CHI:	碰 到 一 個  gogogei@s .
+*MOT:	碰到一個 gogogei@s .
+*MOT:	鴿鴿雞想不想吃魚丸.
+%xsyn:	COMP-OBJ
+*CHI:	想 要 吃 一 個 魚丸.
+%xsyn:	COMP (V-O)
+*MOT:	要吃一個魚丸.
+%xsyn:	GMOD-SVC
+*MOT:	那然後呢?
+*MOT:	吃人家的魚丸.
+*MOT:	要怎樣?
+*CHI:	去 殺 夭怪.
+%xsyn:	GMOD-V-O
+*MOT:	對啊, 去幫忙.
+%xsyn:	GMOD-V
+*CHI:	叔叔 給 他 們 一 把 船.
+*MOT:	怎麼會是一把船呢?
+*CHI:	這個.
+*CHI:	這 個 是 他 們 的 船.
+%xsyn:	Other DE
+*MOT:	慢點.
+*MOT:	船怎麼會是一把船?
+*MOT:	一什麼船?
+*MOT:	一艘船.
+*CHI:	一 艘 船.
+*MOT:	嘿.
+*CHI:	他 們 划 船 划船 到 夭怪 的 家.
+%xsyn:	V-O-PP Other DE
+*MOT:	嘿, 你口水吞下去啊.
+*CHI:	這 個 門 這麼 緊.
+*MOT:	對呀, 這個門這麼緊.
+*MOT:	你不要翻頁.
+%xsyn:	GMOD-V-O
+*MOT:	這個門這麼緊.
+*MOT:	打不開.
+*MOT:	那怎麼辦勒?
+*CHI:	小 猴子 拉 他 的.
+*CHI:	嗯.
+*MOT:	對呀.
+*MOT:	小猴子拉著gogogei的腳啊.
+*MOT:	然後, gogogei怎樣?
+*CHI:	要 桃太郎 想 一 個 辦法 把 門 打 開.
+%xsyn:	MCC
+*MOT:	怎麼會是桃太郎想一個辦法?
+*MOT:	是gogogei飛過去.
+%xsyn:	PBL
+*MOT:	然後猴子拉著它的腳啊.
+*MOT:	然後飛進去把門打開的啊.
+%xsyn:	MEVENT
+*MOT:	是不是這樣?
+*CHI:	我 不 知道 這 個 嘛.
+*CHI:	把 門 打 開.
+%xsyn:	PP-SVC
+*MOT:	從外面打不開啊.
+%xsyn:	PP-V
+*MOT:	要猴子進去從裡面開呀.
+%xsyn:	MCC
+*MOT:	然後夭怪衝出來了哦.
+*MOT:	然後呢?
+*CHI:	夭怪 殺 桃太郎.
+*MOT:	殺桃太郎.
+*MOT:	結果打架打架.
+*MOT:	然後呢?
+*CHI:	桃太郎 把 他 殺 死 掉 了.
+%xsyn:	PP-SVC
+*MOT:	沒有殺死掉.
+*MOT:	把他yan dou@s .
+%xsyn:	PP-SVC
+*CHI:	Yandou.
+*CHI:	那 還 要 從 哪裡 出 去?
+%xsyn:	GOMD-PP-SVC
+*MOT:	還沒有啊.
+*CHI:	從 哪裡 出 去?
+%xsyn:	PP-SVC
+*MOT:	還沒有嘛.
+*MOT:	還在殺.
+*MOT:	怎麼會出去呢?
+%xsyn:	GMOD-SVC
+*MOT:	Yan dou, 然後呢?
+*CHI:	那 他 們 就 出 去 了.
+*MOT:	在那邊亂講.
+*MOT:	Yan dou.
+*MOT:	然後小狗來幫忙啊.
+%xsyn:	GMOD-SVC
+*CHI:	對.
+*MOT:	小狗怎麼幫忙?
+*CHI:	咬 他 的 腳.
+%xsyn:	Other DE
+*MOT:	咬他的腳.
+%xsyn:	Other DE
+*CHI:	吃 掉 了.
+*FAT:	巴比吮一下.
+*MOT:	口水吞下去.
+*MOT:	然後猴子怎麼幫忙?
+*CHI:	猴子 猴子 抓 他 的 眼睛.
+*MOT:	抓他的臉.
+*CHI:	抓 他 的 臉.
+*CHI:	還 有  gogogei  dodododo 給 夭怪 的 眼睛 戳 瞎 戳 瞎 掉.
+%xsyn:	MCC
+*MOT:	好, 口水吞下去.
+*MOT:	Dodododo他的眼睛就給他戳瞎掉.
+%xsyn:	PP-SVC
+*MOT:	然後呢?
+*CHI:	桃太郎 拿 刀 給 他 殺 死 掉 了.
+%xsyn:	V-O-PP-SVC
+*MOT:	嗯, 那夭怪怎樣?
+*CHI:	就 流 血 了.
+*MOT:	就流血了.
+*MOT:	這個圖片上面.
+*MOT:	夭怪都貼 ok繃.
+*MOT:	然後.
+*CHI:	那 這 隻 腳 為什麼 沒有 貼 ok繃?
+*MOT:	那個腳沒有受傷.
+*MOT:	就不用貼啊.
+*CHI:	那 這 個 腳 怎麼 會 受傷?
+%xsyn:	GMOD-SVC
+*MOT:	那個腳是小狗咬的啊.
+%xsyn:	REL-SHI
+*MOT:	然後桃太郎叫他們要怎樣?
+%xsyn:	PVC
+*MOT:	xxx.
+*CHI:	要 叫.
+*MOT:	嗯?
+*MOT:	這樣子幹嘛?
+*MOT:	桃太郎叫他們把搶來的東西還給人家啊.
+%xsyn:	MCC
+*MOT:	然後呢?
+*CHI:	你 怎麼 不 知道 啊.
+*MOT:	我當然不知道啊.
+*MOT:	是你在講故事啊.
+%xsyn:	REL-SHI
+*MOT:	然後呢?
+*CHI:	然後 呢?
+*CHI:	那 個 東西 拿 回 去 給 人家.
+%xsyn:	SVC-PP
+*MOT:	對, 把東西搬走.
+%xsyn:	PP-SVC
+*MOT:	拿去還給人家.
+%xsyn:	SVC-PP
+*MOT:	還給人家.
+*MOT:	大家有沒有很高興啊?
+*CHI:	有.
+*MOT:	然後呢?
+*MOT:	然後, 這邊是誰?
+*CHI:	是 誰 我 不 知道.
+%xsyn:	COMP-SUBJ
+*MOT:	因為桃太郎把東西去還給人家.
+%xsyn:	MCC
+*MOT:	國王看到了啊.
+*MOT:	國王說這個小朋有很勇敢啊.
+%xsyn:	COMP-OBJ
+*MOT:	就賞他好多好多錢啊.
+*FAT:	xxx.
+*MOT:	然後他就把那個錢又送去給窮人買飯飯啊.
+%xsyn:	MCC
+*MOT:	國王說他好善良哦.
+%xsyn:	COMP-OBJ
+*MOT:	就把誰嫁給他?
+%xsyn:	PP-V-O
+*CHI:	不 知道.
+*MOT:	公主啊.
+*CHI:	哦.
+*MOT:	就把公主嫁給他.
+%xsyn:	PP-V-O
+*CHI:	對.
+*MOT:	講完了.
+*CHI:	講 亦修.
+*MOT:	亦修不好聽啦.
+*CHI:	亦修 也 好聽.
+*FAT:	有沒有巴比的故事.
+%xsyn:	Other DE
+*FAT:	講巴比的故事.
+%xsyn:	Other DE
+*MOT:	爸爸不要逗他.
+%xsyn:	GMOD-V-O
+*FAT:	巴比的故事嘛.
+%xsyn:	Other DE
+*CHI:	不 要.
+*MOT:	從前從前有一個巴比.
+*CHI:	不 要 講 我 的 故事.
+%xsyn:	NEG-GMOD-V-O (Other DE)
+*CHI:	我 我 的 媽媽 會 生氣.
+%xsyn:	GMOD-SVC (Other DE)
+*MOT:	你不要每次都說你的媽媽會生氣.
+%xsyn:	MCC
+*MOT:	我有沒有生氣?
+%xsyn:	GMOD-SVC
+*MOT:	說謊話.
+*FAT:	一個巴比很壞.
+*FAT:	都要打人吶.
+%xsyn:	GMOD-V-O
+*FAT:	你看啦.
+*FAT:	都打人吶.
+*FAT:	都要碰死人啦.
+%xsyn:	GMOD-SVC
+*CHI:	打 屁股 打 屁股.
+*FAT:	好, 一個巴比的故事.
+%xsyn:	Other DE
+*MOT:	你怎麼可以打爸爸的屁股?
+%xsyn:	MOD-V-O
+*FAT:	這個就是巴比的故事啊.
+%xsyn:	Other DE
+*CHI:	0 [=! 笑].
+*MOT:	我們兩個來唱歌要不要?
+%xsyn:	GMOD-SVC
+*MOT:	哦, 你又拿一本書來了.
+*MOT:	這是什麼書?
+*CHI:	國王 書.
+*MOT:	國王的新衣服.
+%xsyn:	Other DE
+*MOT:	好, 來呀.
+*MOT:	這個是誰?
+*CHI:	國王.
+*MOT:	好.
+*CHI:	國王 在 幹 什麼?
+*MOT:	國王在照鏡子 啊.
+*MOT:	他愛漂亮.
+*CHI:	為什麼 照 鏡子?
+*MOT:	你要把口水吞下去才能講話.
+%xsyn:	MCC
+*MOT:	不然都chao ling dai@s .
+*CHI:	一會兒.
+*CHI:	一會兒 紅 的 衣服.
+%xsyn:	Other DE
+*CHI:	一會兒 換 綠 的 衣服.
+%xsyn:	Other DE
+*MOT:	對啊.
+*CHI:	他 好 喜歡 換 衣服 哦.
+%xsyn:	COMP (V-O)
+*MOT:	他很喜歡換衣服.
+%xsyn:	COMP (V-O)
+*MOT:	他愛漂亮.
+%xsyn:	COMP-OBJ
+*MOT:	他每天都一會兒換紅色衣服.
+*MOT:	一會兒換綠色衣服.
+*MOT:	好, 這邊講什麼?
+*CHI:	鞋鞋.
+*MOT:	哇, 好多鞋鞋.
+*MOT:	還有呢?
+*MOT:	還有什麼?
+*CHI:	紫 色 的.
+%xsyn:	Other DE
+*MOT:	帽帽.
+*CHI:	帽.
+*CHI:	紅紅 的 帽帽.
+%xsyn:	Other DE
+*CHI:	還 有 紫 色 的 帽帽.
+%xsyn:	Other DE
+*CHI:	還有.
+*CHI:	還 有 帽帽.
+*MOT:	嗯.
+*MOT:	黃 色 的 帽帽.
+%xsyn:	Other DE
+*MOT:	還有呢?
+*CHI:	藍 色 的 帽帽.
+%xsyn:	Other DE
+*MOT:	藍色的帽帽.
+%xsyn:	Other DE
+*MOT:	巴比藍色跟紫色分不清楚啊.
+*CHI:	黃 色 的 帽帽.
+%xsyn:	Other DE
+*CHI:	藍 色 的 帽帽.
+%xsyn:	Other DE
+*MOT:	(與爸爸談話).
+*CHI:	媽媽 這 個 是 不是 藍 色 的 帽帽?
+%xsyn:	Other DE
+*MOT:	嗯, 那是藍色的帽帽.
+%xsyn:	Other DE
+*CHI:	黃 色 的 帽帽 跟 藍 色 的 帽帽.
+%xsyn:	Other DE
+*CHI:	還 有 什麼 色 的 帽帽?
+%xsyn:	Other DE
+*CHI:	媽媽 這 個 是 什麼 色 的 帽帽?
+%xsyn:	Other DE
+*MOT:	哪一個?
+*CHI:	這 個.
+*MOT:	黃色的.
+%xsyn:	Other DE
+*MOT:	這個都彩色嘛.
+*MOT:	它帽帽都好多種顏色.
+*CHI:	綠 色 的 帽帽.
+%xsyn:	Other DE
+*MOT:	好啦.
+%xsyn:	Other DE
+*CHI:	紫 色 的 帽帽.
+%xsyn:	Other DE
+*MOT:	好, 紫色.
+*MOT:	口水吞下去.
+*CHI:	黃 色 的 帽帽.
+%xsyn:	Other DE
+*MOT:	好.
+*CHI:	xxx.
+*MOT:	巴比剛吃過早餐.
+*MOT:	一直流口水, 吞.
+*CHI:	做 衣服.
+*MOT:	嘿, 這兩個人在做衣服.
+*MOT:	他們都假裝做啊.
+%xsyn:	SVC
+*CHI:	為什麼 要 假裝 做?
+%xsyn:	GMOD-SVC
+*MOT:	他們兩個是騙人的啊.
+%xsyn:	REL-SHI
+*MOT:	他手上面根本沒有布啊.
+*MOT:	他們假裝做衣服.
+%xsyn:	COMP-OBJ
+*CHI:	國王 不 客氣.
+*MOT:	嗯, 他送了好多好多的布來.
+%xsyn:	Other DE
+*MOT:	他就說不客氣.
+*MOT:	嘿, 書壞掉了.
+*MOT:	不可以這樣拿.
+%xsyn:	MOD-SVC
+*CHI:	他 們 怎麼 不 做 了 呢?
+@End

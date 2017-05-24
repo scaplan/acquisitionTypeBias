@@ -1,0 +1,1813 @@
+@UTF8
+@PID:	11312/a-00000093-1
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, EXA Investigator, GRA Grandmother
+@ID:	zho|HC|CHI|1;9.||||Child|||
+@ID:	zho|HC|EXA|||||Investigator|||
+@ID:	zho|HC|GRA|||||Grandmother|||
+*EXA:	小 天使 有 沒有 翅膀 ?
+%xmor:	ADJ|小 Nn|天使 Vt|有 NEG|沒有 Nn|翅膀 ?
+*GRA:	翅膀 在 哪裡 ?
+%xmor:	Nn|翅膀 PREP|在 WH|哪裡 ?
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	蛤 ?
+%xmor:	INT|蛤 ?
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*GRA:	翅膀 在 哪裡 ?
+%xmor:	Nn|翅膀 PREP|在 WH|哪裡 ?
+*CHI:	在 哪裡 ?
+%xmor:	PREP|在 WH|哪裡 ?
+*GRA:	後面 翅膀 啊 .
+%xmor:	Nloc|後面 Nn|翅膀 SFP|啊 .
+*GRA:	你 看見 後面 翅膀 啊 .
+%xmor:	Npro:2sg|你 Vt|看見 Nloc|後面 Nn|翅膀 SFP|啊 .
+*GRA:	翅膀 .
+%xmor:	Nn|翅膀 .
+*GRA:	他 飛 呀 , 飛 呀 , 有 沒有 飛 呀 ?
+%xmor:	Npro:3sg|他 Vi|飛 SFP|呀 , Vi|飛 SFP|呀 , Vt|有 NEG|沒有 Vi|飛 SFP|呀 ?
+*GRA:	飛 呀 .
+%xmor:	Vi|飛 SFP|呀 .
+*EXA:	這樣 飛 哦 , 這樣 飛 哦 .
+%xmor:	Va|這樣 Vi|飛 SFP|哦 , Va|這樣 Vi|飛 SFP|哦 .
+*CHI:	沒有 .
+%xmor:	NEG|沒有 .
+*GRA:	沒有 .
+%xmor:	NEG|沒有 .
+*EXA:	沒有 .
+%xmor:	NEG|沒有 .
+*EXA:	來 , 我 來 看看 這 個 .
+%xmor:	Vt|來 , Npro:1sg|我 Vt|來 Vr|看看 DET|這 M|個 .
+*EXA:	哇 , 這 誰 的 電話 ?
+%xmor:	INT|哇 , DET|這 WH|誰 DE|的 Nn|電話 ?
+*CHI:	話 .
+%xmor:	Nn|話 .
+*EXA:	這 是 誰 的 電話 ?
+%xmor:	DET|這 Vc|是 WH|誰 DE|的 Nn|電話 ?
+*EXA:	耶 , 軒軒 , 你 看 , 電話 會 走路 哦 .
+%xmor:	INT|耶 , Nppn|軒軒 , Npro:2sg|你 Vt|看 , Nn|電話 MOD|會 Vi|走路 SFP|哦 .
+*EXA:	會 走路 哦 .
+%xmor:	MOD|會 Vi|走路 SFP|哦 .
+*EXA:	哇哇哇哇哇哇哇 .
+%xmor:	ONM|哇哇哇哇哇哇哇 .
+*CHI:	跌倒 .
+%xmor:	Vi|跌倒 .
+*EXA:	跌倒 哦 ?
+%xmor:	Vi|跌倒 SFP|哦 ?
+*CHI:	嘿 .
+%xmor:	INT|嘿 .
+*EXA:	軒軒 , 打電話 , 好 不 好 ?
+%xmor:	Nppn|軒軒 , Vi|打電話 , Va|好 NEG|不 Va|好 ?
+*EXA:	打電話 .
+%xmor:	Vi|打電話 .
+*GRA:	打電話 去 給 媽媽 .
+%xmor:	Vi|打電話 Vt|去 Vt|給 Nn|媽媽 .
+*EXA:	給 媽媽 , 哼 .
+%xmor:	Vt|給 Nn|媽媽 , INT|哼 .
+*GRA:	媽媽 , 買 糖糖 .
+%xmor:	Nn|媽媽 , Vt|買 Nn|糖糖 .
+*EXA:	喂 .
+%xmor:	INT|喂 .
+*CHI:	糖糖 .
+%xmor:	Nn|糖糖 .
+*EXA:	糖糖 .
+%xmor:	Nn|糖糖 .
+*EXA:	我 買 糖糖 .
+%xmor:	Npro:1sg|我 Vt|買 Nn|糖糖 .
+*EXA:	買 好 多 .
+%xmor:	Vt|買 ADV|好 Va|多 .
+*CHI:	見 .
+%xmor:	Vt|見 .
+*EXA:	嘿 , 再見 哦 .
+%xmor:	INT|嘿 , Vi|再見 SFP|哦 .
+*EXA:	再見 哦 , 這麼 快 .
+%xmor:	Vi|再見 SFP|哦 , ADV|這麼 Va|快 .
+*EXA:	阿姨 打給 你 , 好 不 好 ?
+%xmor:	Nn|阿姨 Vt|打給 Npro:2sg|你 , Va|好 NEG|不 Va|好 ?
+*EXA:	打給 軒軒 , 好 不 好 ?
+%xmor:	Vt|打給 Nppn|軒軒 , Va|好 NEG|不 Va|好 ?
+*EXA:	來 .
+%xmor:	Vt|來 .
+*EXA:	喂 , 軒軒 在 不 在 ?
+%xmor:	INT|喂 , Nppn|軒軒 PREP|在 NEG|不 PREP|在 ?
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	哇哇哇 , 軒軒 在 幹 什麼 , 在 做 什麼 ?
+%xmor:	ONM|哇哇哇 , Nppn|軒軒 ASP|在 Vt|幹 WH|什麼 , ASP|在 Vt|做 WH|什麼 ?
+*EXA:	哼 , 你 在 做 什麼 ?
+%xmor:	INT|哼 , Npro:2sg|你 ASP|在 Vt|做 WH|什麼 ?
+*EXA:	裡面 有 什麼 ?
+%xmor:	Nloc|裡面 Vt|有 WH|什麼 ?
+*EXA:	裡面 有 什麼 ?
+%xmor:	Nloc|裡面 Vt|有 WH|什麼 ?
+*EXA:	嗯 好 , 再見 .
+%xmor:	INT|嗯 Va|好 , Vi|再見 .
+*EXA:	再見 .
+%xmor:	Vi|再見 .
+*CHI:	見 .
+%xmor:	Vt|見 .
+*EXA:	嘿 , 再見 , 嘿 , 好 .
+%xmor:	INT|嘿 , Vi|再見 , INT|嘿 , Va|好 .
+*EXA:	哇 , 看 到 這 個 了 .
+%xmor:	INT|哇 , Vt|看 Vt|到 DET|這 M|個 ASP|了 .
+*EXA:	看 到 這 個 了 .
+%xmor:	Vt|看 Vt|到 DET|這 M|個 ASP|了 .
+*CHI:	媽媽 .
+%xmor:	Nn|媽媽 .
+*EXA:	嘿 , 媽媽 的 鞋鞋 , 不 要 啦 哦 .
+%xmor:	INT|嘿 , Nn|媽媽 DE|的 Nn|鞋鞋 , NEG|不 Vt|要 SFP|啦 SFP|哦 .
+*EXA:	小 豬豬 就 不 能 走 了 哦 .
+%xmor:	ADJ|小 Nn|豬豬 ADV|就 NEG|不 MOD|能 Vi|走 ASP|了 SFP|哦 .
+*CHI:	媽媽 .
+%xmor:	Nn|媽媽 .
+*EXA:	小 豬豬 不 能 走 .
+%xmor:	ADJ|小 Nn|豬豬 NEG|不 MOD|能 Vi|走 .
+*CHI:	媽媽 媽媽 .
+%xmor:	Nn|媽媽 Nn|媽媽 .
+*EXA:	啊 , 你 看 .
+%xmor:	INT|啊 , Npro:2sg|你 Vt|看 .
+*EXA:	媽媽 的 鞋 鞋 .
+%xmor:	Nn|媽媽 DE|的 Nn|鞋 Nn|鞋 .
+*EXA:	你 看 哦 , 這裡 有 毛巾 哦 .
+%xmor:	Npro:2sg|你 Vt|看 INT|哦 , Npro:dem|這裡 Vt|有 Nn|毛巾 SFP|哦 .
+*EXA:	毛巾 哦 .
+%xmor:	Nn|毛巾 SFP|哦 .
+*EXA:	毛巾 哦 , 毛巾 要 洗 臉臉 哦 .
+%xmor:	Nn|毛巾 SFP|哦 , Nn|毛巾 Vt|要 Vt|洗 Nn|臉臉 SFP|哦 .
+*EXA:	是 不 是 ?
+%xmor:	Vc|是 NEG|不 Vc|是 ?
+*EXA:	洗 臉臉 .
+%xmor:	Vt|洗 Nn|臉臉 .
+*EXA:	臉臉 .
+%xmor:	Nn|臉臉 .
+*EXA:	還有 呢 ?
+%xmor:	CONJ|還有 SFP|呢 ?
+*CHI:	壺壺 .
+%xmor:	Nn|壺壺 .
+*EXA:	哦 , 茶壺 啊 .
+%xmor:	INT|哦 , Nn|茶壺 SFP|啊 .
+*GRA:	嘿 , 這 個 壺 , 這 個 壺 .
+%xmor:	INT|嘿 , DET|這 M|個 Nn|壺 , DET|這 M|個 Nn|壺 .
+*EXA:	茶壺 哦 .
+%xmor:	Nn|茶壺 SFP|哦 .
+*EXA:	那 這 個 呢 ?
+%xmor:	INT|那 DET|這 M|個 SFP|呢 ?
+*EXA:	軒軒 , 這 個 呢 ?
+%xmor:	Nppn|軒軒 , DET|這 M|個 SFP|呢 ?
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	蛤 ?
+%xmor:	INT|蛤 ?
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	球 哦 .
+%xmor:	Nn|球 SFP|哦 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	球 .
+%xmor:	Nn|球 .
+*EXA:	哦 , 球 哦 .
+%xmor:	INT|哦 , Nn|球 SFP|哦 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	球 哦 .
+%xmor:	Nn|球 SFP|哦 .
+*GRA:	在 那裡 啊 ?
+%xmor:	PREP|在 WH|那裡 SFP|啊 ?
+*EXA:	沒有 啊 .
+%xmor:	NEG|沒有 SFP|啊 .
+*GRA:	拿 什麼 ?
+%xmor:	Vt|拿 WH|什麼 ?
+*GRA:	在 哪裡 摟 , 你 找 .
+%xmor:	PREP|在 WH|哪裡 SFP|摟 , Npro:2sg|你 Vt|找 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	蛤 ?
+%xmor:	INT|蛤 ?
+*EXA:	這 隻 狗 , 哈利 .
+%xmor:	DET|這 M|隻 Nn|狗 , Nppn|哈利 .
+*EXA:	哈利 .
+%xmor:	Nppn|哈利 .
+*CHI:	利 .
+%xmor:	Nppn|利 .
+*EXA:	利 .
+%xmor:	Nppn|利 .
+*EXA:	利 , 好 好 , 我們 再 來 看 .
+%xmor:	Va|利 , Va|好 Va|好 , Npro:1pl|我們 ADV|再 Vt|來 Vt|看 .
+*EXA:	來 , 軒軒 , 來 .
+%xmor:	Vt|來 , Nppn|軒軒 , Vt|來 .
+*EXA:	來 看 哦 , 我們 再 看 .
+%xmor:	Vt|來 Vt|看 SFP|哦 , Npro:1pl|我們 ADV|再 Vt|看 .
+*EXA:	再 看 哦 , 這 個 是 什麼 ?
+%xmor:	ADV|再 Vt|看 SFP|哦 , DET|這 M|個 Vc|是 WH|什麼 ?
+*EXA:	這 個 是 什麼 ?
+%xmor:	DET|這 M|個 Vc|是 WH|什麼 ?
+*GRA:	哇哇 , 沒有 走 了 .
+%xmor:	INT|哇哇 , NEG|沒有 Vi|走 ASP|了 .
+*CHI:	有 .
+%xmor:	Vt|有 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	又 要 拉 桌子 哦 .
+%xmor:	ADV|又 Vt|要 Vt|拉 Nn|桌子 SFP|哦 .
+*EXA:	又 要 拉 桌子 哦 .
+%xmor:	ADV|又 Vt|要 Vt|拉 Nn|桌子 SFP|哦 .
+*CHI:	沒有 .
+%xmor:	NEG|沒有 .
+*EXA:	沒有 .
+%xmor:	NEG|沒有 .
+*CHI:	有 .
+%xmor:	Vt|有 .
+*EXA:	嗚 , 他 拉 這 一 片 , 等一下 掉 下來 , 弄 到 腳 , 你 就 糟糕 了 .
+%xmor:	INT|嗚 , Npro:3sg|他 Vt|拉 DET|這 QN|一 M|片 , ADV|等一下 Vi|掉 Vi|下來 , Vt|弄 Vt|到 Nn|腳 , Npro:2sg|你 ADV|就 Va|糟糕 ASP|了 .
+*EXA:	壓 到 腳 .
+%xmor:	Vt|壓 Vt|到 Nn|腳 .
+*EXA:	放平 , 好 不 好 ?
+%xmor:	Vt|放平 , Va|好 NEG|不 Va|好 ?
+*EXA:	放平 的 .
+%xmor:	Vt|放平 DE|的 .
+*GRA:	放平 , 好 不 好 ?
+%xmor:	Vt|放平 , Va|好 NEG|不 Va|好 ?
+*CHI:	坐坐 .
+%xmor:	Vi|坐坐 .
+*GRA:	好 不 好 ?
+%xmor:	Va|好 NEG|不 Va|好 ?
+*CHI:	坐坐 .
+%xmor:	Vi|坐坐 .
+*EXA:	坐坐 哦 .
+%xmor:	Vi|坐坐 SFP|哦 .
+*EXA:	你 要 坐坐 了 哦 .
+%xmor:	Npro:2sg|你 Vt|要 Vi|坐坐 ASP|了 SFP|哦 .
+*EXA:	放平 了 .
+%xmor:	Vt|放平 ASP|了 .
+*EXA:	嘿 , 放平 .
+%xmor:	INT|嘿 , Vt|放平 .
+*GRA:	你 那邊 有 小 凳子 , 小 凳子 在 那邊 吶 .
+%xmor:	Npro:2sg|你 Nloc|那邊 Vt|有 ADJ|小 Nn|凳子 , ADJ|小 Nn|凳子 PREP|在 Nloc|那邊 SFP|吶 .
+*EXA:	哦 , 對 對 對 , 我們 要 來 坐 小 凳子 了 .
+%xmor:	INT|哦 , Va|對 Va|對 Va|對 , Npro:1pl|我們 Vt|要 Vt|來 Vi|坐 ADJ|小 Nn|凳子 ASP|了 .
+*EXA:	小 凳子 哦 .
+%xmor:	ADJ|小 Nn|凳子 SFP|哦 .
+*EXA:	你 要 不 要 坐坐 .
+%xmor:	Npro:2sg|你 Vt|要 NEG|不 Vt|要 Vi|坐坐 .
+*GRA:	你 跟 他 做 遊戲 , 走 圈圈 他 很 高興 的 .
+%xmor:	Npro:2sg|你 CONJ|跟 Npro:3sg|他 Vt|做 Nn|遊戲 , Vi|走 Nn|圈圈 Npro:3sg|他 ADV|很 Vt|高興 DE|的 .
+*EXA:	真的 哦 .
+%xmor:	MOD|真的 INT|哦 .
+*EXA:	來來 , xxx , 好 不 好 ?
+%xmor:	Vi|來來 , CHM|xxx , Va|好 NEG|不 Va|好 ?
+*EXA:	來 哦 , 來 跳舞 , 走 圈圈 , 要 不 要 ?
+%xmor:	Vt|來 INT|哦 , Vt|來 Vi|跳舞 , Vi|走 Nn|圈圈 , Vt|要 NEG|不 Vt|要 ?
+*EXA:	嘿 , 來 來 來 .
+%xmor:	INT|嘿 , Vi|來 Vi|來 Vi|來 .
+*EXA:	哦 , 這樣子 .
+%xmor:	INT|哦 , Va|這樣子 .
+*EXA:	哦 , 這樣子 轉 圈圈 哦 .
+%xmor:	INT|哦 , Va|這樣子 Vt|轉 Nn|圈圈 SFP|哦 .
+*EXA:	好 了 .
+%xmor:	Va|好 ASP|了 .
+*EXA:	停 .
+%xmor:	Va|停 .
+*EXA:	停 .
+%xmor:	Va|停 .
+*EXA:	唉呦 , 轉 到 房間 去 了 .
+%xmor:	INT|唉呦 , Vt|轉 Vt|到 Nn|房間 Vt|去 ASP|了 .
+*EXA:	停 , 停 , 哼 , 停 .
+%xmor:	Va|停 , Va|停 , INT|哼 , Va|停 .
+*EXA:	休息 一下 .
+%xmor:	Vi|休息 QN|一下 .
+*EXA:	休息 一下 .
+%xmor:	Vi|休息 QN|一下 .
+*EXA:	你 昏昏 的 了 .
+%xmor:	Npro:2sg|你 Va|昏昏 DE|的 ASP|了 .
+*EXA:	頭 昏昏 的 了 .
+%xmor:	Nn|頭 Va|昏昏 DE|的 ASP|了 .
+*EXA:	這 什麼 ?
+%xmor:	DET|這 WH|什麼 ?
+*EXA:	這 什麼 ?
+%xmor:	DET|這 WH|什麼 ?
+*EXA:	這 什麼 ?
+%xmor:	DET|這 WH|什麼 ?
+*GRA:	報紙 .
+%xmor:	Nn|報紙 .
+*GRA:	爸爸 , 報紙 .
+%xmor:	Nn|爸爸 , Nn|報紙 .
+*CHI:	媽媽 .
+%xmor:	Nn|媽媽 .
+*EXA:	報報 , 對 不 對 ?
+%xmor:	Nn|報報 , Va|對 NEG|不 Va|對 ?
+*EXA:	這 個 耶 .
+%xmor:	DET|這 M|個 SFP|耶 .
+*EXA:	這 個 耶 .
+%xmor:	DET|這 M|個 SFP|耶 .
+*EXA:	你 要 看 報紙 啊 .
+%xmor:	Npro:2sg|你 Vt|要 Vt|看 Nn|報紙 SFP|啊 .
+*EXA:	好 , 你 看 報紙 .
+%xmor:	Va|好 , Npro:2sg|你 Vt|看 Nn|報紙 .
+*EXA:	你 看 , 你 看 , 你 看 .
+%xmor:	Npro:2sg|你 Vt|看 , Npro:2sg|你 Vt|看 , Npro:2sg|你 Vt|看 .
+*EXA:	軒軒 , 你 看 .
+%xmor:	Nppn|軒軒 , Npro:2sg|你 Vt|看 .
+*EXA:	這 個 , 這 個 .
+%xmor:	DET|這 M|個 , DET|這 M|個 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	這 個 .
+%xmor:	DET|這 M|個 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	蛤 ?
+%xmor:	INT|蛤 ?
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	蛤 ?
+%xmor:	INT|蛤 ?
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	蛤 ?
+%xmor:	INT|蛤 ?
+*CHI:	爸爸 .
+%xmor:	Nn|爸爸 .
+*EXA:	哼 , xxx 報 , x 報紙 哦 .
+%xmor:	INT|哼 , CHM|xxx Nn|報 , CS|x Nn|報紙 SFP|哦 .
+*EXA:	還有 一 張 啊 .
+%xmor:	CONJ|還有 QN|一 M|張 INT|啊 .
+*EXA:	這麼 多 張 .
+%xmor:	ADV|這麼 Va|多 M|張 .
+*CHI:	張 .
+%xmor:	M|張 .
+*EXA:	對 , 這麼 多 張 .
+%xmor:	Va|對 , ADV|這麼 Va|多 M|張 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	蛤 ?
+%xmor:	INT|蛤 ?
+*CHI:	爸爸 .
+%xmor:	Nn|爸爸 .
+*GRA:	這 個 爸爸 .
+%xmor:	DET|這 M|個 Nn|爸爸 .
+*EXA:	那 個 上面 的 照片 .
+%xmor:	DET|那 M|個 Nloc|上面 DE|的 Nn|照片 .
+*EXA:	那 是 誰 呀 ?
+%xmor:	DET|那 Vc|是 WH|誰 SFP|呀 ?
+*EXA:	是 誰 呀 ?
+%xmor:	Vc|是 WH|誰 SFP|呀 ?
+*GRA:	那 個 叫 爸爸 , 男生 也 爸爸 .
+%xmor:	DET|那 M|個 Vt|叫 Nn|爸爸 , Nn|男生 ADV|也 Nn|爸爸 .
+*EXA:	這 個 呢 ?
+%xmor:	DET|這 M|個 SFP|呢 ?
+*EXA:	軒軒 , 這 個 呢 ?
+%xmor:	Nppn|軒軒 , DET|這 M|個 SFP|呢 ?
+*CHI:	鏡 .
+%xmor:	Nn|鏡 .
+*EXA:	眼鏡 哦 .
+%xmor:	Nn|眼鏡 SFP|哦 .
+*EXA:	這 個 眼鏡 哦 .
+%xmor:	DET|這 M|個 Nn|眼鏡 SFP|哦 .
+*EXA:	這 個 呢 ?
+%xmor:	DET|這 M|個 SFP|呢 ?
+*EXA:	唉呦 .
+%xmor:	INT|唉呦 .
+*EXA:	這 個 呢 ?
+%xmor:	DET|這 M|個 SFP|呢 ?
+*CHI:	媽媽 媽媽 .
+%xmor:	Nn|媽媽 Nn|媽媽 .
+*EXA:	哦 , 媽媽 媽媽 哦 .
+%xmor:	INT|哦 , Nn|媽媽 Nn|媽媽 SFP|哦 .
+*EXA:	那 個 是 媽媽 哦 .
+%xmor:	DET|那 M|個 Vc|是 Nn|媽媽 SFP|哦 .
+*EXA:	我們 再 翻翻 看 .
+%xmor:	Npro:1pl|我們 ADV|再 Vr|翻翻 Vt|看 .
+*EXA:	裡面 有 阿姨 沒有 ?
+%xmor:	Nloc|裡面 Vt|有 Nn|阿姨 NEG|沒有 ?
+*EXA:	有 沒有 ?
+%xmor:	Vt|有 NEG|沒有 ?
+*CHI:	笑 .
+%xmor:	Vi|笑 .
+*EXA:	在 那裡 哦 , 哈哈 .
+%xmor:	PREP|在 Nloc|那裡 SFP|哦 , ONM|哈哈 .
+*EXA:	哈哈 .
+%xmor:	ONM|哈哈 .
+*EXA:	來 , 這裡 呢 , 你 看 , 你 看 .
+%xmor:	Vt|來 , Npro:dem|這裡 SFP|呢 , Npro:2sg|你 Vt|看 , Npro:2sg|你 Vt|看 .
+*EXA:	這 是 什麼 呀 ?
+%xmor:	DET|這 Vc|是 WH|什麼 SFP|呀 ?
+*EXA:	這 是 什麼 呀 ?
+%xmor:	DET|這 Vc|是 WH|什麼 SFP|呀 ?
+*EXA:	哇 , 你 看 , 你 看 .
+%xmor:	INT|哇 , Npro:2sg|你 Vt|看 , Npro:2sg|你 Vt|看 .
+*EXA:	軒軒 , 你 看 , 那 什麼 呀 ?
+%xmor:	Nppn|軒軒 , Npro:2sg|你 Vt|看 , DET|那 WH|什麼 SFP|呀 ?
+*EXA:	這 什麼 ?
+%xmor:	DET|這 WH|什麼 ?
+*CHI:	豬豬 .
+%xmor:	Nn|豬豬 .
+*EXA:	嘟 ?
+%xmor:	ONM|嘟 ?
+*CHI:	豬豬 .
+%xmor:	Nn|豬豬 .
+*EXA:	豬豬 哦 .
+%xmor:	Nn|豬豬 SFP|哦 .
+*EXA:	哦 , 豬豬 .
+%xmor:	INT|哦 , Nn|豬豬 .
+*EXA:	這 是 不 是 鳥 ?
+%xmor:	DET|這 Vc|是 NEG|不 Vc|是 Nn|鳥 ?
+*CHI:	豬 豬 豬 .
+%xmor:	Nn|豬 Nn|豬 Nn|豬 .
+*EXA:	這 是 不 是 鳥 ?
+%xmor:	DET|這 Vc|是 NEG|不 Vc|是 Nn|鳥 ?
+*CHI:	豬 .
+%xmor:	Nn|豬 .
+*EXA:	豬 哦 .
+%xmor:	Nn|豬 SFP|哦 .
+*EXA:	豬豬 哦 .
+%xmor:	Nn|豬豬 SFP|哦 .
+*EXA:	那 你 的 豬豬 呢 ?
+%xmor:	INT|那 Npro:2sg|你 DE|的 Nn|豬豬 SFP|呢 ?
+*EXA:	豬豬 哦 .
+%xmor:	Nn|豬豬 SFP|哦 .
+*EXA:	耶 , 這 個 呢 ?
+%xmor:	SFP|耶 , DET|這 M|個 SFP|呢 ?
+*EXA:	軒軒 , 你 看 這 個 .
+%xmor:	Nppn|軒軒 , Npro:2sg|你 Vt|看 DET|這 M|個 .
+*EXA:	這裡 .
+%xmor:	Npro:dem|這裡 .
+*EXA:	這 一 隻 耶 .
+%xmor:	DET|這 QN|一 M|隻 SFP|耶 .
+*EXA:	唉呦 .
+%xmor:	INT|唉呦 .
+*EXA:	軒軒 在 哪裡 ?
+%xmor:	Nppn|軒軒 PREP|在 WH|哪裡 ?
+*EXA:	在 哪裡 ?
+%xmor:	PREP|在 WH|哪裡 ?
+*EXA:	等一下 報紙 都 撕壞 了 .
+%xmor:	ADV|等一下 Nn|報紙 ADV|都 Vt|撕壞 ASP|了 .
+*EXA:	啊 , 在 哪裡 ?
+%xmor:	INT|啊 , PREP|在 WH|哪裡 ?
+*EXA:	啊 , 在 哪裡 ?
+%xmor:	INT|啊 , PREP|在 WH|哪裡 ?
+*EXA:	豬豬 哦 .
+%xmor:	Nn|豬豬 SFP|哦 .
+*EXA:	報紙上 +...
+%xmor:	Nloc|報紙上 +...
+*EXA:	哇 .
+%xmor:	INT|哇 .
+*EXA:	在 哪裡 ?
+%xmor:	PREP|在 WH|哪裡 ?
+*EXA:	軒軒 在 哪裡 ?
+%xmor:	Nppn|軒軒 PREP|在 WH|哪裡 ?
+*CHI:	破破 .
+%xmor:	Va|破破 .
+*EXA:	在 哪裡 ?
+%xmor:	PREP|在 WH|哪裡 ?
+*EXA:	這 什麼 ?
+%xmor:	DET|這 WH|什麼 ?
+*CHI:	破破 .
+%xmor:	Va|破破 .
+*EXA:	破破 哦 .
+%xmor:	Va|破破 SFP|哦 .
+*EXA:	在 哪裡 有 破破 ?
+%xmor:	PREP|在 WH|哪裡 Vt|有 Va|破破 ?
+*EXA:	哦 , 一 個 洞洞 .
+%xmor:	INT|哦 , QN|一 M|個 Nn|洞洞 .
+*EXA:	哦 , 破破 .
+%xmor:	INT|哦 , Va|破破 .
+*EXA:	這裡 也 有 耶 .
+%xmor:	Npro:dem|這裡 ADV|也 Vt|有 SFP|耶 .
+*EXA:	報紙上 有 小 洞洞 .
+%xmor:	Nloc|報紙上 Vt|有 ADJ|小 Nn|洞洞 .
+*EXA:	這 個 是 什麼 啊 ?
+%xmor:	DET|這 M|個 Vc|是 WH|什麼 SFP|啊 ?
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	Nia .
+%xmor:	CS|Nia .
+*EXA:	Nia .
+%xmor:	CS|Nia .
+*EXA:	嗚 , 又 不 見 了 .
+%xmor:	INT|嗚 , ADV|又 NEG|不 Va|見 ASP|了 .
+*EXA:	哇 .
+%xmor:	INT|哇 .
+*EXA:	哇 , 又 不 見 了 .
+%xmor:	INT|哇 , ADV|又 NEG|不 Va|見 ASP|了 .
+*EXA:	哇 .
+%xmor:	INT|哇 .
+*EXA:	你 看 哦 , 這 個 是 什麼 ?
+%xmor:	Npro:2sg|你 Vt|看 INT|哦 , DET|這 M|個 Vc|是 WH|什麼 ?
+*EXA:	軒軒 , 你 看看 , 這裡 哦 , 你 看 .
+%xmor:	Nppn|軒軒 , Npro:2sg|你 Vr|看看 , Npro:dem|這裡 SFP|哦 , Npro:2sg|你 Vt|看 .
+*EXA:	這裡 哦 .
+%xmor:	Npro:dem|這裡 SFP|哦 .
+*EXA:	蛤 , 什麼 ?
+%xmor:	INT|蛤 , WH|什麼 ?
+*CHI:	床 .
+%xmor:	Nn|床 .
+*EXA:	床 哦 .
+%xmor:	Nn|床 SFP|哦 .
+*EXA:	這 個 呢 ?
+%xmor:	DET|這 M|個 SFP|呢 ?
+*CHI:	帽帽 .
+%xmor:	Nn|帽帽 .
+*EXA:	帽帽 .
+%xmor:	Nn|帽帽 .
+*EXA:	還有 呢 ?
+%xmor:	CONJ|還有 SFP|呢 ?
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	再 來 , 再 來 .
+%xmor:	ADV|再 Vt|來 , ADV|再 Vt|來 .
+*EXA:	嗚嗚 .
+%xmor:	ONM|嗚嗚 .
+*EXA:	再 來 .
+%xmor:	ADV|再 Vt|來 .
+*CHI:	嘟 .
+%xmor:	ONM|嘟 .
+*EXA:	嘟嘟 嘟嘟 嘟嘟 嘟 嘟嘟 嘟嘟 .
+%xmor:	ONM|嘟嘟 ONM|嘟嘟 ONM|嘟嘟 ONM|嘟 ONM|嘟嘟 ONM|嘟嘟 .
+*EXA:	嘟 .
+%xmor:	ONM|嘟 .
+*EXA:	嘟 .
+%xmor:	ONM|嘟 .
+*EXA:	嘟 .
+%xmor:	ONM|嘟 .
+*CHI:	嘟 .
+%xmor:	ONM|嘟 .
+*EXA:	再 來 勒 .
+%xmor:	ADV|再 Vt|來 SFP|勒 .
+*EXA:	蛤 ?
+%xmor:	INT|蛤 ?
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	再 來 , 再 拉 .
+%xmor:	ADV|再 Vt|來 , ADV|再 Vt|拉 .
+*CHI:	S 嘟嘟 嘟嘟 嘟嘟 .
+%xmor:	CS|S ONM|嘟嘟 ONM|嘟嘟 ONM|嘟嘟 .
+*EXA:	都 都 都 都 都 都 .
+%xmor:	ONM|都 ONM|都 ONM|都 ONM|都 ONM|都 ONM|都 .
+*EXA:	再 來 , 哼 .
+%xmor:	ADV|再 Vt|來 , INT|哼 .
+*EXA:	換 拉 這邊 .
+%xmor:	Vt|換 Vt|拉 Npro:dem|這邊 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*CHI:	S 嘟嘟 嘟嘟 嘟嘟 嘟 嘟嘟 嘟嘟 .
+%xmor:	CS|S ONM|嘟嘟 ONM|嘟嘟 ONM|嘟嘟 ONM|嘟 ONM|嘟嘟 ONM|嘟嘟 .
+*EXA:	嘟 , 哼 , 他 就 是 愛 玩 這樣 抓 .
+%xmor:	ONM|嘟 , INT|哼 , Npro:3sg|他 ADV|就 Vc|是 Va|愛 Vt|玩 Va|這樣 Vt|抓 .
+*CHI:	噯 .
+%xmor:	INT|噯 .
+*EXA:	噯 .
+%xmor:	INT|噯 .
+*EXA:	呦 , 自己 拆 了 .
+%xmor:	CHM|呦 , Npro:ref|自己 Vt|拆 ASP|了 .
+*EXA:	阿姨 弄 , 阿姨 弄 , 阿姨 弄 , 哼 .
+%xmor:	Nn|阿姨 Vt|弄 , Nn|阿姨 Vt|弄 , Nn|阿姨 Vt|弄 , INT|哼 .
+*GRA:	唉呀 , xxx .
+%xmor:	INT|唉呀 , CHM|xxx .
+*GRA:	你 笑 一下 , 哈哈 哈哈 .
+%xmor:	Npro:2sg|你 Vi|笑 QN|一下 , ONM|哈哈 ONM|哈哈 .
+*CHI:	哈 哈哈 .
+%xmor:	ONM|哈 ONM|哈哈 .
+*EXA:	有 沒有 ?
+%xmor:	Vt|有 NEG|沒有 ?
+*EXA:	還 沒有 .
+%xmor:	ADV|還 NEG|沒有 .
+*EXA:	你 要 這樣 拿 , 這樣 拿 不 出來 耶 .
+%xmor:	Npro:2sg|你 Vt|要 Va|這樣 Vt|拿 , Va|這樣 Vt|拿 NEG|不 Vi|出來 SFP|耶 .
+*EXA:	這 什麼 玩具 耶 .
+%xmor:	DET|這 WH|什麼 Nn|玩具 SFP|耶 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	蛤 ?
+%xmor:	Nn|蛤 ?
+*EXA:	哦 , 跟 他 那 個 很 像 的 .
+%xmor:	INT|哦 , CONJ|跟 Npro:3sg|他 DET|那 M|個 ADV|很 Vt|像 DE|的 .
+*EXA:	嘿 , 對對對 .
+%xmor:	INT|嘿 , Va|對對對 .
+*EXA:	好 了 .
+%xmor:	Va|好 ASP|了 .
+*EXA:	你 看 , 你 看 , 怎麼 那 個 也 要 搬 出來 .
+%xmor:	Npro:2sg|你 Vt|看 , Npro:2sg|你 Vt|看 , WH|怎麼 DET|那 M|個 ADV|也 Vt|要 Vi|搬 Vi|出來 .
+*EXA:	那 個 先 放 著 , 好 不 好 ?
+%xmor:	DET|那 M|個 ADV|先 Vt|放 ASP|著 , Va|好 NEG|不 Va|好 ?
+*EXA:	好 好好 , 阿姨 打開 .
+%xmor:	ADV|好 Va|好好 , Nn|阿姨 Vt|打開 .
+*EXA:	先 打開 這裡 , 好 不 好 ?
+%xmor:	ADV|先 Vt|打開 Npro:dem|這裡 , Va|好 NEG|不 Va|好 ?
+*EXA:	什麼 呀 ?
+%xmor:	WH|什麼 SFP|呀 ?
+*EXA:	什麼 呀 ?
+%xmor:	WH|什麼 SFP|呀 ?
+*EXA:	這 什麼 呀 ?
+%xmor:	DET|這 WH|什麼 SFP|呀 ?
+*EXA:	軒軒 把 他 打開 .
+%xmor:	Nppn|軒軒 PREP|把 Npro:3sg|他 Vt|打開 .
+*EXA:	哇 , 還 有 什麼 呀 .
+%xmor:	INT|哇 , ADV|還 Vt|有 WH|什麼 SFP|呀 .
+*EXA:	再 打開 .
+%xmor:	ADV|再 Vt|打開 .
+*EXA:	再 打開 呀 .
+%xmor:	ADV|再 Vt|打開 SFP|呀 .
+*EXA:	再 打開 .
+%xmor:	ADV|再 Vt|打開 .
+*EXA:	來 , 阿姨 弄 , 哼 .
+%xmor:	Vt|來 , Nn|阿姨 Vt|弄 , INT|哼 .
+*EXA:	你 看 .
+%xmor:	Npro:2sg|你 Vt|看 .
+*EXA:	軒軒 , 你 看 .
+%xmor:	Nppn|軒軒 , Npro:2sg|你 Vt|看 .
+*CHI:	具具 .
+%xmor:	Nn|具具 .
+*EXA:	哦 , 玩具 哦 .
+%xmor:	INT|哦 , Nn|玩具 SFP|哦 .
+*EXA:	玩具 哦 .
+%xmor:	Nn|玩具 SFP|哦 .
+*EXA:	再 打開 .
+%xmor:	ADV|再 Vt|打開 .
+*EXA:	哦 哦 哦 , 這麼 多 .
+%xmor:	INT|哦 INT|哦 INT|哦 , ADV|這麼 Va|多 .
+*CHI:	具具 .
+%xmor:	Vt|具具 .
+*EXA:	還有 耶 .
+%xmor:	CONJ|還有 SFP|耶 .
+*EXA:	你 看 耶 .
+%xmor:	Npro:2sg|你 Vt|看 SFP|耶 .
+*CHI:	具具 .
+%xmor:	Nn|具具 .
+*EXA:	你 看 , 還有 耶 .
+%xmor:	Npro:2sg|你 Vt|看 , CONJ|還有 SFP|耶 .
+*CHI:	有 .
+%xmor:	Vt|有 .
+*EXA:	還有 耶 .
+%xmor:	CONJ|還有 SFP|耶 .
+*CHI:	xxx 有 .
+%xmor:	CHM|xxx Vt|有 .
+*EXA:	哦 , 還有 耶 .
+%xmor:	INT|哦 , CONJ|還有 SFP|耶 .
+*EXA:	哦 , 對 .
+%xmor:	INT|哦 , Va|對 .
+*CHI:	有 .
+%xmor:	Vt|有 .
+*EXA:	還 有 沒有 ?
+%xmor:	ADV|還 Vt|有 NEG|沒有 ?
+*CHI:	Y_N 有 .
+%xmor:	CS|Y_N Vt|有 .
+*EXA:	哇 , 那麼 多 .
+%xmor:	INT|哇 , ADV|那麼 Va|多 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	沒有 , 這 個 沒有 了 , 拆 不 開 .
+%xmor:	NEG|沒有 , DET|這 M|個 NEG|沒有 ASP|了 , Vt|拆 NEG|不 Vt|開 .
+*EXA:	打開 不, 哼 .
+%xmor:	Vt|打開 NEG|不, INT|哼 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	哼 , 這麼 多 耶 .
+%xmor:	INT|哼 , ADV|這麼 Va|多 SFP|耶 .
+*GRA:	有 沒有 放 進去 啊 ?
+%xmor:	Vt|有 NEG|沒有 Vi|放 Vi|進去 SFP|啊 ?
+*GRA:	你 會 不 會 放 進去 啊 ?
+%xmor:	Npro:2sg|你 MOD|會 NEG|不 MOD|會 Vi|放 Vi|進去 SFP|啊 ?
+*EXA:	好 多 耶 .
+%xmor:	ADV|好 Va|多 SFP|耶 .
+*EXA:	阿姨 再 給 跟 放 進去 , 好 不 好 ?
+%xmor:	Nn|阿姨 ADV|再 Vt|給 CONJ|跟 Vi|放 Vi|進去 , Va|好 NEG|不 Va|好 ?
+*GRA:	放 回去 , 好 不 好 ?
+%xmor:	Vi|放 Vi|回去 , Va|好 NEG|不 Va|好 ?
+*EXA:	放 回去 .
+%xmor:	Vi|放 Vi|回去 .
+*EXA:	放 回去 , 好 多 哦 .
+%xmor:	Vi|放 Vi|回去 , ADV|好 Va|多 INT|哦 .
+*EXA:	好 多 哦 .
+%xmor:	ADV|好 Va|多 INT|哦 .
+*EXA:	你 看 .
+%xmor:	Npro:2sg|你 Vt|看 .
+*EXA:	放 進去 了 哦 .
+%xmor:	Vi|放 Vi|進去 ASP|了 SFP|哦 .
+*EXA:	軒軒 , 你 看 , 掉 進去 了 哦 .
+%xmor:	Nppn|軒軒 , Npro:2sg|你 Vt|看 , Vi|掉 Vi|進去 ASP|了 SFP|哦 .
+*EXA:	掉 進去 了 哦 .
+%xmor:	Vi|掉 Vi|進去 ASP|了 SFP|哦 .
+*CHI:	去 .
+%xmor:	Vt|去 .
+*EXA:	哼 , 蓋 起來 .
+%xmor:	INT|哼 , Vi|蓋 Vi|起來 .
+*CHI:	去 .
+%xmor:	Vt|去 .
+*EXA:	再 放 進去 .
+%xmor:	ADV|再 Vi|放 Vi|進去 .
+*EXA:	再 蓋 起來 .
+%xmor:	ADV|再 Vi|蓋 Vi|起來 .
+*EXA:	再 放 進去 .
+%xmor:	ADV|再 Vi|放 Vi|進去 .
+*EXA:	哇 .
+%xmor:	INT|哇 .
+*EXA:	這麼 多 個 .
+%xmor:	ADV|這麼 Va|多 M|個 .
+*EXA:	這 什麼 顏色 ?
+%xmor:	DET|這 WH|什麼 Nn|顏色 ?
+*EXA:	紅 +...
+%xmor:	Va|紅 +...
+*CHI:	色 .
+%xmor:	Nn|色 .
+*EXA:	嗯 .
+%xmor:	INT|嗯 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	嗯 .
+%xmor:	INT|嗯 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	這麼 多 個 , 這麼 多 個 .
+%xmor:	ADV|這麼 Va|多 M|個 , ADV|這麼 Va|多 M|個 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	這麼 多 .
+%xmor:	ADV|這麼 Va|多 .
+*CHI:	哇哇 .
+%xmor:	INT|哇哇 .
+*EXA:	這麼 多 .
+%xmor:	ADV|這麼 Va|多 .
+*CHI:	哇哇 .
+%xmor:	INT|哇哇 .
+*EXA:	我們 來 打 圈圈 , 好 不 好 ?
+%xmor:	Npro:1pl|我們 Vt|來 Vt|打 Nn|圈圈 , Va|好 NEG|不 Va|好 ?
+*EXA:	打 圈圈 , 哼 , 來 哦 .
+%xmor:	Vt|打 Nn|圈圈 , INT|哼 , Vt|來 INT|哦 .
+*EXA:	不 是 啊 , 不 是 叫 你 繞圈圈 啦 .
+%xmor:	NEG|不 Vc|是 SFP|啊 , NEG|不 Vc|是 Vt|叫 Npro:2sg|你 Vi|繞圈圈 SFP|啦 .
+*EXA:	你 看 , 這麼 多 個 .
+%xmor:	Npro:2sg|你 Vt|看 , ADV|這麼 Va|多 M|個 .
+*GRA:	唉呦 , 那麼 多 .
+%xmor:	INT|唉呦 , ADV|那麼 Va|多 .
+*GRA:	哇 , 好 多 個 .
+%xmor:	INT|哇 , ADV|好 Va|多 M|個 .
+*EXA:	哇 .
+%xmor:	INT|哇 .
+*CHI:	沒有 .
+%xmor:	NEG|沒有 .
+*EXA:	沒有 .
+%xmor:	NEG|沒有 .
+*GRA:	沒有 .
+%xmor:	NEG|沒有 .
+*GRA:	哇 .
+%xmor:	INT|哇 .
+*CHI:	沒有 .
+%xmor:	NEG|沒有 .
+*EXA:	裡面 沒有 .
+%xmor:	Nloc|裡面 NEG|沒有 .
+*EXA:	裡面 沒有 .
+%xmor:	Nloc|裡面 NEG|沒有 .
+*EXA:	你 看 , 這麼 多 耶 .
+%xmor:	Npro:2sg|你 Vt|看 , ADV|這麼 Va|多 SFP|耶 .
+*EXA:	這麼 多 耶 .
+%xmor:	ADV|這麼 Va|多 SFP|耶 .
+*CHI:	耶 .
+%xmor:	SFP|耶 .
+*EXA:	這麼 多 耶 .
+%xmor:	ADV|這麼 Va|多 SFP|耶 .
+*EXA:	這麼 多 耶 .
+%xmor:	ADV|這麼 Va|多 SFP|耶 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	嘿 .
+%xmor:	INT|嘿 .
+*EXA:	嗚 .
+%xmor:	INT|嗚 .
+*EXA:	哇 , 哇 , 不 見 了 .
+%xmor:	INT|哇 , INT|哇 , NEG|不 Va|見 ASP|了 .
+*EXA:	不 見 , 撿 起來 , 好 不 好 ?
+%xmor:	NEG|不 Va|見 , Vi|撿 Vi|起來 , Va|好 NEG|不 Va|好 ?
+*EXA:	撿 起來 , 好 不 好 ?
+%xmor:	Vi|撿 Vi|起來 , Va|好 NEG|不 Va|好 ?
+*EXA:	鑽 進去 .
+%xmor:	Vi|鑽 Vi|進去 .
+*EXA:	小心 哦 .
+%xmor:	Vt|小心 SFP|哦 .
+*EXA:	頭 不 要 撞到 .
+%xmor:	Nn|頭 NEG|不 Vt|要 Vt|撞到 .
+*EXA:	哦 .
+%xmor:	INT|哦 .
+*GRA:	撞 到 頭 了 .
+%xmor:	Vt|撞 Vt|到 Nn|頭 ASP|了 .
+*CHI:	S 啊 嗯 .
+%xmor:	CS|S INT|啊 INT|嗯 .
+*EXA:	痛 不 痛 ?
+%xmor:	Va|痛 NEG|不 Va|痛 ?
+*EXA:	好 了 , 好 了 , 好 了 .
+%xmor:	Va|好 ASP|了 , Va|好 ASP|了 , Va|好 ASP|了 .
+*CHI:	痛痛 .
+%xmor:	Va|痛痛 .
+*EXA:	好 , 謝謝 , 來 .
+%xmor:	Va|好 , Vt|謝謝 , Vt|來 .
+*EXA:	幾 個 呀 , 這麼 多 .
+%xmor:	QN|幾 M|個 SFP|呀 , ADV|這麼 Va|多 .
+*EXA:	這麼 多 啊 .
+%xmor:	ADV|這麼 Va|多 SFP|啊 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	這麼 多 .
+%xmor:	ADV|這麼 Va|多 .
+*EXA:	啊 , 好棒 哦 .
+%xmor:	INT|啊 , Va|好棒 SFP|哦 .
+*EXA:	拍手 , 哦 .
+%xmor:	Vi|拍手 , INT|哦 .
+*EXA:	哦 , 好 高 哦 .
+%xmor:	INT|哦 , ADV|好 Va|高 SFP|哦 .
+*EXA:	小心 , 拿 下來 .
+%xmor:	Vt|小心 , Vi|拿 Vi|下來 .
+*EXA:	哇 .
+%xmor:	INT|哇 .
+*EXA:	嗚嗚 嗚嗚 , 又 要 掉 下去 了 .
+%xmor:	ONM|嗚嗚 ONM|嗚嗚 , ADV|又 Vt|要 Vi|掉 Vi|下去 ASP|了 .
+*EXA:	放 哪裡 ?
+%xmor:	Vt|放 WH|哪裡 ?
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	放 這裡 哦 .
+%xmor:	Vt|放 Npro:dem|這裡 SFP|哦 .
+*EXA:	盒子 呢 , 剛才 的 盒子 呢 ?
+%xmor:	Nn|盒子 SFP|呢 , ADV|剛才 DE|的 Nn|盒子 SFP|呢 ?
+*EXA:	玩具 的 盒子 呢 ?
+%xmor:	Nn|玩具 DE|的 Nn|盒子 SFP|呢 ?
+*GRA:	盒子 呢 , 盒子 呢 ?
+%xmor:	Nn|盒子 SFP|呢 , Nn|盒子 SFP|呢 ?
+*CHI:	嗯 嗯 .
+%xmor:	INT|嗯 INT|嗯 .
+*EXA:	嗯 , 好 .
+%xmor:	INT|嗯 , Va|好 .
+*CHI:	盒 .
+%xmor:	Nn|盒 .
+*EXA:	這 個 盒 哦 .
+%xmor:	DET|這 M|個 Nn|盒 SFP|哦 .
+*EXA:	這 個 呀 .
+%xmor:	DET|這 M|個 SFP|呀 .
+*EXA:	這 個 呀 .
+%xmor:	DET|這 M|個 SFP|呀 .
+*EXA:	盒子 呀 .
+%xmor:	Nn|盒子 SFP|呀 .
+*EXA:	放 進去 了 , 好 不 好 ?
+%xmor:	Vi|放 Vi|進去 ASP|了 , Va|好 NEG|不 Va|好 ?
+*GRA:	好 .
+%xmor:	Va|好 .
+*EXA:	好 不 好 ?
+%xmor:	Va|好 NEG|不 Va|好 ?
+*GRA:	好 .
+%xmor:	Va|好 .
+*EXA:	阿姨 把 他 放 進去 了 .
+%xmor:	Nn|阿姨 PREP|把 Npro:3sg|他 Vi|放 Vi|進去 ASP|了 .
+*GRA:	好 .
+%xmor:	Va|好 .
+*EXA:	好 不 好 ?
+%xmor:	Va|好 NEG|不 Va|好 ?
+*EXA:	不 要 哦 , 你 搖頭 哦 , 一直 +...
+%xmor:	NEG|不 Vt|要 INT|哦 , Npro:2sg|你 Vi|搖頭 SFP|哦 , ADV|一直 +...
+*EXA:	那 我們 從 洞洞 把 他 丟 進去 .
+%xmor:	INT|那 Npro:1pl|我們 PREP|從 Nn|洞洞 PREP|把 Npro:3sg|他 Vt|丟 Vi|進去 .
+*CHI:	沒有 .
+%xmor:	NEG|沒有 .
+*EXA:	也 不 要 哦 .
+%xmor:	ADV|也 NEG|不 Vt|要 INT|哦 .
+*EXA:	這樣 , 這樣 , 來 .
+%xmor:	Va|這樣 , Va|這樣 , Vt|來 .
+*EXA:	哇 .
+%xmor:	INT|哇 .
+*EXA:	軒軒 丟 , 好 不 好 ?
+%xmor:	Nppn|軒軒 Vt|丟 , Va|好 NEG|不 Va|好 ?
+*GRA:	好 , 沒有 講 好 .
+%xmor:	Va|好 , NEG|沒有 Vt|講 Va|好 .
+*CHI:	不 要 .
+%xmor:	NEG|不 Vt|要 .
+*EXA:	不 要 .
+%xmor:	NEG|不 Vt|要 .
+*EXA:	阿姨 丟 , 好 不 好 ?
+%xmor:	Nn|阿姨 Vt|丟 , Va|好 NEG|不 Va|好 ?
+*CHI:	不 要 .
+%xmor:	NEG|不 Vt|要 .
+*EXA:	不 要 哦 .
+%xmor:	NEG|不 Vt|要 INT|哦 .
+*EXA:	不 要 敲 , 好 不 好 ?
+%xmor:	NEG|不 Vt|要 Vt|敲 , Va|好 NEG|不 Va|好 ?
+*EXA:	你 不 要 哦 .
+%xmor:	Npro:2sg|你 NEG|不 Vt|要 INT|哦 .
+*EXA:	我們 來 轉 圈圈 , 把 這 個 繞圈圈 , 好 不 好 ?
+%xmor:	Npro:1pl|我們 Vt|來 Vt|轉 Nn|圈圈 , PREP|把 DET|這 M|個 Vi|繞圈圈 , Va|好 NEG|不 Va|好 ?
+*EXA:	這樣 , 這樣 .
+%xmor:	Va|這樣 , Va|這樣 .
+*EXA:	來 來 來 , 我 丟給 你 .
+%xmor:	Vi|來 Vi|來 Vi|來 , Npro:1sg|我 Vt|丟給 Npro:2sg|你 .
+*EXA:	嘿 .
+%xmor:	INT|嘿 .
+*EXA:	來 .
+%xmor:	Vt|來 .
+*EXA:	揩 .
+%xmor:	Vt|揩 .
+*EXA:	這樣 丟 .
+%xmor:	Va|這樣 Vt|丟 .
+*EXA:	不 是 , 這樣 繞 .
+%xmor:	NEG|不 Vc|是 , Va|這樣 Vi|繞 .
+*EXA:	滾 , 袚 .
+%xmor:	Vi|滾 , Vi|袚 .
+*EXA:	這樣 滾 .
+%xmor:	Va|這樣 Vt|滾 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	嗚 .
+%xmor:	INT|嗚 .
+*EXA:	袚 , 好 , 撿 起來 .
+%xmor:	Vi|袚 , Va|好 , Vi|撿 Vi|起來 .
+*CHI:	滾 .
+%xmor:	Vi|滾 .
+*EXA:	嘿 .
+%xmor:	INT|嘿 .
+*EXA:	怎麼 破 了 , 阿姨 修理 , 好 不 好 ?
+%xmor:	WH|怎麼 Va|破 ASP|了 , Nn|阿姨 Vt|修理 , Va|好 NEG|不 Va|好 ?
+*CHI:	修 .
+%xmor:	Vt|修 .
+*EXA:	好 , 修 .
+%xmor:	Va|好 , Vt|修 .
+*EXA:	還有 那 個 啊 .
+%xmor:	CONJ|還有 DET|那 M|個 INT|啊 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	好 多 哦 .
+%xmor:	ADV|好 Va|多 INT|哦 .
+*EXA:	哦 , 這麼 多 個 哦 .
+%xmor:	INT|哦 , ADV|這麼 Va|多 M|個 INT|哦 .
+*CHI:	嗯 .
+%xmor:	INT|嗯 .
+*EXA:	嗯 , 好 .
+%xmor:	INT|嗯 , Va|好 .
+*EXA:	還有 呢 ?
+%xmor:	CONJ|還有 SFP|呢 ?
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	嘿 .
+%xmor:	INT|嘿 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	嘿 , 來 .
+%xmor:	INT|嘿 , Vt|來 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	來 .
+%xmor:	Vt|來 .
+*CHI:	打打 .
+%xmor:	Vt|打打 .
+*CHI:	打 .
+%xmor:	Vt|打 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	還有 呢 ?
+%xmor:	CONJ|還有 SFP|呢 ?
+*EXA:	還有 兩 個 .
+%xmor:	CONJ|還有 QN|兩 M|個 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	還有 兩 個 耶 .
+%xmor:	CONJ|還有 QN|兩 M|個 SFP|耶 .
+*CHI:	沒有 .
+%xmor:	NEG|沒有 .
+*EXA:	有 啊 .
+%xmor:	Vt|有 INT|啊 .
+*EXA:	有 啊 .
+%xmor:	Vt|有 INT|啊 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	還有 一 個 在 電視 那邊 .
+%xmor:	CONJ|還有 QN|一 M|個 PREP|在 Nn|電視 Nloc|那邊 .
+*EXA:	在 電視 那邊 .
+%xmor:	PREP|在 Nn|電視 Nloc|那邊 .
+*EXA:	知道 哼 .
+%xmor:	Vt|知道 INT|哼 .
+*EXA:	對對 .
+%xmor:	Va|對對 .
+*EXA:	嘿 , 拿來 , 嘿 .
+%xmor:	INT|嘿 , Vt|拿來 , INT|嘿 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	好 多 耶 .
+%xmor:	ADV|好 Va|多 SFP|耶 .
+*EXA:	好 多 耶 , 哼 .
+%xmor:	ADV|好 Va|多 SFP|耶 , INT|哼 .
+*CHI:	耶 .
+%xmor:	SFP|耶 .
+*EXA:	好 多 耶 .
+%xmor:	ADV|好 Va|多 SFP|耶 .
+*CHI:	耶 .
+%xmor:	SFP|耶 .
+*EXA:	嗯 .
+%xmor:	INT|嗯 .
+*EXA:	一二三四五六 .
+%xmor:	IDM|一二三四五六 .
+*EXA:	來 , 放好 , 好 不 好 ?
+%xmor:	Vt|來 , Vt|放好 , Va|好 NEG|不 Va|好 ?
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*GRA:	一二 , 你 算 啊 .
+%xmor:	QN|一二 , Npro:2sg|你 Vt|算 SFP|啊 .
+*CHI:	四 .
+%xmor:	QN|四 .
+*GRA:	一 +...
+%xmor:	QN|一 +...
+*EXA:	這樣 .
+%xmor:	Va|這樣 .
+*CHI:	四 .
+%xmor:	QN|四 .
+*GRA:	二 .
+%xmor:	QN|二 .
+*EXA:	這樣 放 哦 .
+%xmor:	Va|這樣 Vt|放 SFP|哦 .
+*EXA:	這樣 會 掉 到 後面 去 .
+%xmor:	Va|這樣 MOD|會 Vt|掉 Vt|到 Nloc|後面 Vt|去 .
+*CHI:	去 .
+%xmor:	Vt|去 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	蛤 ?
+%xmor:	INT|蛤 ?
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	打 .
+%xmor:	Vt|打 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	打 .
+%xmor:	Vt|打 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	打 .
+%xmor:	Vt|打 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	這樣 打 .
+%xmor:	Va|這樣 Vt|打 .
+*EXA:	這樣 打 .
+%xmor:	Va|這樣 Vt|打 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*CHI:	打 .
+%xmor:	Vt|打 .
+*EXA:	打 .
+%xmor:	Vt|打 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	打 .
+%xmor:	Vt|打 .
+*EXA:	哇 .
+%xmor:	INT|哇 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	打 .
+%xmor:	Vt|打 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	打 .
+%xmor:	Vt|打 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	xxx ?
+%xmor:	CHM|xxx ?
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	打 .
+%xmor:	Vt|打 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	阿姨 把 他 放 進去 , 好 不 好 ?
+%xmor:	Nn|阿姨 PREP|把 Npro:3sg|他 Vi|放 Vi|進去 , Va|好 NEG|不 Va|好 ?
+*CHI:	不 要 .
+%xmor:	NEG|不 Vt|要 .
+*EXA:	不 要 哦 .
+%xmor:	NEG|不 Vt|要 INT|哦 .
+*CHI:	見 .
+%xmor:	Vt|見 .
+*EXA:	不 見 了 .
+%xmor:	NEG|不 Va|見 ASP|了 .
+*CHI:	見 .
+%xmor:	Vt|見 .
+*EXA:	不 見 了 .
+%xmor:	NEG|不 Va|見 ASP|了 .
+*EXA:	你 看 .
+%xmor:	Npro:2sg|你 Vt|看 .
+*CHI:	見 .
+%xmor:	Vt|見 .
+*EXA:	這 把 他 放 進去 , 好 不 好 ?
+%xmor:	DET|這 PREP|把 Npro:3sg|他 Vi|放 Vi|進去 , Va|好 NEG|不 Va|好 ?
+*CHI:	見 .
+%xmor:	Vt|見 .
+*GRA:	好 .
+%xmor:	Va|好 .
+*CHI:	見 .
+%xmor:	Vt|見 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	再 把 他 放 進去 , 好 不 好 ?
+%xmor:	ADV|再 PREP|把 Npro:3sg|他 Vi|放 Vi|進去 , Va|好 NEG|不 Va|好 ?
+*CHI:	見見 .
+%xmor:	Vi|見見 .
+*EXA:	哇 .
+%xmor:	INT|哇 .
+*EXA:	蓋 起來 .
+%xmor:	Vi|蓋 Vi|起來 .
+*EXA:	不 見了 .
+%xmor:	NEG|不 Va|見了 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	把 他 放 進去 , 好 不 好 ?
+%xmor:	PREP|把 Npro:3sg|他 Vi|放 Vi|進去 , Va|好 NEG|不 Va|好 ?
+*CHI:	見見 .
+%xmor:	Vi|見見 .
+*EXA:	放 這 個 .
+%xmor:	Vt|放 DET|這 M|個 .
+*EXA:	好 不 好 ?
+%xmor:	Va|好 NEG|不 Va|好 ?
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	哇 .
+%xmor:	INT|哇 .
+*EXA:	放進 不 , 沒有 了 , 沒有 了 .
+%xmor:	Vt|放進 NEG|不 , NEG|沒有 ASP|了 , NEG|沒有 ASP|了 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	沒有 了 .
+%xmor:	NEG|沒有 ASP|了 .
+*EXA:	哇 .
+%xmor:	INT|哇 .
+*EXA:	還 一 個 呢 ?
+%xmor:	ADV|還 QN|一 M|個 SFP|呢 ?
+*EXA:	一 個 不 見 了 .
+%xmor:	QN|一 M|個 NEG|不 Va|見 ASP|了 .
+*EXA:	下面 .
+%xmor:	Nloc|下面 .
+*EXA:	看到 了 沒 ?
+%xmor:	Vt|看到 ASP|了 NEG|沒 ?
+*EXA:	哼 , 有 沒有 ?
+%xmor:	INT|哼 , Vt|有 NEG|沒有 ?
+*EXA:	不 是 這裡 .
+%xmor:	NEG|不 Vc|是 Npro:dem|這裡 .
+*EXA:	椅子 .
+%xmor:	Nn|椅子 .
+*EXA:	在 椅子 .
+%xmor:	PREP|在 Nn|椅子 .
+*EXA:	這裡 啊 .
+%xmor:	Npro:dem|這裡 SFP|啊 .
+*CHI:	這裡 .
+%xmor:	Npro:dem|這裡 .
+*EXA:	嘿 .
+%xmor:	INT|嘿 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	蛤 ?
+%xmor:	INT|蛤 ?
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	xxx , 什麼 ?
+%xmor:	CHM|xxx , WH|什麼 ?
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	放 進去 .
+%xmor:	Vi|放 Vi|進去 .
+*CHI:	去 .
+%xmor:	Vt|去 .
+*EXA:	放 進去 .
+%xmor:	Vi|放 Vi|進去 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	放 進去 , 好 不 好 ?
+%xmor:	Vi|放 Vi|進去 , Va|好 NEG|不 Va|好 ?
+*CHI:	不 要 .
+%xmor:	NEG|不 Vt|要 .
+*EXA:	放 進去 , 好 不 好 ?
+%xmor:	Vi|放 Vi|進去 , Va|好 NEG|不 Va|好 ?
+*CHI:	不 要 .
+%xmor:	NEG|不 Vt|要 .
+*EXA:	不 要 .
+%xmor:	NEG|不 Vt|要 .
+*EXA:	裝 進去 , 搖 搖 搖 , 好 不 好 ?
+%xmor:	Vt|裝 Vi|進去 , Vt|搖 Vt|搖 Vt|搖 , Va|好 NEG|不 Va|好 ?
+*EXA:	我 把 這 個 裝 進去 耶 , 這 個 也 可以 搖搖搖 .
+%xmor:	Npro:1sg|我 PREP|把 DET|這 M|個 Vt|裝 Vi|進去 SFP|耶 , DET|這 M|個 ADV|也 MOD|可以 Vi|搖搖搖 .
+*EXA:	跟 這 個 一樣 耶 .
+%xmor:	CONJ|跟 DET|這 M|個 Va|一樣 SFP|耶 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	跟 這 個 一樣 耶 .
+%xmor:	CONJ|跟 DET|這 M|個 Va|一樣 SFP|耶 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	這 個 裝 進去 , 好 不 好 ?
+%xmor:	DET|這 M|個 Vt|裝 Vi|進去 , Va|好 NEG|不 Va|好 ?
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	這 個 裝 進去 , 好 不 好 ?
+%xmor:	DET|這 M|個 Vt|裝 Vi|進去 , Va|好 NEG|不 Va|好 ?
+*EXA:	你 看 耶 , 都 有 耶 .
+%xmor:	Npro:2sg|你 Vt|看 SFP|耶 , ADV|都 Vt|有 SFP|耶 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	哇哇哇 .
+%xmor:	ONM|哇哇哇 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	嘿 , 對 .
+%xmor:	INT|嘿 , Va|對 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	這樣子 哦 .
+%xmor:	Va|這樣子 INT|哦 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	掉 到 後面 去 了 .
+%xmor:	Vt|掉 Vt|到 Nloc|後面 Vt|去 ASP|了 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	打開 , 好 不 好 ?
+%xmor:	Vt|打開 , Va|好 NEG|不 Va|好 ?
+*EXA:	做 什麼 ?
+%xmor:	Vt|做 WH|什麼 ?
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	做 什麼 , 要 怎樣 ?
+%xmor:	Vt|做 WH|什麼 , Vt|要 WH|怎樣 ?
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	打開 , 好 不 好 ?
+%xmor:	Vt|打開 , Va|好 NEG|不 Va|好 ?
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	打開 , 好 不 好 ?
+%xmor:	Vt|打開 , Va|好 NEG|不 Va|好 ?
+*CHI:	Y_N 沒有 .
+%xmor:	CS|Y_N NEG|沒有 .
+*EXA:	打開 啊 .
+%xmor:	Vt|打開 SFP|啊 .
+*CHI:	沒有 .
+%xmor:	NEG|沒有 .
+*CHI:	嗚 .
+%xmor:	INT|嗚 .
+*CHI:	嗚 .
+%xmor:	INT|嗚 .
+*CHI:	嗚 .
+%xmor:	INT|嗚 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	這 個 .
+%xmor:	DET|這 M|個 .
+*EXA:	這 個 不 能 吹 的 啊 .
+%xmor:	DET|這 M|個 NEG|不 MOD|能 Vt|吹 DE|的 INT|啊 .
+*EXA:	打開 , 好 不 好 ?
+%xmor:	Vt|打開 , Va|好 NEG|不 Va|好 ?
+*EXA:	哇 , 又 掉 下去 了 .
+%xmor:	INT|哇 , ADV|又 Vi|掉 Vi|下去 ASP|了 .
+*EXA:	有 一 個 不 見 了 哦 .
+%xmor:	Vt|有 QN|一 M|個 NEG|不 Va|見 ASP|了 SFP|哦 .
+*EXA:	一 個 不 見 了 哦 , 你 看 , 在 這裡 .
+%xmor:	QN|一 M|個 NEG|不 Va|見 ASP|了 SFP|哦 , Npro:2sg|你 Vt|看 , PREP|在 Npro:dem|這裡 .
+*EXA:	哇哇哇 , 又 跑 掉 了 .
+%xmor:	ONM|哇哇哇 , ADV|又 Vi|跑 Vi|掉 ASP|了 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	跑 掉 了 .
+%xmor:	Vi|跑 Vi|掉 ASP|了 .
+*EXA:	小心 哦 .
+%xmor:	Vt|小心 SFP|哦 .
+*EXA:	小心 哦 .
+%xmor:	Vt|小心 SFP|哦 .
+*EXA:	哇 , 又 跑 掉 了 .
+%xmor:	INT|哇 , ADV|又 Vi|跑 Vi|掉 ASP|了 .
+*EXA:	小心 哦 .
+%xmor:	Vt|小心 SFP|哦 .
+*EXA:	嘿 , 好 .
+%xmor:	INT|嘿 , Va|好 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	嗯 .
+%xmor:	INT|嗯 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	打開 啊 .
+%xmor:	Vt|打開 SFP|啊 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*CHI:	打 .
+%xmor:	Vt|打 .
+*EXA:	打開 啊 .
+%xmor:	Vt|打開 SFP|啊 .
+*EXA:	放 進去 , 好 不 好 ?
+%xmor:	Vi|放 Vi|進去 , Va|好 NEG|不 Va|好 ?
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	放 進去 .
+%xmor:	Vi|放 Vi|進去 .
+*EXA:	收 起來 .
+%xmor:	Vt|收 Vi|起來 .
+*EXA:	這 個 呢 ?
+%xmor:	DET|這 M|個 SFP|呢 ?
+*EXA:	打開 , 好 不 好 ?
+%xmor:	Vt|打開 , Va|好 NEG|不 Va|好 ?
+*EXA:	打開 .
+%xmor:	Vt|打開 .
+*EXA:	放 進去 .
+%xmor:	Vi|放 Vi|進去 .
+*CHI:	放 進去 .
+%xmor:	Vi|放 Vi|進去 .
+*EXA:	放 進去 .
+%xmor:	Vi|放 Vi|進去 .
+*EXA:	放 進去 .
+%xmor:	Vi|放 Vi|進去 .
+*EXA:	xxx .
+%xmor:	CHM|xxx .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*CHI:	不 要 .
+%xmor:	NEG|不 Vt|要 .
+*EXA:	不 要 哦 .
+%xmor:	NEG|不 Vt|要 INT|哦 .
+*CHI:	去 .
+%xmor:	Vt|去 .
+*CHI:	具 .
+%xmor:	Nn|具 .
+*EXA:	蛤 ?
+%xmor:	INT|蛤 ?
+*EXA:	汽球 .
+%xmor:	Nn|汽球 .
+*CHI:	具具 .
+%xmor:	Nn|具具 .
+*EXA:	玩具 哦 .
+%xmor:	Nn|玩具 SFP|哦 .
+*EXA:	你 看 哦 , 跟 這 個 一樣 哦 .
+%xmor:	Npro:2sg|你 Vt|看 INT|哦 , CONJ|跟 DET|這 M|個 Va|一樣 SFP|哦 .
+*EXA:	跟 這 個 一樣 哦 .
+%xmor:	CONJ|跟 DET|這 M|個 Va|一樣 SFP|哦 .
+*EXA:	這 個 呢 ?
+%xmor:	DET|這 M|個 SFP|呢 ?
+*EXA:	在 哪裡 啊 ?
+%xmor:	PREP|在 WH|哪裡 SFP|啊 ?
+*EXA:	這 個 呢 ?
+%xmor:	DET|這 M|個 SFP|呢 ?
+*EXA:	軒軒 , 你 看 , 這 個 呢 ?
+%xmor:	Nppn|軒軒 , Npro:2sg|你 Vt|看 , DET|這 M|個 SFP|呢 ?
+*EXA:	這 個 呢 ?
+%xmor:	DET|這 M|個 SFP|呢 ?
+*EXA:	這 個 .
+%xmor:	DET|這 M|個 .
+*EXA:	小妹妹 , 哼 .
+%xmor:	Nn|小妹妹 , INT|哼 .
+*CHI:	不 要 .
+%xmor:	NEG|不 Vt|要 .
+*EXA:	不 要 ?
+%xmor:	NEG|不 Vt|要 ?
+*CHI:	不 要 .
+%xmor:	NEG|不 Vt|要 .
+*EXA:	小 姊姊 .
+%xmor:	ADJ|小 Nn|姊姊 .
+*CHI:	姊 .
+%xmor:	Nn|姊 .
+*EXA:	姊姊 .
+%xmor:	Nn|姊姊 .
+*EXA:	姊姊 去 哪裡 ?
+%xmor:	Nn|姊姊 Vt|去 WH|哪裡 ?
+*CHI:	班 .
+%xmor:	Nn|班 .
+*EXA:	班 哦 .
+%xmor:	Nn|班 SFP|哦 .
+*EXA:	爸爸 去 那裡 ?
+%xmor:	Nn|爸爸 Vt|去 WH|那裡 ?
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	媽媽 去 那裡 ?
+%xmor:	Nn|媽媽 Vt|去 WH|那裡 ?
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	媽媽 勒 ?
+%xmor:	Nn|媽媽 SFP|勒 ?
+*CHI:	班 .
+%xmor:	Nn|班 .
+*EXA:	奶奶 呢 ?
+%xmor:	Nn|奶奶 SFP|呢 ?
+*CHI:	奶奶 .
+%xmor:	Nn|奶奶 .
+*EXA:	嘿 , 奶奶 .
+%xmor:	INT|嘿 , Nn|奶奶 .
+*EXA:	軒軒 呢 ?
+%xmor:	Nppn|軒軒 SFP|呢 ?
+*EXA:	軒 軒 ?
+%xmor:	Nn|軒 Nn|軒 ?
+*CHI:	裡 .
+%xmor:	Nloc|裡 .
+*EXA:	哦 , 在 這裡 哦 .
+%xmor:	INT|哦 , PREP|在 Npro:dem|這裡 SFP|哦 .
+*EXA:	阿姨 呢 ?
+%xmor:	Nn|阿姨 SFP|呢 ?
+*CHI:	裡 .
+%xmor:	Nloc|裡 .
+*EXA:	那裡 哦 , 哼 .
+%xmor:	Nloc|那裡 SFP|哦 , INT|哼 .
+*EXA:	對 .
+%xmor:	Va|對 .
+*CHI:	對 .
+%xmor:	Va|對 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	什麼 是 對 ?
+%xmor:	WH|什麼 Vc|是 Va|對 ?
+*CHI:	對 .
+%xmor:	Va|對 .
+*EXA:	這樣子 , 對 不 對 ?
+%xmor:	Va|這樣子 , Va|對 NEG|不 Va|對 ?
+*CHI:	對 .
+%xmor:	Va|對 .
+*EXA:	這樣 對 不 對 ?
+%xmor:	Va|這樣 PREP|對 NEG|不 Va|對 ?
+*CHI:	對 .
+%xmor:	Va|對 .
+*CHI:	沒有 .
+%xmor:	NEG|沒有 .
+*EXA:	沒有 , 裡面 沒有 .
+%xmor:	NEG|沒有 , Nloc|裡面 NEG|沒有 .
+*EXA:	裡面 不 會 搖 搖 搖 .
+%xmor:	Nloc|裡面 NEG|不 MOD|會 Vi|搖 Vi|搖 Vi|搖 .
+*EXA:	這 裡面 有 沒有 ?
+%xmor:	DET|這 Nloc|裡面 Vt|有 NEG|沒有 ?
+*CHI:	沒有 .
+%xmor:	NEG|沒有 .
+*EXA:	也 沒有 .
+%xmor:	ADV|也 NEG|沒有 .
+*EXA:	這 裡面 呢 ?
+%xmor:	DET|這 Nloc|裡面 SFP|呢 ?
+*EXA:	有 沒有 ?
+%xmor:	Vt|有 NEG|沒有 ?
+*CHI:	沒有 .
+%xmor:	NEG|沒有 .
+*EXA:	沒有 .
+%xmor:	NEG|沒有 .
+*EXA:	還有 呢 ?
+%xmor:	CONJ|還有 SFP|呢 ?
+*CHI:	有 .
+%xmor:	Vt|有 .
+*EXA:	這 裡面 有 沒有 ?
+%xmor:	DET|這 Nloc|裡面 Vt|有 NEG|沒有 ?
+*CHI:	有 .
+%xmor:	Vt|有 .
+*EXA:	有 哦 .
+%xmor:	Vt|有 INT|哦 .
+*EXA:	打開 , 好 不 好 ?
+%xmor:	Vt|打開 , Va|好 NEG|不 Va|好 ?
+*EXA:	阿姨 打開 , 好 不 好 ?
+%xmor:	Nn|阿姨 Vt|打開 , Va|好 NEG|不 Va|好 ?
+*CHI:	好 .
+%xmor:	Va|好 .
+*EXA:	好 .
+%xmor:	Va|好 .
+*EXA:	哦 , 有 耶 , 有 耶 .
+%xmor:	INT|哦 , Vt|有 SFP|耶 , Vt|有 SFP|耶 .
+*CHI:	沒有 .
+%xmor:	NEG|沒有 .
+*EXA:	沒有 了 哦 .
+%xmor:	NEG|沒有 ASP|了 SFP|哦 .
+*CHI:	沒有 .
+%xmor:	NEG|沒有 .
+*EXA:	這 個 也 是 沒有 的 .
+%xmor:	DET|這 M|個 ADV|也 Vc|是 NEG|沒有 DE|的 .
+*EXA:	這 個 也 是 沒有 , 這 個 有 沒有 ?
+%xmor:	DET|這 M|個 ADV|也 Vc|是 NEG|沒有 , DET|這 M|個 Vt|有 NEG|沒有 ?
+*CHI:	沒有 .
+%xmor:	NEG|沒有 .
+*EXA:	這裡 有 沒有 ?
+%xmor:	Npro:dem|這裡 Vt|有 NEG|沒有 ?
+*CHI:	有 .
+%xmor:	Vt|有 .
+*EXA:	有 哦 .
+%xmor:	Vt|有 INT|哦 .
+*EXA:	打開 , 好 不 好 ?
+%xmor:	Vt|打開 , Va|好 NEG|不 Va|好 ?
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	打開 .
+%xmor:	Vt|打開 .
+*EXA:	哇 .
+%xmor:	INT|哇 .
+*EXA:	那 個 打開 不 , 那 個 最 小 的 .
+%xmor:	DET|那 M|個 Vt|打開 NEG|不 , DET|那 M|個 ADV|最 Va|小 DE|的 .
+*EXA:	那 個 打開 不 , 那 個 最 小 的 .
+%xmor:	DET|那 M|個 Vt|打開 NEG|不 , DET|那 M|個 ADV|最 Va|小 DE|的 .
+*EXA:	阿姨 打 .
+%xmor:	Nn|阿姨 Vt|打 .
+*EXA:	這 個 打 開 不 的 .
+%xmor:	DET|這 M|個 Vt|打 Vt|開 NEG|不 DE|的 .
+*EXA:	這 個 打開 不 了 .
+%xmor:	DET|這 M|個 Vt|打開 NEG|不 ASP|了 .
+*GRA:	沒有 , 沒有 .
+%xmor:	NEG|沒有 , NEG|沒有 .
+*CHI:	沒有 .
+%xmor:	NEG|沒有 .
+*EXA:	這 個 呢 ?
+%xmor:	DET|這 M|個 SFP|呢 ?
+*EXA:	軒軒 , 這 個 一半 呢 , 在 哪裡 ?
+%xmor:	Nppn|軒軒 , DET|這 M|個 QN|一半 SFP|呢 , PREP|在 WH|哪裡 ?
+*CHI:	沒有 .
+%xmor:	NEG|沒有 .
+*EXA:	蛤 , 在 哪裡 ?
+%xmor:	INT|蛤 , PREP|在 WH|哪裡 ?
+*GRA:	沒有 .
+%xmor:	NEG|沒有 .
+*CHI:	沒有 .
+%xmor:	NEG|沒有 .
+*EXA:	沒有 .
+%xmor:	NEG|沒有 .
+*CHI:	沒有 .
+%xmor:	NEG|沒有 .
+*EXA:	沒有 .
+%xmor:	NEG|沒有 .
+*EXA:	嗯 .
+%xmor:	INT|嗯 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	對 , 打開 .
+%xmor:	Va|對 , Vt|打開 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	打 .
+%xmor:	Vt|打 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	打 .
+%xmor:	Vt|打 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	對 , 打開 啦 .
+%xmor:	Va|對 , Vt|打開 SFP|啦 .
+*CHI:	玩具 .
+%xmor:	Nn|玩具 .
+*EXA:	哦 , 好 , 玩具 .
+%xmor:	INT|哦 , Va|好 , Nn|玩具 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	收 起來 , 好 不 好 ?
+%xmor:	Vt|收 Vi|起來 , Va|好 NEG|不 Va|好 ?
+*EXA:	阿姨 把 他 收 起來 , 好 不 好 ?
+%xmor:	Nn|阿姨 PREP|把 Npro:3sg|他 Vt|收 Vi|起來 , Va|好 NEG|不 Va|好 ?
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	哦 .
+%xmor:	INT|哦 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	什麼 去 .
+%xmor:	WH|什麼 Vt|去 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	去 .
+%xmor:	Vt|去 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	按 下去 哦 .
+%xmor:	Vi|按 Vi|下去 SFP|哦 .
+*CHI:	沒有 .
+%xmor:	NEG|沒有 .
+*EXA:	那 個 敲 敲 敲 的 不 見了 .
+%xmor:	DET|那 M|個 Vt|敲 Vt|敲 Vt|敲 DE|的 NEG|不 Va|見了 .
+*EXA:	鎚 .
+%xmor:	Nn|鎚 .
+*EXA:	鎚子 呢 ?
+%xmor:	Nn|鎚子 SFP|呢 ?
+*EXA:	你 的 鎚子 呢 ?
+%xmor:	Npro:2sg|你 DE|的 Nn|鎚子 SFP|呢 ?
+*EXA:	哼 ?
+%xmor:	INT|哼 ?
+*EXA:	找到 了 嗎 ?
+%xmor:	Vt|找到 ASP|了 SFP|嗎 ?
+*EXA:	在 哪裡 ?
+%xmor:	PREP|在 WH|哪裡 ?
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*CHI:	見 .
+%xmor:	Vt|見 .
+*GRA:	不 見 了 .
+%xmor:	NEG|不 Va|見 ASP|了 .
+*EXA:	不 見 了 .
+%xmor:	NEG|不 Va|見 ASP|了 .
+*CHI:	見 .
+%xmor:	Vt|見 .
+*CHI:	見 .
+%xmor:	Vt|見 .
+*GRA:	不 見 勒 .
+%xmor:	NEG|不 Va|見 SFP|勒 .
+*EXA:	不 見 了 .
+%xmor:	NEG|不 Va|見 ASP|了 .
+*GRA:	不 見 勒 , 怎麼 辦 .
+%xmor:	NEG|不 Va|見 SFP|勒 , WH|怎麼 Vt|辦 .
+*EXA:	不 見 了 .
+%xmor:	NEG|不 Va|見 ASP|了 .
+*EXA:	不 見 了 .
+%xmor:	NEG|不 Va|見 ASP|了 .
+*GRA:	怎麼 辦 .
+%xmor:	WH|怎麼 Vt|辦 .
+*CHI:	見 .
+%xmor:	Vt|見 .
+*EXA:	不 見 了 哦 .
+%xmor:	NEG|不 Va|見 ASP|了 SFP|哦 .
+*CHI:	見 .
+%xmor:	Vt|見 .
+*EXA:	嗚 .
+%xmor:	INT|嗚 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	在 裡面 .
+%xmor:	PREP|在 Nloc|裡面 .
+*EXA:	在 裡面 .
+%xmor:	PREP|在 Nloc|裡面 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	其他 的 在 裡面 啊 .
+%xmor:	QN|其他 DE|的 PREP|在 Nloc|裡面 SFP|啊 .
+*GRA:	不 見 , 怎麼 辦 ?
+%xmor:	NEG|不 Va|見 , WH|怎麼 Vt|辦 ?
+*EXA:	嗚 , 到 地上 , 好 不 好 ?
+%xmor:	INT|嗚 , Vt|到 Nloc|地上 , Va|好 NEG|不 Va|好 ?
+*EXA:	弄 到 地上 去 按 , 好 不 好 ?
+%xmor:	Vt|弄 Vt|到 Nloc|地上 Vt|去 Vt|按 , Va|好 NEG|不 Va|好 ?
+*EXA:	好 , 我們 拿 到 地上 .
+%xmor:	Va|好 , Npro:1pl|我們 Vt|拿 Vt|到 Nloc|地上 .
+*EXA:	來 , 按 下去 .
+%xmor:	Vt|來 , Vi|按 Vi|下去 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	嗚 .
+%xmor:	INT|嗚 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	來 , 按 過來 .
+%xmor:	Vt|來 , PREP|按 Vi|過來 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	xxx ?
+%xmor:	CHM|xxx ?
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	xxx .
+%xmor:	CHM|xxx .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	按 不 過去 啊 .
+%xmor:	Vt|按 NEG|不 Vi|過去 SFP|啊 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	用 按 的 , 按 不 過去 啊 .
+%xmor:	PREP|用 Vt|按 DE|的 , Vt|按 NEG|不 Vi|過去 SFP|啊 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	按 不 過去 啊 .
+%xmor:	Vt|按 NEG|不 Vi|過去 SFP|啊 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	來 , 一二三四 , 一 .
+%xmor:	Vt|來 , IDM|一二三四 , QN|一 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	紅 的 耶 , 要 不 要 按 紅 的 ?
+%xmor:	Va|紅 DE|的 SFP|耶 , Vt|要 NEG|不 Vt|要 PREP|按 Va|紅 DE|的 ?
+*CHI:	啊 啊 .
+%xmor:	INT|啊 INT|啊 .
+*EXA:	嗚 嗚嗚 嗚嗚 .
+%xmor:	INT|嗚 INT|嗚嗚 INT|嗚嗚 .
+*EXA:	用力 .
+%xmor:	Va|用力 .
+*EXA:	用力 .
+%xmor:	Va|用力 .
+*EXA:	壓 .
+%xmor:	Vt|壓 .
+*EXA:	壓 .
+%xmor:	Vt|壓 .
+*CHI:	沒有 .
+%xmor:	NEG|沒有 .
+*EXA:	壓 不 過去 .
+%xmor:	Vt|壓 NEG|不 Nt|過去 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	壓 這 個 , 好 不 好 ?
+%xmor:	Vt|壓 DET|這 M|個 , Va|好 NEG|不 Va|好 ?
+*EXA:	來 , 一二 , 用力 啊 , 用力 啊 .
+%xmor:	Vt|來 , ADV|一二 , Va|用力 SFP|啊 , Va|用力 SFP|啊 .
+*CHI:	啊 .
+%xmor:	INT|啊 .
+*EXA:	不 行 .
+%xmor:	NEG|不 Va|行 .
+*EXA:	不 行 .
+%xmor:	NEG|不 Va|行 .
+*CHI:	行 .
+%xmor:	Va|行 .
+*EXA:	不 行 .
+%xmor:	NEG|不 Va|行 .
+*EXA:	不 行 .
+%xmor:	NEG|不 Va|行 .
+*EXA:	壓 這 個 .
+%xmor:	Vt|壓 DET|這 M|個 .
+*EXA:	好 不 好 ?
+%xmor:	Va|好 NEG|不 Va|好 ?
+*EXA:	一二 , 一二 , 一二 , 一二 .
+%xmor:	ADV|一二 , ADV|一二 , ADV|一二 , ADV|一二 .
+*CHI:	沒有 .
+%xmor:	NEG|沒有 .
+*EXA:	哼 , 壓 過去 了 .
+%xmor:	INT|哼 , Vt|壓 Vi|過去 ASP|了 .
+*EXA:	哼 , 再 來 哦 .
+%xmor:	INT|哼 , ADV|再 Vt|來 SFP|哦 .
+*EXA:	一二 , 一二 , 一二 .
+%xmor:	ADV|一二 , ADV|一二 , ADV|一二 .
+*EXA:	哇 , 不 行 .
+%xmor:	INT|哇 , NEG|不 Va|行 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	這 個 呢 ?
+%xmor:	DET|這 M|個 SFP|呢 ?
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	這 個 呢 ?
+%xmor:	DET|這 M|個 SFP|呢 ?
+*CHI:	沒有 .
+%xmor:	NEG|沒有 .
+*EXA:	過去 了 .
+%xmor:	Nt|過去 ASP|了 .
+*EXA:	這 個 呢 ?
+%xmor:	DET|這 M|個 SFP|呢 ?
+*CHI:	沒有 .
+%xmor:	NEG|沒有 .
+*EXA:	這 壓 不 過去 耶 .
+%xmor:	DET|這 Nn|壓 NEG|不 Vi|過去 SFP|耶 .
+*CHI:	去 .
+%xmor:	Vt|去 .
+*EXA:	嗯 , 來 , 這樣 .
+%xmor:	INT|嗯 , Vt|來 , Va|這樣 .
+*CHI:	壓壓 .
+%xmor:	Vt|壓壓 .
+*EXA:	壓 哦 .
+%xmor:	Vt|壓 SFP|哦 .
+*CHI:	壓 .
+%xmor:	Vt|壓 .
+*EXA:	軒軒 , 壓 這 個 .
+%xmor:	Nppn|軒軒 , Vt|壓 DET|這 M|個 .
+*EXA:	一二 .
+%xmor:	ADV|一二 .
+*EXA:	嗯 .
+%xmor:	INT|嗯 .
+*CHI:	嘿 .
+%xmor:	INT|嘿 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*EXA:	壓 不 過去 耶 .
+%xmor:	Vt|壓 NEG|不 Vi|過去 SFP|耶 .
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+@End

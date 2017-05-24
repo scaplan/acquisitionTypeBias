@@ -1,0 +1,964 @@
+@UTF8
+@PID:	11312/a-00000112-1
+@Begin
+@Languages:	zho
+@Participants:	CHI Child, MOT Mother
+@ID:	zho|HC|CHI|2;6.||||Child|||
+@ID:	zho|HC|MOT|||||Mother|||
+@Date:	08-OCT-1994
+@Location:	CHI's home
+*CHI:	貓貓 .
+%xmor:	Nn|貓貓 .
+*CHI:	找 什麼 ?
+%xmor:	Vt|找 WH|什麼 ?
+*CHI:	找 什麼 ?
+%xmor:	Vt|找 WH|什麼 ?
+*CHI:	最 喜歡 的 故事書 .
+%xmor:	ADV|最 Vt|喜歡 DE|的 Nn|故事書 .
+*CHI:	那 你 跟 我 去 拿 你 喜歡 的 故事書 .
+%xmor:	INT|那 Npro:2sg|你 CONJ|跟 Npro:1sg|我 Vt|去 Vt|拿 Npro:2sg|你 Vt|喜歡 DE|的 Nn|故事書 .
+%xsyn:	MEVENT-GMOD-REL-OO .
+*CHI:	媽 .
+%xmor:	Nn|媽 .
+*CHI:	我 喜歡 坐 .
+%xmor:	Npro:1sg|我 Vt|喜歡 Vi|坐 .
+%xsyn:	COMP .
+*CHI:	這 椅子 .
+%xmor:	DET|這 Nn|椅子 .
+*CHI:	喜歡 這 椅子 .
+%xmor:	Vt|喜歡 DET|這 Nn|椅子 .
+*CHI:	媽媽 這 個 好吃 .
+%xmor:	Nn|媽媽 DET|這 M|個 Va|好吃 .
+*CHI:	哪 個 啦 ?
+%xmor:	DET|哪 M|個 SFP|啦 ?
+*MOT:	要 拿 什麼 故事書 啊 ?
+%xmor:	Vt|要 Vt|拿 WH|什麼 Nn|故事書 SFP|啊 ?
+%xsyn:	MOD-VO .
+*CHI:	拿 +...
+%xmor:	Vt|拿 +...
+*CHI:	有 蜘蛛 的 .
+%xmor:	Vt|有 Nn|蜘蛛 DE|的 .
+%xsyn:	Other DE .
+*CHI:	有 蜘蛛 的 .
+%xmor:	Vt|有 Nn|蜘蛛 DE|的 .
+%xsyn:	Other DE .
+*CHI:	很 遠 的 有 蜘蛛 .
+%xmor:	ADV|很 Va|遠 DE|的 Vt|有 Nn|蜘蛛 .
+*MOT:	有 蜘蛛 的 啊 ?
+%xmor:	Vt|有 Nn|蜘蛛 DE|的 SFP|啊 ?
+%xsyn:	Other DE .
+*CHI:	媽 這裡 有 不 行 喔 .
+%xmor:	Nn|媽 Npro:dem|這裡 Vt|有 NEG|不 Va|行 SFP|喔 .
+*CHI:	不 行 .
+%xmor:	NEG|不 Va|行 .
+*MOT:	是 什麼 啊 .
+%xmor:	Vc|是 WH|什麼 SFP|啊 .
+*MOT:	這 個 .
+%xmor:	DET|這 M|個 .
+*CHI:	嗯 .
+%xmor:	INT|嗯 .
+*MOT:	是 不 是 ?
+%xmor:	Vc|是 NEG|不 Vc|是 ?
+*CHI:	嗯 .
+%xmor:	INT|嗯 .
+*CHI:	對 .
+%xmor:	Va|對 .
+*MOT:	這 本 好 久 沒 看 了 .
+%xmor:	DET|這 M|本 ADV|好 Va|久 NEG|沒 Vt|看 ASP|了 .
+*CHI:	嗯 .
+%xmor:	INT|嗯 .
+*MOT:	來 髒髒 .
+%xmor:	Vt|來 Va|髒髒 .
+*MOT:	我 幫 你 擦 一擦 .
+%xmor:	Npro:1sg|我 PREP|幫 Npro:2sg|你 Vt|擦 Vr|一擦 .
+%xsyn:	PP-V .
+*MOT:	我們 去 客廳 好 不 好 .
+%xmor:	Npro:1pl|我們 Vt|去 Nn|客廳 Va|好 NEG|不 Va|好 .
+%xsyn:	COMP-SUBJ .
+*MOT:	客廳 比較 亮 .
+%xmor:	Nn|客廳 ADV|比較 Va|亮 .
+*MOT:	來 .
+%xmor:	Vt|來 .
+*CHI:	嗯 媽 手手 癢癢 .
+%xmor:	INT|嗯 Nn|媽 Nn|手手 Va|癢癢 .
+*MOT:	手手 怎麼 癢癢 呢 ?
+%xmor:	Nn|手手 WH|怎麼 Va|癢癢 SFP|呢 ?
+*MOT:	來 .
+%xmor:	Vt|來 .
+*MOT:	我 看看 .
+%xmor:	Npro:1sg|我 Vr|看看 .
+*CHI:	你 看 .
+%xmor:	Npro:2sg|你 Vt|看 .
+*MOT:	哪裡 ?
+%xmor:	WH|哪裡 ?
+*CHI:	被 蚊子 咬 了 .
+%xmor:	PREP|被 Nn|蚊子 Vt|咬 ASP|了 .
+%xsyn:	PP-V .
+*MOT:	臭 蚊子 .
+%xmor:	ADJ|臭 Nn|蚊子 .
+*MOT:	哪裡 ?
+%xmor:	WH|哪裡 ?
+*CHI:	還有 這邊 .
+%xmor:	CONJ|還有 Npro:dem|這邊 .
+*MOT:	這裡 不 是 被 蚊子 咬 .
+%xmor:	Npro:dem|這裡 NEG|不 Vc|是 PREP|被 Nn|蚊子 Vt|咬 .
+%xsyn:	REL-SHI .
+*MOT:	太 乾 了 啦 .
+%xmor:	ADV|太 Va|乾 ASP|了 SFP|啦 .
+*MOT:	我 給 你 擦 油 .
+%xmor:	Npro:1sg|我 Vt|給 Npro:2sg|你 Vt|擦 Nn|油 .
+%xsyn:	PP-VO .
+*MOT:	來 .
+%xmor:	Vt|來 .
+*CHI:	啊 油 呢 ?
+%xmor:	INT|啊 Nn|油 SFP|呢 ?
+*CHI:	這 個 油 啊 ?
+%xmor:	DET|這 M|個 Nn|油 SFP|啊 ?
+*MOT:	對 .
+%xmor:	Va|對 .
+*MOT:	這 叫 嬰兒油 耶 .
+%xmor:	DET|這 Vt|叫 Nn|嬰兒油 SFP|耶 .
+*MOT:	有 沒有 舒服 一點 ?
+%xmor:	Vt|有 NEG|沒有 Va|舒服 QN|一點 ?
+*CHI:	有 .
+%xmor:	Vt|有 .
+*CHI:	媽 這 好 舒服 喔 .
+%xmor:	Nn|媽 DET|這 ADV|好 Va|舒服 SFP|喔 .
+*MOT:	嗯 .
+%xmor:	INT|嗯 .
+*CHI:	媽 這 噴 到 噴 到 這 外面 了 啦 .
+%xmor:	Nn|媽 DET|這 Vt|噴 Vt|到 Vt|噴 Vt|到 DET|這 Nloc|外面 ASP|了 SFP|啦 .
+*MOT:	什麼 ?
+%xmor:	WH|什麼 ?
+*CHI:	噴 到 外面 了 啦 !
+%xmor:	Vt|噴 Vt|到 Nloc|外面 ASP|了 SFP|啦 !
+*MOT:	真的 啊 .
+%xmor:	MOD|真的 SFP|啊 .
+*MOT:	噴 到 外面 啦 .
+%xmor:	Vt|噴 Vt|到 Nloc|外面 SFP|啦 .
+*CHI:	嗯 .
+%xmor:	INT|嗯 .
+*MOT:	噴 到 哪裡 ?
+%xmor:	Vt|噴 Vt|到 WH|哪裡 ?
+*CHI:	噴 到 外面 .
+%xmor:	Vt|噴 Vt|到 Nloc|外面 .
+*MOT:	Oo , Oo .
+%xmor:	CS|Oo , CS|Oo .
+*CHI:	阿媽 會 生氣 .
+%xmor:	Nn|阿媽 MOD|會 Va|生氣 .
+*MOT:	糟糕 了 糟糕 了 .
+%xmor:	Va|糟糕 ASP|了 Va|糟糕 ASP|了 .
+*CHI:	媽媽 不 行 講 .
+%xmor:	Nn|媽媽 NEG|不 Va|行 Vt|講 .
+%xsyn:	MOD-V .
+*MOT:	唉呀 媽媽 真 糊塗 .
+%xmor:	INT|唉呀 Nn|媽媽 ADV|真 Va|糊塗 .
+*CHI:	你 忘 了 +...
+%xmor:	Npro:2sg|你 Vt|忘 ASP|了 +...
+*CHI:	xxx .
+%xmor:	CHM|xxx .
+*CHI:	哪 個 是 我 的 .
+%xmor:	DET|哪 M|個 Vc|是 Npro:1sg|我 DE|的 .
+%xsyn:	Other DE .
+*CHI:	我 的 雨衣 .
+%xmor:	Npro:1sg|我 DE|的 Nn|雨衣 .
+%xsyn:	Other DE .
+*CHI:	嗯 .
+%xmor:	INT|嗯 .
+*CHI:	外面 啦 .
+%xmor:	Nloc|外面 SFP|啦 .
+*MOT:	什麼 外面 啦 ?
+%xmor:	WH|什麼 Nloc|外面 SFP|啦 ?
+*CHI:	外面 看 到 我 的 雨衣 .
+%xmor:	Nloc|外面 Vt|看 Vt|到 Npro:1sg|我 DE|的 Nn|雨衣 .
+*MOT:	真的 啊 .
+%xmor:	MOD|真的 SFP|啊 .
+*MOT:	你 的 雨衣 放 在 外面 啊 .
+%xmor:	Npro:2sg|你 DE|的 Nn|雨衣 Vt|放 Vt|在 Nloc|外面 SFP|啊 .
+%xsyn:	Other DE .
+*CHI:	嗯 .
+%xmor:	INT|嗯 .
+*MOT:	現在 呢 ?
+%xmor:	Nt|現在 SFP|呢 ?
+*CHI:	現在 沒有 下雨 .
+%xmor:	Nt|現在 NEG|沒有 Vi|下雨 .
+*MOT:	收 進來 了 嘛 .
+%xmor:	Vt|收 Vi|進來 ASP|了 SFP|嘛 .
+*MOT:	啊 在 這裡 .
+%xmor:	INT|啊 Vt|在 Npro:dem|這裡 .
+*MOT:	你 的 雨衣 在 這裡 .
+%xmor:	Npro:2sg|你 DE|的 Nn|雨衣 Vt|在 Npro:dem|這裡 .
+%xsyn:	Other DE .
+*MOT:	我 看到 了 .
+%xmor:	Npro:1sg|我 Vt|看到 ASP|了 .
+*CHI:	啊 你 怎麼 +...
+%xmor:	INT|啊 Npro:2sg|你 WH|怎麼 +...
+*CHI:	收 進來 嘛 .
+%xmor:	Vt|收 Vi|進來 SFP|嘛 .
+*MOT:	來 吧 .
+%xmor:	Vt|來 SFP|吧 .
+*MOT:	你 說 你 要 看 這 本 書 .
+%xmor:	Npro:2sg|你 Vt|說 Npro:2sg|你 Vt|要 Vt|看 DET|這 M|本 Nn|書 .
+%xsyn:	COMP-OBJ-MOD-VO .
+*MOT:	是 不 是 啊 ?
+%xmor:	Vc|是 NEG|不 Vc|是 SFP|啊 ?
+*CHI:	拿到 +...
+%xmor:	Vt|拿到 +...
+*CHI:	這 變 沒有 .
+%xmor:	DET|這 Vt|變 NEG|沒有 .
+*CHI:	這邊 還 有 還 有 好看 的 .
+%xmor:	Npro:dem|這邊 ADV|還 Vt|有 ADV|還 Vt|有 Va|好看 DE|的 .
+%xsyn:	Other DE .
+*CHI:	這邊 也 沒有 .
+%xmor:	Npro:dem|這邊 ADV|也 NEG|沒有 .
+*CHI:	看 這 個 .
+%xmor:	Vt|看 DET|這 M|個 .
+*CHI:	誰 ?
+%xmor:	WH|誰 ?
+*MOT:	海象 .
+%xmor:	Nn|海象 .
+*CHI:	這 誰 ?
+%xmor:	DET|這 WH|誰 ?
+*CHI:	媽 .
+%xmor:	Nn|媽 .
+*MOT:	那 蒼蠅 .
+%xmor:	DET|那 Nn|蒼蠅 .
+*CHI:	媽媽 .
+%xmor:	Nn|媽媽 .
+*CHI:	那 我 打 他 !
+%xmor:	INT|那 Npro:1sg|我 Vt|打 Npro:3sg|他 !
+*MOT:	唉唷 !
+%xmor:	INT|唉唷 !
+*CHI:	媽 我 打 !
+%xmor:	Nn|媽 Npro:1sg|我 Vt|打 !
+*MOT:	手 會 不 會 痛 ?
+%xmor:	Nn|手 MOD|會 NEG|不 MOD|會 Va|痛 ?
+%xsyn:	MOD-V .
+*MOT:	他 有 沒有 咬 你 一 口 ?
+%xmor:	Npro:3sg|他 Vt|有 NEG|沒有 Vt|咬 Npro:2sg|你 QN|一 M|口 ?
+%xsyn:	MOD-V .
+*MOT:	沒有 啊 .
+%xmor:	NEG|沒有 SFP|啊 .
+*MOT:	唉唷 你 好 勇敢 喔 .
+%xmor:	INT|唉唷 Npro:2sg|你 ADV|好 Va|勇敢 SFP|喔 .
+*MOT:	好 厲害 好 厲害 .
+%xmor:	ADV|好 Va|厲害 ADV|好 Va|厲害 .
+*CHI:	看 Jyan .
+%xmor:	Vt|看 CS|Jyan .
+*CHI:	Jyanzi .
+%xmor:	CS|Jyanzi .
+*CHI:	看 Jyanzi 的 .
+%xmor:	Vt|看 CS|Jyanzi DE|的 .
+*MOT:	唉唷 .
+%xmor:	INT|唉唷 .
+*MOT:	怎麼 手 變 這樣子 的 ?
+%xmor:	WH|怎麼 Nn|手 Vt|變 Va|這樣子 DE|的 ?
+*CHI:	因為 我 這樣 .
+%xmor:	CONJ|因為 Npro:1sg|我 Va|這樣 .
+*CHI:	手手 壞 掉 了 !
+%xmor:	Nn|手手 Va|壞 Vi|掉 ASP|了 !
+*MOT:	Ha .
+%xmor:	CS|Ha .
+*MOT:	你 手手 壞 掉 了 .
+%xmor:	Npro:2sg|你 Nn|手手 Va|壞 Vi|掉 ASP|了 .
+*MOT:	那 怎麼 辦 .
+%xmor:	INT|那 WH|怎麼 Vt|辦 .
+*MOT:	我 修理 修理 .
+%xmor:	Npro:1sg|我 Vt|修理 Vt|修理 .
+*MOT:	來 .
+%xmor:	Vt|來 .
+*MOT:	我 修理 修理 .
+%xmor:	Npro:1sg|我 Vt|修理 Vt|修理 .
+*MOT:	修理 好 了 !
+%xmor:	Vt|修理 Va|好 ASP|了 !
+*MOT:	好 了 .
+%xmor:	Va|好 ASP|了 .
+*MOT:	正常 了 !
+%xmor:	Va|正常 ASP|了 !
+*CHI:	啊 媽媽 我 腳上 有 藥藥 .
+%xmor:	INT|啊 Nn|媽媽 Npro:1sg|我 Nloc|腳上 Vt|有 Nn|藥藥 .
+*MOT:	你 腳上 怎麼 會 有 藥藥 呢 ?
+%xmor:	Npro:2sg|你 Nloc|腳上 WH|怎麼 MOD|會 Vt|有 Nn|藥藥 SFP|呢 ?
+*CHI:	媽 哪裡 癢 ?
+%xmor:	Nn|媽 WH|哪裡 Va|癢 ?
+*MOT:	我 哪裡 癢 呢 .
+%xmor:	Npro:1sg|我 WH|哪裡 Va|癢 SFP|呢 .
+*MOT:	這裡 .
+%xmor:	Npro:dem|這裡 .
+*MOT:	唉唷 這裡 也 癢 .
+%xmor:	INT|唉唷 Npro:dem|這裡 ADV|也 Va|癢 .
+*CHI:	好 .
+%xmor:	Va|好 .
+*MOT:	唉唷 這 什麼 藥 .
+%xmor:	INT|唉唷 DET|這 WH|什麼 Nn|藥 .
+*MOT:	怪 腳藥 .
+%xmor:	ADJ|怪 Nn|腳藥 .
+*MOT:	Ha , 你 這 什麼 藥 ?
+%xmor:	CS|Ha , Npro:2sg|你 DET|這 WH|什麼 Nn|藥 ?
+*CHI:	這 讓 你 吃 的 藥 .
+%xmor:	DET|這 Vt|讓 Npro:2sg|你 Vt|吃 DE|的 Nn|藥 .
+*CHI:	好 .
+%xmor:	Va|好 .
+*CHI:	我 端給 你 吃 !
+%xmor:	Npro:1sg|我 Vt|端給 Npro:2sg|你 Vt|吃 !
+%xsyn:	DCIR .
+*CHI:	從 這邊 端 .
+%xmor:	PREP|從 Npro:dem|這邊 Vt|端 .
+*CHI:	端 好 多 喔 !
+%xmor:	Vt|端 ADV|好 Va|多 SFP|喔 !
+*MOT:	唉唷 .
+%xmor:	INT|唉唷 .
+*MOT:	嗯 .
+%xmor:	INT|嗯 .
+*CHI:	不 好吃 啊 ?
+%xmor:	NEG|不 Va|好吃 SFP|啊 ?
+*MOT:	不 好吃 .
+%xmor:	NEG|不 Va|好吃 .
+*CHI:	那 +...
+%xmor:	INT|那 +...
+*CHI:	那 弄 好吃 的 糖糖 .
+%xmor:	INT|那 Vt|弄 Va|好吃 DE|的 Nn|糖糖 .
+%xsyn:	Other DE .
+*MOT:	好 .
+%xmor:	Va|好 .
+*MOT:	哇 真 好吃 耶 !
+%xmor:	INT|哇 ADV|真 Va|好吃 SFP|耶 !
+*CHI:	小柔 做 的 啦 !
+%xmor:	Nppn|小柔 Vt|做 DE|的 SFP|啦 !
+%xsyn:	Other DE .
+*MOT:	你 做 的 糖 啊 !
+%xmor:	Npro:2sg|你 Vt|做 DE|的 Nn|糖 SFP|啊 !
+%xsyn:	Other DE .
+*CHI:	啊 .
+%xmor:	INT|啊 .
+*CHI:	我 偷偷 做 蛋糕 喔 !
+%xmor:	Npro:1sg|我 ADV|偷偷 Vt|做 Nn|蛋糕 SFP|喔 !
+*MOT:	蛋糕 你 會 嗎 ?
+%xmor:	Nn|蛋糕 Npro:2sg|你 MOD|會 SFP|嗎 ?
+*MOT:	哇 好 香 喔 .
+%xmor:	INT|哇 ADV|好 Va|香 SFP|喔 .
+*MOT:	有 雞蛋 的 味道 耶 .
+%xmor:	Vt|有 Nn|雞蛋 DE|的 Nn|味道 SFP|耶 .
+%xsyn:	Other DE .
+*CHI:	還有 草莓 的 味道 .
+%xmor:	CONJ|還有 Nn|草莓 DE|的 Nn|味道 .
+%xsyn:	Other DE .
+*MOT:	喔 有 草莓 的 味道 !
+%xmor:	INT|喔 Vt|有 Nn|草莓 DE|的 Nn|味道 !
+%xsyn:	Other DE .
+*MOT:	哇 真 好吃 耶 !
+%xmor:	INT|哇 ADV|真 Va|好吃 SFP|耶 !
+*CHI:	媽 你 吃 了 .
+%xmor:	Nn|媽 Npro:2sg|你 Vt|吃 ASP|了 .
+*CHI:	小柔 就 好 高興 喔 !
+%xmor:	Nppn|小柔 ADV|就 ADV|好 Vt|高興 SFP|喔 !
+*MOT:	喔 謝謝 你 .
+%xmor:	INT|喔 IDM|謝謝 Npro:2sg|你 .
+*MOT:	你 對 我 好好 喔 !
+%xmor:	Npro:2sg|你 Vt|對 Npro:1sg|我 Va|好好 SFP|喔 !
+*CHI:	媽 我 再 弄 蛋糕 .
+%xmor:	Nn|媽 Npro:1sg|我 ADV|再 Vt|弄 Nn|蛋糕 .
+*CHI:	我 去 跑 好 遠 好 遠 喔 .
+%xmor:	Npro:1sg|我 Vt|去 Vi|跑 ADV|好 Va|遠 ADV|好 Va|遠 SFP|喔 .
+%xsyn:	GMOD-V .
+*MOT:	好 .
+%xmor:	Va|好 .
+*CHI:	你 就 追 .
+%xmor:	Npro:2sg|你 ADV|就 Vt|追 .
+*CHI:	追 和 我 .
+%xmor:	Vt|追 CONJ|和 Npro:1sg|我 .
+*MOT:	好 .
+%xmor:	Va|好 .
+*MOT:	我 追 到 不 你 嗎 .
+%xmor:	Npro:1sg|我 Vt|追 Vt|到 NEG|不 Npro:2sg|你 SFP|嗎 .
+*MOT:	我 來 了 來 了 .
+%xmor:	Npro:1sg|我 Vt|來 ASP|了 Vt|來 ASP|了 .
+*CHI:	啊 .
+%xmor:	INT|啊 .
+*MOT:	去 抓 小柔 !
+%xmor:	Vt|去 Vt|抓 Nppn|小柔 !
+%xsyn:	GMOD-VO .
+*CHI:	啊 .
+%xmor:	INT|啊 .
+*MOT:	來 吧 .
+%xmor:	Vt|來 SFP|吧 .
+*MOT:	我們 來 看書 吧 .
+%xmor:	Npro:1pl|我們 Vt|來 Vi|看書 SFP|吧 .
+%xsyn:	GMOD-VO .
+*MOT:	王小柔 .
+%xmor:	Nppn|王小柔 .
+*CHI:	哈 .
+%xmor:	ONM|哈 .
+*CHI:	媽 這 是 什麼 .
+%xmor:	Nn|媽 DET|這 Vc|是 WH|什麼 .
+*MOT:	這 個 是 艾草松雞 .
+%xmor:	DET|這 M|個 Vc|是 Nn|艾草松雞 .
+*MOT:	他 gogo 雞 耶 .
+%xmor:	Npro:3sg|他 CS|gogo Nn|雞 SFP|耶 .
+*MOT:	長 的 好 奇怪 喔 .
+%xmor:	Va|長 DE|的 ADV|好 Va|奇怪 SFP|喔 .
+%xsyn:	Other DE .
+*MOT:	這麼 肥 !
+%xmor:	ADV|這麼 Va|肥 !
+*CHI:	媽 怎麼 有 毛 呢 ?
+%xmor:	Nn|媽 WH|怎麼 Vt|有 Nn|毛 SFP|呢 ?
+*MOT:	對 啊 .
+%xmor:	Va|對 SFP|啊 .
+*MOT:	他 的 毛 好 多 好 多 喔 .
+%xmor:	Npro:3sg|他 DE|的 Nn|毛 ADV|好 Va|多 ADV|好 Va|多 SFP|喔 .
+*MOT:	嚇死 人 了 !
+%xmor:	Vt|嚇死 Nn|人 ASP|了 !
+*CHI:	媽 看 他 自己 +...
+%xmor:	Nn|媽 Vt|看 Npro:3sg|他 Npro:ref|自己 +...
+*CHI:	不 要 扶 他 .
+%xmor:	NEG|不 Vt|要 Vt|扶 Npro:3sg|他 .
+%xsyn:	MOD-VO .
+*CHI:	他 自己 會 彎 起來 .
+%xmor:	Npro:3sg|他 Npro:ref|自己 MOD|會 Vi|彎 Vi|起來 .
+%xsyn:	MOD-V .
+*CHI:	你 看 .
+%xmor:	Npro:2sg|你 Vt|看 .
+*CHI:	對 啊 .
+%xmor:	Va|對 SFP|啊 .
+*CHI:	像 小柔 以前 啊 .
+%xmor:	Vc|像 Nppn|小柔 Nt|以前 SFP|啊 .
+*CHI:	把 老鷹 的 翅膀 弄壞 了 .
+%xmor:	PREP|把 Nn|老鷹 DE|的 Nn|翅膀 Vt|弄壞 ASP|了 .
+%xsyn:	PP-V .
+*MOT:	真的 啊 .
+%xmor:	MOD|真的 SFP|啊 .
+*MOT:	那 老鷹 痛 不 痛 啊 ?
+%xmor:	INT|那 Nn|老鷹 Va|痛 NEG|不 Va|痛 SFP|啊 ?
+*CHI:	痛 .
+%xmor:	Va|痛 .
+*MOT:	好 可憐 喔 !
+%xmor:	ADV|好 Va|可憐 SFP|喔 !
+*CHI:	媽媽 .
+%xmor:	Nn|媽媽 .
+*CHI:	我 想 送 二姊 去 大陸 耶 .
+%xmor:	Npro:1sg|我 Vt|想 Vt|送 Nn|二姊 Vt|去 Nppn|大陸 SFP|耶 .
+%xsyn:	MOD-PVC .
+*MOT:	真的 啊 .
+%xmor:	MOD|真的 SFP|啊 .
+*MOT:	你 怎麼 去 的 .
+%xmor:	Npro:2sg|你 WH|怎麼 Vt|去 DE|的 .
+*MOT:	你 坐 什麼 東西 去 ?
+%xmor:	Npro:2sg|你 Vi|坐 WH|什麼 Nn|東西 Vt|去 ?
+%xsyn:	MEVENT-C .
+*CHI:	坐 車車 .
+%xmor:	Vi|坐 Nn|車車 .
+*CHI:	坐到 了 就 坐 飛機 了 .
+%xmor:	Vt|坐到 ASP|了 ADV|就 Vi|坐 Nn|飛機 ASP|了 .
+*MOT:	唉唷 .
+%xmor:	INT|唉唷 .
+*CHI:	有 好 奇怪 .
+%xmor:	Vt|有 ADV|好 Va|奇怪 .
+*MOT:	唉唷 好 厲害 喔 !
+%xmor:	INT|唉唷 ADV|好 Va|厲害 SFP|喔 !
+*CHI:	有 好 奇怪 啦 .
+%xmor:	Vt|有 ADV|好 Va|奇怪 SFP|啦 .
+*MOT:	好 奇怪 啊 ?
+%xmor:	ADV|好 Va|奇怪 SFP|啊 ?
+*CHI:	媽 好 奇怪 的 車子 喔 !
+%xmor:	Nn|媽 ADV|好 Va|奇怪 DE|的 Nn|車子 SFP|喔 !
+*MOT:	有 好 奇怪 的 車 啊 ?
+%xmor:	Vt|有 ADV|好 Va|奇怪 DE|的 Nn|車 SFP|啊 ?
+*CHI:	媽 +...
+%xmor:	Nn|媽 +...
+*CHI:	我 以前 都 好 怪 的 車車 .
+%xmor:	Npro:1sg|我 Nt|以前 ADV|都 ADV|好 Va|怪 DE|的 Nn|車車 .
+*MOT:	那 你 去 大陸 幹嘛 ?
+%xmor:	INT|那 Npro:2sg|你 Vt|去 Nppn|大陸 WH|幹嘛 ?
+*CHI:	是 找 阿公 .
+%xmor:	Vc|是 Vt|找 Nn|阿公 .
+*CHI:	找 阿祖 .
+%xmor:	Vt|找 Nn|阿祖 .
+*MOT:	哦 .
+%xmor:	INT|哦 .
+*CHI:	找 我 的 阿祖 .
+%xmor:	Vt|找 Npro:1sg|我 DE|的 Nn|阿祖 .
+*MOT:	你 的 阿祖 啊 !
+%xmor:	Npro:2sg|你 DE|的 Nn|阿祖 SFP|啊 !
+*CHI:	嗯 .
+%xmor:	INT|嗯 .
+*MOT:	你 的 阿祖 怎麼 了 ?
+%xmor:	Npro:2sg|你 DE|的 Nn|阿祖 WH|怎麼 ASP|了 ?
+*CHI:	死 掉 了 .
+%xmor:	Va|死 Vi|掉 ASP|了 .
+*MOT:	對 阿祖 死 掉 了 .
+%xmor:	Va|對 Nn|阿祖 Va|死 Vi|掉 ASP|了 .
+*CHI:	媽媽 .
+%xmor:	Nn|媽媽 .
+*CHI:	我 去 找 我 的 阿祖 .
+%xmor:	Npro:1sg|我 Vt|去 Vt|找 Npro:1sg|我 DE|的 Nn|阿祖 .
+%xsyn:	GMOD-VO .
+*MOT:	好 啊 .
+%xmor:	Va|好 SFP|啊 .
+*CHI:	媽媽 我 也 去 我 的 阿公家 耶 !
+%xmor:	Nn|媽媽 Npro:1sg|我 ADV|也 Vt|去 Npro:1sg|我 DE|的 Nn|阿公家 SFP|耶 !
+*MOT:	唉唷 .
+%xmor:	INT|唉唷 .
+*MOT:	你 小時候 都 去 過 啊 ?
+%xmor:	Npro:2sg|你 Nt|小時候 ADV|都 Vt|去 ASP|過 SFP|啊 ?
+*CHI:	嗯 .
+%xmor:	INT|嗯 .
+*MOT:	阿祖家 好玩 不 好玩 ?
+%xmor:	Nn|阿祖家 Va|好玩 NEG|不 Va|好玩 ?
+*CHI:	好玩 .
+%xmor:	Va|好玩 .
+*MOT:	有 什麼 ?
+%xmor:	Vt|有 WH|什麼 ?
+*CHI:	有 娃娃車 .
+%xmor:	Vt|有 Nn|娃娃車 .
+*MOT:	喔 有 娃娃車 啊 .
+%xmor:	INT|喔 Vt|有 Nn|娃娃車 SFP|啊 .
+*MOT:	還有 什麼 ?
+%xmor:	CONJ|還有 WH|什麼 ?
+*CHI:	還有 玩具 .
+%xmor:	CONJ|還有 Nn|玩具 .
+*MOT:	這麼 好 啊 !
+%xmor:	ADV|這麼 Va|好 SFP|啊 !
+*CHI:	可是 爺爺家 也 有 玩具 .
+%xmor:	CONJ|可是 Nn|爺爺家 ADV|也 Vt|有 Nn|玩具 .
+*MOT:	對 啊 !
+%xmor:	Va|對 SFP|啊 !
+*CHI:	我 下次 到 雅雅家 .
+%xmor:	Npro:1sg|我 ADV|下次 Vt|到 Nn|雅雅家 .
+*MOT:	好 啊 !
+%xmor:	Va|好 SFP|啊 !
+*MOT:	雅雅家 在 好 遠 的 地方 耶 .
+%xmor:	Nn|雅雅家 Vt|在 ADV|好 Va|遠 DE|的 Nn|地方 SFP|耶 .
+%xsyn:	Other DE .
+*MOT:	也 是 要 坐 火車 才 可以 到 .
+%xmor:	ADV|也 Vc|是 Vt|要 Vi|坐 Nn|火車 ADV|才 MOD|可以 Vt|到 .
+%xsyn:	MOD-MEVENT-C .
+*CHI:	看看 .
+%xmor:	Vr|看看 .
+*CHI:	我 的 不 要 了 .
+%xmor:	Npro:1sg|我 DE|的 NEG|不 Vt|要 ASP|了 .
+%xsyn:	Other DE .
+*CHI:	我 再 弄給 你 看 喔 .
+%xmor:	Npro:1sg|我 ADV|再 Vt|弄給 Npro:2sg|你 Vt|看 SFP|喔 .
+%xsyn:	DCIR .
+*MOT:	謝謝 .
+%xmor:	IDM|謝謝 .
+*MOT:	Ha 用 丟 的 .
+%xmor:	CS|Ha PREP|用 Vt|丟 DE|的 .
+%xsyn:	Other DE .
+*MOT:	好吃 .
+%xmor:	Va|好吃 .
+*CHI:	再 弄 不 好吃 的 蛋糕 .
+%xmor:	ADV|再 Vt|弄 NEG|不 Va|好吃 DE|的 Nn|蛋糕 .
+%xsyn:	Other DE .
+*MOT:	不 好吃 的 ?
+%xmor:	NEG|不 Va|好吃 DE|的 ?
+%xsyn:	Other DE .
+*CHI:	嗯 .
+%xmor:	INT|嗯 .
+*CHI:	他們 沒有 加加 糖糖 .
+%xmor:	Npro:3pl|他們 NEG|沒有 Vt|加加 Nn|糖糖 .
+%xsyn:	NEG-MOD-VO .
+*MOT:	嗯 這 個 蛋糕 怎麼 不 加 糖 啊 .
+%xmor:	INT|嗯 DET|這 M|個 Nn|蛋糕 WH|怎麼 NEG|不 Vt|加 Nn|糖 SFP|啊 .
+*MOT:	這麼 難吃 .
+%xmor:	ADV|這麼 Va|難吃 .
+*CHI:	因為 我 不 加 糖 .
+%xmor:	CONJ|因為 Npro:1sg|我 NEG|不 Vt|加 Nn|糖 .
+*CHI:	媽 我 還 拿 糖糖 給 你 吃 .
+%xmor:	Nn|媽 Npro:1sg|我 ADV|還 Vt|拿 Nn|糖糖 Vt|給 Npro:2sg|你 Vt|吃 .
+%xsyn:	DCIR .
+*CHI:	拿 好 多 糖糖 .
+%xmor:	Vt|拿 ADV|好 ADJ|多 Nn|糖糖 .
+*CHI:	媽 這 糖糖 很 甜 .
+%xmor:	Nn|媽 DET|這 Nn|糖糖 ADV|很 Va|甜 .
+*MOT:	哇 真 甜 耶 !
+%xmor:	INT|哇 ADV|真 Va|甜 SFP|耶 !
+*CHI:	因為 我 這 個 是 巧克力 的 味道 .
+%xmor:	CONJ|因為 Npro:1sg|我 DET|這 M|個 Vc|是 Nn|巧克力 DE|的 Nn|味道 .
+%xsyn:	Other DE .
+*MOT:	唉唷 我 最 喜歡 吃 巧克力 味道 .
+%xmor:	INT|唉唷 Npro:1sg|我 ADV|最 Vt|喜歡 Vt|吃 Nn|巧克力 Nn|味道 .
+%xsyn:	MOD-VO .
+*CHI:	然後 我 變 姊姊 了 .
+%xmor:	CONJ|然後 Npro:1sg|我 Vt|變 Nn|姊姊 ASP|了 .
+*MOT:	姊姊 .
+%xmor:	Nn|姊姊 .
+*CHI:	讓 我 做 一 個 糖糖 給 你 吃 .
+%xmor:	Vt|讓 Npro:1sg|我 Vt|做 QN|一 M|個 Nn|糖糖 Vt|給 Npro:2sg|你 Vt|吃 .
+%xsyn:	PVC-DCIR .
+*MOT:	姊姊 我 要 吃 草莓糖 .
+%xmor:	Nn|姊姊 Npro:1sg|我 Vt|要 Vt|吃 Nn|草莓糖 .
+%xsyn:	MOD-VO .
+*CHI:	好 .
+%xmor:	Va|好 .
+*CHI:	這 草莓糖 .
+%xmor:	DET|這 Nn|草莓糖 .
+*MOT:	嗯 , 有 草莓 的 味道 耶 !
+%xmor:	INT|嗯 , Vt|有 Nn|草莓 DE|的 Nn|味道 SFP|耶 !
+%xsyn:	Other DE .
+*CHI:	對 啊 !
+%xmor:	Va|對 SFP|啊 !
+*MOT:	我 最 喜歡 吃 草莓 了 !
+%xmor:	Npro:1sg|我 ADV|最 Vt|喜歡 Vt|吃 Nn|草莓 ASP|了 !
+%xsyn:	COMP-VO .
+*CHI:	姊姊 好 厲害 !
+%xmor:	Nn|姊姊 ADV|好 Va|厲害 !
+*MOT:	唉唷 !
+%xmor:	INT|唉唷 !
+*CHI:	姊姊 很 勇敢 !
+%xmor:	Nn|姊姊 ADV|很 Va|勇敢 !
+*MOT:	唉唷 痛 不 痛 ?
+%xmor:	INT|唉唷 Va|痛 NEG|不 Va|痛 ?
+*CHI:	痛 .
+%xmor:	Va|痛 .
+*MOT:	唉唷 痛 .
+%xmor:	INT|唉唷 Va|痛 .
+*CHI:	那 我 再 做 好吃 的 味道 .
+%xmor:	INT|那 Npro:1sg|我 ADV|再 Vt|做 Va|好吃 DE|的 Nn|味道 .
+*CHI:	什麼 味道 ?
+%xmor:	WH|什麼 Nn|味道 ?
+*MOT:	我 想想 看 喔 .
+%xmor:	Npro:1sg|我 Vr|想想 Vt|看 SFP|喔 .
+*MOT:	我 最 喜歡 吃 +...
+%xmor:	Npro:1sg|我 ADV|最 Vt|喜歡 Vt|吃 +...
+*CHI:	用 丟 的 .
+%xmor:	Vt|用 Vt|丟 DE|的 .
+%xsyn:	Other DE .
+*MOT:	我 喜歡 吃 西瓜 味道 的 糖 耶 .
+%xmor:	Npro:1sg|我 Vt|喜歡 Vt|吃 Nn|西瓜 Nn|味道 DE|的 Nn|糖 SFP|耶 .
+%xsyn:	COMP-VO .
+*CHI:	好 .
+%xmor:	Va|好 .
+*CHI:	我 要 弄 好 多 喔 .
+%xmor:	Npro:1sg|我 Vt|要 Vt|弄 ADV|好 Va|多 SFP|喔 .
+%xsyn:	MOD-V .
+*MOT:	哇 真 好吃 .
+%xmor:	INT|哇 ADV|真 Va|好吃 .
+*CHI:	你 講 我 還 要 .
+%xmor:	Npro:2sg|你 Vt|講 Npro:1sg|我 ADV|還 Vt|要 .
+%xsyn:	COMP-OBJ .
+*MOT:	我 還 要 .
+%xmor:	Npro:1sg|我 ADV|還 Vt|要 .
+*CHI:	好 .
+%xmor:	Va|好 .
+*CHI:	姊姊 +...
+%xmor:	Nn|姊姊 +...
+*CHI:	姊姊 會 做 運動 .
+%xmor:	Nn|姊姊 MOD|會 Vt|做 Nn|運動 .
+%xsyn:	MOD-VO .
+*CHI:	姊姊 也 會 做 運動 .
+%xmor:	Nn|姊姊 ADV|也 MOD|會 Vt|做 Nn|運動 .
+%xsyn:	MOD-VO .
+*CHI:	媽 我 +...
+%xmor:	Nn|媽 Npro:1sg|我 +...
+*MOT:	現 這 什麼 ?
+%xmor:	Nt|現 DET|這 WH|什麼 ?
+*CHI:	是 果汁 .
+%xmor:	Vc|是 Nn|果汁 .
+*CHI:	不 是 味道 .
+%xmor:	NEG|不 Vc|是 Nn|味道 .
+*MOT:	是 果汁 啊 .
+%xmor:	Vc|是 Nn|果汁 SFP|啊 .
+*MOT:	什麼 果汁 啊 .
+%xmor:	WH|什麼 Nn|果汁 SFP|啊 .
+*CHI:	阿媽 去 xxx 做 的 果汁 .
+%xmor:	Nn|阿媽 Vt|去 CHM|xxx Vt|做 DE|的 Nn|果汁 .
+*CHI:	我 都 拿給 你 .
+%xmor:	Npro:1sg|我 ADV|都 Vt|拿給 Npro:2sg|你 .
+*MOT:	喔 阿媽 的 果汁 啊 .
+%xmor:	INT|喔 Nn|阿媽 DE|的 Nn|果汁 SFP|啊 .
+%xsyn:	Other DE .
+*CHI:	香 不 香 ?
+%xmor:	Va|香 NEG|不 Va|香 ?
+*MOT:	香 .
+%xmor:	Va|香 .
+*MOT:	是 不 是 阿媽 的 波蜜 ?
+%xmor:	Vc|是 NEG|不 Vc|是 Nn|阿媽 DE|的 Nppn|波蜜 ?
+%xsyn:	Other DE .
+*MOT:	波蜜果菜汁 是 不 是 ?
+%xmor:	Nppn|波蜜果菜汁 Vc|是 NEG|不 Vc|是 ?
+*CHI:	嗯 .
+%xmor:	INT|嗯 .
+*CHI:	對 .
+%xmor:	Va|對 .
+*CHI:	姊姊 會 唱 .
+%xmor:	Nn|姊姊 MOD|會 Vt|唱 .
+%xsyn:	MOD-V .
+*MOT:	我 幫 你 穿 襪子 好 不 好 ?
+%xmor:	Npro:1sg|我 PREP|幫 Npro:2sg|你 Vt|穿 Nn|襪子 Va|好 NEG|不 Va|好 ?
+%xsyn:	COMP-SUBJ-MOD-VO .
+*CHI:	嗯 .
+%xmor:	INT|嗯 .
+*CHI:	好 .
+%xmor:	Va|好 .
+*MOT:	唉唷 , 真 乖 !
+%xmor:	INT|唉唷 , ADV|真 Va|乖 !
+*MOT:	來 穿 有 小 星星 的 .
+%xmor:	Vt|來 Vt|穿 Vt|有 ADJ|小 Nn|星星 DE|的 .
+%xsyn:	GMOD-REL-OS .
+*MOT:	還是 滑滑 的 ?
+%xmor:	ADV|還是 Va|滑滑 DE|的 ?
+%xsyn:	Other DE .
+*CHI:	滑滑 的 .
+%xmor:	Va|滑滑 DE|的 .
+%xsyn:	Other DE .
+*CHI:	像 溜冰鞋 .
+%xmor:	Vc|像 Nn|溜冰鞋 .
+*CHI:	滑滑 的 啦 .
+%xmor:	Va|滑滑 DE|的 SFP|啦 .
+*CHI:	是 滑滑 的 .
+%xmor:	Vc|是 Va|滑滑 DE|的 .
+*CHI:	不 是 Guagua 的 .
+%xmor:	NEG|不 Vc|是 CS|Guagua DE|的 .
+*CHI:	滑滑 就 是 滑滑 的 .
+%xmor:	Va|滑滑 ADV|就 Vc|是 Va|滑滑 DE|的 .
+%xsyn:	Other DE .
+*MOT:	很 滑 喔 .
+%xmor:	ADV|很 Va|滑 SFP|喔 .
+*MOT:	你 要 小心 喔 .
+%xmor:	Npro:2sg|你 Vt|要 Vt|小心 SFP|喔 .
+*MOT:	來 坐 下來 吧 .
+%xmor:	Vt|來 Vi|坐 Vi|下來 SFP|吧 .
+%xsyn:	GMOD-V .
+*CHI:	媽 剛 我 碰 到 桌子 了 .
+%xmor:	Nn|媽 ADV|剛 Npro:1sg|我 Vt|碰 Vt|到 Nn|桌子 ASP|了 .
+*MOT:	痛 不 痛 ?
+%xmor:	Va|痛 NEG|不 Va|痛 ?
+*CHI:	痛 啊 .
+%xmor:	Va|痛 SFP|啊 .
+*MOT:	來 .
+%xmor:	Vt|來 .
+*MOT:	我 牽 你 過來 .
+%xmor:	Npro:1sg|我 Vt|牽 Npro:2sg|你 Vi|過來 .
+%xsyn:	PVC .
+*CHI:	好 .
+%xmor:	Va|好 .
+*MOT:	很 滑 喔 .
+%xmor:	ADV|很 Va|滑 SFP|喔 .
+*MOT:	等一下 走路 要 小心 喔 .
+%xmor:	ADV|等一下 Vi|走路 Vt|要 Vt|小心 SFP|喔 .
+*MOT:	你 腳 好 冰 喔 .
+%xmor:	Npro:2sg|你 Nn|腳 ADV|好 Va|冰 SFP|喔 .
+*CHI:	媽 那 我 不 讓 腳腳 好 冰 喔 !
+%xmor:	Nn|媽 INT|那 Npro:1sg|我 NEG|不 Vt|讓 Nn|腳腳 ADV|好 Va|冰 SFP|喔 !
+%xsyn:	NEG-PVC .
+*MOT:	就是 啊 .
+%xmor:	CONJ|就是 SFP|啊 .
+*MOT:	冰冰 的 話 .
+%xmor:	Va|冰冰 DE|的 Nn|話 .
+*MOT:	血液 就 不 循環 .
+%xmor:	Nn|血液 ADV|就 NEG|不 Vi|循環 .
+*MOT:	就 容易 感冒 啊 .
+%xmor:	ADV|就 ADV|容易 Va|感冒 SFP|啊 .
+*MOT:	你 知道 嗎 ?
+%xmor:	Npro:2sg|你 Vt|知道 SFP|嗎 ?
+*CHI:	舅舅 .
+%xmor:	Nn|舅舅 .
+*CHI:	小雅 會 感冒 呢 ?
+%xmor:	Nppn|小雅 MOD|會 Va|感冒 SFP|呢 ?
+%xsyn:	MOD-V .
+*MOT:	舅舅 不 會 感冒 .
+%xmor:	Nn|舅舅 NEG|不 MOD|會 Va|感冒 .
+%xsyn:	MOD-V .
+*MOT:	小柔 會 感冒 .
+%xmor:	Nppn|小柔 MOD|會 Va|感冒 .
+%xsyn:	MOD-V .
+*MOT:	冰冰 的 .
+%xmor:	Va|冰冰 DE|的 .
+*MOT:	小柔 會 感冒 .
+%xmor:	Nppn|小柔 MOD|會 Va|感冒 .
+%xsyn:	MOD-V .
+*CHI:	這 好 滑 喔 !
+%xmor:	DET|這 ADV|好 Va|滑 SFP|喔 !
+*MOT:	嘻 .
+%xmor:	Vi|嘻 .
+*CHI:	媽 我 跌倒 了 !
+%xmor:	Nn|媽 Npro:1sg|我 Vi|跌倒 ASP|了 !
+*CHI:	姊 再 做 一 次 蛋糕 給 你 吃 .
+%xmor:	Nn|姊 ADV|再 Vt|做 QN|一 M|次 Nn|蛋糕 Vt|給 Npro:2sg|你 Vt|吃 .
+%xsyn:	DCIR .
+*MOT:	媽媽 要 去 煮飯 了 喔 .
+%xmor:	Nn|媽媽 Vt|要 Vt|去 Vi|煮飯 ASP|了 SFP|喔 .
+%xsyn:	MOD-GMOD-VO .
+*CHI:	喔 .
+%xmor:	INT|喔 .
+*MOT:	好 不 好 ?
+%xmor:	Va|好 NEG|不 Va|好 ?
+*CHI:	姊姊 煮飯 .
+%xmor:	Nn|姊姊 Vi|煮飯 .
+*CHI:	姊姊 最 會 煮飯 了 .
+%xmor:	Nn|姊姊 ADV|最 MOD|會 Vi|煮飯 ASP|了 .
+%xsyn:	MOD-VO .
+*MOT:	真的 嗎 ?
+%xmor:	MOD|真的 SFP|嗎 ?
+%xsyn:	Other DE .
+*MOT:	你 會 煮 什麼 飯 ?
+%xmor:	Npro:2sg|你 MOD|會 Vt|煮 WH|什麼 Nn|飯 ?
+%xsyn:	MOD-VO .
+*CHI:	我 會 煮 不 好吃 的 飯 .
+%xmor:	Npro:1sg|我 MOD|會 Vt|煮 NEG|不 Va|好吃 DE|的 Nn|飯 .
+%xsyn:	MOD-VO .
+*MOT:	那 我 不 要 吃 .
+%xmor:	INT|那 Npro:1sg|我 NEG|不 Vt|要 Vt|吃 .
+%xsyn:	MOD-V .
+*CHI:	好 吧 .
+%xmor:	Va|好 SFP|吧 .
+*CHI:	那 姊姊 轉 .
+%xmor:	INT|那 Nn|姊姊 Vt|轉 .
+*MOT:	姊姊 你 頭 會 不 會 昏 啊 ?
+%xmor:	Nn|姊姊 Npro:2sg|你 Nn|頭 MOD|會 NEG|不 MOD|會 Va|昏 SFP|啊 ?
+*CHI:	不 會 .
+%xmor:	NEG|不 MOD|會 .
+*MOT:	昏 了 沒 ?
+%xmor:	Va|昏 ASP|了 NEG|沒 ?
+*CHI:	還 沒 .
+%xmor:	ADV|還 NEG|沒 .
+*CHI:	等一下 就 昏 了 .
+%xmor:	ADV|等一下 ADV|就 Va|昏 ASP|了 .
+*CHI:	媽 就 是 這 個 顏色 .
+%xmor:	Nn|媽 ADV|就 Vc|是 DET|這 M|個 Nn|顏色 .
+*CHI:	跟 什麼 一樣 ?
+%xmor:	CONJ|跟 WH|什麼 Va|一樣 ?
+*MOT:	哪 一 個 顏色 ?
+%xmor:	DET|哪 QN|一 M|個 Nn|顏色 ?
+*CHI:	這 個 .
+%xmor:	DET|這 M|個 .
+*MOT:	啊 這 就 是 紅色 的 嘛 .
+%xmor:	INT|啊 DET|這 ADV|就 Vc|是 Nn|紅色 DE|的 SFP|嘛 .
+%xsyn:	Other DE .
+*CHI:	跟 什麼 一樣 ?
+%xmor:	CONJ|跟 WH|什麼 Va|一樣 ?
+*MOT:	跟 跟 這 個 一樣 啊 !
+%xmor:	CONJ|跟 CONJ|跟 DET|這 M|個 Va|一樣 SFP|啊 !
+*CHI:	跟 +...
+%xmor:	CONJ|跟 +...
+*MOT:	喔 對 了 .
+%xmor:	INT|喔 Va|對 ASP|了 .
+*MOT:	也 是 跟 那 個 一樣 .
+%xmor:	ADV|也 Vc|是 CONJ|跟 DET|那 M|個 Va|一樣 .
+*MOT:	跟 我 的 衣服 一樣 啊 .
+%xmor:	CONJ|跟 Npro:1sg|我 DE|的 Nn|衣服 Va|一樣 SFP|啊 .
+*MOT:	對 不 對 ?
+%xmor:	Va|對 NEG|不 Va|對 ?
+*CHI:	跌倒 了 .
+%xmor:	Vi|跌倒 ASP|了 .
+*MOT:	唉唷 .
+%xmor:	INT|唉唷 .
+*CHI:	看 姊姊 會 跑 .
+%xmor:	Vt|看 Nn|姊姊 MOD|會 Vi|跑 .
+%xsyn:	COMP-OBJ .
+*CHI:	看 姊姊 會 跑 了 .
+%xmor:	Vt|看 Nn|姊姊 MOD|會 Vi|跑 ASP|了 .
+%xsyn:	COMP-OBJ-MOD-V .
+*CHI:	唉唷 .
+%xmor:	INT|唉唷 .
+*CHI:	跌倒 了 .
+%xmor:	Vi|跌倒 ASP|了 .
+*MOT:	喂 你 穿 那 襪子 跑 起來 很 危險 .
+%xmor:	INT|喂 Npro:2sg|你 Vt|穿 DET|那 Nn|襪子 Vi|跑 Vi|起來 ADV|很 Va|危險 .
+%xsyn:	MCC .
+*MOT:	不 小心 就 會 跌倒 喔 .
+%xmor:	NEG|不 Vt|小心 ADV|就 MOD|會 Vi|跌倒 SFP|喔 .
+%xsyn:	MOD-V .
+*CHI:	媽 這 不 會 跌倒 啊 ?
+%xmor:	Nn|媽 DET|這 NEG|不 MOD|會 Vi|跌倒 SFP|啊 ?
+%xsyn:	NEG-MOD-V .
+*MOT:	不 會 嗎 .
+%xmor:	NEG|不 MOD|會 SFP|嗎 .
+*MOT:	會 啊 .
+%xmor:	MOD|會 SFP|啊 .
+*MOT:	會 啊 .
+%xmor:	MOD|會 SFP|啊 .
+*MOT:	這 很 滑 的 .
+%xmor:	DET|這 ADV|很 Va|滑 DE|的 .
+%xsyn:	Other DE .
+*CHI:	媽 .
+%xmor:	Nn|媽 .
+*MOT:	喂 我 不 是 石頭 耶 .
+%xmor:	INT|喂 Npro:1sg|我 NEG|不 Vc|是 Nn|石頭 SFP|耶 .
+*CHI:	你 是 石頭 啊 !
+%xmor:	Npro:2sg|你 Vc|是 Nn|石頭 SFP|啊 !
+*CHI:	媽 我 去 很 遠 的 地方 .
+%xmor:	Nn|媽 Npro:1sg|我 Vt|去 ADV|很 Va|遠 DE|的 Nn|地方 .
+*CHI:	跟 我 去 .
+%xmor:	CONJ|跟 Npro:1sg|我 Vt|去 .
+*MOT:	去 哪裡 ?
+%xmor:	Vt|去 WH|哪裡 ?
+*CHI:	去 叔叔家 .
+%xmor:	Vt|去 Nn|叔叔家 .
+*MOT:	去 叔叔家 啊 ?
+%xmor:	Vt|去 Nn|叔叔家 SFP|啊 ?
+*CHI:	嗯 .
+%xmor:	INT|嗯 .
+*MOT:	要 怎麼 去 ?
+%xmor:	Vt|要 WH|怎麼 Vt|去 ?
+%xsyn:	MOD-V .
+*CHI:	坐 火車 .
+%xmor:	Vi|坐 Nn|火車 .
+*MOT:	好 .
+%xmor:	Va|好 .
+*CHI:	等一下 .
+%xmor:	ADV|等一下 .
+*CHI:	火車 來 了 .
+%xmor:	Nn|火車 Vt|來 ASP|了 .
+*CHI:	快 溜 .
+%xmor:	ADV|快 Vi|溜 .
+*CHI:	要 坐 火車 .
+%xmor:	Vt|要 Vi|坐 Nn|火車 .
+%xsyn:	MOD-VO .
+*MOT:	喔 這 就 是 火車 啊 .
+%xmor:	INT|喔 DET|這 ADV|就 Vc|是 Nn|火車 SFP|啊 .
+*MOT:	來 .
+%xmor:	Vt|來 .
+*MOT:	我們 來 坐 火車 .
+%xmor:	Npro:1pl|我們 Vt|來 Vi|坐 Nn|火車 .
+%xsyn:	GMOD-VO .
+*MOT:	你 站 在 前面 .
+%xmor:	Npro:2sg|你 Vi|站 Vt|在 Nloc|前面 .
+*MOT:	我 知道 怎麼 坐 .
+%xmor:	Npro:1sg|我 Vt|知道 WH|怎麼 Vi|坐 .
+%xsyn:	COMP-OBJ .
+*MOT:	你 站 前面 .
+%xmor:	Npro:2sg|你 Vi|站 Nloc|前面 .
+*CHI:	那 我 踢 球球 .
+%xmor:	INT|那 Npro:1sg|我 Vt|踢 Nn|球球 .
+*CHI:	媽媽 你 這 個 球球 +...
+%xmor:	Nn|媽媽 Npro:2sg|你 DET|這 M|個 Nn|球球 +...
+*CHI:	我 丟 給 你 看 !
+%xmor:	Npro:1sg|我 Vt|丟 Vt|給 Npro:2sg|你 Vt|看 !
+%xsyn:	DCIR .
+*CHI:	看 姊姊 .
+%xmor:	Vt|看 Nn|姊姊 .
+*MOT:	唉唷 好 厲害 喔 .
+%xmor:	INT|唉唷 ADV|好 Va|厲害 SFP|喔 .
+*MOT:	丟 好 高 喔 .
+%xmor:	Vt|丟 ADV|好 Va|高 SFP|喔 .
+*CHI:	你 丟 吧 .
+%xmor:	Npro:2sg|你 Vt|丟 SFP|吧 .
+*MOT:	來 .
+%xmor:	Vt|來 .
+*MOT:	給 我 丟 .
+%xmor:	Vt|給 Npro:1sg|我 Vt|丟 .
+*CHI:	丟給 我 .
+%xmor:	Vt|丟給 Npro:1sg|我 .
+*MOT:	唉唷 好 厲害 喔 .
+%xmor:	INT|唉唷 ADV|好 Va|厲害 SFP|喔 .
+*MOT:	來 .
+%xmor:	Vt|來 .
+*MOT:	我 丟給 你 喔 !
+%xmor:	Npro:1sg|我 Vt|丟給 Npro:2sg|你 SFP|喔 !
+*CHI:	用 頭頭 .
+%xmor:	PREP|用 Nn|頭頭 .
+*MOT:	用 頭 丟 啊 .
+%xmor:	PREP|用 Nn|頭 Vt|丟 SFP|啊 .
+*MOT:	我 不 會 耶 .
+%xmor:	Npro:1sg|我 NEG|不 MOD|會 SFP|耶 .
+*MOT:	我 沒有 你 那麼 厲害 耶 .
+%xmor:	Npro:1sg|我 NEG|沒有 Npro:2sg|你 ADV|那麼 Va|厲害 SFP|耶 .
+*MOT:	一二三 .
+%xmor:	IDM|一二三 .
+*MOT:	唷 你 接到 得 啊 .
+%xmor:	INT|唷 Npro:2sg|你 Vt|接到 DE|得 SFP|啊 .
+*MOT:	喔 不錯 嘛 !
+%xmor:	INT|喔 Va|不錯 SFP|嘛 !
+@End

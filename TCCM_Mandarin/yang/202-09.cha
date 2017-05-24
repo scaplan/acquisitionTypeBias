@@ -1,0 +1,746 @@
+@UTF8
+@PID:	11312/a-00000164-1
+@Begin
+@Languages:	zho, nan
+@Participants:	CHI Yang Child, EXA Observer
+@ID:	zho, nan|HC|CHI|2;2.||||Child|||
+@ID:	zho, nan|HC|EXA|||||Observer|||
+*EXA:	巴比 也來幫忙.
+%xsyn:	GMOD-V
+*EXA:	要從哪裡關?
+%xsyn:	GMOD-PP-V
+*CHI:	從 這 裡 關.
+%xsyn:	PP-V
+*EXA:	好, 用力壓下去哦.
+*CHI:	關 起 來.
+*EXA:	哦, 沒有聲音了.
+*CHI:	巴比 關 起 來 就 沒有 聲音 了.
+*EXA:	蛤?
+*CHI:	巴比 一 關 就 沒有 聲音 了.
+*EXA:	哼巴比一關掉沒有聲音了.
+*EXA:	好, 來.
+*EXA:	阿現在要去哪裡啊?
+%xsyn:	GMOD-SVC
+*CHI:	要 去 找 媽媽.
+%xsyn:	GMOD-GMOD-V-O
+*EXA:	不是 啊.
+*EXA:	媽媽等等才會來找你啊.
+%xsyn:	GMOD-SVC
+*CHI:	不 要 嘛.
+*EXA:	不要嘛.
+*EXA:	阿你穿這麼少衣服不能去啊.
+%xsyn:	MOD-V
+*EXA:	要穿多一點衣服才能去.
+%xsyn:	MOD-V
+*CHI:	我不要穿.
+%xsyn:	NEG-GMOD-V
+*CHI:	這麼多衣服, 我.
+*EXA:	好, 穿這麼多衣服.
+*EXA:	來, 阿姨抱抱.
+*EXA:	來, 阿姨抱.
+*EXA:	阿姨把燈關掉.
+*EXA:	哎喲, 你感冒耶.
+*EXA:	感冒的很厲害耶.
+%xsyn:	DCR
+*EXA:	怎麼辦?
+*EXA:	哦, 你站在這裡.
+*EXA:	站一下.
+*EXA:	站起來.
+*CHI:	不 要.
+*EXA:	站起來.
+*EXA:	阿姨背啊.
+*CHI:	我 要 阿姨 抱.
+%xsyn:	GMOD-S-V
+*EXA:	抱, 阿姨抱不動啊.
+*EXA:	用抱的阿姨抱不動啊.
+%xsyn:	MCC
+*EXA:	要用背的阿姨才背得動啊.
+%xsyn:	MCC
+*CHI:	xxx.
+*EXA:	蛤?
+*EXA:	哎喲[x 7] .
+*EXA:	背不動了.
+*EXA:	哎喲[/] 阿姨摔下來了.
+*EXA:	你看看.
+*EXA:	好, 我們坐飛機哦.
+*EXA:	坐好沒有?
+*CHI:	坐 好 了.
+*EXA:	坐好了哼.
+*EXA:	坐好了.
+*EXA:	我們要開囉.
+%xsyn:	GMOD-SVC
+*EXA:	阿姨要開.
+%xsyn:	GMOD-SVC
+*EXA:	開很快哦.
+*EXA:	開很快哦.
+*EXA:	怕不怕?
+*CHI:	怕.
+*EXA:	楊文鋒 怕不怕?
+*CHI:	怕.
+*EXA:	怕.
+*EXA:	咦, 轉, 我們兩個太肥了.
+*EXA:	轉不動.
+*EXA:	頭會不會暈暈的?
+%xsyn:	GMOD-SVC
+*EXA:	你頭會不會暈暈的?
+%xsyn:	GMOD-SVC
+*EXA:	阿姨再轉回來.
+*EXA:	就頭不會暈暈的, 哼.
+%xsyn:	GMOD-SVC
+*EXA:	你要不要喝茶.
+%xsyn:	GMOD-SVC
+*EXA:	阿姨弄一點茶給你喝好不好?
+%xsyn:	DCIR
+*CHI:	這 個.
+*EXA:	哼?
+*CHI:	開.
+*EXA:	嘿, 這個阿公的抽屜耶.
+*EXA:	不能隨便開.
+%xsyn:	MOD-SVC
+*EXA:	趕快關起來.
+*EXA:	那個不能拿.
+%xsyn:	MOD-SVC
+*EXA:	那個不能拿.
+%xsyn:	MOD-SVC
+*EXA:	那個阿公的抽屜.
+*EXA:	趕快關起來.
+*EXA:	阿公會罵人哦.
+%xsyn:	GMOD-V-O
+*EXA:	阿這邊 呢.
+*EXA:	這邊這個可以開.
+*EXA:	對, 這個可以開.
+%xsyn:	MOD-SVC
+*EXA:	大抽屜不能開.
+*EXA:	小抽屜可以開.
+*EXA:	你打開看看.
+%xsyn:	MEVENT-P
+*EXA:	裡面有什麼?
+*EXA:	打開.
+*EXA:	哎喲.
+*EXA:	裡面有什麼.
+*EXA:	這個是 什麼?
+*CHI:	這 個.
+*EXA:	哦, 那個是放大鏡啊.
+*CHI:	放大鏡.
+*EXA:	嗯.
+*EXA:	你有沒有看.
+%xsyn:	GMOD-V
+*EXA:	東西變好大哦.
+*EXA:	阿姨拿給你看.
+%xsyn:	DCIR
+*EXA:	你看這個字哼.
+*EXA:	哦哦哦, 變這麼大.
+*EXA:	你有沒有看到?
+%xsyn:	GMOD-SVC
+*CHI:	有.
+*EXA:	變大了哼?
+*EXA:	所以它叫放大鏡哼.
+*EXA:	好.
+*EXA:	還有什麼?
+*EXA:	你還找到什麼?
+*CHI:	這 個.
+*CHI:	xxx.
+*CHI:	放大鏡 啦.
+*EXA:	放大鏡.
+*CHI:	要 關 起 來 啦.
+%xsyn:	GMOD-SVC
+*EXA:	要關起來啦.
+%xsyn:	GMOD-SVC
+*EXA:	有車子來了.
+%xsyn:	GMOD-S-V
+*EXA:	是不是?
+*EXA:	是不是 他們啊?
+*CHI:	不 是.
+*EXA:	不 是 啊.
+*EXA:	你放回去哦, 哼.
+*EXA:	放 好, 阿那張是 什麼?
+*EXA:	那張是 什麼?
+*EXA:	好, 關起來.
+*EXA:	阿下一個抽屜.
+*EXA:	拉開.
+*CHI:	拉 不 開.
+*EXA:	用力一 點.
+*EXA:	不是這樣子.
+*EXA:	手翻過來.
+*EXA:	這樣子.
+*EXA:	對, 手翻過來.
+*EXA:	好, 用力拉.
+*EXA:	哈哈哈.
+*EXA:	啊, 這個 是誰?
+*EXA:	這個 是誰?
+*CHI:	什麼?
+*EXA:	這個是 巴比啊.
+*CHI:	巴比.
+*EXA:	阿這個 誰?
+*EXA:	這個 姨嬤.
+*CHI:	姨嬤.
+*EXA:	阿這個 是誰?
+*CHI:	姨嬤.
+*EXA:	這個啊?
+*CHI:	姨嬤.
+*EXA:	這個 巴比啦.
+*CHI:	巴比 姨嬤.
+*EXA:	阿這個 誰?
+*CHI:	xxx.
+*CHI:	媽媽.
+*EXA:	媽媽.
+*EXA:	阿姨再問你哦哼.
+*CHI:	巴比 要 看 媽媽.
+%xsyn:	GMOD-V-O
+*EXA:	嘿.
+*EXA:	有沒有?
+*EXA:	媽媽在哪裡?
+*CHI:	媽媽 在 這 裡.
+*EXA:	嘿, 媽媽在哭還是在笑啊?
+*CHI:	媽媽 在 笑.
+*EXA:	在笑, 笑什麼?
+*CHI:	媽媽.
+*EXA:	嘿, 媽媽笑什麼?
+*CHI:	媽媽 回 來 了.
+*EXA:	媽媽回來了.
+*EXA:	照片上啦, 不是.
+*EXA:	哦哦哦, 這個小霸王是誰?
+*CHI:	這 個 媽媽 回 來 了.
+*EXA:	哼 這個媽媽回來了.
+*EXA:	阿後面這個是誰?
+*EXA:	你看看這個是不是 爸爸?
+%xsyn:	COMP-OBJ
+*EXA:	後面那個是不是爸爸?
+*CHI:	不 是.
+*EXA:	好, 放回去.
+*CHI:	爸爸 勒?
+*EXA:	爸爸在這裡啊.
+*EXA:	爸爸在這裡啊.
+*EXA:	有沒有?
+*CHI:	有.
+*EXA:	阿這個是誰.
+*EXA:	這個姨嬤.
+*CHI:	姨嬤 媽媽.
+*EXA:	姨嬤, 媽媽, 那個不是媽媽.
+*EXA:	媽媽在這裡啊.
+*CHI:	這 個 是 媽媽.
+*EXA:	對, 阿怎麼沒看到阿姨?
+*EXA:	阿姨在哪裡?
+*CHI:	失蹤 了.
+*EXA:	他拿照片後面起來看.
+%xsyn:	PBL
+*CHI:	媽媽.
+*EXA:	沒有啦.
+*EXA:	沒躲在後面.
+*CHI:	媽媽.
+*EXA:	嘿, 媽媽, 阿阿姨勒?
+*EXA:	阿姨是躲在哪裡?
+%xsyn:	MOD-V-PP
+*CHI:	媽媽.
+*EXA:	媽媽不見啦.
+*CHI:	我 要 找 媽媽 啦.
+%xsyn:	GMOD-V-O
+*EXA:	巴比在這裡啊.
+*EXA:	媽媽在這裡啊.
+*EXA:	他們都在一起啊.
+*EXA:	阿姨拿拿阿舅的照片給你看.
+%xsyn:	DCIR
+*EXA:	好不好?
+*CHI:	好.
+*EXA:	好, 那你放著.
+*EXA:	我們去agu@s 那裡看照片.
+%xsyn:	DIR-SVC
+*CHI:	巴比 找 媽媽.
+*EXA:	哦, 那這個給你.
+*EXA:	這個是什麼?
+*CHI:	巴比 找 媽媽.
+*EXA:	媽媽啊.
+*EXA:	媽媽去機場接爸爸啊.
+%xsyn:	DIR-SVC
+*EXA:	還沒有來啊.
+*CHI:	xxx.
+*EXA:	要一會兒才會來啊.
+%xsyn:	MCC
+*EXA:	不會馬上來啊.
+%xsyn:	GMOD-SVC
+*CHI:	不 要 嘛.
+*EXA:	哦, 你看這個盒子好漂亮.
+%xsyn:	COMP-OBJ
+*EXA:	你看 哦 哦 哦 哦 哦, 跑出來了.
+*CHI:	要 關 起 來.
+%xsyn:	GMOD-SVC
+*EXA:	要關起來哦, 好.
+%xsyn:	GMOD-SVC
+*CHI:	要 這 個.
+*CHI:	xxx.
+*CHI:	關 不 起 來.
+*EXA:	那個用力一點.
+*EXA:	那個那個 阿姨開.
+*EXA:	阿姨把這個放好哼.
+%xsyn:	PP-SVC
+*EXA:	阿姨把這個放好.
+%xsyn:	PP-SVC
+*EXA:	放好.
+*EXA:	咿.
+*EXA:	哎喲, 紅包哦.
+*EXA:	哎.
+*CHI:	媽媽.
+*CHI:	媽媽.
+*EXA:	哎, 沒有沒有沒有用力.
+*EXA:	用力.
+*EXA:	哎, 還是不夠.
+*EXA:	再用力一點.
+*EXA:	咿.
+*CHI:	媽媽.
+*EXA:	媽媽.
+*EXA:	來, 阿姨帶你下去找找看.
+%xsyn:	MEVENT
+*CHI:	好.
+*EXA:	阿你站到站到床上.
+*EXA:	阿姨背.
+*EXA:	你站到床上.
+*EXA:	阿姨背.
+*CHI:	阿姨 背.
+*CHI:	媽媽.
+*CHI:	阿姨 背 去 找 媽媽.
+%xsyn:	MEVENT
+*EXA:	嘿, 阿姨背去找媽媽.
+%xsyn:	MEVENT
+*EXA:	阿你幫阿姨拿這個好不好?
+%xsyn:	PP-SVC
+*EXA:	幫阿姨拿這個好不好?
+%xsyn:	PP-SVC
+*CHI:	不 好.
+*EXA:	不好哦.
+*EXA:	不好.
+*EXA:	那阿姨怎麼弄勒?
+*EXA:	蛤?
+*EXA:	那阿姨只有一個手.
+*EXA:	不能錄.
+*EXA:	哎喲, 鍾又響了.
+*EXA:	鍾又響了.
+*EXA:	哎喲, 哎喲, 快要掉下去了.
+*EXA:	巴比趕快抓好.
+*EXA:	抓好.
+*CHI:	抓 好.
+*CHI:	抓 好.
+*EXA:	哎 哎, 阿姨要溜下去了哦.
+%xsyn:	GMOD-SVC
+*EXA:	阿姨要溜下.
+%xsyn:	GMOD-SVC
+*EXA:	哎喲, 外面好冷哦.
+*EXA:	把燈關掉.
+*EXA:	對, 好.
+*EXA:	抓好哦.
+*EXA:	抓好, 阿姨 要下來了 哼.
+%xsyn:	GMOD-SVC
+*EXA:	哦, 來, 開燈.
+*CHI:	媽媽.
+*EXA:	開燈.
+*CHI:	媽媽.
+*EXA:	開.
+*EXA:	壓.
+*EXA:	哦 壓.
+*CHI:	媽媽 呢?
+*EXA:	你坐下來, 哦哦.
+*CHI:	媽媽.
+*EXA:	阿姨找找看啊 哼.
+*CHI:	媽媽.
+*EXA:	媽媽.
+*EXA:	哦.
+*EXA:	哦.
+*CHI:	巴比 這 個 小紅帽 睡覺.
+*EXA:	蛤?
+*CHI:	巴比 這 個 小紅帽 睡 在 這 裡.
+*EXA:	巴比的帽子 怎麼睡在這裡.
+*EXA:	這個是小紅帽啊.
+*EXA:	來阿姨給你戴.
+%xsyn:	PP-SVC
+*EXA:	阿姨看看戴起來好看不好看?
+%xsyn:	COMP-OBJ
+*EXA:	戴起來.
+*EXA:	我們下去把衣服穿起來好不好?
+%xsyn:	MCC
+*EXA:	好不好?
+*EXA:	阿把帽子也戴起來, 好不好?
+*CHI:	這 個 不 好.
+*CHI:	這 個 巴比 把 他 拿 開 來 了.
+%xsyn:	PP-SVC
+*EXA:	嘿, 這個不好.
+*EXA:	巴比把他拿開來.
+%xsyn:	PP-SVC
+*EXA:	為什麼?
+*EXA:	為什麼不好?
+*EXA:	蛤?
+*EXA:	為什麼不好?
+*EXA:	太大了是.
+*CHI:	找 媽媽.
+*EXA:	不要哭嘛.
+%xsyn:	GMOD-SVC
+*EXA:	阿姨抱抱.
+*CHI:	要 去 找 媽媽.
+%xsyn:	GMOD-GMOD-V-O
+*EXA:	媽媽阿姨跟你說去機場接爸爸啊.
+%xsyn:	COMP-OBJ
+*CHI:	要 找 媽媽.
+%xsyn:	GMOD-V-O
+*EXA:	接了爸爸再回來嘛.
+%xsyn:	MEVENT
+*EXA:	好不好?
+*CHI:	不 要 嘛.
+*EXA:	不要啊.
+*CHI:	接 好 了.
+*EXA:	可是媽媽現在在飛機場啊.
+*EXA:	哼媽媽現在在飛機場.
+*EXA:	過一會兒才會回來.
+*CHI:	不 要 嘛.
+*EXA:	阿他不接爸爸.
+*EXA:	爸爸不能回來.
+%xsyn:	MOD-V
+*EXA:	爸爸被留在飛機場.
+*EXA:	怎麼辦?
+*EXA:	好可憐哦.
+*EXA:	那誰去救他?
+*CHI:	阿姨 去 救 他.
+%xsyn:	DIR-SVC
+*EXA:	阿姨不會開車啊.
+%xsyn:	GMOD-SVC
+*EXA:	阿姨沒有辦法去救他 啊.
+%xsyn:	MCC
+*EXA:	所以要媽媽去救他嘛.
+%xsyn:	PBL
+*EXA:	哼, 對不對?
+*CHI:	嘿.
+*EXA:	媽媽救了爸爸就趕快回來接巴比啊.
+%xsyn:	MCC
+*EXA:	對不對?
+*CHI:	媽媽.
+*EXA:	哦, 哭的人.
+%xsyn:	NOM
+*EXA:	媽媽不回來接他.
+%xsyn:	MEVENT
+*CHI:	xxx.
+*EXA:	來來來來.
+*EXA:	阿姨背, .
+*EXA:	阿姨背, 走.
+*EXA:	走, 下來.
+*EXA:	下來.
+*EXA:	來這裡啊.
+*EXA:	不是下去那邊, 來.
+%xsyn:	MOD-SVC-PP
+*EXA:	來這邊 阿姨抱.
+*EXA:	你躲在阿姨衣服裡面.
+*EXA:	躲在阿姨衣服裡面.
+*EXA:	躲好沒有?
+*EXA:	躲好沒有?
+*CHI:	躲 好 了.
+*EXA:	躲好了, 嗯.
+*EXA:	好, 我們下去了.
+*CHI:	下 去 去 找 媽媽.
+%xsyn:	MEVENT
+*EXA:	哼, 你說什麼?
+*CHI:	下 去 去 找 媽媽.
+%xsyn:	MEVENT-GMOD-V-O
+*EXA:	對, 下去去找媽媽.
+%xsyn:	MEVENT-GMOD-V-O
+*EXA:	哦 來, 你站一下.
+*EXA:	哦.
+*EXA:	你好重哦.
+*EXA:	等一等.
+*CHI:	嗯 媽.
+*CHI:	阿姨 抱.
+*EXA:	哼?
+*CHI:	阿姨 抱.
+*EXA:	阿姨抱.
+*EXA:	你又睏了是不是?
+*EXA:	哼, 你是不是 又睏了?
+*CHI:	要 去 找 媽媽.
+%xsyn:	GMOD-V-O
+*EXA:	好, 那阿姨先把錄音機放下來好不好?
+%xsyn:	PP-SVC
+*CHI:	好.
+*EXA:	錄音機不響了怎麼辦?
+*EXA:	錄音機壞掉不響怎麼辦?
+%xsyn:	MEVENT
+*EXA:	哼, 不響怎麼辦?
+*CHI:	錄音機 壞 掉.
+*EXA:	嘿, 壞掉怎麼辦?
+*CHI:	伯伯 要 拿 去 修理 了.
+%xsyn:	GMOD-MEVENT
+*EXA:	哦, 伯伯要拿去修理.
+%xsyn:	GMOD-MEVENT
+*EXA:	阿修不好怎麼辦?
+*EXA:	修不好怎麼辦?
+*EXA:	修不好了.
+*EXA:	要 要不要把他丟掉啊?
+%xsyn:	GMOD-SVC
+*CHI:	要.
+*EXA:	也不對啊.
+*EXA:	再修修看吶.
+*CHI:	好.
+*EXA:	阿修好了勒.
+*EXA:	修好了會怎麼樣?
+%xsyn:	COMP-SUBJ
+*CHI:	修.
+*CHI:	修 就 會 [/] 打 破 掉 呢.
+%xsyn:	PBL
+*CHI:	修 都 會 破 掉 呢.
+%xsyn:	PBL
+*EXA:	哦, 修完會破掉啊.
+%xsyn:	COMP-SUBJ
+*EXA:	都會破掉啊.
+%xsyn:	GMOD-SVC
+*EXA:	修完了就不會破掉了.
+%xsyn:	COMP-SUBJ
+*EXA:	修不好才會破掉啊.
+%xsyn:	COMP-SUBJ
+*EXA:	哼.
+*CHI:	阿姨 把 錄音機 放 好.
+%xsyn:	PP-SVC
+*EXA:	放好做什麼?
+*EXA:	放好做什麼?
+*CHI:	要 去 找 媽媽.
+%xsyn:	GMOD-GMOD-V-O
+*EXA:	哦, 要去找媽媽.
+%xsyn:	GMOD-GMOD-V-O
+*EXA:	好啊.
+*EXA:	阿姨把錄音機放好, 哼.
+*CHI:	好.
+*EXA:	然後才帶你去找媽媽.
+%xsyn:	PVC
+*EXA:	好不好?
+*CHI:	好.
+*EXA:	好, 那你等一下哦.
+*EXA:	你一直咳嗽.
+*EXA:	阿姨應該找一點東西給你吃才對.
+%xsyn:	DCIR
+*EXA:	糟糕.
+*EXA:	收在哪裡?
+*EXA:	你跟阿姨講阿姨要收在哪裡?
+%xsyn:	COMP-OBJ
+*CHI:	阿姨 收 在 那 裡.
+*EXA:	那裡哦.
+*EXA:	那裡不是阿姨的地方勒.
+*EXA:	阿姨收在.
+*EXA:	收在哪裡?
+*EXA:	你猜猜看收在哪裡?
+%xsyn:	COMP-OBJ
+*CHI:	收 在 哪裡?
+*EXA:	收在這裡 好不好?
+*CHI:	好.
+*EXA:	哼?
+*EXA:	不行.
+*EXA:	那裡窗戶會被小偷拿走耶.
+%xsyn:	GMOD-SVC
+*EXA:	小偷拿走怎麼辦?
+*EXA:	蛤?
+*EXA:	小偷來了怎麼辦?
+*CHI:	小偷 呢?
+*EXA:	蛤?
+*CHI:	小偷.
+*EXA:	小偷會會偷偷拿走啊.
+%xsyn:	GMOD-SVC
+*EXA:	從窗戶偷偷拿走啊.
+%xsyn:	PP-SVC
+*EXA:	小偷來了怎麼辦?
+*EXA:	小偷來了.
+*EXA:	巴比你要怎麼辦怎麼辦?
+*EXA:	打他.
+*EXA:	還是要告訴警察.
+%xsyn:	GMOD-SVC
+*EXA:	還是要躲起來.
+%xsyn:	GMOD-SVC
+*CHI:	Pa.
+*EXA:	蛤?
+*EXA:	哦, 要打哦.
+%xsyn:	GMOD-SVC
+*EXA:	小偷來了你要怎麼樣?
+*CHI:	砰.
+*EXA:	砰.
+*EXA:	你那麼凶.
+*EXA:	小偷都怕你.
+*EXA:	那他不跑呢?
+*EXA:	他假如不怕.
+*EXA:	那你怎麼辦?
+*EXA:	哼?
+*EXA:	小偷如果不怕, 怎麼辦?
+*CHI:	巴比拿.
+*CHI:	巴比 就 砰 小偷.
+*EXA:	蛤, 巴比要怎麼樣?
+*EXA:	要怎麼樣?
+*CHI:	巴比 就 拿 槍 砰 小偷.
+%xsyn:	MEVENT
+*EXA:	哼, 巴比去拿槍砰小偷.
+%xsyn:	GMOD-MEVENT
+*EXA:	是不是?
+*CHI:	對.
+*EXA:	那他假如還不怕怎麼辦?
+*EXA:	他還不怕哦.
+*EXA:	那怎麼辦?
+*EXA:	那就打電話叫警察伯伯來.
+%xsyn:	MEVENT-P
+*EXA:	哼.
+*EXA:	警察伯伯來會怎麼樣?
+%xsyn:	COMP-SUBJ
+*EXA:	警察伯伯來了會怎麼樣?
+%xsyn:	COMP-SUBJ
+*CHI:	要 打 電話 呢.
+%xsyn:	GMOD-SVC
+*EXA:	嘿, 要打電話呢.
+%xsyn:	GMOD-SVC
+*EXA:	阿打電話以後.
+*EXA:	警察伯伯就來了啊.
+*CHI:	對.
+*EXA:	阿來了以後.
+*EXA:	會怎麼樣?
+*CHI:	會 xxx 呢.
+*EXA:	蛤?
+*CHI:	會 xxx 呢.
+*EXA:	會怎麼樣?
+*CHI:	剪刀.
+*EXA:	蛤?
+*CHI:	紅 色 的 剪刀.
+%xsyn:	Other DE
+*EXA:	你說什麼?
+*CHI:	紅 色 的 剪刀.
+%xsyn:	Other DE
+*EXA:	紅色的什麼?
+*EXA:	哦, 紅色的剪刀.
+%xsyn:	NOM
+*EXA:	對, 那把.
+*EXA:	那把是阿姨的.
+%xsyn:	NOM
+*EXA:	阿巴比有沒有剪刀?
+*CHI:	沒有.
+*EXA:	你怎麼沒有?
+*EXA:	叫媽媽給你買一把剪刀嘛.
+%xsyn:	MCC
+*EXA:	好不好?
+*CHI:	好.
+*EXA:	要大剪刀還是小剪刀?
+*CHI:	小 剪刀.
+*EXA:	比阿姨那個 大.
+*EXA:	還是 比阿姨那個 小.
+*CHI:	比 阿姨 那 個 小.
+*EXA:	小哦.
+*EXA:	小 阿太小你就不能拿了.
+%xsyn:	MOD-V
+*EXA:	阿姨那隻好小了.
+*EXA:	剪刀做什麼用的?
+*EXA:	蛤?
+*EXA:	剪刀要做什麼用的?
+%xsyn:	GMOD-SVC
+*EXA:	剪刀能做什麼?
+%xsyn:	MOD-SVC
+*EXA:	剪刀可以剪[x 5].
+%xsyn:	MOD-SVC
+*EXA:	有沒有?
+*CHI:	剪刀 可以 剪 [x 4].
+%xsyn:	MOD-SVC
+*EXA:	嘿, 然後紙就破開來.
+*EXA:	就可以撕開來了.
+*EXA:	對不對?
+*CHI:	對.
+*EXA:	那剪刀還可以剪布哦.
+%xsyn:	MOD-V
+*EXA:	也可以把布剪一剪.
+%xsyn:	. MOD-PP-V
+*EXA:	然後給巴比做衣服啊.
+%xsyn:	MEVENT-GMOD-V-O
+*CHI:	對.
+*EXA:	還有什麼?
+*EXA:	你桌子上還看到什麼?
+*EXA:	阿那個牆上那個是什麼?
+*EXA:	那個好多玲噹哦.
+*EXA:	那個是什麼?
+*EXA:	你知不知道那個是什麼?
+%xsyn:	COMP-OBJ
+*EXA:	那好像那一條魚耶.
+*EXA:	你有沒有看到 那好像是一條魚耶.
+%xsyn:	COMP-OBJ
+*CHI:	要 找 媽媽 嘛.
+%xsyn:	GMOD-V-O
+*EXA:	媽媽在飛機場啊.
+*EXA:	她不會這麼快回來.
+%xsyn:	GMOD-SVC
+*EXA:	她去接爸爸啊.
+%xsyn:	GMOD-V-O
+*EXA:	去救爸爸回來, 哼.
+%xsyn:	GMOD-V-O
+*EXA:	媽媽沒有去救爸爸.
+%xsyn:	GMOD-GMOD-V-O
+*EXA:	爸爸不能回來耶.
+%xsyn:	MOD-SVC
+*EXA:	對不對.
+*EXA:	你為什麼一直抓抓?
+*EXA:	是不是癢癢?
+*EXA:	阿姨看看.
+*EXA:	阿姨看看.
+*EXA:	你手, 手走開.
+*EXA:	阿姨看看.
+*CHI:	巴比 脖子 上 面 癢 啦.
+*EXA:	蛤?
+*CHI:	巴比 脖子 上 面 好 癢.
+*EXA:	上, 脖上面好癢是不是?
+*EXA:	來, 阿姨看看.
+*EXA:	為什麼癢癢?
+*EXA:	好癢, 是不?
+*EXA:	阿姨給你洗頭.
+*EXA:	好不好?
+*EXA:	不好啊?
+*EXA:	你搖頭啊.
+*EXA:	為什麼.
+*EXA:	洗洗頭.
+*EXA:	就不會癢了啊, 哼.
+%xsyn:	GMOD-SVC
+*CHI:	不 好 嘛.
+*EXA:	不好啊?
+*EXA:	太冷了啊.
+*EXA:	那我們下去看阿嬤飯弄好了沒有.
+%xsyn:	MCC
+*EXA:	好不好?
+*CHI:	好.
+*EXA:	那等等吃飯去了.
+%xsyn:	MCC
+*EXA:	好不好?
+*CHI:	好.
+*EXA:	好, 來, 哼.
+*EXA:	來, 你跟阿姨一起下去.
+*EXA:	來, 你站起來.
+*CHI:	要 去 找 媽媽.
+%xsyn:	GMOD-GMOD-V-O
+*EXA:	媽媽在飛機場啦.
+*CHI:	不 要.
+*EXA:	要去救爸爸啊.
+%xsyn:	GMOD-SVC
+*CHI:	不 要 救 爸爸 嘛.
+%xsyn:	NEG-GMOD-V-O
+*EXA:	那爸爸回不來怎麼辦?
+*EXA:	媽媽不去救爸爸.
+%xsyn:	GMOD--SVC
+*EXA:	那爸爸回不來怎麼辦?
+*EXA:	爸爸被留在飛機場.
+*EXA:	好可憐哦.
+*EXA:	那怎麼辦?
+*EXA:	對不對?
+*CHI:	阿姨 去 救 爸爸.
+%xsyn:	GMOD-V-O
+*CHI:	好 不好?
+*EXA:	阿姨不會開車啊.
+%xsyn:	MOD-SVC
+*EXA:	阿姨不會開車.
+%xsyn:	MOD-SVC
+*EXA:	對不對?
+*EXA:	所以媽媽會開車才能夠去救爸爸啊.
+%xsyn:	MCC
+*EXA:	巴比會不會開車?
+%xsyn:	MOD-SVC
+*CHI:	會.
+*EXA:	阿你要不要去救爸爸?
+%xsyn:	GMOD-SVC
+*CHI:	要.
+*EXA:	你要開哪一個車去救爸爸?
+%xsyn:	MCC
+*CHI:	媽媽 開 自己 的 車.
+*EXA:	嘿, 媽媽 開 自己 的 車.
+*EXA:	對啊, 媽媽開自己的車去救爸爸啦.
+%xsyn:	MCC
+*CHI:	xxx.
+*EXA:	要過一會兒才會回來.
+*CHI:	不 要 嘛.
+@End

@@ -1,0 +1,241 @@
+@UTF8
+@PID:	11312/c-00030292-1
+@Begin
+@Languages:	ita
+@Participants:	ELI Elisa Child , MOT Mother
+@ID:	ita|Tonelli|ELI|2;1.23|female|||Child|||
+@ID:	ita|Tonelli|MOT|||||Mother|||
+@Birth of ELI:	15-SEP-1991
+@Date:	08-DEC-1993
+@Situation:	The child is talking with her mother
+*ELI:	Mina .
+%mor:	n:prop|Mina .
+*MOT:	allora portiamo il cagnone alla Manuela ?
+%mor:	co|allora v|porta-1P&PRES&SUB=carry art|il&m&sg
+	n|cagno-AUG-m&sg=dog prepart|a-f&sg n:prop|Manuela ?
+*ELI:	sì xxx xxx (.) però è mio .
+%mor:	adv|sì conj|però v|esse-3S&PRES=be pro:poss|mio-1S&m&sg=my .
+*MOT:	sì (.) e cosa le diciamo alla Manuela ?
+%mor:	adv|sì conj|e pro:int|cosa=what pro:clit|le&3P&f
+	v|dice-1P&PRES&SUB=say prepart|a-f&sg n:prop|Manuela ?
+*MOT:	che c' hai un cagnone +...
+%mor:	pro:rel|che=that pro:clit|ci&1P v|ave-2S&PRES=have art|uno&m&sg
+	n|cagno-AUG-m&sg=dog +...
+*ELI:	bellissimo .
+%mor:	adj|bello-SUPER-m&sg .
+*ELI:	e questo cagnone è mio .
+%mor:	conj|e pro:det|questo-m&sg=this n|cagno-AUG-m&sg=dog
+	v|esse-3S&PRES=be pro:poss|mio-1S&m&sg=my .
+@New Episode
+*MOT:	io voglio sapere dove hai messo il mio portafoglio .
+%mor:	pro:pers|io&1S&SUBJ=I v|vole-1S&PRES=wish vinf|sape-INF=know
+	adv|dove v|ave-2S&PRES=have v|mette-PPART&sg&m=put art|il&m&sg
+	pro:poss|mio-1S&m&sg=my n|portafoglio-m&sg=wallet .
+*ELI:	te lo cerco .
+%mor:	pro:clit|ti&2S pro:clit|lo&3S&m v|cerca-1S&PRES=search .
+*ELI:	io te lo cerco .
+%mor:	pro:pers|io&1S&SUBJ=I pro:clit|ti&2S pro:clit|lo&3S&m
+	v|cerca-1S&PRES=search .
+*MOT:	giù (.) andiamo a cercarlo (.) andiamo dai .
+%mor:	co:adv|giù v|anda-1P&PRES&SUB=go prep|a=to
+	vinf|cerca-INF~pro:clit|3S&m v|anda-1P&PRES&SUB=go co|dai .
+*ELI:	aspettami (.) che conto i cucc(hi)aini eh .
+%mor:	vimp|aspetta-2S&IMP~pro:clit|1S det|che=which v|conta-1S&PRES=count
+	art|il&m&pl n|cucchiaino-m&pl=teaspoon co|eh .
+*ELI:	guarda quanti cucc(hi)aini .
+%mor:	co|guarda det|quanto-m&pl=how_much n|cucchiaino-m&pl=teaspoon .
+*ELI:	xxx piace eh guarda .
+%mor:	v|piace-3S&PRES=please co|eh co|guarda .
+*ELI:	sedici (.) otto .
+%mor:	num|sedici num|otto .
+*ELI:	quanti sono (.) mammina ?
+%mor:	pro:int|quanto-m&pl=how_much v|esse-1S&PRES=be n|mamma-DIM-f&sg ?
+%com:	conta i cucchiaini
+*ELI:	otto (.) nove .
+%mor:	num|otto num|nove .
+*ELI:	sedici (.) e quattordici e ora conto (q)uesti !
+%mor:	num|sedici conj|e num|quattordici conj|e adv|ora
+	v|conta-1S&PRES=count pro:det|questo-m&pl=this !
+*MOT:	sì .
+%mor:	adv|sì .
+*ELI:	ma fammeli contare (.) Mina dai .
+%mor:	conj|ma vimp|face-2S&IMP~pro:clit|1S~pro:clit|3P&m
+	vinf|conta-INF=count n:prop|Mina co|dai .
+*ELI:	e uno (.) due .
+%mor:	conj|e num|uno num|due .
+*ELI:	Mina (.) uno manca (.) lo cerc(hi)amo .
+%mor:	n:prop|Mina art|uno&m&sg v|manca-3S&PRES=miss pro:clit|lo&3S&m
+	v|cerca-1P&PRES&SUB=search .
+*ELI:	mi (.) aiuti mammina ?
+%mor:	pro:clit|mi&1S v|aiuta-2S&PRES=help n|mamma-DIM-f&sg ?
+*ELI:	mi aiuti ?
+%mor:	pro:clit|mi&1S v|aiuta-2S&PRES=help ?
+*MOT:	sì (.) dai .
+%mor:	adv|sì co|dai .
+*MOT:	<dove potrà mai essere> [>] .
+%mor:	adv|dove v|pote-3S&FUT=be_able adv|mai vinf|esse-INF=be .
+*ELI:	<guarda> [<] .
+%mor:	co|guarda .
+*MOT:	<dove l' hai> [/] dove l' hai messo ?
+%mor:	adv|dove pro:clit|lo&3S&m v|ave-2S&PRES=have v|mette-PPART&sg&m=put
+	?
+*MOT:	di qua (.) guardiamo di qua .
+%mor:	prep|di=of adv|qua v|guarda-1P&PRES&SUB=look prep|di=of adv|qua .
+*ELI:	xxx e <cerca , cerca , > [/] cerca .
+%mor:	conj|e v|cerca-3S&PRES=search .
+*MOT:	proviamo di là (.) qui non c' è (.) vediamo .
+%mor:	v|prova-1P&PRES&SUB=try prep|di=of adv|là adv|qui adv|non
+	pro:clit|ci&1P v|esse-3S&PRES=be vimp|vede-1P&IMP=see .
+*ELI:	guarda che mi cade la gonna .
+%mor:	co|guarda pro:rel|che=that pro:clit|mi&1S v|cade-3S&PRES=fall
+	art|il&f&sg n|gonna-f&sg=skirt .
+*MOT:	no (.) ma dove l' hai cacciato ?
+%mor:	adv|no conj|ma adv|dove pro:clit|lo&3S&m v|ave-2S&PRES=have
+	v|caccia-PPART&sg&m=hunt ?
+*MOT:	dove l' hai messo ?
+%mor:	adv|dove pro:clit|lo&3S&m v|ave-2S&PRES=have v|mette-PPART&sg&m=put
+	?
+*MOT:	guardiamo bene qui (.) dai .
+%mor:	vimp|guarda-1P&IMP=look adv|bene adv|qui co|dai .
+*ELI:	cercalo .
+%mor:	vimp|cerca-2S&IMP~pro:clit|3S&m .
+%com:	beve
+*ELI:	spegni (.) la luce però .
+%mor:	vimp|spegne-2S&IMP=turn_off art|il&f&sg n|luce&f=light conj|però .
+*MOT:	sì .
+%mor:	adv|sì .
+*ELI:	spegni la luce .
+%mor:	vimp|spegne-2S&IMP=turn_off art|il&f&sg n|luce&f=light .
+*MOT:	sì ma prima guardiamo in camera .
+%mor:	adv|sì conj|ma adv|prima v|guarda-1P&PRES&SUB=look prep|in=in
+	n|camera-f&sg .
+*ELI:	forse sotto il letto .
+%mor:	adv|forse prep|sotto=under art|il&m&sg n|letto-m&sg .
+*MOT:	qui di qui (.) guardiamo di qui .
+%mor:	adv|qui prep|di=of adv|qui v|guarda-1P&PRES&SUB=look prep|di=of
+	adv|qui .
+*ELI:	salvimi [/] salvimi [: salvami] , cade giù .
+%mor:	vimp|salva-2S&IMP~pro:clit|1S cm|cm v|cade-3S&PRES=fall adv|giù .
+*ELI:	è caduta .
+%mor:	v|esse-3S&PRES=be v|cade-PPART&sg&f=fall .
+*ELI:	xxx trovato ?
+%mor:	v|trova-PPART&sg&m=find ?
+*ELI:	trova mammina .
+%mor:	vimp|trova-2S&IMP=find n|mamma-DIM-f&sg .
+*ELI:	trovato ?
+%mor:	v|trova-PPART&sg&m=find ?
+*ELI:	qui non c' è .
+%mor:	adv|qui adv|non pro:clit|ci&1P v|esse-3S&PRES=be .
+*ELI:	qui non c' è mammina .
+%mor:	adv|qui adv|non pro:clit|ci&1P v|esse-3S&PRES=be n|mamma-DIM-f&sg .
+*ELI:	te lo devo dire (.) qui non c' è .
+%mor:	pro:clit|ti&2S pro:clit|lo&3S&m v|dove-1S&PRES=must
+	vinf|dice-INF=say adv|qui adv|non pro:clit|ci&1P v|esse-3S&PRES=be .
+*MOT:	ah , eccolo finalmente quel birbante !
+%mor:	co|ah cm|cm adv:dem|ecco~pro:clit|3S&m adv:adj|finale-ADV
+	det|quello-m&sg=that n|birbante-m&sg=rascal !
+*ELI:	<dammi mammina> [/] (.) dammi .
+%mor:	vimp|da-2S&IMP~pro:clit|1S .
+*ELI:	Mina dai .
+%mor:	n:prop|Mina co|dai .
+*ELI:	guarda c' è anche l' altra gonnellina ?
+%mor:	co|guarda pro:clit|ci&1P v|esse-3S&PRES=be conj|anche
+	pro:clit|lo&3S&m det|altro-f&sg=other n|gonna-DIM-DIM-f&sg=skirt ?
+*ELI:	xxx il golf .
+%mor:	art|il&m&sg n|golf&m=golf .
+*ELI:	guarda è tutto rovinato .
+%mor:	co|guarda v|esse-3S&PRES=be adv|tutto v|rovina-PPART&sg&m=ruin .
+%com:	con tono lamentoso
+*ELI:	eh (.) è tutto rovinato .
+%mor:	co|eh v|esse-3S&PRES=be adv|tutto v|rovina-PPART&sg&m=ruin .
+*ELI:	e lì c' è una caramella .
+%mor:	conj|e adv|lì pro:clit|ci&1P v|esse-3S&PRES=be art|uno&f&sg
+	n|caramella-f&sg .
+*ELI:	cosa xxx che lì c' è una caramella ?
+%mor:	pro:int|cosa=what pro:rel|che=that adv|lì pro:clit|ci&1P
+	v|esse-3S&PRES=be art|uno&f&sg n|caramella-f&sg ?
+*ELI:	Mina (.) dove sei ?
+%mor:	n:prop|Mina adv|dove v|esse-2S&PRES=be ?
+*ELI:	dammelo .
+%mor:	vimp|da-2S&IMP~pro:clit|1S~pro:clit|3S&m .
+*ELI:	ehh@i (.) ade [//] adesso (.) nasconde la Mina .
+%mor:	int|ehh adv|adesso v|nasconde-3S&PRES=hide art|il&f&sg n:prop|Mina
+	.
+*ELI:	e:la@wp (.) e io trovo .
+%mor:	wplay|ela conj|e pro:pers|io&1S&SUBJ=I v|trova-1S&PRES=find .
+*ELI:	sì (.) guarda c' è la mia borsetta .
+%mor:	adv|sì co|guarda pro:clit|ci&1P v|esse-3S&PRES=be art|il&f&sg
+	pro:poss|mio-1S&f&sg=my n|borsa-DIM-f&sg .
+*ELI:	vuoi vede(re) la mia borsetta (.) mammina ?
+%mor:	v|vole-2S&PRES=want vinf|vede-INF=see art|il&f&sg
+	pro:poss|mio-1S&f&sg=my n|borsa-DIM-f&sg n|mamma-DIM-f&sg ?
+%com:	comincia a cantare; le parole sono incomprensibili; accende l' organo , fa un suono e continua a cantare
+*ELI:	chi è questo bambino che cade giù giù e giù (.) e giù !
+%mor:	pro:int|chi=who v|esse-3S&PRES=be det|questo-m&sg=this
+	n|bambino-m&sg=child pro:rel|che=that v|cade-3S&PRES=fall adv|giù
+	adv|giù conj|e adv|giù conj|e adv|giù !
+%com:	continua a cantare
+*ELI:	chi è questo bambino che cade giù (.) chi è questo bambino che xxx .
+%mor:	pro:int|chi=who v|esse-3S&PRES=be det|questo-m&sg=this
+	n|bambino-m&sg=child pro:rel|che=that v|cade-3S&PRES=fall adv|giù
+	pro:int|chi=who v|esse-3S&PRES=be det|questo-m&sg=this
+	n|bambino-m&sg=child pro:rel|che=that .
+*ELI:	guarda (.) non è inca(r)tata .
+%mor:	co|guarda adv|non v|esse-3S&PRES=be v|incarta-PPART&sg&f=wrap .
+*ELI:	xxx sporca tutto .
+%mor:	v|sporca-3S&PRES=dirty pro:det|tutto-m&sg=all .
+*ELI:	<Mina Mina> [/] Mina .
+%mor:	n:prop|Mina .
+*ELI:	fammi pa(r)lare .
+%mor:	vimp|face-2S&IMP~pro:clit|1S vinf|parla-INF=speak .
+*ELI:	xxx quello (.) faccio una canzone (.) xxx faccio una xxx xxx (.) e vado sul cavallo .
+%mor:	pro:det|quello-m&sg=that v|face-1S&PRES=do art|uno&f&sg
+	n|canzone&f=song v|face-1S&PRES=do art|uno&f&sg conj|e
+	v|anda-1S&PRES=go prepart|su-m&sg n|cavallo-m&sg=horse .
+*ELI:	cavallo , cavallino .
+%mor:	n|cavallo-m&sg=horse cm|cm n|cavallo-DIM-m&sg=horse .
+*ELI:	Mina , metti qui !
+%mor:	n:prop|Mina cm|cm vimp|mette-2S&IMP=put adv|qui !
+%com:	continua a cantare
+*MOT:	no , il microfono non bisogna toccarlo , sennò non si sente più niente dopo .
+%mor:	adv|no cm|cm art|il&m&sg n|microfono-m&sg=microphone adv|non
+	v|bisogna-3S&PRES=need vinf|tocca-INF~pro:clit|3S&m cm|cm adv|sennò
+	adv|non pro:clit|si&3SP v|senti-3S&PRES=feel adv|più adv|niente
+	adv|dopo .
+*ELI:	canto la canzoncina .
+%mor:	v|canta-1S&PRES=sing art|il&f&sg n|canzone-DIM-f&sg=song .
+*MOT:	sì canta , ma puoi cantare anche senza microfono !
+%mor:	adv|sì v|canta-3S&PRES=sing cm|cm conj|ma v|pote-2S&PRES=can
+	vinf|canta-INF=sing conj|anche prep|senza=without
+	n|microfono-m&sg=microphone !
+*ELI:	eh no , canto e anche ballo .
+%mor:	co|eh adv|no cm|cm v|canta-1S&PRES=sing conj|e conj|anche
+	v|balla-1S&PRES=dance .
+*ELI:	dammi però .
+%mor:	vimp|da-2S&IMP~pro:clit|1S conj|però .
+*ELI:	balla balla ballerina .
+%mor:	v|balla-3S&PRES=dance v|balla-3S&PRES=dance n|ballerina-f&sg .
+*ELI:	Mina guarda .
+%mor:	n:prop|Mina co|guarda .
+*MOT:	che bella giravolta !
+%mor:	det|che=which adj|bello-f&sg n|giravolta-f&sg=twirl !
+*ELI:	eh sì anche un(a) altra , guarda mammina .
+%mor:	co|eh adv|sì conj|anche art|uno&f&sg det|altro-f&sg=other cm|cm
+	v|guarda-3S&PRES=look n|mamma-DIM-f&sg .
+*ELI:	dammi però , ora dammi .
+%mor:	vimp|da-2S&IMP~pro:clit|1S conj|però cm|cm adv|ora
+	vimp|da-2S&IMP~pro:clit|1S .
+*MOT:	aspetta un momento , prima spegnamo .
+%mor:	v|aspetta-3S&PRES=wait art|uno&m&sg n|momento-m&sg cm|cm adv|prima
+	v|spegne-1P&PRES=turn_off .
+*ELI:	no , accendi mammina , accendi !
+%mor:	adv|no cm|cm vimp|accende-2S&IMP=turn_on n|mamma-DIM-f&sg cm|cm
+	vimp|accende-2S&IMP=turn_on !
+*MOT:	ma è già acceso , ma ora lo spegnamo per non rovinare la tua voce .
+%mor:	conj|ma v|esse-3S&PRES=be adv|già v|accende-PPART&sg&m=turn_on
+	cm|cm conj|ma adv|ora pro:clit|lo&3S&m v|spegne-1P&PRES=turn_off
+	prep|per=for adv|non vinf|rovina-INF=ruin art|il&f&sg
+	pro:poss|tuo-2S&f&sg=your n|voce&f .
+*ELI:	www .
+%com:	Elisa gioca con il microfono; le sue parole sono acusticamente incomprensibili
+@End
