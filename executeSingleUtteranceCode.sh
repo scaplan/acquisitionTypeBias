@@ -5,13 +5,13 @@ resultSource='/home1/s/spcaplan/Dropbox/penn_CS_account/acquisitionTypeBias/outp
 
 cd $scriptSource
 
-corpora=("Tardif_English" "Morisset_English" "Tonelli_Italian" "TCCM_Mandarin")
-#corpora=("Tardif_English")
+#corpora=("Tardif_English" "Morisset_English" "Tonelli_Italian" "TCCM_Mandarin" "SelfCleanedTardifEnglish")
+corpora=("SelfCleanedTardifEnglish")
 
 for currCorpus in "${corpora[@]}"; do
 	resultFile=$resultSource'/output_'$currCorpus'.txt'
 	currCorpus=$currCorpus'/'
-	python extract-single-utterance.py $currCorpus > $resultFile
-	#python extract-single-utterance.py $currCorpus
+	#python extract-single-utterance.py $currCorpus > $resultFile
+	python extract-single-utterance.py $currCorpus
 
 done

@@ -9,20 +9,20 @@ import unicodedata
 from unicodedata import normalize
 
 punctuationSet = ['.', '?', '!', ':', '(.)', '+...', '+"/.', '+/.']
-inputSet = ['*mot:', '*gra:', '*fat:', '*ann:', '*ant:', '*nan:', '*wom:', '*car:']
+inputSet = ['*mot:', '*gra:', '*fat:', '*ann:', '*ant:', '*nan:', '*wom:', '*car:', '*inv:', '*par:']
 childSet = ['*chi:', '*eli:', '*gre:', '*mar:']
-morphCue = ['%mor:', '%xmor:']
+morphCue = ['%mor:', '%xmor:', '%newmor:']
 ## '%xmor:'
 inputNounTypeDict = {}
 inputVerbTypeDict = {}
 
-nounSet = ['n', 'nn', 'npro']
-verbSet = ['v', 'vt', 'vi', 'vc', 'va']
+nounSet = ['n', 'nn', 'npro', 'noun', 'pron', 'propn']
+verbSet = ['v', 'vt', 'vi', 'vc', 'va', 'verb', 'aux']
 
 outputNounTokenCount = 0
 outputVerbTokenCount = 0
 outputNounTypeDict = {}
-outputVerbTypeDict ={}
+outputVerbTypeDict = {}
 
 missingSpeechLines = 0
 
@@ -37,8 +37,16 @@ def readChaFiles(sourceDir):
 					continue
 				if currLine[0] == '@':
 					continue
+				if currLine == '':
+					continue
 				currLine = currLine.rstrip().lower()
 				currLineTokens = currLine.split()
+
+				if len(currLineTokens) == 0:
+					continue
+
+				print currLine
+				print currLineTokens
 
 				if (currLineTokens[0][0] == "*"):
 					# Needs to contain at least speech line and morph tag line
