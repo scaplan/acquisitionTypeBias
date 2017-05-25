@@ -3,6 +3,8 @@
 
 import sys, math, os, subprocess, glob, nltk, re
 from nltk import word_tokenize
+from konlpy.tag import Hannanum
+import translit
 from polyglot.text import Text
 from polyglot.detect import Detector
 reload(sys)
@@ -28,15 +30,27 @@ def tagLine(inputLine):
 	tokensToTag = currLineTokens[1:]
 	joinedLineToTag = " ".join(tokensToTag)
 
-	textObjectToTag = Text(joinedLineToTag, hint_language_code=currLanguage)
-	foundTags = textObjectToTag.pos_tags
-	print cleanedLine
-	print "%newmor:\t",
-	for word, tag in foundTags:
-		if tag != 'PUNCT':
-			toWrite = tag + '|' + word + ' '
+	if currLanguage == 'kr':
+		## Korean implementation
+		taggedKorean = hannanum.pos(joinedLineToTag)
+		translitLine = translit.romanize(cleanedLine)
+		print translitLine
+		print "%newmor:\t",
+		for word, tag in taggedKorean:
+			translitWord = translit.romanize(word)
+			toWrite = tag + '|' + translitWord + ' '
 			print toWrite,
-	print '\n'
+		print '\n'
+	else:
+		textObjectToTag = Text(joinedLineToTag, hint_language_code=currLanguage)
+		foundTags = textObjectToTag.pos_tags
+		print cleanedLine
+		print "%newmor:\t",
+		for word, tag in foundTags:
+			if tag != 'PUNCT':
+				toWrite = tag + '|' + word + ' '
+				print toWrite,
+		print '\n'
 
 
 def readUntaggedChaFiles(sourceDir):
@@ -81,5 +95,8 @@ if __name__=="__main__":
 
 	currLanguage = sys.argv[1]
 	directoryName = sys.argv[2]
+
+	if currLanguage == 'kr':
+		hannanum = Hannanum()
 
 	iterateSubDir(directoryName)

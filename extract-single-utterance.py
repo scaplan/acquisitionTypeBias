@@ -356,7 +356,7 @@ if __name__=="__main__":
 	print 'totalChildNounTokenProp: ' + str(totalChildNounTokenProp)
 	print 'totalChildVerbTokenProp: ' + str(totalChildVerbTokenProp)
 	print 'totalChildOtherTokenProp: ' + str(totalChildOtherTokenProp)
-	print 'totalChildNounTypeProp: ' + str(outputNounTypeDict)
+	print 'totalChildNounTypeProp: ' + str(totalChildNounTypeProp)
 	print 'totalChildVerbTypeProp: ' + str(totalChildVerbTypeProp)
 	print 'totalChildOtherTypeProp: ' + str(totalChildOtherTypeProp)
 
