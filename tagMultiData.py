@@ -12,15 +12,15 @@ from unicodedata import normalize
 
 punctuationSet = ['.', '?', '!', ':', '(.)', '+...', '+"/.', '+/.']
 
-def tagLine(inputLine, outputFile):
+def tagLine(inputLine):
 	currLineTokens = inputLine.split()
 
 #	currLineTokensNoPunc = [x for x in currLineTokens if x not in punctuationSet]
-#	onlyAlphaNumerics = []
-#	for token in currLineTokensNoPunc:
-#		valid = re.search('[a-z]', token) is not None
-#		if valid:
-#			onlyAlphaNumerics.append(token)
+	# onlyAlphaNumerics = []
+	# for token in currLineTokens:
+	# 	valid = re.search('[a-z]', token) is not None
+	# 	if valid:
+	# 		onlyAlphaNumerics.append(token)
 
 	cleanedLine = " ".join(currLineTokens)
 	if len(currLineTokens) < 2:
@@ -30,36 +30,34 @@ def tagLine(inputLine, outputFile):
 
 	textObjectToTag = Text(joinedLineToTag, hint_language_code=currLanguage)
 	foundTags = textObjectToTag.pos_tags
-	outputFile.write(cleanedLine + '\n')
-	outputFile.write("%newmor:\t")
+	print cleanedLine
+	print "%newmor:\t",
 	for word, tag in foundTags:
 		if tag != 'PUNCT':
 			toWrite = tag + '|' + word + ' '
-			outputFile.write(toWrite)
-	outputFile.write('\n\n')
-	#print foundTags
+			print toWrite,
+	print '\n'
 
 
 def readUntaggedChaFiles(sourceDir):
 	for dataFileName in glob.glob(sourceDir+"*.cha"):
 	#	print (os.getcwd() + '/' + dataFileName)
 		with open(dataFileName, 'r') as currFile:
-			with open(outputFilename, 'a') as outputFile:
-				speechGroup = []
-				for currLine in currFile:
-					if not currLine:
-						continue
-					if currLine[0] == '@':
-						continue
-					## so I'm reading in only speech lines
-					if currLine[0] != '*':
-						continue
-					
-					currLine = currLine.rstrip().lower()
-					tagLine(currLine, outputFile)
+			for currLine in currFile:
+				if not currLine:
+					continue
+				if currLine[0] == '@':
+					continue
+				## so I'm reading in only speech lines
+				if currLine[0] != '*':
+					### For debugging
+				#	if "%mor:" in currLine:
+				#		print currLine,
 
-			outputFile.close()
-
+					continue
+				
+				currLine = currLine.rstrip().lower()
+				tagLine(currLine)
 
 
 def iterateSubDir(directoryName):
@@ -73,19 +71,15 @@ def iterateSubDir(directoryName):
 		readUntaggedChaFiles(subDirPath)
 
 
-
-
 ##
 ## Main method block
 ##
 if __name__=="__main__":
-	if (len(sys.argv) < 4):
+	if (len(sys.argv) < 3):
 		print('incorrect number of arguments')
 		exit(0)
 
 	currLanguage = sys.argv[1]
 	directoryName = sys.argv[2]
-	outputFilename = sys.argv[3]
-	os.remove(outputFilename) if os.path.exists(outputFilename) else None
 
 	iterateSubDir(directoryName)

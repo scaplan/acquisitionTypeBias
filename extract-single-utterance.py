@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-import sys, math, os, subprocess, glob, nltk
+import sys, math, os, subprocess, glob, nltk, re
 from nltk import word_tokenize
 reload(sys)
 sys.setdefaultencoding('utf-8')
@@ -9,14 +9,14 @@ import unicodedata
 from unicodedata import normalize
 
 punctuationSet = ['.', '?', '!', ':', '(.)', '+...', '+"/.', '+/.']
-inputSet = ['*mot:', '*gra:', '*fat:', '*ann:', '*ant:', '*nan:', '*wom:', '*car:', '*inv:', '*par:']
+inputSet = ['*mot:', '*gra:', '*fat:', '*ann:', '*ant:', '*nan:', '*wom:', '*car:', '*inv:', '*par:', '*mut:', '*vat:', '*oma:', '*exp:', '*car:']
 childSet = ['*chi:', '*eli:', '*gre:', '*mar:']
 morphCue = ['%mor:', '%xmor:', '%newmor:']
 ## '%xmor:'
 inputNounTypeDict = {}
 inputVerbTypeDict = {}
 
-nounSet = ['n', 'nn', 'npro', 'noun', 'pron', 'propn']
+nounSet = ['n', 'nn', 'npro', 'noun', 'pron'] #'propn'
 verbSet = ['v', 'vt', 'vi', 'vc', 'va', 'verb', 'aux']
 
 outputNounTokenCount = 0
@@ -41,7 +41,7 @@ def readChaFiles(sourceDir):
 					continue
 				currLine = currLine.rstrip().lower()
 				currLineTokens = currLine.split()
-				
+
 				if len(currLineTokens) == 0:
 					continue
 
@@ -70,19 +70,41 @@ def evalSpeechGroup(speechGroup):
 	currLineTokens = speechLine.split()
 	currLineTokensNoPunc = [x for x in currLineTokens if x not in punctuationSet]
 
-	if (len(currLineTokensNoPunc) > 1):
+	onlyAlphaNumerics = []
+	for token in currLineTokens:
+		valid = re.search('[a-z]', token) is not None
+		if valid:
+			onlyAlphaNumerics.append(token)
+
+	# if (len(currLineTokensNoPunc) > 1):
+	# 	totalDataLength += 1
+	# 	if (currLineTokensNoPunc[0] in inputSet):
+	# 		totalMotherLines += 1
+	# 		cumulativeMotherLinesLength += (len(currLineTokensNoPunc) - 1)
+	# 		evalInputData(currLineTokensNoPunc, tagTokensNoPunc)
+			
+	# 	#	print speechLine
+			
+	# 	elif (currLineTokensNoPunc[0] in childSet):
+	# 		totalChildLines += 1
+	# 		cumulativeChildLinesLength += (len(currLineTokensNoPunc) - 1)
+	# 		evalOutputData(currLineTokensNoPunc, tagTokensNoPunc)
+	# 	else:
+	# 		missingSpeechLines += 1
+
+	if (len(onlyAlphaNumerics) > 1):
 		totalDataLength += 1
-		if (currLineTokensNoPunc[0] in inputSet):
+		if (onlyAlphaNumerics[0] in inputSet):
 			totalMotherLines += 1
-			cumulativeMotherLinesLength += (len(currLineTokensNoPunc) - 1)
-			evalInputData(currLineTokensNoPunc, tagTokensNoPunc)
+			cumulativeMotherLinesLength += (len(onlyAlphaNumerics) - 1)
+			evalInputData(onlyAlphaNumerics, tagTokensNoPunc)
 			
 		#	print speechLine
 			
-		elif (currLineTokensNoPunc[0] in childSet):
+		elif (onlyAlphaNumerics[0] in childSet):
 			totalChildLines += 1
-			cumulativeChildLinesLength += (len(currLineTokensNoPunc) - 1)
-			evalOutputData(currLineTokensNoPunc, tagTokensNoPunc)
+			cumulativeChildLinesLength += (len(onlyAlphaNumerics) - 1)
+			evalOutputData(onlyAlphaNumerics, tagTokensNoPunc)
 		else:
 			missingSpeechLines += 1
 
@@ -94,9 +116,12 @@ def evalInputData(inputString, inputTags):
 
 	if (len(inputString) == 2):
 		totalSingleUtteranceMotherLines += 1
-		if (len(inputTags) > 0):
+		if (len(inputTags) > 1):
 			wordTag = inputTags[1]
 			wordTagInfo = wordTag.split("|")
+			if len(wordTagInfo) < 2:
+				## Malformed morphological tag
+				return
 			wordMarkupForm = wordTagInfo[1]
 			#wordMarkupForm = inputString[1]
 		#	if (wordTagInfo[0] == 'n'):
@@ -116,6 +141,9 @@ def evalInputData(inputString, inputTags):
 					inputVerbTypeDict[wordMarkupForm] = 1
 				singleWordVerbs += 1
 		#	print " ".join(inputString) + " ::: " + wordTagInfo[0]
+		else:
+			## Missing morphological tags (despite intro line)
+			return
 
 def evalOutputData(outputString, outputTags):
 	global outputNounTokenCount, outputVerbTokenCount, outputNounTypeDict, outputVerbTypeDict

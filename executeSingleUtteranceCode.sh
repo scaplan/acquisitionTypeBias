@@ -5,10 +5,10 @@ resultSource='/home1/s/spcaplan/Dropbox/penn_CS_account/acquisitionTypeBias/outp
 
 cd $scriptSource
 
-## python tagMultiData.py it ~/CHILDES-EVD/childes-earlyVocab-data/withMorTags/Tonelli_Italian/ tempItalian.txt
+## python tagMultiData.py it ~/CHILDES-EVD/childes-earlyVocab-data/withMorTags/Tonelli_Italian/ > tempItalian.txt
 
-corpora=("Tardif_English" "Morisset_English" "Tonelli_Italian" "TCCM_Mandarin" "SelfCleanedTardifEnglish")
-#corpora=("SelfCleanedTardifEnglish")
+corpora=("Tardif_English" "Morisset_English" "Tonelli_Italian" "Lyon_French" "TCCM_Mandarin" "SelfCleanedTardifEnglish" "SelfCleaned_Italian" "SelfCleaned_German" "SelfCleaned_Hungarian" "SelfCleaned_Indonesian" "SelfCleaned_Spanish" "SelfCleaned_Swedish")
+#corpora=("Lyon_French" "SelfCleaned_Indonesian")
 
 for currCorpus in "${corpora[@]}"; do
 	resultFile=$resultSource'/output_'$currCorpus'.txt'
