@@ -34,7 +34,7 @@ inputTotalVerbTokenCount = 0
 inputTotalOtherTokenCount = 0
 
 
-nounSet = ['n', 'nn', 'npro', 'noun', 'pron'] #'propn'
+nounSet = ['n', 'nn', 'npro', 'noun', 'pron'] #'propn' # n:prop
 verbSet = ['v', 'vt', 'vi', 'vc', 'va', 'verb', 'aux', 'p']
 
 japaneseNounSet = ['n|', 'n:']
@@ -115,10 +115,13 @@ def evalSpeechGroup(speechGroup):
 		else:
 			missingSpeechLines += 1
 
-def extractIsolatedWordInfo(length, inputTags, inputNounTypeDict, inputVerbTypeDict, inputOtherTypeDict):
+def extractIsolatedWordInfo(inputString, inputTags, inputNounTypeDict, inputVerbTypeDict, inputOtherTypeDict):
 	global inputSingleNounTokenCount, inputSingleVerbTokenCount, inputSingleOtherTokenCount
 	global inputDoubleNounTokenCount, inputDoubleVerbTokenCount, inputDoubleOtherTokenCount
 	global inputTotalNounTokenCount, inputTotalVerbTokenCount, inputTotalOtherTokenCount
+	global otherOutputFile, verbOutputFile, nounOutputFile
+
+	length = len(inputString)
 
 	if (len(inputTags) > 1):
 		for wordTag in inputTags[1:]:
@@ -141,6 +144,7 @@ def extractIsolatedWordInfo(length, inputTags, inputNounTypeDict, inputVerbTypeD
 				if (length == 2):
 					inputSingleNounTokenCount += 1
 					inputTotalNounTokenCount += 1
+					printUtterance(nounOutputFile, inputString, inputTags, wordTagInfo[0])
 				elif (length == 3):
 					inputDoubleNounTokenCount += 1
 					inputTotalNounTokenCount += 1
@@ -155,6 +159,7 @@ def extractIsolatedWordInfo(length, inputTags, inputNounTypeDict, inputVerbTypeD
 				if (length == 2):
 					inputSingleVerbTokenCount += 1
 					inputTotalVerbTokenCount += 1
+					printUtterance(verbOutputFile, inputString, inputTags, wordTagInfo[0])
 				elif (length == 3):
 					inputDoubleVerbTokenCount += 1
 					inputTotalVerbTokenCount += 1
@@ -169,6 +174,7 @@ def extractIsolatedWordInfo(length, inputTags, inputNounTypeDict, inputVerbTypeD
 				if (length == 2):
 					inputSingleOtherTokenCount += 1
 					inputTotalOtherTokenCount += 1
+					printUtterance(otherOutputFile, inputString, inputTags, wordTagInfo[0])
 				elif (length == 3):
 					inputDoubleOtherTokenCount += 1
 					inputTotalOtherTokenCount += 1
@@ -179,28 +185,31 @@ def extractIsolatedWordInfo(length, inputTags, inputNounTypeDict, inputVerbTypeD
 		## Missing morphological tags (despite intro line)
 		return
 
+def printUtterance(outputFile, toPrintString, toPrintTags, foundTag):
+	for token in toPrintString:
+		outputFile.write(token + ' ')
+	outputFile.write('\n')
+	for inputTag in toPrintTags:
+		outputFile.write(inputTag + ' ')
+	outputFile.write('\nhit: ' + foundTag)
+	outputFile.write('\n\n')
+
 def evalInputData(inputString, inputTags):
 	global totalSingleUtteranceMotherLines, inputSingleNounTypeDict, inputSingleVerbTypeDict, totalDoubleWordMotherLines, totalLongMotherLines
-	global inputSingleOtherTypeDict, inputDoubleNounTypeDict, inputDoubleVerbTypeDict, inputDoubleOtherTypeDict, exampleFile
+	global inputSingleOtherTypeDict, inputDoubleNounTypeDict, inputDoubleVerbTypeDict, inputDoubleOtherTypeDict
 
 #	toTag = inputString[1:]
 #	taggedInput = nltk.pos_tag(toTag)
 
 	if (len(inputString) == 2):
 		totalSingleUtteranceMotherLines += 1
-		for token in inputString:
-			exampleFile.write(token + ' ')
-		exampleFile.write('\n')
-		for inputTag in inputTags:
-			exampleFile.write(inputTag + ' ')
-		exampleFile.write('\n\n')
-		extractIsolatedWordInfo(len(inputString), inputTags, inputSingleNounTypeDict, inputSingleVerbTypeDict, inputSingleOtherTypeDict)
+		extractIsolatedWordInfo(inputString, inputTags, inputSingleNounTypeDict, inputSingleVerbTypeDict, inputSingleOtherTypeDict)
 	elif (len(inputString) == 3):
 		totalDoubleWordMotherLines += 1
-		extractIsolatedWordInfo(len(inputString), inputTags, inputDoubleNounTypeDict, inputDoubleVerbTypeDict, inputDoubleOtherTypeDict)
-	
-	totalLongMotherLines += 1
-	extractIsolatedWordInfo(len(inputString), inputTags, inputTotalNounTypeDict, inputTotalVerbTypeDict, inputTotalOtherTypeDict)
+		extractIsolatedWordInfo(inputString, inputTags, inputDoubleNounTypeDict, inputDoubleVerbTypeDict, inputDoubleOtherTypeDict)
+	else:
+		totalLongMotherLines += 1
+		extractIsolatedWordInfo(inputString, inputTags, inputTotalNounTypeDict, inputTotalVerbTypeDict, inputTotalOtherTypeDict)
 
 
 def evalOutputData(outputString, outputTags):
@@ -274,22 +283,31 @@ if __name__=="__main__":
 		exit(0)
 
 	directoryName = sys.argv[1]
-	exampleFilename = sys.argv[2]
-	with open(exampleFilename, 'w') as exampleFile:
+	exampleFileTemplate = sys.argv[2]
 
-		totalMotherLines = 0
-		cumulativeMotherLinesLength = 0
-		totalSingleUtteranceMotherLines = 0
-		totalDoubleWordMotherLines = 0
-		totalLongMotherLines = 0
-		totalDataLength = 0
+	nounOutputFilename = exampleFileTemplate + '_noun.txt'
+	verbOutputFilename = exampleFileTemplate + '_verb.txt'
+	otherOutputFilename = exampleFileTemplate + '_other.txt'
 
-		totalChildLines = 0
-		cumulativeChildLinesLength = 0
+	with open(nounOutputFilename, 'w') as nounOutputFile:
+		with open(verbOutputFilename, 'w') as verbOutputFile:
+			with open(otherOutputFilename, 'w') as otherOutputFile:
 
-		searchDirectory = os.getcwd() + '/' + directoryName
-		iterateSubDir(searchDirectory)
-	exampleFile.close()
+				totalMotherLines = 0
+				cumulativeMotherLinesLength = 0
+				totalSingleUtteranceMotherLines = 0
+				totalDoubleWordMotherLines = 0
+				totalLongMotherLines = 0
+				totalDataLength = 0
+
+				totalChildLines = 0
+				cumulativeChildLinesLength = 0
+
+				searchDirectory = os.getcwd() + '/' + directoryName
+				iterateSubDir(searchDirectory)
+			otherOutputFile.close()
+		verbOutputFile.close()
+	nounOutputFile.close()
 
 	motherMLU = safeDivide(cumulativeMotherLinesLength, totalMotherLines)
 	childMLU = safeDivide(cumulativeChildLinesLength, totalChildLines)

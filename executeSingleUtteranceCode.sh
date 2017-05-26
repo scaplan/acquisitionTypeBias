@@ -9,15 +9,15 @@ cd $scriptSource
 
 # "AutoTag_EnglishMorisset" "AutoTag_EnglishTardif" "AutoTag_French" "AutoTag_German" "AutoTag_Hungarian" "AutoTag_Indonesian" "AutoTag_Italian" "AutoTag_Korean" "AutoTag_Spanish" "AutoTag_Swedish"
 
-corpora=("Tardif_English" "Morisset_English" "Tonelli_Italian" "Lyon_French" "Leo_German" "TCCM_Mandarin" "Miyata_Japanese" "AutoTag_EnglishMorisset" "AutoTag_EnglishTardif" "AutoTag_French" "AutoTag_German" "AutoTag_Hungarian" "AutoTag_Indonesian" "AutoTag_Italian" "AutoTag_Korean" "AutoTag_Spanish" "AutoTag_Swedish")
-#corpora=("Tardif_English" "SelfCleanedTardifEnglish")
+#corpora=("Tardif_English" "Morisset_English" "Tonelli_Italian" "Lyon_French" "Leo_German" "TCCM_Mandarin" "Miyata_Japanese" "AutoTag_EnglishMorisset" "AutoTag_EnglishTardif" "AutoTag_French" "AutoTag_German" "AutoTag_Hungarian" "AutoTag_Indonesian" "AutoTag_Italian" "AutoTag_Korean" "AutoTag_Spanish" "AutoTag_Swedish")
+corpora=("Tardif_English")
 #corpora=("Miyata_Japanese")
 
 for currCorpus in "${corpora[@]}"; do
 	resultStatFile=$resultSource'/outputStats_'$currCorpus'.txt'
-	dataOutputFile=$resultSource'/outputExamples_'$currCorpus'.txt'
+	dataOutputFileTemplate=$resultSource'/outputExamples_'$currCorpus
 	currCorpus=$currCorpus'/'
-	python extract-single-utterance.py $currCorpus $dataOutputFile > $resultStatFile
-	#python extract-single-utterance.py $currCorpus $dataOutputFile
+	python extract-single-utterance.py $currCorpus $dataOutputFileTemplate > $resultStatFile
+	#python extract-single-utterance.py $currCorpus $dataOutputFileTemplate
 	echo 'Ran: '$currCorpus
 done
