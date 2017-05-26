@@ -11,7 +11,7 @@ from unicodedata import normalize
 punctuationSet = ['.', '?', '!', ':', '(.)', '+...', '+"/.', '+/.']
 inputSet = ['*mot:', '*gra:', '*fat:', '*ann:', '*ant:', '*nan:', '*wom:', '*car:', '*inv:', '*par:', '*mut:', '*vat:', '*oma:', '*exp:', '*car:', '*bri', '*nen:', '*mag:', '*gmt:']
 childSet = ['*chi:', '*eli:', '*gre:', '*mar:']
-morphCue = ['%mor:', '%xmor:', '%newmor:']
+morphCue = ['%mor:', '%xmor:', '%newmor:', '%trn:']
 ## '%xmor:'
 inputSingleNounTypeDict = {}
 inputSingleVerbTypeDict = {}
@@ -36,6 +36,9 @@ inputTotalOtherTokenCount = 0
 
 nounSet = ['n', 'nn', 'npro', 'noun', 'pron'] #'propn'
 verbSet = ['v', 'vt', 'vi', 'vc', 'va', 'verb', 'aux', 'p']
+
+japaneseNounSet = ['n|', 'n:']
+japaneseVerbSet = ['v|', 'v:']
 
 outputNounTokenCount = 0
 outputVerbTokenCount = 0
@@ -124,7 +127,12 @@ def extractIsolatedWordInfo(length, inputTags, inputNounTypeDict, inputVerbTypeD
 				## Malformed morphological tag
 				return
 			wordMarkupForm = wordTagInfo[1]
-			if (wordTagInfo[0] in nounSet):
+			
+			tagOnset = ''
+			if (len(wordTagInfo[0]) > 1):
+				tagOnset = wordTagInfo[0][0:2]
+
+			if (wordTagInfo[0] in nounSet) or (tagOnset in japaneseNounSet):
 				if (wordMarkupForm in inputNounTypeDict):
 					newCount = 1 + inputNounTypeDict.get(wordMarkupForm)
 					inputNounTypeDict[wordMarkupForm] = newCount
@@ -138,7 +146,7 @@ def extractIsolatedWordInfo(length, inputTags, inputNounTypeDict, inputVerbTypeD
 					inputTotalNounTokenCount += 1
 				else:
 					inputTotalNounTokenCount += 1
-			elif (wordTagInfo[0] in verbSet):
+			elif (wordTagInfo[0] in verbSet) or (tagOnset in japaneseVerbSet):
 				if (wordMarkupForm in inputVerbTypeDict):
 					newCount = 1 + inputVerbTypeDict.get(wordMarkupForm)
 					inputVerbTypeDict[wordMarkupForm] = newCount
@@ -208,14 +216,19 @@ def evalOutputData(outputString, outputTags):
 		if len(currTagInfo) > 1:
 			currPos = currTagInfo[0]
 			currWord = currTagInfo[1]
-			if (currPos in verbSet):
+
+			tagOnset = ''
+			if (len(currPos) > 1):
+				tagOnset = currPos[0:2]
+
+			if (currPos in verbSet) or (tagOnset in japaneseVerbSet):
 				outputVerbTokenCount += 1
 				if (currWord in outputVerbTypeDict):
 					newCount = 1 + outputVerbTypeDict.get(currWord)
 					outputVerbTypeDict[currWord] = newCount
 				else:
 					outputVerbTypeDict[currWord] = 1
-			elif (currPos in nounSet):
+			elif (currPos in nounSet) or (tagOnset in japaneseNounSet):
 				outputNounTokenCount += 1
 				if (currWord in outputNounTypeDict):
 					newCount = 1 + outputNounTypeDict.get(currWord)
