@@ -9,7 +9,7 @@ import unicodedata
 from unicodedata import normalize
 
 punctuationSet = ['.', '?', '!', ':', '(.)', '+...', '+"/.', '+/.']
-inputSet = ['*mot:', '*gra:', '*fat:', '*ann:', '*ant:', '*nan:', '*wom:', '*car:', '*inv:', '*par:', '*mut:', '*vat:', '*oma:', '*exp:', '*car:', '*bri', '*nen:', '*mag:']
+inputSet = ['*mot:', '*gra:', '*fat:', '*ann:', '*ant:', '*nan:', '*wom:', '*car:', '*inv:', '*par:', '*mut:', '*vat:', '*oma:', '*exp:', '*car:', '*bri', '*nen:', '*mag:', '*gmt:']
 childSet = ['*chi:', '*eli:', '*gre:', '*mar:']
 morphCue = ['%mor:', '%xmor:', '%newmor:']
 ## '%xmor:'
@@ -35,7 +35,7 @@ inputTotalOtherTokenCount = 0
 
 
 nounSet = ['n', 'nn', 'npro', 'noun', 'pron'] #'propn'
-verbSet = ['v', 'vt', 'vi', 'vc', 'va', 'verb', 'aux']
+verbSet = ['v', 'vt', 'vi', 'vc', 'va', 'verb', 'aux', 'p']
 
 outputNounTokenCount = 0
 outputVerbTokenCount = 0
@@ -173,13 +173,19 @@ def extractIsolatedWordInfo(length, inputTags, inputNounTypeDict, inputVerbTypeD
 
 def evalInputData(inputString, inputTags):
 	global totalSingleUtteranceMotherLines, inputSingleNounTypeDict, inputSingleVerbTypeDict, totalDoubleWordMotherLines, totalLongMotherLines
-	global inputSingleOtherTypeDict, inputDoubleNounTypeDict, inputDoubleVerbTypeDict, inputDoubleOtherTypeDict
+	global inputSingleOtherTypeDict, inputDoubleNounTypeDict, inputDoubleVerbTypeDict, inputDoubleOtherTypeDict, exampleFile
 
 #	toTag = inputString[1:]
 #	taggedInput = nltk.pos_tag(toTag)
 
 	if (len(inputString) == 2):
 		totalSingleUtteranceMotherLines += 1
+		for token in inputString:
+			exampleFile.write(token + ' ')
+		exampleFile.write('\n')
+		for inputTag in inputTags:
+			exampleFile.write(inputTag + ' ')
+		exampleFile.write('\n\n')
 		extractIsolatedWordInfo(len(inputString), inputTags, inputSingleNounTypeDict, inputSingleVerbTypeDict, inputSingleOtherTypeDict)
 	elif (len(inputString) == 3):
 		totalDoubleWordMotherLines += 1
@@ -250,23 +256,27 @@ def safeDivide(numerator, denominator):
 ## Main method block
 ##
 if __name__=="__main__":
-	if (len(sys.argv) < 2):
+	if (len(sys.argv) < 3):
 		print('incorrect number of arguments')
 		exit(0)
 
 	directoryName = sys.argv[1]
-	totalMotherLines = 0
-	cumulativeMotherLinesLength = 0
-	totalSingleUtteranceMotherLines = 0
-	totalDoubleWordMotherLines = 0
-	totalLongMotherLines = 0
-	totalDataLength = 0
+	exampleFilename = sys.argv[2]
+	with open(exampleFilename, 'w') as exampleFile:
 
-	totalChildLines = 0
-	cumulativeChildLinesLength = 0
+		totalMotherLines = 0
+		cumulativeMotherLinesLength = 0
+		totalSingleUtteranceMotherLines = 0
+		totalDoubleWordMotherLines = 0
+		totalLongMotherLines = 0
+		totalDataLength = 0
 
-	searchDirectory = os.getcwd() + '/' + directoryName
-	iterateSubDir(searchDirectory)
+		totalChildLines = 0
+		cumulativeChildLinesLength = 0
+
+		searchDirectory = os.getcwd() + '/' + directoryName
+		iterateSubDir(searchDirectory)
+	exampleFile.close()
 
 	motherMLU = safeDivide(cumulativeMotherLinesLength, totalMotherLines)
 	childMLU = safeDivide(cumulativeChildLinesLength, totalChildLines)

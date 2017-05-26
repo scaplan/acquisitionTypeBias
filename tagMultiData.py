@@ -16,24 +16,18 @@ punctuationSet = ['.', '?', '!', ':', '(.)', '+...', '+"/.', '+/.']
 
 def tagLine(inputLine):
 	currLineTokens = inputLine.split()
-
-#	currLineTokensNoPunc = [x for x in currLineTokens if x not in punctuationSet]
-	# onlyAlphaNumerics = []
-	# for token in currLineTokens:
-	# 	valid = re.search('[a-z]', token) is not None
-	# 	if valid:
-	# 		onlyAlphaNumerics.append(token)
-
-	cleanedLine = " ".join(currLineTokens)
 	if len(currLineTokens) < 2:
 		return
 	tokensToTag = currLineTokens[1:]
+	utteranceFinalToken = currLineTokens[-1]
+	if utteranceFinalToken not in punctuationSet:
+		tokensToTag.append('.')
 	joinedLineToTag = " ".join(tokensToTag)
 
 	if currLanguage == 'kr':
 		## Korean implementation
 		taggedKorean = hannanum.pos(joinedLineToTag)
-		translitLine = translit.romanize(cleanedLine)
+		translitLine = translit.romanize(inputLine)
 		print translitLine
 		print "%newmor:\t",
 		for word, tag in taggedKorean:
@@ -44,7 +38,7 @@ def tagLine(inputLine):
 	else:
 		textObjectToTag = Text(joinedLineToTag, hint_language_code=currLanguage)
 		foundTags = textObjectToTag.pos_tags
-		print cleanedLine
+		print inputLine
 		print "%newmor:\t",
 		for word, tag in foundTags:
 			if tag != 'PUNCT':
@@ -70,7 +64,8 @@ def readUntaggedChaFiles(sourceDir):
 
 					continue
 				
-				currLine = currLine.rstrip().lower()
+				## Don't lowercase things so that it doesn't interfere with POS tagging
+				currLine = currLine.rstrip()
 				tagLine(currLine)
 
 
