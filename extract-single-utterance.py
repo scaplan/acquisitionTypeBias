@@ -34,8 +34,8 @@ inputTotalVerbTokenCount = 0
 inputTotalOtherTokenCount = 0
 
 
-nounSet = ['n', 'nn', 'npro', 'noun', 'pron'] #'propn' # n:prop
-verbSet = ['v', 'vt', 'vi', 'vc', 'va', 'verb', 'aux', 'p']
+nounSet = ['n', 'nn', 'npro', 'noun', 'pron', 'npro', 'pro'] #'propn' # n:prop
+verbSet = ['v', 'vt', 'vi', 'vc', 'va', 'verb', 'aux', 'p', 'vinf', 'vimp', 'vr'] #ver#part, 
 
 japaneseNounSet = ['n|', 'n:']
 japaneseVerbSet = ['v|', 'v:']
@@ -46,6 +46,8 @@ outputOtherTokenCount = 0
 outputNounTypeDict = {}
 outputVerbTypeDict = {}
 outputOtherTypeDict = {}
+
+missingTagsDict = {}
 
 missingSpeechLines = 0
 
@@ -115,6 +117,30 @@ def evalSpeechGroup(speechGroup):
 		else:
 			missingSpeechLines += 1
 
+def cleanPOStag(wordTag):
+	wordTagInfo = wordTag.split("|")
+	if len(wordTagInfo) < 2:
+		## Malformed morphological tag
+		return '', '', '', '', ''
+	wordTagClean = wordTagInfo[0]
+	wordMarkupForm = wordTagInfo[1]
+	
+	tagOnset = ''
+	if (len(wordTagInfo[0]) > 1):
+		tagOnset = wordTagInfo[0][0:2]
+
+	coarseTag = ''
+	if (':' in wordTagInfo[0]):
+		fineTags = wordTagInfo[0].split(":")
+		coarseTag = fineTags[0]
+
+	germanPost = ''
+	if ('#' in wordTagInfo[0]):
+		germanPostAll = wordTagInfo[0].split("#")
+		germanPost = germanPostAll[-1]
+
+	return wordTagClean, wordMarkupForm, tagOnset, coarseTag, germanPost
+
 def extractIsolatedWordInfo(inputString, inputTags, inputNounTypeDict, inputVerbTypeDict, inputOtherTypeDict):
 	global inputSingleNounTokenCount, inputSingleVerbTokenCount, inputSingleOtherTokenCount
 	global inputDoubleNounTokenCount, inputDoubleVerbTokenCount, inputDoubleOtherTokenCount
@@ -125,56 +151,40 @@ def extractIsolatedWordInfo(inputString, inputTags, inputNounTypeDict, inputVerb
 
 	if (len(inputTags) > 1):
 		for wordTag in inputTags[1:]:
-			wordTagInfo = wordTag.split("|")
-			if len(wordTagInfo) < 2:
-				## Malformed morphological tag
-				return
-			wordMarkupForm = wordTagInfo[1]
-			
-			tagOnset = ''
-			if (len(wordTagInfo[0]) > 1):
-				tagOnset = wordTagInfo[0][0:2]
 
-			if (wordTagInfo[0] in nounSet) or (tagOnset in japaneseNounSet):
-				if (wordMarkupForm in inputNounTypeDict):
-					newCount = 1 + inputNounTypeDict.get(wordMarkupForm)
-					inputNounTypeDict[wordMarkupForm] = newCount
-				else:
-					inputNounTypeDict[wordMarkupForm] = 1
+			wordTagClean, wordMarkupForm, tagOnset, coarseTag, germanPost = cleanPOStag(wordTag)
+
+			if (wordTagClean in nounSet) or (tagOnset in japaneseNounSet) or (coarseTag in nounSet) or (germanPost in nounSet):
+				incrementDict(inputNounTypeDict, wordMarkupForm)
 				if (length == 2):
 					inputSingleNounTokenCount += 1
 					inputTotalNounTokenCount += 1
-					printUtterance(nounOutputFile, inputString, inputTags, wordTagInfo[0])
+					printUtterance(nounOutputFile, inputString, inputTags, wordTagClean)
 				elif (length == 3):
 					inputDoubleNounTokenCount += 1
 					inputTotalNounTokenCount += 1
 				else:
 					inputTotalNounTokenCount += 1
-			elif (wordTagInfo[0] in verbSet) or (tagOnset in japaneseVerbSet):
-				if (wordMarkupForm in inputVerbTypeDict):
-					newCount = 1 + inputVerbTypeDict.get(wordMarkupForm)
-					inputVerbTypeDict[wordMarkupForm] = newCount
-				else:
-					inputVerbTypeDict[wordMarkupForm] = 1
+			elif (wordTagClean in verbSet) or (tagOnset in japaneseVerbSet) or (germanPost in verbSet):
+				incrementDict(inputVerbTypeDict, wordMarkupForm)
 				if (length == 2):
 					inputSingleVerbTokenCount += 1
 					inputTotalVerbTokenCount += 1
-					printUtterance(verbOutputFile, inputString, inputTags, wordTagInfo[0])
+					printUtterance(verbOutputFile, inputString, inputTags, wordTagClean)
 				elif (length == 3):
 					inputDoubleVerbTokenCount += 1
 					inputTotalVerbTokenCount += 1
 				else:
 					inputTotalVerbTokenCount += 1
 			else:
-				if (wordMarkupForm in inputOtherTypeDict):
-					newCount = 1 + inputOtherTypeDict.get(wordMarkupForm)
-					inputOtherTypeDict[wordMarkupForm] = newCount
-				else:
-					inputOtherTypeDict[wordMarkupForm] = 1
+				incrementDict(inputOtherTypeDict, wordMarkupForm)
 				if (length == 2):
 					inputSingleOtherTokenCount += 1
 					inputTotalOtherTokenCount += 1
-					printUtterance(otherOutputFile, inputString, inputTags, wordTagInfo[0])
+					printUtterance(otherOutputFile, inputString, inputTags, wordTagClean)
+
+					### Find missing tags
+					incrementDict(missingTagsDict, wordTagClean)
 				elif (length == 3):
 					inputDoubleOtherTokenCount += 1
 					inputTotalOtherTokenCount += 1
@@ -220,42 +230,17 @@ def evalOutputData(outputString, outputTags):
 #		print outputTags
 #		print ''
 	for currTag in outputTags:
+		wordTagClean, wordMarkupForm, tagOnset, coarseTag, germanPost = cleanPOStag(currTag)
 
-		currTagInfo = currTag.split("|")
-		if len(currTagInfo) > 1:
-			currPos = currTagInfo[0]
-			currWord = currTagInfo[1]
-
-			tagOnset = ''
-			if (len(currPos) > 1):
-				tagOnset = currPos[0:2]
-
-			if (currPos in verbSet) or (tagOnset in japaneseVerbSet):
-				outputVerbTokenCount += 1
-				if (currWord in outputVerbTypeDict):
-					newCount = 1 + outputVerbTypeDict.get(currWord)
-					outputVerbTypeDict[currWord] = newCount
-				else:
-					outputVerbTypeDict[currWord] = 1
-			elif (currPos in nounSet) or (tagOnset in japaneseNounSet):
-				outputNounTokenCount += 1
-				if (currWord in outputNounTypeDict):
-					newCount = 1 + outputNounTypeDict.get(currWord)
-					outputNounTypeDict[currWord] = newCount
-				else:
-					outputNounTypeDict[currWord] = 1
-			else:
-				outputOtherTokenCount += 1
-				if (currWord in outputOtherTypeDict):
-					newCount = 1 + outputOtherTypeDict.get(currWord)
-					outputOtherTypeDict[currWord] = newCount
-				else:
-					outputOtherTypeDict[currWord] = 1
-		# if (currTagInfo[0] == 'n'):
-		# 	outputNounTokenCount += 1
-		# elif (currTagInfo[0] == 'v'):
-		# 	outputVerbTokenCount += 1
-
+		if (wordTagClean in verbSet) or (tagOnset in japaneseVerbSet) or (germanPost in verbSet):
+			outputVerbTokenCount += 1
+			incrementDict(outputVerbTypeDict, wordMarkupForm)
+		elif (wordTagClean in nounSet) or (tagOnset in japaneseNounSet) or (coarseTag in nounSet) or (germanPost in nounSet):
+			outputNounTokenCount += 1
+			incrementDict(outputNounTypeDict, wordMarkupForm)
+		else:
+			outputOtherTokenCount += 1
+			incrementDict(outputOtherTypeDict, wordMarkupForm)
 
 
 def iterateSubDir(directoryName):
@@ -274,16 +259,24 @@ def safeDivide(numerator, denominator):
 	else:
 		return 0.0
 
+def incrementDict(dictToUpdate, key):
+	if key in dictToUpdate:
+		prevValue = dictToUpdate.get(key)
+		dictToUpdate[key] = prevValue + 1
+	else:
+		dictToUpdate[key] = 1
+
 ##
 ## Main method block
 ##
 if __name__=="__main__":
-	if (len(sys.argv) < 3):
+	if (len(sys.argv) < 4):
 		print('incorrect number of arguments')
 		exit(0)
 
 	directoryName = sys.argv[1]
 	exampleFileTemplate = sys.argv[2]
+	statsOutputName = sys.argv[3]
 
 	nounOutputFilename = exampleFileTemplate + '_noun.txt'
 	verbOutputFilename = exampleFileTemplate + '_verb.txt'
@@ -311,6 +304,11 @@ if __name__=="__main__":
 
 	motherMLU = safeDivide(cumulativeMotherLinesLength, totalMotherLines)
 	childMLU = safeDivide(cumulativeChildLinesLength, totalChildLines)
+
+	for key in missingTagsDict:
+		value  = missingTagsDict.get(key)
+		print key, value
+	print '\n'
 
 	print 'totalDataLength: ' + str(totalDataLength)
 	print('-----------------------------------------')
@@ -402,3 +400,12 @@ if __name__=="__main__":
 	print 'totalChildOtherTypeProp: ' + str(totalChildOtherTypeProp)
 
 	print '\nmissingSpeechLines: ' + str(missingSpeechLines)
+
+
+	with open(statsOutputName, 'a') as plotOutputFile:
+		inputSingleWordNounVerbRatio = (singleWordNounTypeProp / singleWordVerbTypeProp)
+		outputNounVerbRatio = (totalChildNounTypeProp / totalChildVerbTypeProp)
+
+		toWrite = directoryName[:-1] + ',' + str(inputSingleWordNounVerbRatio) + ',' + str(outputNounVerbRatio) + '\n'
+		plotOutputFile.write(toWrite)
+	plotOutputFile.close()
