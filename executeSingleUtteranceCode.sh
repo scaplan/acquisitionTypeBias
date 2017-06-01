@@ -10,9 +10,9 @@ cd $scriptSource
 # "AutoTag_EnglishMorisset" "AutoTag_EnglishTardif" "AutoTag_French" "AutoTag_German" "AutoTag_Hungarian" "AutoTag_Indonesian" "AutoTag_Italian" "AutoTag_Korean" "AutoTag_Spanish" "AutoTag_Swedish"
 
 #corpora=("Tardif_English" "Morisset_English" "Tonelli_Italian" "Lyon_French" "Leo_German" "TCCM_Mandarin" "Miyata_Japanese" "AutoTag_EnglishMorisset" "AutoTag_EnglishTardif" "AutoTag_French" "AutoTag_German" "AutoTag_Hungarian" "AutoTag_Indonesian" "AutoTag_Italian" "AutoTag_Korean" "AutoTag_Spanish" "AutoTag_Swedish")
-corpora=("Tardif_English" "Tonelli_Italian" "Lyon_French" "Leo_German" "TCCM_Mandarin" "Miyata_Japanese")
+#corpora=("Tardif_English" "Tonelli_Italian" "Lyon_French" "Leo_German" "TCCM_Mandarin" "Miyata_Japanese")
 #corpora=("Tardif_English")
-#corpora=("Miyata_Japanese")
+corpora=("Providence/Ethan")
 
 #statsOutputName=$resultSource'/output_plotStats_autoAll.csv'
 statsOutputName=$resultSource'/output_plotStats.csv'
@@ -33,4 +33,4 @@ done
 #plotOutputName=$resultSource'/output_plot_autoAll.png'
 plotOutputName=$resultSource'/output_plot.png'
 echo 'Running Plot'
-Rscript plotInputOutputCorrespondence.R $statsOutputName $plotOutputName
+#Rscript plotInputOutputCorrespondence.R $statsOutputName $plotOutputName

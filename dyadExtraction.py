@@ -65,7 +65,7 @@ def readChaFile(dataFileName):
 							#	print word
 								motherWords = incrementDict(motherWords, word)
 							#	print motherWords[word]
-							extractMotherUtteranceStats(cleanedWords)
+							extractMotherUtteranceStats(cleanedWords, cleanedSpeechLine)
 							#print cleanedWords
 						elif speaker in childSet:
 							for word in cleanedWords:
@@ -80,12 +80,16 @@ def readChaFile(dataFileName):
 
 			speechGroup.append(currLine)
 
-def extractMotherUtteranceStats(words):
+def extractMotherUtteranceStats(words, currLine):
 	global motherRightEdgeNonIsoWords, motherIsolatedWords
 	if len(words) == 1:
 		motherIsolatedWords = incrementDict(motherIsolatedWords, words[0])
 	else:
 		finalWord = words[-1]
+	#	if finalWord == 'the':
+	#		print currLine
+	#		print words
+	#		print finalWord
 		motherRightEdgeNonIsoWords = incrementDict(motherRightEdgeNonIsoWords, finalWord)
 
 
@@ -127,10 +131,11 @@ def readWordList(source):
 			if not currLine:
 				continue
 			currTokens = currLine.split()
-			freq = currTokens[0]
+			freq = int(currTokens[0])
 			cleanedWord = regex.sub('', currTokens[1])
 			updateDictWithValue(charlesFreqDict, cleanedWord, freq)
-		#	print charlesFreqDict[cleanedWord], cleanedWord, freq
+		#	if cleanedWord == 'you':
+		#		print charlesFreqDict[cleanedWord], cleanedWord, freq
 
 def cleanSpeechGroup(speechGroup):
 	speechLine = speechGroup[0]
@@ -167,7 +172,17 @@ if __name__=="__main__":
 	searchDirectory = os.getcwd() + '/' + directoryName
 	iterateSubDir(searchDirectory)
 
+
+	charlesTotalCorpusCount = sum(charlesFreqDict.values())
+	childTotalCorpusCount = sum(childWords.values())
+	motherTotalCorpusCount = sum(motherWords.values())
+	motherTotalIsoCount = sum(motherIsolatedWords.values())
+	motherTotalFinalNonIso = sum(motherRightEdgeNonIsoWords.values())
+
+
 	wordCount = 0
+
+	print 'word charlesFreqCount charlesFreqProb childAttested childCount childFreqProb motherCount motherFreqProb motherIsoCount motherIsoProb motherFinalNonIsoCount motherFinalNonIsoProb'
 	#for word in motherWords.iteritems():
 	for entry in motherWords.iteritems():
 		word = entry[0]
@@ -178,20 +193,35 @@ if __name__=="__main__":
 		childCount = 0
 		charlesFreqCount = 0
 
+		childAttested = 0
+
 		if word in motherIsolatedWords:
    			motherIsoCount = motherIsolatedWords[word]
 		if word in motherRightEdgeNonIsoWords:
    			motherFinalNonIsoCount = motherRightEdgeNonIsoWords[word]
 		if word in childWords:
    			childCount = childWords[word]
+   			childAttested = 1
 		if word in charlesFreqDict:
-   			charlesFreqCount = charlesFreqDict[word]
-
+   			charlesFreqCount = int(charlesFreqDict[word])
 
    		if charlesFreqCount > 0:
    			## elements produced by mother (and also in Charles frequency list)
    			wordCount += 1
-   			print word, charlesFreqCount, childCount, motherCount, motherIsoCount, motherFinalNonIsoCount
+
+   			## Convert these to proportions as well
+   			charlesFreqProb = charlesFreqCount / (1.0 * charlesTotalCorpusCount)
+   			charlesFreqLogProb = math.log(charlesFreqProb)
+   			childFreqProb = childCount / (1.0 * childTotalCorpusCount)
+   		#	childFreqLogProb = math.log(childFreqProb)
+   			motherFreqProb = motherCount / (1.0 * motherTotalCorpusCount)
+   			motherFreqLogProb = math.log(motherFreqProb)
+   			motherIsoProb = motherIsoCount / (1.0 * motherTotalIsoCount)
+   		#	motherIsoLogProb = math.log(motherIsoProb)
+   			motherFinalNonIsoProb = motherFinalNonIsoCount / (1.0 * motherTotalFinalNonIso)
+   		#	motherFinalNonIsoLogProb = math.log(motherFinalNonIsoProb)
+
+   			print word, charlesFreqCount, charlesFreqProb, childAttested, childCount, childFreqProb, motherCount, motherFreqProb, motherIsoCount, motherIsoProb, motherFinalNonIsoCount, motherFinalNonIsoProb
 
 
 # print 'Num words: ', wordCount
