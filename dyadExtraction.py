@@ -157,32 +157,11 @@ def cleanSpeechGroup(speechGroup):
 	# print onlyAlphaNumerics
 	return onlyAlphaNumerics, tagTokensNoPunc
 
-##
-## Main method block
-##
-if __name__=="__main__":
-	if (len(sys.argv) < 3):
-		print('incorrect number of arguments')
-		exit(0)
-
-
-	directoryName = sys.argv[1]
-	charlesFreqFileName = sys.argv[2]
-	readWordList(charlesFreqFileName)
-	searchDirectory = os.getcwd() + '/' + directoryName
-	iterateSubDir(searchDirectory)
-
-
-	charlesTotalCorpusCount = sum(charlesFreqDict.values())
-	childTotalCorpusCount = sum(childWords.values())
-	motherTotalCorpusCount = sum(motherWords.values())
-	motherTotalIsoCount = sum(motherIsolatedWords.values())
-	motherTotalFinalNonIso = sum(motherRightEdgeNonIsoWords.values())
-
+def printOutputWithGlobalFreq(outputFile, globalTotalCorpusCount):
+	global childTotalCorpusCount, motherTotalCorpusCount, motherTotalCorpusCount, motherTotalIsoCount, motherTotalFinalNonIso
 
 	wordCount = 0
-
-	print 'word charlesFreqCount charlesFreqProb childAttested childCount childFreqProb motherCount motherFreqProb motherIsoCount motherIsoProb motherFinalNonIsoCount motherFinalNonIsoProb'
+	outputFile.write('word charlesFreqCount charlesFreqProb childAttested childCount childFreqProb motherCount motherFreqProb motherIsoCount motherIsoProb motherFinalNonIsoCount motherFinalNonIsoProb\n')
 	#for word in motherWords.iteritems():
 	for entry in motherWords.iteritems():
 		word = entry[0]
@@ -192,7 +171,6 @@ if __name__=="__main__":
 		motherFinalNonIsoCount = 0
 		childCount = 0
 		charlesFreqCount = 0
-
 		childAttested = 0
 
 		if word in motherIsolatedWords:
@@ -210,7 +188,7 @@ if __name__=="__main__":
    			wordCount += 1
 
    			## Convert these to proportions as well
-   			charlesFreqProb = charlesFreqCount / (1.0 * charlesTotalCorpusCount)
+   			charlesFreqProb = charlesFreqCount / (1.0 * globalTotalCorpusCount)
    			charlesFreqLogProb = math.log(charlesFreqProb)
    			childFreqProb = childCount / (1.0 * childTotalCorpusCount)
    		#	childFreqLogProb = math.log(childFreqProb)
@@ -221,18 +199,71 @@ if __name__=="__main__":
    			motherFinalNonIsoProb = motherFinalNonIsoCount / (1.0 * motherTotalFinalNonIso)
    		#	motherFinalNonIsoLogProb = math.log(motherFinalNonIsoProb)
 
-   			print word, charlesFreqCount, charlesFreqProb, childAttested, childCount, childFreqProb, motherCount, motherFreqProb, motherIsoCount, motherIsoProb, motherFinalNonIsoCount, motherFinalNonIsoProb
+   			outputFile.write(word + " " + str(charlesFreqCount) + " " + str(charlesFreqProb) + " " + str(childAttested) + " " + str(childCount) + " " + str(childFreqProb) + " " + str(motherCount) + " " + str(motherFreqProb) + " " + str(motherIsoCount) + " " + str(motherIsoProb) + " " + str(motherFinalNonIsoCount) + " " + str(motherFinalNonIsoProb) + "\n")
 
+def printOutputNoGlobalInfo(outputFile):
+	global childTotalCorpusCount, motherTotalCorpusCount, motherTotalCorpusCount, motherTotalIsoCount, motherTotalFinalNonIso
 
-# print 'Num words: ', wordCount
+	wordCount = 0
+	outputFile.write('word childAttested childCount childFreqProb motherCount motherFreqProb motherIsoCount motherIsoProb motherFinalNonIsoCount motherFinalNonIsoProb\n')
+	#for word in motherWords.iteritems():
+	for entry in motherWords.iteritems():
+		word = entry[0]
+		motherCount = entry[1]
 
-#	for speaker, filename in readChildes.missingSpeakerInfoDict.iteritems():
-#		print speaker, filename
+		motherIsoCount = 0
+		motherFinalNonIsoCount = 0
+		childCount = 0
+		childAttested = 0
 
-#	childWordsSorted = sorted(childWords.items(), key=operator.itemgetter(1))
+		if word in motherIsolatedWords:
+   			motherIsoCount = motherIsolatedWords[word]
+		if word in motherRightEdgeNonIsoWords:
+   			motherFinalNonIsoCount = motherRightEdgeNonIsoWords[word]
+		if word in childWords:
+   			childCount = childWords[word]
+   			childAttested = 1
 
-	## reversed(list)
-#	for entry in childWordsSorted:
-#		word = entry[0]
-#		freq = entry[1]
-	#	print word, freq
+		## elements produced by mother
+		wordCount += 1
+		## Convert these to proportions as well
+		childFreqProb = childCount / (1.0 * childTotalCorpusCount)
+	#	childFreqLogProb = math.log(childFreqProb)
+		motherFreqProb = motherCount / (1.0 * motherTotalCorpusCount)
+		motherFreqLogProb = math.log(motherFreqProb)
+		motherIsoProb = motherIsoCount / (1.0 * motherTotalIsoCount)
+	#	motherIsoLogProb = math.log(motherIsoProb)
+		motherFinalNonIsoProb = motherFinalNonIsoCount / (1.0 * motherTotalFinalNonIso)
+	#	motherFinalNonIsoLogProb = math.log(motherFinalNonIsoProb)
+
+		outputFile.write(word + " " + str(childAttested) + " " + str(childCount) + " " + str(childFreqProb) + " " + str(motherCount) + " " + str(motherFreqProb) + " " + str(motherIsoCount) + " " + str(motherIsoProb) + " " + str(motherFinalNonIsoCount) + " " + str(motherFinalNonIsoProb) + "\n")
+
+##
+## Main method block
+##
+if __name__=="__main__":
+	if (len(sys.argv) < 3):
+		print('incorrect number of arguments')
+		exit(0)
+
+	directoryName = sys.argv[1]
+	outputFileName = sys.argv[2]
+
+	searchDirectory = os.getcwd() + '/' + directoryName
+	iterateSubDir(searchDirectory)
+	childTotalCorpusCount = sum(childWords.values())
+	motherTotalCorpusCount = sum(motherWords.values())
+	motherTotalIsoCount = sum(motherIsolatedWords.values())
+	motherTotalFinalNonIso = sum(motherRightEdgeNonIsoWords.values())
+
+	with open(outputFileName,'w') as outputFile:
+		if (len(sys.argv) > 3):
+			print('Running with global frequency list')
+			charlesFreqFileName = sys.argv[3]
+			readWordList(charlesFreqFileName)
+			charlesTotalCorpusCount = sum(charlesFreqDict.values())
+			printOutputWithGlobalFreq(outputFile, charlesTotalCorpusCount)
+		elif (len(sys.argv) == 3):
+			print('Running without global frequency list')
+			printOutputNoGlobalInfo(outputFile)
+	outputFile.close()
