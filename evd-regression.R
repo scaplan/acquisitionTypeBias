@@ -10,7 +10,11 @@ orig_name_template = args[1]
 ## Read in data
 #data=read.table(orig_name_template,sep=" ", fill = TRUE , header = TRUE, stringsAsFactors=FALSE, na.strings=c(""))
 
-mydata=read.table(orig_name_template,header=TRUE,sep=" ")
+mydata=read.table(orig_name_template,header=TRUE,sep=" ",fill = TRUE)
+
+#nounOrVerbWords <- subset(mydata, binarizedTag=='noun' | binarizedTag=='verb')
+nounOrVerbWords <- subset(mydata, nounStatus=='1' | verbStatus=='1')
+childWords <- subset(mydata, childAttested=='1')
 
 # data$word
 
@@ -66,47 +70,70 @@ mydata=read.table(orig_name_template,header=TRUE,sep=" ")
 #y <- (x2 - x1 + rnorm(n,sd=20)) < 0
 #model <- glm(dependentVariable ~ data$motherCount, family="binomial")
 
-reg = glm(childAttested~motherCount,family=binomial,data=mydata)
-summary(reg)
+summary(glm(childAttested~motherCount,family=binomial,data=mydata))
+summary(glm(childAttested~motherIsoCount,family=binomial,data=mydata))
+summary(glm(childAttested~motherFinalNonIsoCount,family=binomial,data=mydata))
+summary(glm(childAttested~motherCount+motherIsoCount,family=binomial,data=mydata))
+summary(glm(childAttested~motherCount+motherIsoCount+motherFinalNonIsoCount,family=binomial,data=mydata))
+summary(glm(childAttested~motherCount+motherFinalNonIsoCount,family=binomial,data=mydata))
 
-#reg = glm(childAttested~motherFreqProb,family=binomial,data=mydata)
-#summary(reg)
-
-reg = glm(childAttested~motherIsoCount,family=binomial,data=mydata)
-summary(reg)
-
-#reg = glm(childAttested~motherIsoProb,family=binomial,data=mydata)
-#summary(reg)
-
-reg = glm(childAttested~motherFinalNonIsoCount,family=binomial,data=mydata)
-summary(reg)
-
-#reg = glm(childAttested~motherFinalNonIsoProb,family=binomial,data=mydata)
-#summary(reg)
-
-reg = glm(childAttested~charlesFreqCount,family=binomial,data=mydata)
-summary(reg)
-
-#reg = glm(childAttested~charlesFreqProb,family=binomial,data=mydata)
-#summary(reg)
-
-reg = glm(childAttested~motherCount+motherIsoCount,family=binomial,data=mydata)
-summary(reg)
-
-#reg = glm(childAttested~motherFreqProb+motherIsoProb,family=binomial,data=mydata)
-#summary(reg)
-
-reg = glm(childAttested~motherCount+motherIsoCount+motherFinalNonIsoCount,family=binomial,data=mydata)
-summary(reg)
-
-#reg = glm(childAttested~motherFreqProb+motherIsoProb+motherFinalNonIsoProb,family=binomial,data=mydata)
-#summary(reg)
+summary(glm(childAttested~POS,family=binomial,data=mydata))
+summary(glm(childAttested~motherCount+POS,family=binomial,data=mydata))
+summary(glm(childAttested~motherCount+POS+motherIsoCount,family=binomial,data=mydata))
+summary(glm(childAttested~nounStatus+verbStatus,family=binomial,data=mydata))
+summary(glm(childAttested~motherCount+nounStatus+verbStatus,family=binomial,data=mydata))
+summary(glm(childAttested~motherCount+nounStatus+verbStatus+motherIsoCount,family=binomial,data=mydata))
+summary(glm(childAttested~charLength,family=binomial,data=mydata))
+summary(glm(childAttested~motherCount+charLength,family=binomial,data=mydata))
+summary(glm(childAttested~motherCount+charLength+motherIsoCount,family=binomial,data=mydata))
+summary(glm(childAttested~numSylls,family=binomial,data=mydata))
+summary(glm(childAttested~motherCount+numSylls,family=binomial,data=mydata))
+summary(glm(childAttested~motherCount+numSylls+motherIsoCount,family=binomial,data=mydata))
+summary(glm(childAttested~motherCount+motherFinalNonIsoCount+charLength+numSylls+nounStatus+verbStatus+motherIsoCount,family=binomial,data=mydata))
 
 
 
+### Only considering nouns and verbs
+summary(glm(childAttested~motherCount,family=binomial,data=nounOrVerbWords))
+summary(glm(childAttested~motherIsoCount,family=binomial,data=nounOrVerbWords))
+summary(glm(childAttested~motherFinalNonIsoCount,family=binomial,data=nounOrVerbWords))
+summary(glm(childAttested~motherCount+motherIsoCount,family=binomial,data=nounOrVerbWords))
+summary(glm(childAttested~motherCount+motherIsoCount+motherFinalNonIsoCount,family=binomial,data=nounOrVerbWords))
+summary(glm(childAttested~motherCount+motherFinalNonIsoCount,family=binomial,data=nounOrVerbWords))
 
+summary(glm(childAttested~POS,family=binomial,data=nounOrVerbWords))
+summary(glm(childAttested~motherCount+POS,family=binomial,data=nounOrVerbWords))
+summary(glm(childAttested~motherCount+POS+motherIsoCount,family=binomial,data=nounOrVerbWords))
+summary(glm(childAttested~nounStatus+verbStatus,family=binomial,data=nounOrVerbWords))
+summary(glm(childAttested~motherCount+nounStatus+verbStatus,family=binomial,data=nounOrVerbWords))
+summary(glm(childAttested~motherCount+nounStatus+verbStatus+motherIsoCount,family=binomial,data=nounOrVerbWords))
+summary(glm(childAttested~charLength,family=binomial,data=nounOrVerbWords))
+summary(glm(childAttested~motherCount+charLength,family=binomial,data=nounOrVerbWords))
+summary(glm(childAttested~motherCount+charLength+motherIsoCount,family=binomial,data=nounOrVerbWords))
+summary(glm(childAttested~numSylls,family=binomial,data=nounOrVerbWords))
+summary(glm(childAttested~motherCount+numSylls,family=binomial,data=nounOrVerbWords))
+summary(glm(childAttested~motherCount+numSylls+motherIsoCount,family=binomial,data=nounOrVerbWords))
+summary(glm(childAttested~motherCount+motherFinalNonIsoCount+charLength+numSylls+nounStatus+verbStatus+motherIsoCount,family=binomial,data=nounOrVerbWords))
 
-#glm(formula = childAttested ~ charlesFreqProb + motherFreqProb, family="binomial", data = data)
+# summary(glm(childAttested~motherCount,family=binomial,data=nounOrVerbWords))
+# summary(glm(childAttested~motherIsoCount,family=binomial,data=nounOrVerbWords))
+# summary(glm(childAttested~motherFinalNonIsoCount,family=binomial,data=nounOrVerbWords))
+# summary(glm(childAttested~motherCount+motherIsoCount,family=binomial,data=nounOrVerbWords))
+# summary(glm(childAttested~motherCount+motherIsoCount+motherFinalNonIsoCount,family=binomial,data=nounOrVerbWords))
+# summary(glm(childAttested~motherCount+motherFinalNonIsoCount,family=binomial,data=nounOrVerbWords))
+# summary(glm(childAttested~POS,family=binomial,data=nounOrVerbWords))
+# summary(glm(childAttested~motherCount+POS,family=binomial,data=nounOrVerbWords))
+# summary(glm(childAttested~motherCount+POS+motherIsoCount,family=binomial,data=nounOrVerbWords))
+# summary(glm(childAttested~binarizedTag,family=binomial,data=nounOrVerbWords))
+# summary(glm(childAttested~motherCount+binarizedTag,family=binomial,data=nounOrVerbWords))
+# summary(glm(childAttested~motherCount+binarizedTag+motherIsoCount,family=binomial,data=nounOrVerbWords))
+# summary(glm(childAttested~charLength,family=binomial,data=nounOrVerbWords))
+# summary(glm(childAttested~motherCount+charLength,family=binomial,data=nounOrVerbWords))
+# summary(glm(childAttested~motherCount+charLength+motherIsoCount,family=binomial,data=nounOrVerbWords))
+# summary(glm(childAttested~numSylls,family=binomial,data=nounOrVerbWords))
+# summary(glm(childAttested~motherCount+numSylls,family=binomial,data=nounOrVerbWords))
+# summary(glm(childAttested~motherCount+numSylls+motherIsoCount,family=binomial,data=nounOrVerbWords))
+# summary(glm(childAttested~motherCount+motherFinalNonIsoCount+charLength+numSylls+binarizedTag+motherIsoCount,family=binomial,data=nounOrVerbWords))
 
 
 # n2 <- 100

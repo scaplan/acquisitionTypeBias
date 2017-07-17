@@ -1,8 +1,14 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
+# Author: Spencer Caplan
+# Department of Linguistics, University of Pennsylvania
+# Contact: spcaplan@sas.upenn.edu
+
 import sys, math, os, subprocess, glob, nltk, re, operator
+import argparse
 import readChildes
+import syllableCount
 from string import punctuation
 from nltk import word_tokenize
 reload(sys)
@@ -12,8 +18,8 @@ from unicodedata import normalize
 
 punctuationSet = ['.', '?', '!', ':', '(.)', '+...', '+"/.', '+/.']
 morphCue = ['%mor:', '%xmor:', '%newmor:', '%trn:']
-motherSet = ['*mot:', '*gra:', '*fat:', '*ann:', '*ant:', '*nan:', '*wom:', '*car:', '*inv:', '*par:', '*mut:', '*vat:', '*oma:', '*exp:', '*car:', '*bri', '*nen:', '*mag:', '*gmt:']
-childSet = ['*chi:', '*eli:', '*gre:', '*mar:']
+motherSet = ['*mot:', '*gra:', '*fat:', '*ann:', '*ant:', '*nan:', '*wom:', '*car:', '*inv:', '*par:', '*mut:', '*vat:', '*oma:', '*exp:', '*car:', '*bri', '*nen:', '*mag:', '*gmt:', '*tmo:', '*exa:']
+childSet = ['*chi:', '*eli:', '*gre:', '*mar:', '*tai:']
 
 regex = re.compile('[^a-z]')
 
@@ -25,11 +31,15 @@ motherIsolatedWords = {}
 motherRightEdgeNonIsoWords = {}
 charlesFreqDict = {}
 
+# Key: word
+# Value: dict mapping from POS to count
+wordPOSdict = {}
+
 ### Key: Word
 ### Tuple Value: charlesChildesFrequency(0), motherTotalFreq(1), childTotalFreq(2), motherIsolatedUtterenceCount(3), motherUtteranceFinalLongCount(4)
 
 def readChaFile(dataFileName):
-	global motherWords, childWords
+	global motherWords, childWords#, readChinChar
 	with open(dataFileName, 'r') as currFile:
 		# store tuples
 		speechGroup = []
@@ -49,27 +59,32 @@ def readChaFile(dataFileName):
 			if (currLineTokens[0][0] == "*"):
 				# Needs full group to extract from
 				if (len(speechGroup) > 1):
-					cleanedSpeechLine, cleanedTagLine = cleanSpeechGroup(speechGroup)
+					cleanedSpeechLine, cleanedTagLine = readChildes.cleanSpeechGroup(speechGroup)
 					#print cleanedSpeechLine
 					#print cleanedTagLine
 					#print '\n'
 					if len(cleanedSpeechLine) > 0:
 						speaker = cleanedSpeechLine[0]
 						cleanedWords = []
-						for word in cleanedSpeechLine[1:]:
-							cleanedWord = regex.sub('', word)
-							cleanedWords.append(cleanedWord)
+						if not args.readChineseData:
+							for word in cleanedSpeechLine[1:]:
+								cleanedWord = regex.sub('', word)
+								cleanedWords.append(cleanedWord)
+						else:
+							for word in cleanedSpeechLine[1:]:
+								cleanedWords.append(word)
 
+						extractPartOfSpeechInfo(cleanedTagLine)
 						if speaker in motherSet:
 							for word in cleanedWords:
 							#	print word
-								motherWords = incrementDict(motherWords, word)
+								motherWords = readChildes.incrementDict(motherWords, word)
 							#	print motherWords[word]
 							extractMotherUtteranceStats(cleanedWords, cleanedSpeechLine)
 							#print cleanedWords
 						elif speaker in childSet:
 							for word in cleanedWords:
-								childWords = incrementDict(childWords, word)
+								childWords = readChildes.incrementDict(childWords, word)
 							#print cleanedSpeechLine
 						else:
 							missingSpeakerInfoDict[speaker] = dataFileName
@@ -80,34 +95,54 @@ def readChaFile(dataFileName):
 
 			speechGroup.append(currLine)
 
+def extractPartOfSpeechInfo(tagLine):
+	for entry in tagLine:
+		entryPieces = entry.split('|')
+		if len(entryPieces) == 2:
+			currTag = entryPieces[0]
+			currWord = entryPieces[1]
+
+			currWord, sep, tail = currWord.partition('-')
+			currWord, sep, tail = currWord.partition('&')
+			currWord, sep, tail = currWord.partition('~')
+			currWord, sep, tail = currWord.partition('=')
+
+		#	print currWord
+			if currWord in wordPOSdict:
+				currWordTagDict = wordPOSdict[currWord]
+				currWordTagDict = readChildes.incrementDict(currWordTagDict, currTag)
+			else:
+				currWordTagDict = {}
+				currWordTagDict = readChildes.incrementDict(currWordTagDict, currTag)
+				wordPOSdict[currWord] = currWordTagDict
+		#elif len(entryPieces) > 2:
+		#	print entryPieces
+
+def getMostFreqTag(wordToCheck):
+	highestTag = 'NA'
+	highestTagCount = 0
+	if wordToCheck in wordPOSdict:
+		currWordTagDict = wordPOSdict[wordToCheck]
+		for tag in currWordTagDict:
+			count = currWordTagDict[tag]
+			if count > highestTagCount:
+				highestTagCount = count
+				highestTag = tag
+	return highestTag
+
 def extractMotherUtteranceStats(words, currLine):
 	global motherRightEdgeNonIsoWords, motherIsolatedWords
+	#print words
 	if len(words) == 1:
-		motherIsolatedWords = incrementDict(motherIsolatedWords, words[0])
-	else:
+		motherIsolatedWords = readChildes.incrementDict(motherIsolatedWords, words[0])
+	elif len(words) > 1:
 		finalWord = words[-1]
 	#	if finalWord == 'the':
 	#		print currLine
 	#		print words
 	#		print finalWord
-		motherRightEdgeNonIsoWords = incrementDict(motherRightEdgeNonIsoWords, finalWord)
+		motherRightEdgeNonIsoWords = readChildes.incrementDict(motherRightEdgeNonIsoWords, finalWord)
 
-
-def incrementDict(dictToUpdate, key):
-	if key in dictToUpdate:
-		prevValue = dictToUpdate.get(key)
-		dictToUpdate[key] = prevValue + 1
-	else:
-		dictToUpdate[key] = 1
-	return dictToUpdate
-
-def updateDictWithValue(dictToUpdate, key, value):
-	if key in dictToUpdate:
-		prevValue = dictToUpdate.get(key)
-		dictToUpdate[key] = prevValue + value
-	else:
-		dictToUpdate[key] = value
-	return dictToUpdate
 
 def readChildesDirectory(sourceDir):
 	for dataFileName in glob.glob(sourceDir+"*.cha"):
@@ -133,29 +168,52 @@ def readWordList(source):
 			currTokens = currLine.split()
 			freq = int(currTokens[0])
 			cleanedWord = regex.sub('', currTokens[1])
-			updateDictWithValue(charlesFreqDict, cleanedWord, freq)
+			readChildes.updateDictWithValue(charlesFreqDict, cleanedWord, freq)
 		#	if cleanedWord == 'you':
 		#		print charlesFreqDict[cleanedWord], cleanedWord, freq
 
-def cleanSpeechGroup(speechGroup):
-	speechLine = speechGroup[0]
-	tagTokens = []
-	tagTokensNoPunc = []
-	for entry in speechGroup:
-		entryTokens = entry.split()
-		if (entryTokens[0] in morphCue):
-			tagTokens = entryTokens
-			tagTokensNoPunc = [x for x in tagTokens if x not in punctuationSet]
+def cleanDict(dictToClean, blacklist):
+	for word in blacklist:
+		if word in dictToClean:
+			try:
+				del dictToClean[word]
+			except KeyError:
+				pass
+	return dictToClean
 
-	currLineTokens = speechLine.split()
-	onlyAlphaNumerics = []
-	for token in currLineTokens:
-		valid = re.search('[a-z]', token) is not None
-		if valid:
-			onlyAlphaNumerics.append(token)
+def safeDivide(numerator, denominator):
+	if denominator > 0:
+		return (numerator / (denominator * 1.0))
+	else:
+		return 0.0
 
-	# print onlyAlphaNumerics
-	return onlyAlphaNumerics, tagTokensNoPunc
+
+def readInCDI(inputFileName):
+	global childWords
+	with open(inputFileName,'r') as inputFile:
+		for currLine in inputFile:
+			if not currLine:
+				continue
+			if currLine[0] == '@':
+				continue
+			if currLine == '':
+				continue
+			currLine = currLine.rstrip().lower()
+			currLineTokens = currLine.split()
+
+			if len(currLineTokens) == 0:
+				continue
+			print currLineTokens
+			activeOrPassive = currLineTokens[0]
+			#print activeOrPassive
+			if activeOrPassive == 'speak' or activeOrPassive == 'understand':
+				for word in currLineTokens[1:]:
+					print word
+					childWords = readChildes.incrementDict(childWords, word)
+
+
+
+
 
 def printOutputWithGlobalFreq(outputFile, globalTotalCorpusCount):
 	global childTotalCorpusCount, motherTotalCorpusCount, motherTotalCorpusCount, motherTotalIsoCount, motherTotalFinalNonIso
@@ -193,7 +251,6 @@ def printOutputWithGlobalFreq(outputFile, globalTotalCorpusCount):
    			childFreqProb = childCount / (1.0 * childTotalCorpusCount)
    		#	childFreqLogProb = math.log(childFreqProb)
    			motherFreqProb = motherCount / (1.0 * motherTotalCorpusCount)
-   			motherFreqLogProb = math.log(motherFreqProb)
    			motherIsoProb = motherIsoCount / (1.0 * motherTotalIsoCount)
    		#	motherIsoLogProb = math.log(motherIsoProb)
    			motherFinalNonIsoProb = motherFinalNonIsoCount / (1.0 * motherTotalFinalNonIso)
@@ -204,12 +261,26 @@ def printOutputWithGlobalFreq(outputFile, globalTotalCorpusCount):
 def printOutputNoGlobalInfo(outputFile):
 	global childTotalCorpusCount, motherTotalCorpusCount, motherTotalCorpusCount, motherTotalIsoCount, motherTotalFinalNonIso
 
+	### Add: POS
 	wordCount = 0
-	outputFile.write('word childAttested childCount childFreqProb motherCount motherFreqProb motherIsoCount motherIsoProb motherFinalNonIsoCount motherFinalNonIsoProb\n')
+	#outputFile.write('word POS binarizedTag charLength numSylls childAttested childCount childFreqProb motherCount motherBucket motherFreqProb motherIsoCount motherIsoBucket motherIsoProb motherFinalNonIsoCount motherFinalBucket motherFinalNonIsoProb\n')
+	outputFile.write('word POS nounStatus verbStatus charLength numSylls childAttested childCount motherCount motherBucket motherIsoCount motherIsoBucket motherFinalNonIsoCount motherFinalBucket\n')
+
 	#for word in motherWords.iteritems():
 	for entry in motherWords.iteritems():
 		word = entry[0]
 		motherCount = entry[1]
+
+		partOfSpeech = getMostFreqTag(word)
+		binarizedTag = binarizePOS(partOfSpeech)
+		nounStatus = 0
+		verbStatus = 0
+		if binarizedTag == 'noun':
+			nounStatus = 1
+		if binarizedTag == 'verb':
+			verbStatus = 1
+		wordLength = len(word)
+		numSylls = syllableCount.countVowelClusters(word)
 
 		motherIsoCount = 0
 		motherFinalNonIsoCount = 0
@@ -224,46 +295,88 @@ def printOutputNoGlobalInfo(outputFile):
    			childCount = childWords[word]
    			childAttested = 1
 
+   		motherTotalBucket = convertFreqCountToBucket(motherCount)
+   		motherIsoBucket = convertFreqCountToBucket(motherIsoCount)
+   		motherFinalBucket = convertFreqCountToBucket(motherFinalNonIsoCount)
+
+
 		## elements produced by mother
 		wordCount += 1
 		## Convert these to proportions as well
-		childFreqProb = childCount / (1.0 * childTotalCorpusCount)
-	#	childFreqLogProb = math.log(childFreqProb)
-		motherFreqProb = motherCount / (1.0 * motherTotalCorpusCount)
-		motherFreqLogProb = math.log(motherFreqProb)
-		motherIsoProb = motherIsoCount / (1.0 * motherTotalIsoCount)
-	#	motherIsoLogProb = math.log(motherIsoProb)
-		motherFinalNonIsoProb = motherFinalNonIsoCount / (1.0 * motherTotalFinalNonIso)
-	#	motherFinalNonIsoLogProb = math.log(motherFinalNonIsoProb)
+		childFreqProb = safeDivide(childCount, childTotalCorpusCount)
+		motherFreqProb = safeDivide(motherCount, motherTotalCorpusCount)
+		motherIsoProb = safeDivide(motherIsoCount, motherTotalIsoCount)
+		motherFinalNonIsoProb = safeDivide(motherFinalNonIsoCount, motherTotalFinalNonIso)
 
-		outputFile.write(word + " " + str(childAttested) + " " + str(childCount) + " " + str(childFreqProb) + " " + str(motherCount) + " " + str(motherFreqProb) + " " + str(motherIsoCount) + " " + str(motherIsoProb) + " " + str(motherFinalNonIsoCount) + " " + str(motherFinalNonIsoProb) + "\n")
+		#outputFile.write(word + " " + partOfSpeech + " " + binarizedTag + " " + str(wordLength) + " " + str(numSylls) + " " + str(childAttested) + " " + str(childCount) + " " + str(childFreqProb) + " " + str(motherCount) + " " + motherTotalBucket + " " + str(motherFreqProb) + " " + str(motherIsoCount) + " " + motherIsoBucket + " " + str(motherIsoProb) + " " + str(motherFinalNonIsoCount) + " " + motherFinalBucket + " " + str(motherFinalNonIsoProb) + "\n")
+		outputFile.write(word + " " + partOfSpeech + " " + str(nounStatus) + " " + str(verbStatus) + " " + str(wordLength) + " " + str(numSylls) + " " + str(childAttested) + " " + str(childCount) + " " + str(motherCount) + " " + motherTotalBucket + " " + str(motherIsoCount) + " " + motherIsoBucket + " " + str(motherFinalNonIsoCount) + " " + motherFinalBucket + "\n")
+
+
+
+def binarizePOS(currPOS):
+	if currPOS == 'n':
+		return 'noun'
+	elif currPOS == 'v':
+		return 'verb'
+	else:
+		return 'other'
+
+def convertFreqCountToBucket(count):
+	if count == 0:
+		return 'none'
+	elif count < 4:
+		return 'rare'
+	else:
+		return 'frequent'
 
 ##
 ## Main method block
 ##
 if __name__=="__main__":
-	if (len(sys.argv) < 3):
-		print('incorrect number of arguments')
-		exit(0)
 
-	directoryName = sys.argv[1]
-	outputFileName = sys.argv[2]
+	parser = argparse.ArgumentParser(description = "Dyad-Extraction for Studying Early Vocabulary Development")
 
-	searchDirectory = os.getcwd() + '/' + directoryName
+	parser.add_argument("inputDir", help="input directory containing corpus of child/care-giver dyad")
+	parser.add_argument("outputFile", help="output filename", type=argparse.FileType('w'))
+	parser.add_argument("-cdi", "--cdiFile", help="read in cdi file if provided", type=str, nargs='?', default='')
+	parser.add_argument("-ch", "--readChineseData", help="boolean for reading in Chinese data rather than Latin script", type=bool, nargs='?', default=False)
+	parser.add_argument("-f", "--globalFreqFile", help="read in global frequency file if provided", type=str, nargs='?', default='')
+
+	args = parser.parse_args()
+	print(args)
+	if not args.inputDir:
+		raise Exception("Need pointer to input directory!")
+	if not args.outputFile:
+		raise Exception("Need to specify output source!")
+
+	if args.cdiFile:
+		print 'reading CDI data'
+		readInCDI(args.cdiFile)
+
+	if args.readChineseData:
+		print 'reading Chinese data'
+
+	searchDirectory = os.getcwd() + '/' + args.inputDir
 	iterateSubDir(searchDirectory)
+
+	blacklist = ['xxx', 'yyy']
+	childWords = cleanDict(childWords, blacklist)
+	motherWords = cleanDict(motherWords, blacklist)
+	motherIsolatedWords = cleanDict(motherIsolatedWords, blacklist)
+	motherRightEdgeNonIsoWords = cleanDict(motherRightEdgeNonIsoWords, blacklist)
+
 	childTotalCorpusCount = sum(childWords.values())
 	motherTotalCorpusCount = sum(motherWords.values())
 	motherTotalIsoCount = sum(motherIsolatedWords.values())
 	motherTotalFinalNonIso = sum(motherRightEdgeNonIsoWords.values())
 
-	with open(outputFileName,'w') as outputFile:
-		if (len(sys.argv) > 3):
-			print('Running with global frequency list')
-			charlesFreqFileName = sys.argv[3]
-			readWordList(charlesFreqFileName)
-			charlesTotalCorpusCount = sum(charlesFreqDict.values())
-			printOutputWithGlobalFreq(outputFile, charlesTotalCorpusCount)
-		elif (len(sys.argv) == 3):
-			print('Running without global frequency list')
-			printOutputNoGlobalInfo(outputFile)
-	outputFile.close()
+
+	if args.globalFreqFile:
+		readWordList(args.globalFreqFile)
+		charlesTotalCorpusCount = sum(charlesFreqDict.values())
+		printOutputWithGlobalFreq(args.outputFile, charlesTotalCorpusCount)
+	else:
+		print('Running without global frequency list')
+		printOutputNoGlobalInfo(args.outputFile)
+
+	args.outputFile.close()
